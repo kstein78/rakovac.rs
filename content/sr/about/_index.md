@@ -1,0 +1,34 @@
+---
+title: O sajtu
+linkTitle: O sajtu
+weight: 95
+kicker: rakovac.rs
+lead: rakovac.rs je nezavisan, nezvanični vodič kroz selo Rakovac na Fruškoj gori, koji prave ljudi koji ovde žive.
+tile: Ko smo, izvori, autori fotografija
+---
+
+## Ko stoji iza sajta
+
+Sajt je volonterski projekat meštana Rakovca. **Nije** zvanični sajt opštine Beočin, mesne zajednice, manastira Rakovac niti Nacionalnog parka Fruška gora.
+
+## Kako proveravamo činjenice
+
+Svaka činjenica potiče iz objavljenog izvora, sa natpisa koji smo fotografisali ili od imenovanog lokalnog svedoka. Vodimo dnevnik činjenica sa izvorom svake tvrdnje. Gde se izvori razilaze, to piše na stranici. Podaci o firmama označeni su kao **„još nisu potvrđeni od strane vlasnika“** dok ih vlasnik ne proveri.
+
+Pronašli ste grešku? Pišite nam na **hello@rakovac.rs**.
+
+## Lokalno novinarstvo
+
+Snimamo razgovore sa meštanima: sećanja na selo, manastir, kamenolom i ratne godine. Svaki razgovor objavljujemo samo uz saglasnost sagovornika. Vidi [Ljudi]({{< relref "people" >}}).
+
+## Privatnost
+
+Sajt ne koristi reklame niti kolačiće za praćenje. Video-snimci se učitavaju sa YouTube-a tek kada pritisnete dugme za reprodukciju. Mape učitavaju pločice sa servera OpenStreetMap.
+
+## Licenca
+
+Tekstovi na sajtu objavljeni su pod licencom [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/): možete ih koristiti, i u komercijalne svrhe, uz navođenje **rakovac.rs** i link. Naše fotografije, video-snimci i razgovori **nisu** obuhvaćeni: sva prava zadržana. Fotografije drugih autora zadržavaju svoje licence, navedene ispod. Izvorni kod sajta je pod MIT licencom.
+
+## Jezici
+
+Sajt se priprema na pet jezika: srpskom, engleskom, ruskom, nemačkom i mađarskom.

@@ -3,9 +3,10 @@
 Unofficial visitor portal of the village of Rakovac (Beočin municipality, Fruška Gora, Serbia).
 Static site built with [Hugo](https://gohugo.io/) (extended, v0.139.4), deployed by GitHub Actions to a Hetzner server.
 
-- **Draft status (2026-09-26):** English only, all pages drafted. Photos are borrowed open-licence
+- **Draft status (2026-09-26):** English, Serbian (Latin) and Russian live, all pages drafted. Photos are borrowed open-licence
   images marked **TEMP PHOTO**. Yellow **Editor's note** boxes list what still has to be checked or filmed.
-- **Languages ready:** en, sr (Latin), ru, de, hu. UI strings for all five are in `i18n/`.
+- **Languages:** en, sr (Latin) and ru are live; de and hu are configured (UI strings in `i18n/`) and switched off until their content exists.
+- Translations of `content/ru` and `content/sr` were drafted by Claude: have native speakers review them, Serbian especially.
 
 ## Run locally
 

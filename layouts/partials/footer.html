@@ -1,16 +1,16 @@
 <footer class="site-footer">
   <div class="wrap footer-grid">
     <div>
-      <p class="footer-brand">Rakovac</p>
+      <p class="footer-brand">{{ i18n "brand_name" }}</p>
       <p>{{ i18n "unofficial_note" }}</p>
       <p class="muted small">{{ i18n "footer_region" }}</p>
     </div>
-    <nav aria-label="Sections">
+    <nav aria-label="{{ i18n "aria_sections" }}">
       <ul class="footer-links">
         {{ range site.Data.nav.primary }}{{ with site.GetPage .path }}<li><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></li>{{ end }}{{ end }}
       </ul>
     </nav>
-    <nav aria-label="More">
+    <nav aria-label="{{ i18n "aria_more" }}">
       <ul class="footer-links">
         {{ range site.Data.nav.secondary }}{{ with site.GetPage .path }}<li><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></li>{{ end }}{{ end }}
       </ul>

@@ -11,5 +11,5 @@
 {{ end }}{{ end }}{{ end }}{{ end }}
 {{ $cats := dict }}
 {{ range $k, $v := site.Data.nav.categories }}{{ $cats = merge $cats (dict $k (dict "color" $v.color "label" (i18n $v.label))) }}{{ end }}
-<div class="bigmap {{ .class }}" data-map='{{ dict "points" $points "cats" $cats | jsonify }}' role="region" aria-label="Map"></div>
+<div class="bigmap {{ .class }}" data-map='{{ dict "points" $points "cats" $cats | jsonify }}' role="region" aria-label="{{ i18n "nav_map" }}"></div>
 <p class="small muted">{{ i18n "map_hint" }}</p>

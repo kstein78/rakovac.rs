@@ -1,7 +1,7 @@
 {{/* Fact box: coordinates, altitude, address, phone, website, walking data. */}}
 {{ $p := .Params }}
 {{ if or $p.coords $p.address $p.phone $p.website $p.facts }}
-<aside class="factbox" aria-label="Facts">
+<aside class="factbox" aria-label="{{ i18n "aria_facts" }}">
   <dl>
     {{ with $p.facts }}
       {{ with .distance }}<div><dt>{{ i18n "distance" }}</dt><dd>{{ . }}</dd></div>{{ end }}

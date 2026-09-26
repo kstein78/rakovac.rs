@@ -4,12 +4,12 @@ enableRobotsTXT = true
 timeZone = "Europe/Belgrade"
 
 # --- Languages -------------------------------------------------------------
-# All five languages are configured. Only English has content in this draft.
+# All five languages are configured. English, Serbian (Latin) and Russian are live; German and Hungarian are prepared.
 # To switch a language on: translate content/<lang>/, then remove it from
 # disableLanguages below. UI strings for all five already live in i18n/.
 defaultContentLanguage = "en"
 defaultContentLanguageInSubdir = true
-disableLanguages = ["sr", "ru", "de", "hu"]
+disableLanguages = ["de", "hu"]
 
 [languages]
   [languages.en]

@@ -1,8 +1,8 @@
 <header class="page-head{{ if .Params.photo }} with-photo{{ end }}">
   <div class="wrap">
     {{ if not .IsHome }}
-    <nav class="crumbs" aria-label="Breadcrumb">
-      <a href="{{ site.Home.RelPermalink }}">Rakovac</a>
+    <nav class="crumbs" aria-label="{{ i18n "aria_breadcrumb" }}">
+      <a href="{{ site.Home.RelPermalink }}">{{ i18n "brand_name" }}</a>
       {{ with .Parent }}{{ if not .IsHome }} / <a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a>{{ end }}{{ end }}
     </nav>
     {{ end }}
