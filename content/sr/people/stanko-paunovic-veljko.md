@@ -4,7 +4,7 @@ group: historical
 sort_name: Paunovic Stanko
 years: 1907–1942
 summary: Partizanski komesar i narodni heroj, poginuo na Stručici u Rakovcu u avgustu 1942.
-weight: 19
+weight: 20
 ---
 
 Rođen 16. oktobra 1907. u Brestovcu kod Negotina; metalski radnik i komunistički aktivista od mladosti. Osuđen je 1929. na 16 godina robije; 22. avgusta 1941. pobegao je iz sremskomitrovačkog zatvora i postao politički komesar štaba partizanskih odreda Srema. Nadimak je uzeo po Hajduk-Veljku.
