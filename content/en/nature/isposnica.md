@@ -3,7 +3,7 @@ title: Hermitage of Isaija Parivodski
 kicker: Isposnica · 18th-century rock hermitage
 weight: 2
 category: heritage
-summary: A tiny monk's cell cut into a limestone cliff deep in the forest, where a hieromonk of Rakovac lived in 1771. The only rock hermitage in Vojvodina and a protected cultural monument.
+summary: A tiny monk's cell cut into a limestone cliff deep in the forest, named after Isaija Parivodić, a hieromonk of Rakovac who carved his name here in 1771. The only rock hermitage in Vojvodina.
 lead: A low doorway and one small window cut into pale limestone, in forest so thick that the place has survived almost untouched. Monks from Rakovac Monastery came here to live in solitude and prayer.
 coords:
 - 45.181138
@@ -22,11 +22,15 @@ photo: isposnica-inscription-detail
 
 An *isposnica* is a hermitage: a place where a monk withdrew from the monastery to live alone, fast and pray. This one is carved into soft, light limestone on a small plateau below a cliff. The entrance is set slightly to the side and is less than 1.5 m high. A narrow window lets in a little light.
 
-It is the **only hermitage of its kind in Vojvodina** and is protected as a cultural monument. It is believed to have been made by monks of Rakovac Monastery in the 18th century.
+It is the **only hermitage of its kind in Vojvodina**. Tourist guides often call it a protected cultural monument, but we have not found it in the official register, and one detailed account says it is not protected. It is believed to have been made by monks of Rakovac Monastery in the 18th century.
 
 ## The inscriptions
 
-The rock around the entrance is covered with names and dates carved over more than two centuries, many in old church script, alongside plenty of modern signatures. The most carefully cut inscription tells us who the hermitage is named after:
+The rock around the entrance is covered with names and dates carved over more than two centuries, many in old church script, alongside plenty of modern signatures.
+
+Published descriptions agree that the oldest dated inscription belongs to the man the hermitage is named after: **Isaija Parivodić, hieromonk of Rakovac**, who carved it in **1771** and wrote that he stayed at the cave "at the time of his infirmity". He is considered the first monk of Rakovac to live here. One tourist guide gives the year as 1711; the other descriptions read 1771. He signed himself Parivodić; guides and signposts call him Parivodski.
+
+This is how the text reads on one of our photographs (the end of the surname is hard to make out):
 
 > При пещрѣ сей во времѧ<br>
 > немощи своеа въ мцъ<br>
@@ -36,16 +40,18 @@ The rock around the entrance is covered with names and dates carved over more th
 
 *"At this cave, at the time of his infirmity, in the month of May 1771, stayed Isaija Parivod…, hieromonk of Rakovac."*
 
-So the hermit was a **hieromonk of Rakovac Monastery** who withdrew here while he was ill, in **May 1771**. Published sources give the date as 1711 or 1751, but the stone reads 1771. The end of his surname is hard to make out; the literature calls him Isaija Parivodski.
-
-{{< photo key="isposnica-inscription-1771" class="inline-tall" caption="The inscription of May 1771 (centre) among later names and dates." >}}
+{{< photo key="isposnica-inscription-1771" class="inline-tall" caption="Inscriptions beside the entrance: in the centre, the text of 1771 signed by Isaija, among later names and dates." >}}
 
 Around it, visitors kept adding their own marks: a name of 1830 in its own niche under a carved cross, what appears to be a verse dated 1847, contrasting the strife of the town with the peace of the wilderness, and names from the 19th and 20th centuries right up to our time.
 
 <div class="photo-pair">{{< photo key="isposnica-inscription-1830" >}}{{< photo key="isposnica-inscriptions-entrance" >}}</div>
 
+## Who was Isaija
 
-{{< todo >}}Check the end of the surname on site in low, raking light (Parivodić? Parivodski?), and transcribe the 1847 verse in full.{{< /todo >}}
+Isaija was a monk and scribe. In **1767** he made the copy of Abbot Teofan's monastery chronicle that preserves the founding legend of Rakovac. The Eparchy of Srem also names him as a copyist of a *Srbljak*, the book of church services to Serbian saints, and writes that he rests at the hermitage, near the former monks' cemetery, which was nationalised after the Second World War. More in [Isaija Parivodski]({{< relref "people/isaija-parivodski" >}}).
+
+
+{{< todo >}}Check the end of the surname on site in low, raking light (sources: Parivodić), and transcribe the 1847 verse in full. Ask the monastery where exactly Isaija's grave is. Check protection status with the Provincial Institute for the Protection of Cultural Monuments (Petrovaradin).{{< /todo >}}
 
 ## How to get there
 

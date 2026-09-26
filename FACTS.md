@@ -26,8 +26,14 @@ Business contact data (addresses, phones, coordinates) come from Google Maps lis
 | Warm air from opening in ground | B | alticlub.org.rs |
 | Legend "Veliki Sremac Baća" | L | fruska-gora.com (Brvnare Platan) |
 | Sign "Beli Majdan" ~100 m from monastery; steep track 5 min / 600 m 10 min | A (before/after gate ?) | visitdistrikt.rs 2021; planine.net 2021 |
-| Hermitage: only one in Vojvodina, protected monument, 18th c., monks of Rakovac | A | visitdistrikt.rs; fruskac.net; mitrovica.info |
-| Hermitage inscription: "При пещрѣ сей во времѧ немощи своеа въ мцъ маій 1771го года пребивалъ Исаіа Париводи… іеромонахъ раковачкій" → May 1771, hieromonk of Rakovac, during illness | C | Kosta's photo, 26 Sep 2026 (sources said 1711 / 1751 — superseded); surname ending unclear |
+| Hermitage: only one in Vojvodina, 18th c., monks of Rakovac | A | visitdistrikt.rs; fruskac.net; mitrovica.info |
+| Oldest dated inscription at the hermitage: 1771, signed by Isaija Parivodić, hieromonk of Rakovac, "u vreme nemoći svoje"; first Rakovac monk to live there | A | lepotesrbije.alo.rs ("koliko smo uspeli da vidimo … 1771 … jeromonah rakovački Isaia Parivodič"); perpetuummobile.blog 2020 ("1771 … najstariji zapis", signs Parivodić); ozon.rs 2025 ("prema natpisu iz 1771"). Kosta's photo (26 Sep 2026) shows the same text — illustration only |
+| Year 1711 for Isaija's inscription | ? | visitdistrikt.rs 2021 only; the other descriptions read 1771 — likely misreading. (1751 = cemetery chapel, not the hermitage) |
+| Name: signed Parivodić; "Parivodski" is the popular form; eparchy writes "Isaija (Parivoda)" | B | perpetuummobile.blog; zvoncara.com comment; eparhijasremska.rs |
+| Isaija copied Abbot Teofan's chronicle in 1767 (chronicle with the founding legend) | B | ozon.rs 2024 "Fruškogorski manastiri: Rakovac"; lepotesrbije.alo.rs (same wording — possibly one source) |
+| Isaija copyist of a "Srbljak"; rests "u isposnici, kraj nekadašnjeg monaškog groblja" (nationalised after WWII) | B | eparhijasremska.rs "Раковац" |
+| Hermitage protected as a cultural monument | ? | Yes: visitdistrikt.rs, fruskac.net, ozon.rs 2025, mitrovica.info. No: perpetuummobile.blog 2020 ("uprkos rasprostranjenom verovanju, nije zaštićena"). SANU register unreachable 26 Sep 2026 — ask Pokrajinski zavod |
+| Founding legend written down: 1704 (en.wikipedia) vs 1709 in Abbot Teofan's chronicle (ozon.rs 2024, lepotesrbije) | ? | site still says 1704 — to settle |
 | Entrance < 1.5 m, small window | B | zvoncara.com |
 | ~40 min from Beli Majdan; path from Ledinci; mosquitoes/bees | A | mitrovica.info; nsuzivo.rs |
 | Hermitage coords 45.181138, 19.790564, 293 m; no camping/fire | B | fruskac.net |

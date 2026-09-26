@@ -2,9 +2,15 @@
 title: Isaija Parivodski
 group: historical
 sort_name: Parivodski Isaija
-years: '1771.'
-summary: Jeromonah manastira Rakovac koji je boravio u isposnici tokom bolesti u maju 1771; isposnica nosi njegovo ime.
+years: "pominje se 1767–1771."
+summary: "Jeromonah i prepisivač manastira Rakovac. Prepisao je manastirski letopis 1767, a 1771. uklesao najstariji datirani natpis kod isposnice u steni, koja nosi njegovo ime."
 weight: 11
 ---
 
-Isposnica u šumi istočno od Belog majdana nosi njegovo ime: prema natpisu pored ulaza, bio je **jeromonah manastira Rakovac** i boravio je kod pećine tokom bolesti **u maju 1771.** (objavljeni izvori navode 1711. ili 1751; na našoj fotografiji kamena piše 1771). Kraj prezimena na kamenu se teško čita. O njemu se inače malo zna. Vidi [Isposnica Isaije Parivodskog]({{< relref "nature/isposnica" >}}).
+Isposnica u šumi istočno od Belog majdana nosi njegovo ime. Sam se potpisivao kao **Isaija Parivodić, jeromonah rakovački**; vodiči ga zovu Parivodski.
+
+- **1767:** prepisao je letopis igumana Teofana, tekst u kome je sačuvana legenda o osnivanju manastira.
+- **1771:** objavljeni opisi isposnice čitaju njegov natpis pored ulaza kao 1771: boravio je kod pećine „u vreme nemoći svoje“. Smatra se prvim rakovačkim monahom koji je tamo živeo.
+- Eparhija sremska ga navodi kao prepisivača *Srbljaka* (knjige službi srpskim svetiteljima) i piše da počiva u isposnici, kraj nekadašnjeg monaškog groblja.
+
+Godine njegovog rođenja i smrti nisu poznate. Vidi [Isposnica Isaije Parivodskog]({{< relref "nature/isposnica" >}}).
