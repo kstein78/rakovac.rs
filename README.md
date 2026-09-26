@@ -80,7 +80,7 @@ remove `draft: true`, fill in. Publish only with the person's written consent.
 ### Replace a temporary photo
 
 1. Put your photo in `static/img/` (JPEG, 1600–2000 px wide, under ~400 KB).
-2. In `data/photos.yaml` change `src: /img/your-file.jpg`, `author`, `license`, and set `temp: false`.
+2. In `data/photos.yaml` change `src: img/your-file.jpg` (no leading slash), `author`, `license`, and set `temp: false`.
 
 Credits are printed under every photo and collected on the *About this site* page.
 

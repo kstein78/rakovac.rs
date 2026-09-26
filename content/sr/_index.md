@@ -1,16 +1,17 @@
 ---
 title: Rakovac
+slogan: Otkrij svoj Rakovac
 photo: monastery-2026-1
-lead: Rakovac leži tamo gde se sremska ravnica susreće sa šumama Nacionalnog parka Fruška gora, 13 km od Novog Sada. Ovde su manastir prvi put pomenut 1545. godine, stari kamenolom u koji se može ući, jedina isposnica u steni u Vojvodini i šumske staze koje vode do vodopada.
+lead: 'Više od 7.000 godina istorije u jednoj dolini na severnoj padini Fruške gore, 13 km od Novog Sada. Rakovac je odlično mesto da upoznate prirodu Fruške gore i uronite u istoriju: neobična prirodna mesta i arheološki spomenici, stari manastir, šumske staze do vodopada, a na kraju dana domaća kuhinja i vino.'
 keyfacts:
+- value: 7.000+
+  label: godina istorije, od neolita do danas
 - value: 13 km
   label: od centra Novog Sada
 - value: '1545'
   label: prvi pomen manastira
 - value: '2.137'
   label: stanovnika (popis 2022)
-- value: '7.000'
-  label: godina naselja na Gradini
 featured_title: Počnite ovde
 featured:
 - nature/beli-majdan
@@ -31,6 +32,10 @@ sections_title: Istražite Rakovac
 ## Jedno selo, dva dela
 
 Selo ima dva dela. **Stari Rakovac** je gornji deo doline oko manastira, na ivici šume. **Novi Rakovac** je nastao posle Drugog svetskog rata dole, uz glavni put, gde su prodavnice, pošta i autobuska stajališta. [Zašto postoje dva Rakovca]({{< relref "history/village" >}}).
+
+## U blizini
+
+Na kratkoj vožnji: banja **Vrdnik** sa termalnim kompleksom Fruške terme, oko 12 minuta preko brda, i tirkizno **Ledinačko jezero**, oko 15 minuta (trenutno zatvoreno za posetioce). [Okolina Rakovca]({{< relref "nearby" >}}).
 
 ## Kada doći
 

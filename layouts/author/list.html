@@ -1,0 +1,9 @@
+{{ define "main" }}
+{{ partial "page-head.html" . }}
+<div class="wrap page-body has-aside author-body">
+  <div class="prose">{{ .Content }}</div>
+  <div class="aside">
+    {{ with .Params.portrait }}{{ partial "photo.html" (dict "key" . "class" "portrait" "eager" true) }}{{ end }}
+  </div>
+</div>
+{{ end }}

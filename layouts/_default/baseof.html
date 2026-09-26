@@ -15,7 +15,7 @@
   <meta property="og:description" content="{{ $desc | plainify }}">
   <meta property="og:url" content="{{ .Permalink }}">
   <meta property="og:type" content="website">
-  {{ with .Params.photo }}{{ with index site.Data.photos . }}<meta property="og:image" content="{{ .src }}">{{ end }}{{ end }}
+  {{ with (.Params.photo | default .Params.portrait) }}{{ with index site.Data.photos . }}<meta property="og:image" content="{{ if hasPrefix .src "http" }}{{ .src }}{{ else }}{{ .src | absURL }}{{ end }}">{{ end }}{{ end }}
   <meta name="theme-color" content="#1f3a2e">
   <link rel="icon" href="{{ "favicon.svg" | absURL }}" type="image/svg+xml">
   {{ $css := resources.Get "css/main.css" | minify | fingerprint }}

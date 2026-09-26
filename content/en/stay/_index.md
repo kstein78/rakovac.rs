@@ -9,7 +9,7 @@ photo: street-manastirska
 list_title: Places to stay
 ---
 
-Most places listed here are holiday houses or villas rented as a whole, which suits families and groups. Rakovac is a good base for quiet days close to the forest trails, the monastery and the winery, with Novi Sad close enough for a day in town.
+Most places listed here are holiday houses or villas rented as a whole, which suits families and groups. Rakovac is a good base for quiet days close to the forest trails, the monastery and the winery, with Novi Sad close enough for a day in town and the thermal pools of [Vrdnik]({{< relref "nearby/vrdnik-fruske-terme" >}}) about 12 minutes away.
 
 {{< note title="About these listings" >}}The list below is a first draft, compiled from public map listings in September 2026. None of the owners have confirmed their details yet. Please contact the host directly to book: rakovac.rs does not take bookings or commissions.{{< /note >}}
 

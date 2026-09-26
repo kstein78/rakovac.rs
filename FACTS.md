@@ -88,3 +88,10 @@ Kamenolom memorial: coords 45.18103, 19.77137; 500 m from monastery — fruskac.
 |---|---|---|
 | MOL BS DODO Rakovac filling station, coords 45.2101042, 19.7774459 | A | Kosta (Google Maps link); Google Places |
 | Author page: biography, family, contacts | C | Kosta, 2026-09-26 (published at his request) |
+| Lake Ledinci: formed ~1999 in abandoned quarry; ~95 m deep; guard, no access to water (Aug 2026) | B | b92.net 6 Aug 2026 |
+| Lake Ledinci: visits banned May 2025 by "Kamenolom Rakovac" (reclamation works) | B | mojnovisad.com 16 May 2025 |
+| Lake Ledinci: 2006 rockfall injured swimmers; resort 2001–2006 | B | en.wikipedia "Lake Ledinci" |
+| Fruške Terme: hotel 2018–2020, outdoor pools 2021–2022; 12 pools, 2,509 m², 28–33 °C; ~500 overnight / 800 day guests; Promont Group; DBA architects | B | gradnja.rs |
+| Konak Stari Orah: Fruškogorska 17, traditional cuisine, ~100 seats incl. garden | B | vojvodina.travel; Google Maps listing (open, Sep 2026) |
+| Drive times: Vrdnik ~12 min, Lake Ledinci ~15 min; trail directions east (Beli Majdan, hermitage) / west (waterfall, lookouts) | C | Kosta |
+| Author photo | C | Kosta, private archive |

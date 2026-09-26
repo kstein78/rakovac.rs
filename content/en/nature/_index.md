@@ -1,12 +1,12 @@
 ---
-title: "Nature around Rakovac"
-linkTitle: "Nature"
+title: Nature around Rakovac
+linkTitle: Nature
 weight: 10
-kicker: "Fruška Gora National Park"
-lead: "Rakovac sits on the northern edge of Fruška Gora National Park. From the monastery, forest paths lead within minutes to an old stone quarry you can walk into, to an 18th-century hermitage cut into the rock, and on to a waterfall and viewpoints over the Danube plain."
-tile: "Quarry hall, rock hermitage, waterfall, viewpoints, springs"
+kicker: Fruška Gora National Park
+lead: Rakovac sits on the northern edge of Fruška Gora National Park. From the road by the monastery, forest paths lead in two directions. Eastwards, towards Ledinci, they reach an old stone quarry you can walk into and an 18th-century hermitage cut into the rock. Westwards, towards Dumbovo and Beočin, they lead to a waterfall and to viewpoints over the Danube plain.
+tile: Quarry hall, rock hermitage, waterfall, viewpoints, springs
 photo: forest-spring
-list_title: "Places to visit"
+list_title: Places to visit
 ---
 
 Fruška Gora is a low, isolated mountain rising from the Pannonian plain. It was the first national park in Serbia, and its highest point, Crveni čot, reaches 538 m. The northern slopes above Rakovac are covered in deciduous forest; lower down are orchards, vineyards and weekend houses.

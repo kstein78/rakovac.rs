@@ -6,6 +6,7 @@ kicker: "Konstantin (Kosta) Stein"
 lead: "I have lived in Rakovac since 2023 and loved it from the very first day. Now it is time to share that love with the world."
 tile: "Who makes this site, and how to reach him"
 hide_children: true
+portrait: author-kosta
 ---
 
 I am Konstantin Stein, Kosta to my neighbours: an entrepreneur and media manager. Before moving to Serbia I led large digital media projects. More about my work is on my personal website, [stein-1.com](https://stein-1.com).

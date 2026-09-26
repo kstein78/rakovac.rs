@@ -3,6 +3,7 @@
 primary:
   - { path: nature,     label: nav_nature }
   - { path: routes,     label: nav_routes }
+  - { path: nearby,     label: nav_nearby }
   - { path: monastery,  label: nav_monastery }
   - { path: history,    label: nav_history }
   - { path: stay,       label: nav_stay }
@@ -30,3 +31,4 @@ categories:
   business: { label: cat_business, color: "#3d4a57" }
   services: { label: cat_services, color: "#b3261e" }
   kids:     { label: cat_kids,     color: "#1f8a86" }
+  nearby:   { label: cat_nearby,   color: "#5c4a8a" }

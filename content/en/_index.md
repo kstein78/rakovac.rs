@@ -1,16 +1,17 @@
 ---
 title: Rakovac
+slogan: Discover your Rakovac
 photo: monastery-2026-1
-lead: Rakovac lies where the plain of Srem meets the forests of Fruška Gora National Park, 13 km from Novi Sad. It has a monastery first recorded in 1545, an old stone quarry you can walk into, the only rock hermitage in Vojvodina, and forest trails that lead to a waterfall.
+lead: 'More than 7,000 years of history in one valley on the northern slope of Fruška Gora, 13 km from Novi Sad. Rakovac is a great place to get to know the mountain''s nature and dive into its past: remarkable natural sites and archaeological monuments, an old monastery, forest trails to a waterfall, and local food and wine at the end of the day.'
 keyfacts:
+- value: 7,000+
+  label: years of history, from the Neolithic to today
 - value: 13 km
   label: from the centre of Novi Sad
 - value: '1545'
   label: first record of the monastery
 - value: 2,137
   label: residents (2022 census)
-- value: 7,000
-  label: years of settlement at Gradina
 featured_title: Start here
 featured:
 - nature/beli-majdan
@@ -31,6 +32,10 @@ sections_title: Explore Rakovac
 ## Two parts of one village
 
 The village has two parts. **Stari Rakovac** ("Old Rakovac") is the upper valley around the monastery, at the edge of the forest. **Novi Rakovac** ("New Rakovac") grew after the Second World War down by the main road, where the shops, the post office and the bus stops are. [Why there are two Rakovacs]({{< relref "history/village" >}}).
+
+## Nearby
+
+Within a short drive: the spa village of **Vrdnik** with the Fruške Terme thermal resort, about 12 minutes over the hill, and the turquoise **Lake Ledinci**, about 15 minutes away (currently closed to visitors). [Around Rakovac]({{< relref "nearby" >}}).
 
 ## When to come
 

@@ -199,3 +199,12 @@ strazilovo:
   temp: true
   alt_ru: "Зона отдыха Стражилово"
   alt_sr: "Izletište Stražilovo"
+author-kosta:
+  src: img/author-kosta.jpg
+  page: https://stein-1.com
+  author: Konstantin Stein (private archive)
+  license: © all rights reserved
+  alt: Konstantin (Kosta) Stein
+  alt_ru: Константин (Коста) Штейн
+  alt_sr: Konstantin (Kosta) Stein
+  temp: false

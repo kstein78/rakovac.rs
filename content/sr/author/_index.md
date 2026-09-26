@@ -6,6 +6,7 @@ kicker: "Konstantin (Kosta) Stein"
 lead: "U Rakovcu živim od 2023. godine i zavoleo sam ga od prvog dana. Sada je došlo vreme da tu ljubav podelim sa svetom."
 tile: "Ko pravi ovaj sajt i kako da ga kontaktirate"
 hide_children: true
+portrait: author-kosta
 ---
 
 Zovem se Konstantin Stein, a komšijama sam Kosta. Preduzetnik sam i medijski menadžer. Pre preseljenja u Srbiju vodio sam velike digitalne medijske projekte. Više o mom radu nalazi se na mom ličnom sajtu, [stein-1.com](https://stein-1.com).

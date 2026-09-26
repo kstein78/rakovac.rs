@@ -4,6 +4,7 @@
     <div class="home-hero-text">
       <p class="kicker">{{ site.Params.tagline }}</p>
       <h1 class="display">{{ i18n "brand_name" }}</h1>
+      {{ with .Params.slogan }}<p class="slogan">{{ . }}</p>{{ end }}
       {{ with .Params.lead }}<p class="lead">{{ . | markdownify }}</p>{{ end }}
       {{ with .Params.keyfacts }}
       <ul class="keyfacts">
@@ -28,7 +29,7 @@
   <h2 class="listing-title">{{ .Params.sections_title }}</h2>
   <div class="section-tiles">
     {{ range (append site.Data.nav.secondary site.Data.nav.primary) }}
-      {{ with site.GetPage .path }}{{ if not (in (slice "map" "about" "support" "author") .Section) }}
+      {{ with site.GetPage .path }}{{ if not (in (slice "map" "about" "support" "author" "shops") .Section) }}
       <a class="tile" href="{{ .RelPermalink }}">
         <span class="tile-title">{{ .LinkTitle }}</span>
         {{ with .Params.tile }}<span class="tile-text">{{ . }}</span>{{ end }}

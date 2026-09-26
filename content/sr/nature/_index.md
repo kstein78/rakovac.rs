@@ -3,7 +3,7 @@ title: Priroda oko Rakovca
 linkTitle: Priroda
 weight: 10
 kicker: Nacionalni park Fruška gora
-lead: Rakovac se nalazi na severnoj ivici Nacionalnog parka Fruška gora. Od manastira šumske staze za nekoliko minuta vode do starog kamenoloma u koji se može ući, do isposnice iz 18. veka uklesane u stenu, a dalje do vodopada i vidikovaca nad podunavskom ravnicom.
+lead: Rakovac se nalazi na severnoj ivici Nacionalnog parka Fruška gora. Od puta kod manastira šumske staze vode na dve strane. Na istok, prema Ledincima, do starog kamenoloma u koji se može ući i do isposnice iz 18. veka uklesane u stenu. Na zapad, prema Dumbovu i Beočinu, do vodopada i vidikovaca nad podunavskom ravnicom.
 tile: Dvorana kamenoloma, isposnica u steni, vodopad, vidikovci, izvori
 photo: forest-spring
 list_title: Šta posetiti
