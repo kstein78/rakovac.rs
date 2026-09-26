@@ -25,6 +25,10 @@ We record interviews with residents: memories of the village, the monastery, the
 
 This site does not use advertising or tracking cookies. Videos are loaded from YouTube only after you press play. The maps load map tiles from OpenStreetMap servers.
 
+## Licence
+
+Texts on this site are published under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/): you may reuse them, including commercially, if you credit **rakovac.rs** with a link. Our own photos, videos and interviews are **not** covered: all rights reserved. Photos from other authors keep their own licences, listed below. The site's source code is MIT-licensed.
+
 ## Languages
 
 The site is being prepared in five languages: Serbian, English, Russian, German and Hungarian.

@@ -22,7 +22,7 @@
     </div>
   </div>
   <div class="wrap footer-base small muted">
-    <span>© {{ now.Year }} rakovac.rs</span>
+    <span>© {{ now.Year }} rakovac.rs · {{ i18n "license_line" | safeHTML }}</span>
     <span>© OpenStreetMap contributors · <a href="{{ with site.GetPage "about" }}{{ .RelPermalink }}{{ end }}#photo-credits">{{ i18n "photo_credits" }}</a></span>
   </div>
 </footer>

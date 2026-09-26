@@ -103,7 +103,9 @@ One-time server setup: [deploy/SERVER-SETUP.md](deploy/SERVER-SETUP.md).
 
 ## Licences
 
-- Code and texts: © rakovac.rs.
-- Fonts: Alegreya and Source Sans 3, SIL Open Font License (`static/fonts/`).
-- Leaflet 1.9.4: BSD-2-Clause. Map tiles © OpenStreetMap contributors.
-- Temporary photos: Wikimedia Commons, licences listed per photo in `data/photos.yaml`.
+| What | Licence |
+|---|---|
+| Source code (layouts, CSS, JS, config, workflows) | **MIT**, see [LICENSE](LICENSE) |
+| Texts (`content/`, `i18n/`) | **CC BY 4.0**: reuse allowed with credit to rakovac.rs, see [LICENSE-CONTENT.md](LICENSE-CONTENT.md) |
+| Our own photos, videos, interviews | **© Konstantin Stein / rakovac.rs, all rights reserved** |
+| Temporary Wikimedia photos, fonts, Leaflet, map tiles | their own licences, listed in LICENSE-CONTENT.md |
