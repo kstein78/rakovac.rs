@@ -83,3 +83,42 @@ jobs:
       - name: Server not configured yet
         if: steps.check.outputs.ready != 'true'
         run: echo "::notice::DEPLOY_HOST secret is not set, so the site was built but not uploaded."
+
+  # Preview on GitHub Pages: https://kstein78.github.io/rakovac.rs/
+  # One-time: repo Settings -> Pages -> Build and deployment -> Source: "GitHub Actions".
+  # The preview is marked noindex so search engines don't compete with rakovac.rs.
+  # To switch it off later, delete this job (and set Pages source to "None").
+  pages:
+    if: github.event_name != 'pull_request' && github.ref == 'refs/heads/main'
+    runs-on: ubuntu-24.04
+    permissions:
+      contents: read
+      pages: write
+      id-token: write
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v7
+
+      - name: Install Hugo (extended)
+        run: |
+          wget -q -O hugo.deb "https://github.com/gohugoio/hugo/releases/download/v${HUGO_VERSION}/hugo_extended_${HUGO_VERSION}_linux-amd64.deb"
+          sudo dpkg -i hugo.deb
+
+      - id: pages
+        uses: actions/configure-pages@v6
+
+      - name: Build preview
+        env:
+          HUGO_PARAMS_NOINDEX: "true"
+        run: |
+          hugo --gc --minify --baseURL "${{ steps.pages.outputs.base_url }}/"
+          cp public/en/404.html public/404.html
+
+      - uses: actions/upload-pages-artifact@v5
+        with:
+          path: public
+
+      - id: deployment
+        uses: actions/deploy-pages@v5
