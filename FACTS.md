@@ -27,7 +27,7 @@ Business contact data (addresses, phones, coordinates) come from Google Maps lis
 | Legend "Veliki Sremac Baća" | L | fruska-gora.com (Brvnare Platan) |
 | Sign "Beli Majdan" ~100 m from monastery; steep track 5 min / 600 m 10 min | A (before/after gate ?) | visitdistrikt.rs 2021; planine.net 2021 |
 | Hermitage: only one in Vojvodina, protected monument, 18th c., monks of Rakovac | A | visitdistrikt.rs; fruskac.net; mitrovica.info |
-| Oldest inscription with name Isaija Parivodski: 1711 vs 1751 | ? | visitdistrikt.rs (1711); alticlub.org.rs (1751) |
+| Hermitage inscription: "При пещрѣ сей во времѧ немощи своеа въ мцъ маій 1771го года пребивалъ Исаіа Париводи… іеромонахъ раковачкій" → May 1771, hieromonk of Rakovac, during illness | C | Kosta's photo, 26 Sep 2026 (sources said 1711 / 1751 — superseded); surname ending unclear |
 | Entrance < 1.5 m, small window | B | zvoncara.com |
 | ~40 min from Beli Majdan; path from Ledinci; mosquitoes/bees | A | mitrovica.info; nsuzivo.rs |
 | Hermitage coords 45.181138, 19.790564, 293 m; no camping/fire | B | fruskac.net |
@@ -96,3 +96,4 @@ Kamenolom memorial: coords 45.18103, 19.77137; 500 m from monastery — fruskac.
 | Konak Stari Orah: Fruškogorska 17, traditional cuisine, ~100 seats incl. garden | B | vojvodina.travel; Google Maps listing (open, Sep 2026) |
 | Drive times: Vrdnik ~12 min, Lake Ledinci ~15 min; trail directions east (Beli Majdan, hermitage) / west (waterfall, lookouts) | C | Kosta |
 | Author photo | C | Kosta, private archive |
+| Beli Majdan: NP sign "no entry into the gallery without a national park official — risk of rockfall" | C | Kosta's photo, 26 Sep 2026 |

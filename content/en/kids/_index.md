@@ -3,7 +3,7 @@ title: Rakovac for kids
 linkTitle: For kids
 weight: 38
 kicker: For young explorers aged 7 to 12
-lead: A quarry you can walk into, a monk's cell in a rock, a waterfall in the forest, and a village with a story that goes back seven thousand years.
+lead: A quarry that looks like a cave, a monk's cell in a rock, a waterfall in the forest, and a village with a story that goes back seven thousand years.
 tile: The story of Rakovac told simply, playgrounds and easy walks
 photo: beli-majdan-17
 list_title: Start here

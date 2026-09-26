@@ -9,7 +9,7 @@ tile: Ko smo, izvori, autori fotografija
 
 ## Ko stoji iza sajta
 
-Sajt je volonterski projekat meštana Rakovca. **Nije** zvanični sajt opštine Beočin, mesne zajednice, manastira Rakovac niti Nacionalnog parka Fruška gora.
+Sajt je volonterski projekat iz Rakovca, koji Konstantin (Kosta) Stein pravi zajedno sa Claude-om, AI modelom kompanije Anthropic. Vidi [O autoru]({{< relref "author" >}}). **Nije** zvanični sajt opštine Beočin, mesne zajednice, manastira Rakovac niti Nacionalnog parka Fruška gora.
 
 ## Kako proveravamo činjenice
 

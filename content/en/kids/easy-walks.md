@@ -9,7 +9,7 @@ kids: true
 
 ## Beli Majdan: a cave made by people
 
-**10 minutes from the monastery, easy.** The best first walk. A short, steep earth track leads from the monastery to a huge hall in the rock, held up by stone pillars. Look for the marks of the stone cutters' tools on the walls, and climb the steps above the hall for a view over the forest.
+**10 minutes from the monastery, easy.** The best first walk. A short, steep earth track leads from the monastery to a huge hall in the rock, held up by stone pillars. Look for the marks of the stone cutters' tools on the walls, and climb the steps above the hall for a view over the forest. Stay at the entrance, though: going inside is only allowed with a national park ranger, because stones can fall.
 
 A legend says a cave-man called **Veliki Sremac Baća** lives deep inside. Nobody has ever photographed him. Maybe you will be the first?
 

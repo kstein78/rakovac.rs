@@ -208,3 +208,48 @@ author-kosta:
   alt_ru: Константин (Коста) Штейн
   alt_sr: Konstantin (Kosta) Stein
   temp: false
+isposnica-inscription-1771:
+  src: img/isposnica-inscription-1771.jpg
+  page: https://stein-1.com
+  author: Konstantin Stein
+  license: © all rights reserved
+  alt: Carved inscriptions at the hermitage, with the text of May 1771 naming Isaija, hieromonk of Rakovac
+  alt_ru: Надписи на скале у испосницы, среди них надпись мая 1771 года с именем иеромонаха Исаии
+  alt_sr: Natpisi na steni kod isposnice, među njima natpis iz maja 1771. sa imenom jeromonaha Isaije
+  temp: false
+isposnica-inscription-1830:
+  src: img/isposnica-inscription-1830.jpg
+  page: https://stein-1.com
+  author: Konstantin Stein
+  license: © all rights reserved
+  alt: An inscription of 1830 in its own carved niche, with a cross above
+  alt_ru: Надпись 1830 года в отдельной высеченной нише, над ней крест
+  alt_sr: Natpis iz 1830. u posebnoj uklesanoj niši, sa krstom iznad
+  temp: false
+isposnica-inscriptions-entrance:
+  src: img/isposnica-inscriptions-entrance.jpg
+  page: https://stein-1.com
+  author: Konstantin Stein
+  license: © all rights reserved
+  alt: Names and dates carved beside the entrance of the hermitage
+  alt_ru: Имена и даты, вырезанные у входа в испосницу
+  alt_sr: Imena i datumi urezani pored ulaza u isposnicu
+  temp: false
+isposnica-inscription-detail:
+  src: img/isposnica-inscription-detail.jpg
+  page: https://stein-1.com
+  author: Konstantin Stein
+  license: © all rights reserved
+  alt: A 19th-century name carved in the soft limestone of the hermitage
+  alt_ru: Имя XIX века, вырезанное в мягком известняке испосницы
+  alt_sr: Ime iz 19. veka urezano u meki krečnjak isposnice
+  temp: false
+beli-majdan-entrance-sign:
+  src: img/beli-majdan-entrance-sign.jpg
+  page: https://stein-1.com
+  author: Konstantin Stein
+  license: © all rights reserved
+  alt: Entrance to the Beli Majdan gallery with the national park's warning sign
+  alt_ru: Вход в галерею Бели-Майдана с предупреждающей табличкой национального парка
+  alt_sr: Ulaz u galeriju Belog majdana sa tablom upozorenja Nacionalnog parka
+  temp: false

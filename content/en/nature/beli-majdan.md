@@ -25,7 +25,11 @@ videos:
 
 The entrance is several dozen metres wide and the hall runs about as deep into the hill. Its ceiling is 3 to 4 metres high and rests on thick stone pillars that the quarrymen left in place to keep the roof from falling. Tool marks and the outlines of cut blocks are still visible on the walls.
 
-Steps cut into the rock lead up above the hall, to a spot with a view over the forest.
+{{< note type="warning" title="Entry to the gallery" >}}A national park sign at the entrance reads: *no entry into the gallery without an official of Fruška Gora National Park, because of the risk of falling stone.* Look into the hall from the entrance, or contact the park (phone under [Useful info]({{< relref "useful" >}})) to arrange a visit with a ranger.{{< /note >}}
+
+{{< photo key="beli-majdan-entrance-sign" class="inline-tall" caption="The entrance to the gallery and the park's warning sign." >}}
+
+Steps cut into the rock lead up to a platform above the hall, with a view over the forest.
 
 Hikers often mention a small opening in the ground nearby that breathes out warm air, most noticeable on cold days.
 

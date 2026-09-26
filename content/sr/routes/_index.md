@@ -12,7 +12,7 @@ hide_children: true
 Staze na Fruškoj gori obeležene su markacijama na drveću i banderama. Dužine i usponi ispod preuzeti su iz objavljenih planinarskih izveštaja. Zamenićemo ih sopstvenim GPS merenjima kada svaku stazu prođemo sa kamerom.
 
 {{< route id="beli-majdan" name="1. Manastir – Beli majdan" distance="oko 600 m u jednom pravcu" time="10 min" level="easy" start="45.184697,19.774143" >}}
-Najkraća šetnja, pogodna i za decu. Od manastira pratite tablu „Beli Majdan“ strmom zemljanom stazom do dvorane starog kamenoloma. Popnite se uklesanim stepenicama iznad dvorane za pogled na krošnje. [Više o Belom majdanu]({{< relref "nature/beli-majdan" >}}).
+Najkraća šetnja, pogodna i za decu. Od manastira pratite tablu „Beli Majdan“ strmom zemljanom stazom do dvorane starog kamenoloma (u galeriju se ulazi samo uz čuvara parka). Popnite se uklesanim stepenicama iznad dvorane za pogled na krošnje. [Više o Belom majdanu]({{< relref "nature/beli-majdan" >}}).
 {{< /route >}}
 
 {{< route id="hermitage-loop" name="2. Krug preko isposnice" distance="oko 8 km, kružna" level="moderate" start="45.184697,19.774143" >}}

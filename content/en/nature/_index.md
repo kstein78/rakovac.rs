@@ -3,7 +3,7 @@ title: Nature around Rakovac
 linkTitle: Nature
 weight: 10
 kicker: Fruška Gora National Park
-lead: Rakovac sits on the northern edge of Fruška Gora National Park. From the road by the monastery, forest paths lead in two directions. Eastwards, towards Ledinci, they reach an old stone quarry you can walk into and an 18th-century hermitage cut into the rock. Westwards, towards Dumbovo and Beočin, they lead to a waterfall and to viewpoints over the Danube plain.
+lead: Rakovac sits on the northern edge of Fruška Gora National Park. From the road by the monastery, forest paths lead in two directions. Eastwards, towards Ledinci, they reach an old stone quarry that looks like a cave and an 18th-century hermitage cut into the rock. Westwards, towards Dumbovo and Beočin, they lead to a waterfall and to viewpoints over the Danube plain.
 tile: Quarry hall, rock hermitage, waterfall, viewpoints, springs
 photo: forest-spring
 list_title: Places to visit

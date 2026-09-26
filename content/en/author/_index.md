@@ -3,13 +3,13 @@ title: "About the author"
 linkTitle: "About the author"
 weight: 96
 kicker: "Konstantin (Kosta) Stein"
-lead: "I have lived in Rakovac since 2023 and loved it from the very first day. Now it is time to share that love with the world."
+lead: "I have been living in Rakovac since 2023 and fell in love with it from the very first day. Now it is time to share that love with the world."
 tile: "Who makes this site, and how to reach him"
 hide_children: true
 portrait: author-kosta
 ---
 
-I am Konstantin Stein, Kosta to my neighbours: an entrepreneur and media manager. Before moving to Serbia I led large digital media projects. More about my work is on my personal website, [stein-1.com](https://stein-1.com).
+I am Konstantin Stein, Kosta to my neighbours. These days my work is about creativity, promotion and building new projects with the help of artificial intelligence. This website is one of them: I am making it together with Claude, an AI model by Anthropic. More about my projects is on my personal website, [stein-1.com](https://stein-1.com).
 
 ## Where this comes from
 

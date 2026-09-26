@@ -30,7 +30,11 @@ videos:
 
 Ulaz je širok nekoliko desetina metara i dvorana se otprilike toliko pruža u dubinu brda. Tavanica visoka 3 do 4 metra oslanja se na debele kamene stubove koje su majstori ostavili da se svod ne bi urušio. Na zidovima se i danas vide tragovi alata i obrisi isečenih blokova.
 
-Stepenice uklesane u stenu vode iznad dvorane, do mesta sa pogledom na šumu.
+{{< note type="warning" title="Ulaz u galeriju" >}}Na tabli Nacionalnog parka kod ulaza piše: *zabranjen ulaz u galeriju bez prisustva službenog lica iz Nacionalnog parka, zbog mogućnosti odrona kamena.* Dvoranu razgledajte sa ulaza ili se dogovorite sa parkom (telefon je u rubrici [Korisno]({{< relref "useful" >}})) o poseti uz čuvara.{{< /note >}}
+
+{{< photo key="beli-majdan-entrance-sign" class="inline-tall" caption="Ulaz u galeriju i tabla upozorenja Nacionalnog parka." >}}
+
+Stepenice uklesane u stenu vode gore, do platoa iznad dvorane, odakle se pruža pogled na šumu.
 
 Planinari često pominju mali otvor u zemlji u blizini iz kog izlazi topao vazduh, najprimetniji tokom hladnih dana.
 

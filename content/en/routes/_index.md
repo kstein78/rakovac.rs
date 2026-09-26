@@ -12,7 +12,7 @@ hide_children: true
 Trails on Fruška Gora are marked with painted signs on trees and poles. The distances and climbs below come from published hiking reports. We will replace them with our own GPS measurements once we have walked each route with a camera.
 
 {{< route id="beli-majdan" name="1. Monastery – Beli Majdan" distance="about 600 m one way" time="10 min" level="easy" start="45.184697,19.774143" >}}
-The shortest walk, and fine with children. From the monastery follow the "Beli Majdan" sign up a steep earth track to the old quarry hall. Climb the rock-cut steps above the hall for a view over the treetops. [More about Beli Majdan]({{< relref "nature/beli-majdan" >}}).
+The shortest walk, and fine with children. From the monastery follow the "Beli Majdan" sign up a steep earth track to the old quarry hall (entry into the gallery only with a park ranger). Climb the rock-cut steps above the hall for a view over the treetops. [More about Beli Majdan]({{< relref "nature/beli-majdan" >}}).
 {{< /route >}}
 
 {{< route id="hermitage-loop" name="2. Hermitage loop" distance="about 8 km, circular" level="moderate" start="45.184697,19.774143" >}}

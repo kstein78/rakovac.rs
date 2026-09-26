@@ -1,5 +1,7 @@
 # rakovac.rs
 
+Made by Konstantin (Kosta) Stein together with Claude (Anthropic).
+
 Unofficial visitor portal of the village of Rakovac (Beočin municipality, Fruška Gora, Serbia).
 Static site built with [Hugo](https://gohugo.io/) (extended, v0.139.4), deployed by GitHub Actions to a Hetzner server.
 

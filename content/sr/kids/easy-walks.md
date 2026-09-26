@@ -9,7 +9,7 @@ kids: true
 
 ## Beli majdan: pećina koju su napravili ljudi
 
-**10 minuta od manastira, lako.** Najbolja prva šetnja. Kratka, strma zemljana staza vodi od manastira do ogromne dvorane u steni koju drže kameni stubovi. Potražite na zidovima tragove alata kamenorezaca i popnite se stepenicama iznad dvorane da vidite šumu odozgo.
+**10 minuta od manastira, lako.** Najbolja prva šetnja. Kratka, strma zemljana staza vodi od manastira do ogromne dvorane u steni koju drže kameni stubovi. Potražite na zidovima tragove alata kamenorezaca i popnite se stepenicama iznad dvorane da vidite šumu odozgo. Ali ne ulazite unutra: u galeriju se sme samo uz čuvara Nacionalnog parka, jer kamenje može da padne.
 
 Legenda kaže da u dubini živi pećinski čovek **Veliki Sremac Baća**. Niko ga još nije fotografisao. Možda ćete vi biti prvi?
 

@@ -9,7 +9,7 @@ hide_children: true
 portrait: author-kosta
 ---
 
-Zovem se Konstantin Stein, a komšijama sam Kosta. Preduzetnik sam i medijski menadžer. Pre preseljenja u Srbiju vodio sam velike digitalne medijske projekte. Više o mom radu nalazi se na mom ličnom sajtu, [stein-1.com](https://stein-1.com).
+Zovem se Konstantin Stein, a komšijama sam Kosta. Danas se bavim kreativnim radom, promocijom i stvaranjem novih projekata uz pomoć veštačke inteligencije. Ovaj sajt je jedan od njih: pravim ga zajedno sa Claude-om, AI modelom kompanije Anthropic. Više o mojim projektima nalazi se na mom ličnom sajtu, [stein-1.com](https://stein-1.com).
 
 ## Odakle sve ovo
 

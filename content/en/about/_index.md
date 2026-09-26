@@ -9,7 +9,7 @@ tile: Who we are, sources, photo credits
 
 ## Who is behind the site
 
-The site is a volunteer project by residents of Rakovac. It is **not** an official website of the Municipality of Beočin, the local community office, Rakovac Monastery or Fruška Gora National Park.
+The site is a volunteer project from Rakovac, made by Konstantin (Kosta) Stein together with Claude, an AI model by Anthropic. See [About the author]({{< relref "author" >}}). It is **not** an official website of the Municipality of Beočin, the local community office, Rakovac Monastery or Fruška Gora National Park.
 
 ## How we check facts
 
