@@ -80,6 +80,8 @@ Videos load from youtube-nocookie.com only after the visitor presses play.
 
 Copy `content/en/people/_person-template.md` to `content/en/people/firstname-lastname.md`,
 remove `draft: true`, fill in. Publish only with the person's written consent.
+The historical list is chronological: set `weight` to the person's place in time
+(10 Raka, 11 Teofan … 16 Isaija … 19–21 the partisans of 1942, 22 Hegumeness Gavrila; leave gaps free by renumbering).
 
 ### Replace a temporary photo
 

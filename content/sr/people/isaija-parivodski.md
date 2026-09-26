@@ -4,7 +4,7 @@ group: historical
 sort_name: Parivodski Isaija
 years: "pominje se 1767–1771."
 summary: "Jeromonah i prepisivač manastira Rakovac. Prepisao je manastirski letopis 1767, a 1771. uklesao najstariji datirani natpis kod isposnice u steni, koja nosi njegovo ime."
-weight: 11
+weight: 16
 ---
 
 Isposnica u šumi istočno od Belog majdana nosi njegovo ime. Sam se potpisivao kao **Isaija Parivodić, jeromonah rakovački**; vodiči ga zovu Parivodski.

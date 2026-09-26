@@ -2,7 +2,7 @@
 title: Васа Остоич
 group: historical
 sort_name: Ostojic Vasa
-years: XVIII век
+years: "XVIII век · 1763"
 summary: Художник, написавший иконы иконостаса монастыря Раковац (1763).
 weight: 15
 ---

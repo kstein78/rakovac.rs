@@ -4,6 +4,7 @@ title: "Firstname Lastname"
 draft: true
 group: contemporary          # contemporary | historical
 sort_name: "Lastname Firstname"
+weight: 50                   # historical list is chronological: see README ("Add a person")
 years: "born 1941"           # or "1907–1942"
 summary: "One sentence: who they are and why they matter to Rakovac."
 photo: ""                    # key from data/photos.yaml (optional)

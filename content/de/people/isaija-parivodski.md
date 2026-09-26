@@ -4,7 +4,7 @@ group: historical
 sort_name: Parivodski Isaija
 years: "erwähnt 1767–1771"
 summary: "Hieromönch und Schreiber aus Rakovac. Er schrieb 1767 die Klosterchronik ab und meißelte 1771 die älteste datierte Inschrift an der Felseneinsiedelei, die seinen Namen trägt."
-weight: 11
+weight: 16
 ---
 
 Die Einsiedelei (*isposnica*) im Wald östlich von Beli Majdan ist nach ihm benannt. Er selbst unterschrieb als **Isaija Parivodić, Hieromönch von Rakovac**; Reiseführer nennen ihn Parivodski.

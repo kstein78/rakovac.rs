@@ -4,7 +4,7 @@ group: historical
 sort_name: Parivodski Isaija
 years: "említve 1767–1771"
 summary: "Rakovaci szerzetespap és másoló. 1767-ben lemásolta a kolostori krónikát, 1771-ben pedig ő véste a róla elnevezett sziklaremetelak legrégebbi keltezett feliratát."
-weight: 11
+weight: 16
 ---
 
 A Beli Majdantól keletre, az erdőben található remetelak (*isposnica*) róla kapta a nevét. Ő maga **Isaija Parivodić rakovaci hieromonachusként** írta alá a nevét; az útikalauzok Parivodskinak nevezik.

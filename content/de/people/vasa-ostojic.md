@@ -2,7 +2,7 @@
 title: Vasa Ostojić
 group: historical
 sort_name: Ostojic Vasa
-years: 18. Jahrhundert
+years: "18. Jahrhundert · 1763"
 summary: Maler der Ikonen der Ikonostase des Klosters Rakovac (1763).
 weight: 15
 ---

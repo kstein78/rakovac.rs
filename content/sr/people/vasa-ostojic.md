@@ -2,7 +2,7 @@
 title: Vasa Ostojić
 group: historical
 sort_name: Ostojic Vasa
-years: 18. vek
+years: "18. vek · 1763"
 summary: Slikar ikona na ikonostasu manastira Rakovac (1763).
 weight: 15
 ---

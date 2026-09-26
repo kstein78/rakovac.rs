@@ -4,7 +4,7 @@ group: historical
 sort_name: Parivodski Isaija
 years: active 1767–1771
 summary: Hieromonk and scribe of Rakovac. He copied the monastery chronicle in 1767 and carved the oldest dated inscription at the rock hermitage (1771), which is named after him.
-weight: 11
+weight: 16
 ---
 
 The hermitage (*isposnica*) in the forest east of Beli Majdan is named after him. He signed himself **Isaija Parivodić, hieromonk of Rakovac**; guides call him Parivodski.

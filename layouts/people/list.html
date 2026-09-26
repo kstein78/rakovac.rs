@@ -7,7 +7,8 @@
   <section class="wrap glossary">
     <h2 class="listing-title">{{ index $.Params.group_titles $group }}</h2>
     <dl class="glossary-list">
-      {{ range sort . "Params.sort_name" }}
+      {{ $sorted := sort . "Params.sort_name" }}{{ if eq $group "historical" }}{{ $sorted = sort . "Weight" }}{{ end }}{{/* historical: chronological by weight; contemporary: alphabetical */}}
+      {{ range $sorted }}
       <div class="glossary-item">
         <dt><a href="{{ .RelPermalink }}">{{ .Title }}</a>{{ with .Params.years }} <span class="muted num">{{ . }}</span>{{ end }}{{ if .Params.videos }}<span class="chip chip-video">{{ i18n "video" }}</span>{{ end }}</dt>
         <dd>{{ .Params.summary | markdownify }}</dd>

@@ -2,7 +2,7 @@
 title: Vasa Ostojić
 group: historical
 sort_name: Ostojic Vasa
-years: 18. század
+years: "18. század · 1763"
 summary: A Rakovaci kolostor ikonosztázionja ikonjainak festője (1763).
 weight: 15
 ---
