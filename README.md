@@ -5,10 +5,10 @@ Made by Konstantin (Kosta) Stein together with Claude (Anthropic).
 Unofficial visitor portal of the village of Rakovac (Beočin municipality, Fruška Gora, Serbia).
 Static site built with [Hugo](https://gohugo.io/) (extended, v0.139.4), deployed by GitHub Actions to a Hetzner server.
 
-- **Draft status (2026-09-26):** English, Serbian (Latin) and Russian live, all pages drafted. Photos are borrowed open-licence
+- **Draft status (2026-09-26):** all five languages live (en, sr, ru, de, hu), all pages drafted. Photos are borrowed open-licence
   images marked **TEMP PHOTO**. Yellow **Editor's note** boxes list what still has to be checked or filmed.
-- **Languages:** en, sr (Latin) and ru are live; de and hu are configured (UI strings in `i18n/`) and switched off until their content exists.
-- Translations of `content/ru` and `content/sr` were drafted by Claude: have native speakers review them, Serbian especially.
+- **Languages:** English is the source; sr (Latin), ru, de and hu are translated automatically (see below).
+- All translations were drafted by Claude: have native speakers review them, Serbian, German and Hungarian especially.
 
 ## Run locally
 
@@ -24,12 +24,14 @@ hugo --gc --minify     # production build into ./public
 content/en/            one folder per section; _index.md = section page, other .md = places
   nature/  routes/  monastery/  history/  stay/  eat-drink/  local-products/
   shops/   business/  people/  kids/  useful/  map/  support/  about/
+content/sr|ru|de|hu/   translations, same file names (kept in sync automatically, see below)
 data/photos.yaml       every photo: source URL, author, licence, temp flag
 data/nav.yaml          menu order and map marker colours per category
 i18n/*.yaml            interface strings in 5 languages
 layouts/               templates (no external theme)
 assets/css, assets/js  styles, menu, click-to-load YouTube, Leaflet maps
 static/fonts, static/vendor/leaflet   self-hosted fonts and Leaflet (no Google Fonts, no CDN)
+scripts/               translate.py (automatic translation), make-preview.sh
 deploy/                nginx config and server setup guide
 FACTS.md               fact log: where every statement comes from
 PHOTOS-TODO.md         shot list to replace the temporary photos
@@ -91,13 +93,42 @@ Credits are printed under every photo and collected on the *About this site* pag
 `{{< todo >}}…{{< /todo >}}` boxes are visible while `showTodos = true` in `hugo.toml`.
 Before launch set `showTodos = false` and `showPhotoBadges = false`.
 
-## Adding a language
+## Automatic translation
 
-1. Copy `content/en` to `content/sr` (or ru/de/hu) and translate. Keep the file names identical:
-   pages are linked across languages by path.
-2. Remove the language from `disableLanguages` in `hugo.toml`.
-3. Have a native speaker check `i18n/<lang>.yaml` (drafted by Claude).
-4. The language switcher in the header appears automatically once two or more languages are live.
+**Write and edit texts in English only** (`content/en/`, `i18n/en.yaml`, `alt` in `data/photos.yaml`).
+After the push, the *Translate* workflow translates what changed into sr, ru, de and hu with Claude,
+checks the result, commits it to `main` and starts the deploy. Nothing else to do.
+
+- Only pages whose English text changed are sent (`.translations.json` stores what each translation was made from).
+  The current translation goes along as the base, so corrections made by a native speaker survive later updates
+  wherever the English meaning did not change.
+- Every result is validated before it is written: photo keys, video ids, coordinates, phone numbers, links, shortcodes
+  and headings must match the English page, otherwise the answer is rejected and requested again.
+- To fix a translation by hand, just edit `content/<lang>/…`. To protect a page completely, add
+  `translation_locked: true` to its front matter.
+- Recurring terms and place names (e.g. Tarcal-hegység, Einsiedelei) live in `scripts/translate-glossary.yaml`.
+- Deleting an English page deletes its translations on the next run.
+
+One-time setup: repository **Settings → Secrets and variables → Actions → New repository secret**
+`ANTHROPIC_API_KEY` (a key from console.anthropic.com). Optional variable `TRANSLATE_MODEL` (default `claude-sonnet-5`).
+Without the key the workflow only validates and prints a warning.
+
+Cost with Claude Sonnet 5 ($2 / $10 per million input / output tokens, September 2026): an edited page into all four
+languages is about $0.04; re-translating the whole site from scratch is about $3. Each run prints its real token count.
+
+Locally:
+
+```bash
+python3 scripts/translate.py --status          # what is out of date (no API calls)
+python3 scripts/translate.py --check           # validate all translations
+ANTHROPIC_API_KEY=… python3 scripts/translate.py --langs de --force nature/isposnica.md
+```
+
+### Adding another language
+
+1. Add it under `[languages]` in `hugo.toml` and create an empty `i18n/<lang>.yaml` (the script fills in every missing string).
+2. Add it to `LANGS` and `LANG_NAMES` in `scripts/translate.py` and a section in `scripts/translate-glossary.yaml`.
+3. Run the *Translate* workflow by hand (Actions → Translate → Run workflow) with that language.
 
 ## Deployment
 

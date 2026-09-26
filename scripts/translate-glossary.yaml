@@ -1,0 +1,41 @@
+# Terminology for scripts/translate.py. Edit freely: every automatic translation reads this file.
+# When a native speaker corrects a recurring term on the site, add it here so new pages follow it.
+
+common: |
+  - Business, product and brand names stay as written in English: Na Vrhu, FIG, Salaxia & Imperator, Invent, 7pro8,
+    Pekara Danica, Market Danica, Persu, MOL BS DODO Rakovac, Forrest Relax Spa, Fruška Frajla, Gorska ruža, GSP Novi Sad.
+  - Personal names keep their Serbian Latin spelling (Russian uses Cyrillic transliteration).
+  - "Konstantin (Kosta) Stein" is the author of the site.
+  - Serbian place names without an established exonym stay in Serbian Latin form (Vrdnik, Ledinci, Zmajevac, Gradac, Stošin Do).
+
+languages:
+  sr: |
+    - Serbian in LATIN script only (never Cyrillic), ijekavian forms not used: ekavian standard (mleko, reka, lepo).
+    - Rakovac, Stari Rakovac, Novi Rakovac, Fruška gora, Novi Sad, Srem, Beli Majdan, Isposnica Isaije Parivodskog,
+      Dumbovački vodopad, Manastir Rakovac, Beočin.
+    - Author's surname: Stein (not Štajn).
+  ru: |
+    - Раковац, Стари-Раковац, Нови-Раковац, Фрушка-Гора, Нови-Сад, Срем, Бели-Майдан, Испосница Исаии Париводского,
+      Думбовачский водопад, монастырь Раковац, Беочин, Змаевац, Бранковац. Author: Константин (Коста) Штейн.
+    - Business names stay in Latin script.
+    - Address the visitor as «вы» (lower case).
+  de: |
+    - Rakovac, Stari/Novi Rakovac, Fruška Gora, Novi Sad, Srem (once "Srem (Syrmien)" where helpful), Petrovaradin,
+      Beli Majdan, Einsiedelei des Isaija Parivodski, Dumbovac-Wasserfall, Kloster Rakovac, Beočin, Batschka.
+    - Formal "Sie" for visitors; the kids pages may address children with "ihr".
+    - Section names: Natur, Wanderwege, Umgebung, Das Kloster, Geschichte, Übernachten, Essen & Trinken, Lokale Produkte,
+      Geschäfte & Dienstleistungen, Lokale Industrie, Menschen, Für Kinder, Nützliches, Karte, Für lokale Betriebe,
+      Über diese Seite, Über den Autor. The map button is "Route planen".
+    - German number format (7.000, 2.137, 1,7 km). Quotation marks „…“.
+    - Hegumeness = Äbtissin; People's Hero = Volksheld; Battle of Kosovo = Schlacht auf dem Amselfeld (Kosovo).
+  hu: |
+    - Rakovac (suffixes: Rakovacon, Rakovacról, rakovaci), Tarcal-hegység (first mention on a page: "Tarcal-hegység (Fruška gora)"),
+      Újvidék (first mention: "Újvidék (Novi Sad)"), Szerémség, Pétervárad, Karlóca, Belgrád, Vajdaság, Bácska, Duna, Mohács,
+      Dombó (the medieval fortress), Beli Majdan, Dumbovac-vízesés, rakovaci kolostor, Isaija Parivodski remetelaka,
+      Tarcal-hegységi Nemzeti Park, Ledinci-tó, Beočin.
+    - Formal address (Ön) or impersonal phrasing; on kids pages impersonal phrasing.
+    - Section names: Természet, Túraútvonalak, A környéken, A kolostor, Történelem, Szállás, Evés-ivás, Helyi termékek,
+      Üzletek és szolgáltatások, Helyi ipar, Emberek, Gyerekeknek, Hasznos tudnivalók, Térkép, Helyi vállalkozásoknak,
+      Az oldalról, A szerzőről. The map button is "Útvonaltervezés".
+    - Correct diacritics ő ű (never õ û). Four-digit numbers without separator (2137), larger with a space (17 000).
+    - Hieromonk = hieromonachus; hegumeness = igumenia; People's Hero = Nép Hőse; rakija stays "rakija".

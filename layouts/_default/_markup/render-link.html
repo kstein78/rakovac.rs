@@ -1,0 +1,5 @@
+{{- /* Content links: http(s), relref output, mailto: and tel: (tel: is rejected by Go's URL sanitizer without safeURL). External links open normally, marked noopener. */ -}}
+{{- $d := .Destination -}}
+{{- $ext := or (strings.HasPrefix $d "http://") (strings.HasPrefix $d "https://") -}}
+<a href="{{ $d | safeURL }}"{{ with .Title }} title="{{ . }}"{{ end }}{{ if $ext }} rel="noopener"{{ end }}>{{ .Text | safeHTML }}</a>
+{{- /* no trailing newline */ -}}

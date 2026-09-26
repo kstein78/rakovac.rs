@@ -31,4 +31,4 @@ Tekstovi na sajtu objavljeni su pod licencom [CC BY 4.0](https://creativecommons
 
 ## Jezici
 
-Sajt se priprema na pet jezika: srpskom, engleskom, ruskom, nemačkom i mađarskom.
+Sajt je dostupan na pet jezika: srpskom, engleskom, ruskom, nemačkom i mađarskom. Tekstovi se pišu na engleskom i prevode uz pomoć Claude-a (Anthropic); ispravke izvornih govornika su veoma dobrodošle.

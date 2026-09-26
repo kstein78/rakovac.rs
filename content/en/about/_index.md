@@ -31,4 +31,4 @@ Texts on this site are published under [CC BY 4.0](https://creativecommons.org/l
 
 ## Languages
 
-The site is being prepared in five languages: Serbian, English, Russian, German and Hungarian.
+The site is available in five languages: Serbian, English, Russian, German and Hungarian. Texts are written in English and translated with the help of Claude (Anthropic); corrections from native speakers are very welcome.

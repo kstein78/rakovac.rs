@@ -4,3 +4,4 @@ resources/_gen/
 preview/
 .DS_Store
 .notes/
+__pycache__/

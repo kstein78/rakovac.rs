@@ -5,7 +5,7 @@
 # temp: true  -> borrowed open-licence photo, shown with a yellow TEMP badge
 #                while params.showPhotoBadges = true. Replace with our own shot.
 # To replace: drop your file into static/img/, then change "src" to
-# "/img/your-file.jpg", set author/license to your own, and set temp: false.
+# "img/your-file.jpg" (no leading slash), set author/license to your own, and set temp: false.
 #
 # All entries below were checked on Wikimedia Commons on 2026-09-26
 # (licence + author read from the file page; each 1280px thumbnail loaded OK).
@@ -19,6 +19,8 @@ monastery-2026-1:
   temp: true
   alt_ru: "Монастырь Раковац, июнь 2026"
   alt_sr: "Manastir Rakovac, jun 2026."
+  alt_de: Kloster Rakovac, Juni 2026
+  alt_hu: A rakovaci kolostor, 2026. június
 monastery-2026-2:
   src: https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/2026-06-10_Rakovac_monastery_2.jpg/1280px-2026-06-10_Rakovac_monastery_2.jpg
   page: https://commons.wikimedia.org/wiki/File:2026-06-10_Rakovac_monastery_2.jpg
@@ -28,6 +30,8 @@ monastery-2026-2:
   temp: true
   alt_ru: "Храм и двор монастыря Раковац"
   alt_sr: "Crkva i porta manastira Rakovac"
+  alt_de: Kirche und Hof des Klosters Rakovac
+  alt_hu: A rakovaci kolostor temploma és udvara
 monastery-belltower:
   src: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Manastir_Rakovac,_zvonik.jpg/1280px-Manastir_Rakovac,_zvonik.jpg
   page: https://commons.wikimedia.org/wiki/File:Manastir_Rakovac,_zvonik.jpg
@@ -37,6 +41,8 @@ monastery-belltower:
   temp: true
   alt_ru: "Барочная колокольня монастыря Раковац"
   alt_sr: "Barokni zvonik manastira Rakovac"
+  alt_de: Barocker Glockenturm des Klosters Rakovac
+  alt_hu: A rakovaci kolostor barokk harangtornya
 monastery-konak:
   src: https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Konak_manastira_Rakovac.JPG/1280px-Konak_manastira_Rakovac.JPG
   page: https://commons.wikimedia.org/wiki/File:Konak_manastira_Rakovac.JPG
@@ -46,6 +52,8 @@ monastery-konak:
   temp: true
   alt_ru: "Жилой корпус (конак) монастыря Раковац"
   alt_sr: "Konak manastira Rakovac"
+  alt_de: Wohntrakt (Konak) des Klosters Rakovac
+  alt_hu: A rakovaci kolostor lakószárnya (konak)
 monastery-iconostasis:
   src: https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Rakovac_monastery_iconostasis.jpg/1280px-Rakovac_monastery_iconostasis.jpg
   page: https://commons.wikimedia.org/wiki/File:Rakovac_monastery_iconostasis.jpg
@@ -55,6 +63,8 @@ monastery-iconostasis:
   temp: true
   alt_ru: "Иконостас монастырского храма"
   alt_sr: "Ikonostas manastirske crkve"
+  alt_de: Ikonostase der Klosterkirche
+  alt_hu: A kolostortemplom ikonosztáza
 monastery-1885:
   src: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Rakovac_Monastery_in_Serbia,_1885.jpg/1280px-Rakovac_Monastery_in_Serbia,_1885.jpg
   page: https://commons.wikimedia.org/wiki/File:Rakovac_Monastery_in_Serbia,_1885.jpg
@@ -64,6 +74,8 @@ monastery-1885:
   temp: false
   alt_ru: "Монастырь Раковац в 1885 году"
   alt_sr: "Manastir Rakovac 1885. godine"
+  alt_de: Kloster Rakovac im Jahr 1885
+  alt_hu: A rakovaci kolostor 1885-ben
 monastery-engraving:
   src: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Donau-Ansichten-_Syrmien._Griechisches_Kloster_Rakovatz_(cropped).jpg/1280px-Donau-Ansichten-_Syrmien._Griechisches_Kloster_Rakovatz_(cropped).jpg
   page: https://commons.wikimedia.org/wiki/File:Donau-Ansichten-_Syrmien._Griechisches_Kloster_Rakovatz_(cropped).jpg
@@ -73,6 +85,8 @@ monastery-engraving:
   temp: false
   alt_ru: "Гравюра XIX века «Griechisches Kloster Rakovatz» из серии дунайских видов"
   alt_sr: "Gravira iz 19. veka „Griechisches Kloster Rakovatz“ iz serije podunavskih prizora"
+  alt_de: Stich aus dem 19. Jahrhundert „Griechisches Kloster Rakovatz“ aus einer Serie von Donauansichten
+  alt_hu: 19. századi metszet („Griechisches Kloster Rakovatz“) egy dunai látképsorozatból
 beli-majdan-06:
   src: https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/2026-06-10_Rakovac,_Beli_Majdan_06.jpg/1280px-2026-06-10_Rakovac,_Beli_Majdan_06.jpg
   page: https://commons.wikimedia.org/wiki/File:2026-06-10_Rakovac,_Beli_Majdan_06.jpg
@@ -82,6 +96,8 @@ beli-majdan-06:
   temp: true
   alt_ru: "Каменные столбы в зале каменоломни Бели-Майдан"
   alt_sr: "Kameni stubovi u dvorani kamenoloma Beli majdan"
+  alt_de: Steinpfeiler in der Halle des Steinbruchs Beli Majdan
+  alt_hu: Kőpillérek a Beli Majdan kőfejtő csarnokában
 beli-majdan-17:
   src: https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/2026-06-10_Rakovac,_Beli_Majdan_17.jpg/1280px-2026-06-10_Rakovac,_Beli_Majdan_17.jpg
   page: https://commons.wikimedia.org/wiki/File:2026-06-10_Rakovac,_Beli_Majdan_17.jpg
@@ -91,6 +107,8 @@ beli-majdan-17:
   temp: true
   alt_ru: "Бели-Майдан, старая каменоломня над монастырём"
   alt_sr: "Beli majdan, stari kamenolom iznad manastira"
+  alt_de: Beli Majdan, der alte Steinbruch oberhalb des Klosters
+  alt_hu: Beli Majdan, a régi kőfejtő a kolostor fölött
 beli-majdan-24:
   src: https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/2026-06-10_Rakovac,_Beli_Majdan_24.jpg/1280px-2026-06-10_Rakovac,_Beli_Majdan_24.jpg
   page: https://commons.wikimedia.org/wiki/File:2026-06-10_Rakovac,_Beli_Majdan_24.jpg
@@ -100,6 +118,8 @@ beli-majdan-24:
   temp: true
   alt_ru: "Лес вокруг Бели-Майдана"
   alt_sr: "Šuma oko Belog majdana"
+  alt_de: Wald rund um Beli Majdan
+  alt_hu: Erdő Beli Majdan körül
 dumbovac-waterfall:
   src: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Dumbovacki_vodopad.jpg/1280px-Dumbovacki_vodopad.jpg
   page: https://commons.wikimedia.org/wiki/File:Dumbovacki_vodopad.jpg
@@ -109,6 +129,8 @@ dumbovac-waterfall:
   temp: true
   alt_ru: "Думбовачский водопад на ручье Думбовац"
   alt_sr: "Dumbovački vodopad na Dumbovačkom potoku"
+  alt_de: Dumbovac-Wasserfall am Dumbovac-Bach
+  alt_hu: A Dumbovac-vízesés a Dumbovac-patakon
 street-manastirska:
   src: https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Manastirska_ulica,_Rakovac.JPG/1280px-Manastirska_ulica,_Rakovac.JPG
   page: https://commons.wikimedia.org/wiki/File:Manastirska_ulica,_Rakovac.JPG
@@ -118,6 +140,8 @@ street-manastirska:
   temp: true
   alt_ru: "Улица Манастирска в Раковаце"
   alt_sr: "Manastirska ulica u Rakovcu"
+  alt_de: Die Manastirska-Straße in Rakovac
+  alt_hu: A Manastirska utca Rakovacon
 village-2026:
   src: https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/2026-06-07_Rakovac,_Serbia_04.jpg/1280px-2026-06-07_Rakovac,_Serbia_04.jpg
   page: https://commons.wikimedia.org/wiki/File:2026-06-07_Rakovac,_Serbia_04.jpg
@@ -127,6 +151,8 @@ village-2026:
   temp: true
   alt_ru: "Село Раковац, июнь 2026"
   alt_sr: "Selo Rakovac, jun 2026."
+  alt_de: Das Dorf Rakovac, Juni 2026
+  alt_hu: Rakovac falu, 2026. június
 gradina-2018:
   src: https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Gradina_(Novi_Rakovac)6.7.2018_043.jpg/1280px-Gradina_(Novi_Rakovac)6.7.2018_043.jpg
   page: https://commons.wikimedia.org/wiki/File:Gradina_(Novi_Rakovac)6.7.2018_043.jpg
@@ -136,6 +162,8 @@ gradina-2018:
   temp: true
   alt_ru: "Раскопанные стены на археологическом памятнике Градина"
   alt_sr: "Iskopani zidovi na arheološkom nalazištu Gradina"
+  alt_de: Freigelegte Mauern an der Fundstätte Gradina
+  alt_hu: Feltárt falak a Gradina régészeti lelőhelyen
 village-entrance:
   src: https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Ulaz_u_Rakovac.JPG/1280px-Ulaz_u_Rakovac.JPG
   page: https://commons.wikimedia.org/wiki/File:Ulaz_u_Rakovac.JPG
@@ -145,6 +173,8 @@ village-entrance:
   temp: true
   alt_ru: "Дорожный знак на въезде в Раковац"
   alt_sr: "Saobraćajni znak na ulazu u Rakovac"
+  alt_de: Ortsschild am Eingang von Rakovac
+  alt_hu: Helységnévtábla Rakovac bejáratánál
 strucica:
   src: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Spomenik_Strucica_Rakovac_2020.jpg/1280px-Spomenik_Strucica_Rakovac_2020.jpg
   page: https://commons.wikimedia.org/wiki/File:Spomenik_Strucica_Rakovac_2020.jpg
@@ -154,6 +184,8 @@ strucica:
   temp: true
   alt_ru: "Мемориал «Стручица» с тремя бетонными колоннами"
   alt_sr: "Spomenik Stručica sa tri betonska stuba"
+  alt_de: Die Gedenkstätte Stručica mit ihren drei Betonpfeilern
+  alt_hu: A Stručica-emlékmű három betonpillérével
 kamenolom-memorial:
   src: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Rakovac,_spomenik_Kamenolom_004.jpg/1280px-Rakovac,_spomenik_Kamenolom_004.jpg
   page: https://commons.wikimedia.org/wiki/File:Rakovac,_spomenik_Kamenolom_004.jpg
@@ -163,6 +195,8 @@ kamenolom-memorial:
   temp: true
   alt_ru: "Мемориал «Каменолом» у монастыря"
   alt_sr: "Spomen-obeležje Kamenolom kod manastira"
+  alt_de: Die Gedenkstätte Kamenolom beim Kloster
+  alt_hu: A Kamenolom-emlékmű a kolostor közelében
 forest-spring:
   src: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Fru%C5%A1ka_gora_-_%C5%A1umska_staza_u_prole%C4%87e.jpg/1280px-Fru%C5%A1ka_gora_-_%C5%A1umska_staza_u_prole%C4%87e.jpg
   page: https://commons.wikimedia.org/wiki/File:Fru%C5%A1ka_gora_-_%C5%A1umska_staza_u_prole%C4%87e.jpg
@@ -172,6 +206,8 @@ forest-spring:
   temp: true
   alt_ru: "Лесная тропа на Фрушка-Горе весной"
   alt_sr: "Šumska staza na Fruškoj gori u proleće"
+  alt_de: Waldweg auf der Fruška Gora im Frühling
+  alt_hu: Erdei ösvény a Tarcal-hegységben tavasszal
 forest-autumn:
   src: https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Fru%C5%A1ka_gora_-_%C5%A1uma_u_jesen_1.jpg/1280px-Fru%C5%A1ka_gora_-_%C5%A1uma_u_jesen_1.jpg
   page: https://commons.wikimedia.org/wiki/File:Fru%C5%A1ka_gora_-_%C5%A1uma_u_jesen_1.jpg
@@ -181,6 +217,8 @@ forest-autumn:
   temp: true
   alt_ru: "Лес на Фрушка-Горе осенью"
   alt_sr: "Fruškogorska šuma u jesen"
+  alt_de: Wald auf der Fruška Gora im Herbst
+  alt_hu: Erdő a Tarcal-hegységben ősszel
 forest-fog:
   src: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Fruska_gora_-_staza_u_magli.jpg/1280px-Fruska_gora_-_staza_u_magli.jpg
   page: https://commons.wikimedia.org/wiki/File:Fruska_gora_-_staza_u_magli.jpg
@@ -190,6 +228,8 @@ forest-fog:
   temp: true
   alt_ru: "Тропа на Фрушка-Горе в тумане"
   alt_sr: "Staza na Fruškoj gori u magli"
+  alt_de: Wanderweg auf der Fruška Gora im Nebel
+  alt_hu: Turistaút a Tarcal-hegységben ködben
 strazilovo:
   src: https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Stra%C5%BEilovo.JPG/1280px-Stra%C5%BEilovo.JPG
   page: https://commons.wikimedia.org/wiki/File:Stra%C5%BEilovo.JPG
@@ -199,6 +239,8 @@ strazilovo:
   temp: true
   alt_ru: "Зона отдыха Стражилово"
   alt_sr: "Izletište Stražilovo"
+  alt_de: Rastplatz Stražilovo
+  alt_hu: A stražilovói pihenőhely
 author-kosta:
   src: img/author-kosta.jpg
   page: https://stein-1.com
@@ -207,6 +249,8 @@ author-kosta:
   alt: Konstantin (Kosta) Stein
   alt_ru: Константин (Коста) Штейн
   alt_sr: Konstantin (Kosta) Stein
+  alt_de: Konstantin (Kosta) Stein
+  alt_hu: Konstantin (Kosta) Stein
   temp: false
 isposnica-inscription-1771:
   src: img/isposnica-inscription-1771.jpg
@@ -216,6 +260,8 @@ isposnica-inscription-1771:
   alt: Carved inscriptions at the hermitage, with the text of May 1771 naming Isaija, hieromonk of Rakovac
   alt_ru: Надписи на скале у испосницы, среди них надпись мая 1771 года с именем иеромонаха Исаии
   alt_sr: Natpisi na steni kod isposnice, među njima natpis iz maja 1771. sa imenom jeromonaha Isaije
+  alt_de: Eingemeißelte Inschriften an der Einsiedelei, mit dem Text vom Mai 1771, der Isaija, Hieromönch von Rakovac, nennt
+  alt_hu: Vésett feliratok a remetelaknál, köztük az 1771. májusi szöveg, amely Isaiját, a rakovaci hieromonachust említi
   temp: false
 isposnica-inscription-1830:
   src: img/isposnica-inscription-1830.jpg
@@ -225,6 +271,8 @@ isposnica-inscription-1830:
   alt: An inscription of 1830 in its own carved niche, with a cross above
   alt_ru: Надпись 1830 года в отдельной высеченной нише, над ней крест
   alt_sr: Natpis iz 1830. u posebnoj uklesanoj niši, sa krstom iznad
+  alt_de: Eine Inschrift von 1830 in einer eigenen gemeißelten Nische, darüber ein Kreuz
+  alt_hu: Egy 1830-as felirat saját vésett fülkében, fölötte kereszttel
   temp: false
 isposnica-inscriptions-entrance:
   src: img/isposnica-inscriptions-entrance.jpg
@@ -234,6 +282,8 @@ isposnica-inscriptions-entrance:
   alt: Names and dates carved beside the entrance of the hermitage
   alt_ru: Имена и даты, вырезанные у входа в испосницу
   alt_sr: Imena i datumi urezani pored ulaza u isposnicu
+  alt_de: Namen und Jahreszahlen, eingemeißelt neben dem Eingang der Einsiedelei
+  alt_hu: Nevek és évszámok a remetelak bejárata mellett a sziklába vésve
   temp: false
 isposnica-inscription-detail:
   src: img/isposnica-inscription-detail.jpg
@@ -243,6 +293,8 @@ isposnica-inscription-detail:
   alt: A 19th-century name carved in the soft limestone of the hermitage
   alt_ru: Имя XIX века, вырезанное в мягком известняке испосницы
   alt_sr: Ime iz 19. veka urezano u meki krečnjak isposnice
+  alt_de: Ein Name aus dem 19. Jahrhundert im weichen Kalkstein der Einsiedelei
+  alt_hu: Egy 19. századi név a remetelak puha mészkövébe vésve
   temp: false
 beli-majdan-entrance-sign:
   src: img/beli-majdan-entrance-sign.jpg
@@ -252,4 +304,6 @@ beli-majdan-entrance-sign:
   alt: Entrance to the Beli Majdan gallery with the national park's warning sign
   alt_ru: Вход в галерею Бели-Майдана с предупреждающей табличкой национального парка
   alt_sr: Ulaz u galeriju Belog majdana sa tablom upozorenja Nacionalnog parka
+  alt_de: Eingang zum Stollen von Beli Majdan mit dem Warnschild des Nationalparks
+  alt_hu: A Beli Majdan-i tárna bejárata a nemzeti park figyelmeztető táblájával
   temp: false

@@ -4,10 +4,10 @@ nav_routes: Túraútvonalak
 nav_monastery: A kolostor
 nav_history: Történelem
 nav_stay: Szállás
-nav_eat: Étel és bor
+nav_eat: Evés-ivás
 nav_products: Helyi termékek
-nav_shops: Boltok és szolgáltatások
-nav_business: Helyi vállalkozások
+nav_shops: Üzletek és szolgáltatások
+nav_business: Helyi ipar
 nav_people: Emberek
 nav_kids: Gyerekeknek
 nav_useful: Hasznos tudnivalók
@@ -85,6 +85,6 @@ brand_name: "Rakovac"
 temp_tip: "Kölcsönzött, szabad licencű fotó, sajátra cseréljük"
 contact_langs: "Szerb · orosz · angol · német"
 nav_author: "A szerzőről"
-nav_nearby: "Környék"
+nav_nearby: "A környéken"
 cat_nearby: "Környék"
 made_by: "Konstantin Stein · Claude-dal (Anthropic) közösen készült"

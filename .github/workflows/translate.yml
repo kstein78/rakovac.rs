@@ -1,0 +1,95 @@
+name: Translate
+
+# English is the source language. After every push that changes English texts, this workflow
+# translates the changed pages (and new interface strings / photo descriptions) into sr, ru, de, hu
+# with Claude, validates them, commits them to main and starts the deploy.
+# Needs the repository secret ANTHROPIC_API_KEY; without it the run is skipped with a warning.
+# Optional repository variable TRANSLATE_MODEL (default: claude-sonnet-5).
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'content/en/**'
+      - 'i18n/en.yaml'
+      - 'data/photos.yaml'
+      - 'scripts/translate-glossary.yaml'
+  workflow_dispatch:
+    inputs:
+      langs:
+        description: 'Languages, comma-separated'
+        default: 'sr,ru,de,hu'
+      force:
+        description: 'Optional: one page to re-translate even if unchanged, e.g. nature/isposnica.md'
+        default: ''
+
+permissions:
+  contents: write   # commit the translations
+  actions: write    # start the deploy workflow afterwards
+
+concurrency:
+  group: translate
+  cancel-in-progress: false
+
+jobs:
+  translate:
+    runs-on: ubuntu-24.04
+    steps:
+      - uses: actions/checkout@v7
+
+      - name: Check that the API key is set
+        id: key
+        env:
+          KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: |
+          if [ -z "$KEY" ]; then
+            echo "::warning::Secret ANTHROPIC_API_KEY is not set - automatic translation skipped."
+            echo "ready=false" >> "$GITHUB_OUTPUT"
+          else
+            echo "ready=true" >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: Install PyYAML
+        run: python3 -c "import yaml" 2>/dev/null || python3 -m pip install --user --break-system-packages pyyaml
+
+      - name: Translate what changed
+        id: tr
+        shell: bash
+        if: steps.key.outputs.ready == 'true'
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          TRANSLATE_MODEL: ${{ vars.TRANSLATE_MODEL }}
+          LANGS: ${{ inputs.langs || 'sr,ru,de,hu' }}
+          FORCE: ${{ inputs.force }}
+        run: |
+          args=(--langs "$LANGS")
+          if [ -n "$FORCE" ]; then args+=(--force "$FORCE"); fi
+          python3 scripts/translate.py "${args[@]}" | tee translate.log
+        # a single failed page does not block the others: they are committed, the run is marked failed below
+        continue-on-error: true
+
+      - name: Validate every translation
+        run: python3 scripts/translate.py --check
+
+      - name: Commit and deploy
+        if: steps.key.outputs.ready == 'true'
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A content i18n data .translations.json
+          if git diff --cached --quiet; then echo "Nothing new to translate."; exit 0; fi
+          git commit -m "Auto-translate from English (${GITHUB_SHA::7})" -m "$(grep -E '^(ok|remove|done)' translate.log || true)"
+          git pull --rebase origin main
+          git push origin HEAD:main
+          # pushes made with GITHUB_TOKEN do not trigger workflows, so start the deploy explicitly
+          gh workflow run deploy.yml --ref main
+
+      - name: Report failed pages
+        if: steps.key.outputs.ready == 'true'
+        run: |
+          grep '^FAILED' translate.log | sed 's/^/::error::/' || true
+          if [ "${{ steps.tr.outcome }}" = "failure" ]; then
+            echo "::error::Translation step failed, see its log."; exit 1
+          fi
