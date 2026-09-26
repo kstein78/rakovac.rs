@@ -3,9 +3,31 @@ title: Useful information
 linkTitle: Useful info
 weight: 70
 kicker: Practical
-lead: Emergency numbers, doctors and hospitals, police, post office, cash machines, local offices and buses, each with a directions link.
-tile: Emergency numbers, doctors, police, post, ATMs, buses
+lead: How to get here and get around, emergency numbers, doctors and hospitals, police, post office, cash machines and local offices, each with a directions link.
+tile: Getting here, buses, fuel, emergency numbers, doctors, police, post, ATMs
 groups:
+- id: transport
+  title: Getting here and around
+  intro: Rakovac lies on the regional road between Novi Sad (13 km) and Beočin (4 km). From Belgrade it is about 95 km by road.
+  items:
+  - name: MOL BS DODO Rakovac (filling station)
+    what: Petrol station right in Rakovac, on the main road at the eastern end of Novi Rakovac.
+    address: Main road, 21299 Rakovac
+    coords:
+    - 45.2101042
+    - 19.7774459
+  - name: Bus line 77 (GSP Novi Sad)
+    what: From Novi Sad to Stari Rakovac; stops at the monastery.
+    url: https://www.gspns.co.rs/
+  - name: Bus line 78 (GSP Novi Sad)
+    what: From Novi Sad to Beočin Selo; stops in Novi Rakovac at the traffic lights on the main crossroads.
+    url: https://www.gspns.co.rs/
+  - name: NIS Petrol, Beočin
+    what: Filling station on the road into Beočin.
+    address: Novosadska bb, Beočin
+    coords:
+    - 45.208574
+    - 19.7322392
 - id: emergency
   title: Emergency numbers
   intro: Calls to these numbers are free. **112** works from any mobile phone.
@@ -19,7 +41,7 @@ groups:
     what: Breakdown and towing service of the Automobile and Motorcycle Association of Serbia.
 - id: health
   title: Doctors and hospitals
-  intro: Rakovac has its own doctor's surgery (*ambulanta*), a branch of the Beočin health centre. For hospital care, the nearest large clinics are in Sremska Kamenica and Novi Sad.
+  intro: The nearest health centre is in Beočin, about 4 km west. For hospital care, the large clinics are in Sremska Kamenica and Novi Sad.
   items:
   - name: Apoteka Rakovac (pharmacy)
     what: Pharmacy in Novi Rakovac.
@@ -121,30 +143,8 @@ groups:
     what: 'Manages the national park: trails, picnic areas, rules.'
     phone: +381 21 463 666
     url: https://www.npfruskagora.co.rs/
-- id: transport
-  title: Getting here and around
-  intro: Rakovac lies on the regional road between Novi Sad (13 km) and Beočin (4 km). From Belgrade it is about 95 km by road.
-  items:
-  - name: MOL BS DODO Rakovac (filling station)
-    what: Petrol station right in Rakovac, on the main road at the eastern end of Novi Rakovac.
-    address: Main road, 21299 Rakovac
-    coords:
-    - 45.2101042
-    - 19.7774459
-  - name: Bus line 77 (GSP Novi Sad)
-    what: From Novi Sad to Stari Rakovac; stops at the monastery.
-    url: https://www.gspns.co.rs/
-  - name: Bus line 78 (GSP Novi Sad)
-    what: From Novi Sad to Beočin Selo; stops in Novi Rakovac at the traffic lights on the main crossroads.
-    url: https://www.gspns.co.rs/
-  - name: NIS Petrol, Beočin
-    what: Filling station on the road into Beočin.
-    address: Novosadska bb, Beočin
-    coords:
-    - 45.208574
-    - 19.7322392
 ---
 
 Tap **Get directions** to open the route in Google Maps on your phone.
 
-{{< todo >}}Add the Rakovac doctor's surgery (ambulanta) with its address, coordinates and surgery hours. Recheck all phone numbers and hours in person before launch.{{< /todo >}}
+{{< todo >}}Find out whether any doctors or medical services work in Rakovac itself (the municipality's 2022 page still mentions an "ambulanta" in Rakovac, but Kosta says there is none). Recheck all phone numbers and hours in person before launch.{{< /todo >}}

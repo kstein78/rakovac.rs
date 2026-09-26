@@ -10,7 +10,7 @@ Rakovac began as a **prnjavor**, a settlement of serfs who worked the monastery'
 
 After the old village was burned in 1943, it was not rebuilt in the same place. A new settlement, **Novi Rakovac**, grew further down the valley, towards the main road between Novi Sad and Beočin. Later the name was shortened to simply Rakovac, and the old part became **Stari Rakovac**. Over the following decades many families from Bosnia settled here, drawn by work at the Beočin cement factory. Because Novi Sad is so close, many weekend houses were also built in the hills.
 
-Today Rakovac is one of the largest local communities of Beočin municipality. It has a doctor's surgery, a branch of the Beočin primary school (grades 1–4), a kindergarten group and a good number of small and medium-sized firms.
+Today Rakovac is one of the largest local communities of Beočin municipality. It has a branch of the Beočin primary school (grades 1–4), a kindergarten group and a good number of small and medium-sized firms.
 
 ## Population
 

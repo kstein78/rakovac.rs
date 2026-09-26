@@ -19,13 +19,15 @@ videos:
 
 The waterfall is about **5 metres high**, on the Dumbovac stream (Dumbovački potok) west of Rakovac. It keeps running in dry periods but becomes much thinner. The best time to see it is late winter and spring. That is also when snowdrops and wild hyacinths flower all along the approach.
 
-## Routes to the waterfall
+## Three routes to the waterfall
 
-**From Rakovac Monastery (recommended):** walk up the asphalt road past the monastery. About 600 m from the monastery a marked path turns off towards the waterfall. The whole walk is about 3 km, takes roughly an hour and climbs about 150 m. See [Walking routes]({{< relref "routes" >}}).
+There are three ways in, locally known as the Dumbovac trails. Allow 3–4 hours for the round trip, including time at the waterfall.
 
-**From Brankovac picnic area (on the ridge road):** a steeper route drops down from the ridge towards Beočin Monastery. At the bottom you turn left along the stream to the waterfall. The descent is steep and slippery after rain.
+**1. From Dumbovo: the easiest.** The small settlement of Dumbovo lies about 1.7 km west of Rakovac, towards Beočin. Follow the asphalt road through the village, keep right at the first fork and left at the second. After about a kilometre of gentle climbing the asphalt ends and an earth path, signposted "Dumbovački vodopad" and waymarked, continues through dense deciduous forest along the stream. A little over 2.5 km in total.
 
-**From Dumbovo (near Beočin):** an asphalt lane climbs from the small settlement of Dumbovo into the forest, where trail markings take over.
+**2. From Rakovac Monastery: medium.** Walk up the asphalt road past the monastery. About 500–600 m above it, near the Šumska idila guest house, a marked path turns off into the forest. It descends to the Dumbovac stream and then follows the stream up to the waterfall: about 2.5–3 km, roughly an hour, with about 150 m of climbing. Watch your footing after rain. See [Walking routes]({{< relref "routes" >}}).
+
+**3. From the ridge (Brankovac / Zmajevac side): for experienced hikers.** From the ridge road a steep path drops towards Beočin Monastery; at the bottom you turn left along the stream. It is only a couple of kilometres, but waymarks are sporadic and the descent is steep and slippery. Local guides joke that you find the waterfall by listening for it.
 
 {{< note type="warning" title="Take care" >}}The last metres to the foot of the waterfall are on improvised steps and wet rock. Children should be held by the hand.{{< /note >}}
 

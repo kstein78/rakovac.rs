@@ -20,4 +20,3 @@ Most walks start at **Rakovac Monastery** in Stari Rakovac, where there is room 
 - Emergency number: **112** (ambulance **194**).
 {{< /note >}}
 
-{{< todo >}}Kosta: "Staža" from your list could not be found in any source under that name (checked NP Fruška Gora, fruskac.net, hiking blogs). Is it a local name for a place? There is a hidden draft page `nature/staza.md` ready to fill in once we know where it is.{{< /todo >}}

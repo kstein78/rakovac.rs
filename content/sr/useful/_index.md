@@ -3,9 +3,31 @@ title: Korisne informacije
 linkTitle: Korisno
 weight: 70
 kicker: Praktično
-lead: Brojevi za hitne slučajeve, lekari i bolnice, policija, pošta, bankomati, lokalne institucije i autobusi, svaki sa linkom za putanju.
-tile: Hitni brojevi, lekari, policija, pošta, bankomati, autobusi
+lead: Kako stići i kretati se, brojevi za hitne slučajeve, lekari i bolnice, policija, pošta, bankomati i lokalne institucije, svaki sa linkom za putanju.
+tile: Kako stići, autobusi, pumpe, hitni brojevi, lekari, policija, pošta, bankomati
 groups:
+- id: transport
+  title: Dolazak i prevoz
+  intro: Rakovac se nalazi na regionalnom putu između Novog Sada (13 km) i Beočina (4 km). Od Beograda je oko 95 km putem.
+  items:
+  - name: MOL BS DODO Rakovac (benzinska pumpa)
+    what: Benzinska pumpa u samom Rakovcu, na glavnom putu u istočnom delu Novog Rakovca.
+    address: Glavni put, 21299 Rakovac
+    coords:
+    - 45.2101042
+    - 19.7774459
+  - name: Autobus 77 (GSP Novi Sad)
+    what: Iz Novog Sada do Starog Rakovca; staje kod manastira.
+    url: https://www.gspns.co.rs/
+  - name: Autobus 78 (GSP Novi Sad)
+    what: Iz Novog Sada do Beočin Sela; staje u Novom Rakovcu kod semafora na glavnoj raskrsnici.
+    url: https://www.gspns.co.rs/
+  - name: NIS Petrol, Beočin
+    what: Benzinska pumpa na ulazu u Beočin.
+    address: Novosadska bb, Beočin
+    coords:
+    - 45.208574
+    - 19.7322392
 - id: emergency
   title: Brojevi za hitne slučajeve
   intro: Pozivi na ove brojeve su besplatni. **112** radi sa bilo kog mobilnog telefona.
@@ -19,7 +41,7 @@ groups:
     what: Šlep i pomoć na putu Auto-moto saveza Srbije.
 - id: health
   title: Lekari i bolnice
-  intro: Rakovac ima svoju ambulantu, ogranak Doma zdravlja Beočin. Za bolničko lečenje najbliže velike klinike su u Sremskoj Kamenici i Novom Sadu.
+  intro: Najbliži dom zdravlja je u Beočinu, oko 4 km zapadno. Za bolničko lečenje velike klinike su u Sremskoj Kamenici i Novom Sadu.
   items:
   - name: Apoteka Rakovac
     what: Apoteka u Novom Rakovcu.
@@ -121,30 +143,8 @@ groups:
     what: 'Upravlja parkom: staze, izletišta, pravila.'
     phone: +381 21 463 666
     url: https://www.npfruskagora.co.rs/
-- id: transport
-  title: Dolazak i prevoz
-  intro: Rakovac se nalazi na regionalnom putu između Novog Sada (13 km) i Beočina (4 km). Od Beograda je oko 95 km putem.
-  items:
-  - name: MOL BS DODO Rakovac (benzinska pumpa)
-    what: Benzinska pumpa u samom Rakovcu, na glavnom putu u istočnom delu Novog Rakovca.
-    address: Glavni put, 21299 Rakovac
-    coords:
-    - 45.2101042
-    - 19.7774459
-  - name: Autobus 77 (GSP Novi Sad)
-    what: Iz Novog Sada do Starog Rakovca; staje kod manastira.
-    url: https://www.gspns.co.rs/
-  - name: Autobus 78 (GSP Novi Sad)
-    what: Iz Novog Sada do Beočin Sela; staje u Novom Rakovcu kod semafora na glavnoj raskrsnici.
-    url: https://www.gspns.co.rs/
-  - name: NIS Petrol, Beočin
-    what: Benzinska pumpa na ulazu u Beočin.
-    address: Novosadska bb, Beočin
-    coords:
-    - 45.208574
-    - 19.7322392
 ---
 
 Dodirnite **„Putanja do mesta“** da otvorite put u Google mapama na telefonu.
 
-{{< todo >}}Dodati rakovačku ambulantu sa adresom, koordinatama i radnim vremenom. Pre pokretanja lično proveriti sve telefone i radna vremena.{{< /todo >}}
+{{< todo >}}Saznati da li u samom Rakovcu rade lekari ili neke zdravstvene službe (stranica opštine iz 2022. još pominje ambulantu u Rakovcu, ali Kosta kaže da je nema). Pre pokretanja lično proveriti sve telefone i radna vremena.{{< /todo >}}

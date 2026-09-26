@@ -10,7 +10,8 @@ Business contact data (addresses, phones, coordinates) come from Google Maps lis
 | Population 2,137 (2022); series 1961–2022 | B | en.wikipedia "Rakovac, Beočin" |
 | 1991 = 1,357 vs 1,375 | ? | sr.wiki vs en.wiki |
 | Old village burned 1943, Novi Rakovac built downstream, settlers from Bosnia for Beočin cement | B | sr.wikipedia "Rakovac (Beočin)" |
-| Ambulanta, 4-grade school branch, kindergarten group, many SMEs | B | beocin.rs (MZ Rakovac page) |
+| 4-grade school branch, kindergarten group, many SMEs | B | beocin.rs (MZ Rakovac page, 2022) |
+| "Ambulanta" in Rakovac (beocin.rs 2022) | ? | Kosta: none exists today — removed from site |
 | ~95 km from Belgrade | B | planine.net (Fruška Gora waterfalls, 2021) |
 | Bus 77 to Stari Rakovac stops at monastery; 78 to Beočin Selo stops at Novi Rakovac lights; ~3 km walk | B | 021.rs 11 Jan 2026 |
 | Emergency numbers 192/193/194/112, AMSS 1987 | A | danas.rs 2025; srbija.gov.rs; feruvi.rs Jul 2026 |
@@ -44,7 +45,7 @@ Business contact data (addresses, phones, coordinates) come from Google Maps lis
 | Veliki Gradac 470 m | B | planine.net |
 | Zmajevac hut now a restaurant | B | wikiloc (2021 report) |
 | 220 bird species, eastern imperial eagle, roe deer | B | nsuzivo.rs 2023 |
-| "Staža" | — | NOT FOUND — ask Kosta |
+| "Staža" = the Dumbovac trails; three routes (Dumbovo easiest ~2.5 km; from monastery near Šumska idila ~2.5 km/1 h; from ridge, sporadic marks); 3–4 h round trip | B | fruska-gora.com (Brvnare Platan); Kosta |
 
 ## Monastery
 | Claim | Level | Source |

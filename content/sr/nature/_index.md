@@ -20,4 +20,3 @@ Većina šetnji počinje kod **manastira Rakovac** u Starom Rakovcu, gde može d
 - Broj za hitne slučajeve: **112** (hitna pomoć **194**).
 {{< /note >}}
 
-{{< todo >}}Kosta: „Staža“ sa tvoje liste nije pronađena ni u jednom izvoru pod tim imenom (provereni NP Fruška gora, fruskac.net, planinarski blogovi). Da li je to lokalni naziv? Skrivena stranica `nature/staza.md` čeka podatke.{{< /todo >}}
