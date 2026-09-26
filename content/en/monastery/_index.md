@@ -53,7 +53,7 @@ The sisterhood sells its own **milk and cheese** to visitors and neighbours. Sup
 The forests and old walls around Rakovac look good on camera, and film crews have noticed.
 
 - **"Služba" (2024).** This 30-minute short film by writer-director Andrej Šepetkovski, starring Vesna Trivalić, was shot at Rakovac Monastery. The director said the monastery could convincingly play the 1960s. The film premiered in Belgrade in April 2024.
-- **"Robin Hood" (MGM+, 2025).** The ten-part series with Sean Bean as the Sheriff of Nottingham was filmed in Serbia, and Fruška Gora National Park stood in for Sherwood Forest. Filming of season two was scheduled to start on 15 June 2026, again with forest scenes on Fruška Gora.
+- **"Robin Hood" (MGM+, 2025).** The ten-part series with Sean Bean as the Sheriff of Nottingham was filmed in Serbia, and Fruška Gora National Park stood in for Sherwood Forest. Residents of Rakovac saw the crew at work at Rakovac Monastery itself, with equipment set up in the grounds and floodlights burning at night. Filming of season two was scheduled to start on 15 June 2026, again with forest scenes on Fruška Gora.
 - **Spring 2026.** Residents saw a period film set about 50–100 m from the monastery, with a military tent, trucks from the Second World War era, a pair of horses with a cart, and camera equipment. The production has not been identified yet.
 
-{{< todo >}}Identify the spring-2026 production (Film Center Serbia / Filming in Serbia lists; ask the monastery). Confirm whether any Robin Hood scenes were shot in Rakovac itself: the public sources only say "Fruška Gora".{{< /todo >}}
+{{< todo >}}Identify the spring-2026 production (Film Center Serbia / Filming in Serbia lists; ask the monastery). Ask the monastery which Robin Hood scenes were shot there and in which season.{{< /todo >}}

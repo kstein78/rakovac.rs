@@ -61,7 +61,7 @@ Sestrinstvo prodaje sopstveno **mleko i sir** posetiocima i komšijama. Ovakva p
 Šume i stari zidovi oko Rakovca dobro izgledaju pred kamerom, i filmske ekipe su to primetile.
 
 - **„Služba“ (2024).** Ovaj kratkometražni film od 30 minuta, scenariste i reditelja Andreja Šepetkovskog, sa Vesnom Trivalić, sniman je u manastiru Rakovac. Reditelj je rekao da je manastir uverljivo „odglumio“ šezdesete godine. Premijera je održana u Beogradu u aprilu 2024.
-- **„Robin Hud“ (MGM+, 2025).** Serija od deset epizoda sa Šonom Binom u ulozi šerifa od Notingema snimana je u Srbiji, a Nacionalni park Fruška gora „glumio“ je Šervudsku šumu. Snimanje druge sezone trebalo je da počne 15. juna 2026, ponovo sa šumskim scenama na Fruškoj gori.
+- **„Robin Hud“ (MGM+, 2025).** Serija od deset epizoda sa Šonom Binom u ulozi šerifa od Notingema snimana je u Srbiji, a Nacionalni park Fruška gora „glumio“ je Šervudsku šumu. Meštani Rakovca su videli filmsku ekipu na delu u samom manastiru Rakovac: oprema je bila postavljena u porti, a noću su goreli reflektori. Snimanje druge sezone trebalo je da počne 15. juna 2026, ponovo sa šumskim scenama na Fruškoj gori.
 - **Proleće 2026.** Meštani su videli filmski set istorijskog filma oko 50–100 m od manastira, sa vojnim šatorom, kamionima iz vremena Drugog svetskog rata, parom konja sa kolima i filmskom opremom. Produkcija još nije utvrđena.
 
-{{< todo >}}Utvrditi produkciju iz proleća 2026 (spiskovi Filmskog centra Srbije / Filming in Serbia; pitati u manastiru). Proveriti da li su scene „Robin Huda“ snimane u samom Rakovcu: javni izvori navode samo „Fruška gora“.{{< /todo >}}
+{{< todo >}}Utvrditi produkciju iz proleća 2026 (spiskovi Filmskog centra Srbije / Filming in Serbia; pitati u manastiru). Pitati u manastiru koje scene „Robin Huda“ su snimane kod njih i u kojoj sezoni.{{< /todo >}}

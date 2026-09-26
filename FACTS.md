@@ -65,7 +65,7 @@ Business contact data (addresses, phones, coordinates) come from Google Maps lis
 | "Služba" (2024) shot at Rakovac Monastery, Šepetkovski, Trivalić | B | telegraf.rs 24 Apr 2024 |
 | Robin Hood (MGM+ 2025) filmed in Fruška Gora NP | A | countryfile.com; screenglobalproduction.com; ekapija.com |
 | Robin Hood season 2 from 15 Jun 2026, back on Fruška Gora | B | thelocationguide.com Apr 2026 |
-| Robin Hood scenes in Rakovac itself | ? | not confirmed by any source |
+| Robin Hood filmed at Rakovac Monastery (equipment in the grounds, floodlights at night) | C | Kosta, local eyewitness; no published source found |
 | Spring 2026 period film set near monastery | C | Kosta |
 
 ## History (Gradina / Dombó, WWII)
