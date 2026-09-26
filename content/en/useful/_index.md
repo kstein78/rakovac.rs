@@ -125,6 +125,12 @@ groups:
   title: Getting here and around
   intro: Rakovac lies on the regional road between Novi Sad (13 km) and Beočin (4 km). From Belgrade it is about 95 km by road.
   items:
+  - name: MOL BS DODO Rakovac (filling station)
+    what: Petrol station right in Rakovac, on the main road at the eastern end of Novi Rakovac.
+    address: Main road, 21299 Rakovac
+    coords:
+    - 45.2101042
+    - 19.7774459
   - name: Bus line 77 (GSP Novi Sad)
     what: From Novi Sad to Stari Rakovac; stops at the monastery.
     url: https://www.gspns.co.rs/
@@ -132,7 +138,7 @@ groups:
     what: From Novi Sad to Beočin Selo; stops in Novi Rakovac at the traffic lights on the main crossroads.
     url: https://www.gspns.co.rs/
   - name: NIS Petrol, Beočin
-    what: Nearest filling station found, on the road into Beočin.
+    what: Filling station on the road into Beočin.
     address: Novosadska bb, Beočin
     coords:
     - 45.208574

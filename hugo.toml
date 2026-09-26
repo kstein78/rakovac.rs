@@ -57,7 +57,10 @@ disableLanguages = ["de", "hu"]
   # Draft helpers. Set both to false before the public launch.
   showPhotoBadges = true   # yellow "TEMP PHOTO" badge on borrowed photos
   showTodos = true         # yellow editor notes written with {{< todo >}}
-  contactEmail = "hello@rakovac.rs"
+  contactEmail = "konstantin.stein@gmail.com"
+  contactPhone = "+381638015320"          # used in tel:, WhatsApp, Viber, Telegram links
+  contactPhoneDisplay = "+381 63 801 5320"
+  authorSite = "https://stein-1.com"
 
 [taxonomies]
   # none used for now; categories live in front matter "category"

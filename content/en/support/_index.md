@@ -33,6 +33,6 @@ We welcome a link back to rakovac.rs from your website or booking page, and a QR
 
 ## Get in touch
 
-Write to **hello@rakovac.rs**. Tell us your business name, what you offer and how to reach you.
+Write to **konstantin.stein@gmail.com**. Tell us your business name, what you offer and how to reach you.
 
 {{< todo >}}Kosta: set up the mailbox, decide the donation tiers (amounts are not published on the site yet), prepare the QR sign design. Check the legal form for accepting donations (e.g. through Optilife DOO or an association).{{< /todo >}}

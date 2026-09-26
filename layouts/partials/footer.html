@@ -15,6 +15,14 @@
         {{ range site.Data.nav.secondary }}{{ with site.GetPage .path }}<li><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></li>{{ end }}{{ end }}
       </ul>
     </nav>
+    <div class="footer-contact">
+      <p class="label">{{ i18n "contact" }}</p>
+      {{ with site.Params.contactEmail }}<p><a href="mailto:{{ . }}">{{ . }}</a></p>{{ end }}
+      {{ with site.Params.contactPhone }}<p class="num"><a href="tel:{{ . }}">{{ site.Params.contactPhoneDisplay | default . }}</a><br>
+        <span class="small"><a href="https://wa.me/{{ strings.TrimPrefix "+" . }}" rel="noopener">WhatsApp</a> · <a href="viber://chat?number=%2B{{ strings.TrimPrefix "+" . }}">Viber</a> · <a href="https://t.me/{{ . }}" rel="noopener">Telegram</a></span></p>{{ end }}
+      <p class="small muted">{{ i18n "contact_langs" }}</p>
+      {{ with site.GetPage "author" }}<p class="small"><a href="{{ .RelPermalink }}">{{ .LinkTitle }} →</a></p>{{ end }}
+    </div>
     <div>
       <p class="label">{{ i18n "emergency" }}</p>
       <p class="emergency-line"><strong>112</strong> · 192 · 193 · 194</p>

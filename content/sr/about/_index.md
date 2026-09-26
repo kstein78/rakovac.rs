@@ -15,7 +15,7 @@ Sajt je volonterski projekat meštana Rakovca. **Nije** zvanični sajt opštine 
 
 Svaka činjenica potiče iz objavljenog izvora, sa natpisa koji smo fotografisali ili od imenovanog lokalnog svedoka. Vodimo dnevnik činjenica sa izvorom svake tvrdnje. Gde se izvori razilaze, to piše na stranici. Podaci o firmama označeni su kao **„još nisu potvrđeni od strane vlasnika“** dok ih vlasnik ne proveri.
 
-Pronašli ste grešku? Pišite nam na **hello@rakovac.rs**.
+Pronašli ste grešku? Pišite nam na **konstantin.stein@gmail.com**.
 
 ## Lokalno novinarstvo
 

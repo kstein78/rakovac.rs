@@ -15,7 +15,7 @@ The site is a volunteer project by residents of Rakovac. It is **not** an offici
 
 Every factual statement comes from a published source, from an inscription we have photographed, or from a named local witness. We keep a fact log with the source of each statement. Where sources disagree we say so on the page. Business details are marked **"not yet confirmed by the owner"** until the owner has checked them.
 
-Found a mistake? Please tell us at **hello@rakovac.rs**.
+Found a mistake? Please tell us at **konstantin.stein@gmail.com**.
 
 ## Local journalism
 

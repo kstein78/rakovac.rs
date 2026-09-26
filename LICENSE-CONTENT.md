@@ -30,4 +30,4 @@ and indicate if you changed it.
 - Leaflet 1.9.4: BSD-2-Clause (`static/vendor/leaflet/`).
 - Map tiles: © OpenStreetMap contributors (ODbL).
 
-Questions: hello@rakovac.rs
+Questions: konstantin.stein@gmail.com

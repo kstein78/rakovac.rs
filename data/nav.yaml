@@ -17,6 +17,7 @@ secondary:
   - { path: business,       label: nav_business }
   - { path: support,        label: nav_support }
   - { path: about,          label: nav_about }
+  - { path: author,         label: nav_author }
 
 # Map marker colours per category (front matter "category").
 categories:

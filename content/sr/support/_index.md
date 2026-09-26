@@ -33,6 +33,6 @@ Radujemo se linku ka rakovac.rs sa vašeg sajta ili stranice za rezervacije i ta
 
 ## Kontakt
 
-Pišite na **hello@rakovac.rs**: naziv firme, šta nudite i kako da vas kontaktiramo.
+Pišite na **konstantin.stein@gmail.com**: naziv firme, šta nudite i kako da vas kontaktiramo.
 
 {{< todo >}}Kosta: otvoriti poštansko sanduče, odrediti nivoe donacija (iznosi se još ne objavljuju na sajtu), pripremiti dizajn QR table. Proveriti pravni okvir za primanje donacija (npr. preko Optilife DOO ili udruženja).{{< /todo >}}

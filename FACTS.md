@@ -82,3 +82,9 @@ Kamenolom memorial: coords 45.18103, 19.77137; 500 m from monastery — fruskac.
 | Invent: founded 1986; heater taps, cisterns, mixers, valves, siphons; Beočinski put 2 | B | invent.co.rs "O nama" |
 | Gorska ruža: 13th festival Oct 2023, 25 exhibitors | B | beocin.rs (15 Oct 2023) |
 | 7pro8 | C | Kosta — text to be written |
+
+## Added 2026-09-26
+| Claim | Level | Source |
+|---|---|---|
+| MOL BS DODO Rakovac filling station, coords 45.2101042, 19.7774459 | A | Kosta (Google Maps link); Google Places |
+| Author page: biography, family, contacts | C | Kosta, 2026-09-26 (published at his request) |

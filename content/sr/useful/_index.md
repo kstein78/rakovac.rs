@@ -125,6 +125,12 @@ groups:
   title: Dolazak i prevoz
   intro: Rakovac se nalazi na regionalnom putu između Novog Sada (13 km) i Beočina (4 km). Od Beograda je oko 95 km putem.
   items:
+  - name: MOL BS DODO Rakovac (benzinska pumpa)
+    what: Benzinska pumpa u samom Rakovcu, na glavnom putu u istočnom delu Novog Rakovca.
+    address: Glavni put, 21299 Rakovac
+    coords:
+    - 45.2101042
+    - 19.7774459
   - name: Autobus 77 (GSP Novi Sad)
     what: Iz Novog Sada do Starog Rakovca; staje kod manastira.
     url: https://www.gspns.co.rs/
@@ -132,7 +138,7 @@ groups:
     what: Iz Novog Sada do Beočin Sela; staje u Novom Rakovcu kod semafora na glavnoj raskrsnici.
     url: https://www.gspns.co.rs/
   - name: NIS Petrol, Beočin
-    what: Najbliža pronađena benzinska pumpa, na ulazu u Beočin.
+    what: Benzinska pumpa na ulazu u Beočin.
     address: Novosadska bb, Beočin
     coords:
     - 45.208574
