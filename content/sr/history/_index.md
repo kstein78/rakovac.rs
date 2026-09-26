@@ -1,7 +1,7 @@
 ---
 title: Sedam hiljada godina Rakovca
 linkTitle: Istorija
-weight: 30
+weight: 5
 kicker: Istorija
 lead: Zemljoradnici iz neolita, rimska vila, srednjovekovna ugarska opatija pretvorena u tvrđavu, srpski manastir sa prepisivačkom radionicom, partizanski otpor i selo obnovljeno posle rata. Kroz jednu malu dolinu prošlo je mnogo istorije.
 tile: Od neolitskog naselja i rimske vile do Drugog svetskog rata

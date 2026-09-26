@@ -1,7 +1,7 @@
 ---
 title: Siebentausend Jahre Rakovac
 linkTitle: Geschichte
-weight: 30
+weight: 5
 kicker: Geschichte
 lead: Bauern der Jungsteinzeit, eine römische Villa, eine mittelalterliche ungarische Abtei, die zur Festung wurde, ein serbisches Kloster mit Schreibwerkstatt, der Widerstand der Partisanen und ein nach dem Krieg neu aufgebautes Dorf. Durch ein einziges kleines Tal ist sehr viel Geschichte gegangen.
 tile: Von einer jungsteinzeitlichen Siedlung und einer römischen Villa bis zum Zweiten Weltkrieg

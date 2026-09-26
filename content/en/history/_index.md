@@ -1,7 +1,7 @@
 ---
 title: "Seven thousand years of Rakovac"
 linkTitle: "History"
-weight: 30
+weight: 5
 kicker: "History"
 lead: "Farmers of the Neolithic, a Roman villa, a medieval Hungarian abbey turned fortress, a Serbian monastery with a copying workshop, partisan resistance and a village rebuilt after the war. A great deal of history has passed through one small valley."
 tile: "From a Neolithic settlement and a Roman villa to the Second World War"

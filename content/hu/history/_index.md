@@ -1,7 +1,7 @@
 ---
 title: Rakovac hétezer éve
 linkTitle: Történelem
-weight: 30
+weight: 5
 kicker: Történelem
 lead: Újkőkori földművesek, egy római villa, egy középkori magyar apátság, amelyből erőd lett, egy szerb kolostor másolóműhellyel, partizán ellenállás és egy háború után újjáépült falu. Egyetlen kis völgyön rengeteg történelem vonult át.
 tile: Az újkőkori településtől és a római villától a második világháborúig

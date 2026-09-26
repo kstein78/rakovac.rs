@@ -1,11 +1,11 @@
 # Site navigation. "path" is the section folder under content/<lang>/,
 # "label" is the key in i18n/<lang>.yaml.
 primary:
+  - { path: history,    label: nav_history }
   - { path: nature,     label: nav_nature }
   - { path: routes,     label: nav_routes }
   - { path: nearby,     label: nav_nearby }
   - { path: monastery,  label: nav_monastery }
-  - { path: history,    label: nav_history }
   - { path: stay,       label: nav_stay }
   - { path: eat-drink,  label: nav_eat }
   - { path: people,     label: nav_people }
