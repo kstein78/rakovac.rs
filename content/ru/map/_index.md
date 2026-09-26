@@ -1,5 +1,5 @@
 ---
-title: Карта Раковаца
+title: Карта Раковца
 linkTitle: Карта
 weight: 80
 kicker: Всё на одной карте
