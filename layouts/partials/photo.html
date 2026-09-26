@@ -1,0 +1,18 @@
+{{/* Usage: partial "photo.html" (dict "key" "beli-majdan-06" "class" "hero" "caption" "optional" "eager" true) */}}
+{{ $p := index site.Data.photos .key }}
+{{ if $p }}
+<figure class="photo {{ .class }}">
+  <div class="photo-frame">
+    {{ if site.Params.offlinePreview }}<div class="offline-img" role="img" aria-label="{{ $p.alt }}"><span>{{ $p.alt }}</span></div>{{ else }}<img src="{{ $p.src }}" alt="{{ $p.alt }}" {{ if not .eager }}loading="lazy"{{ end }} decoding="async">{{ end }}
+    {{ if and $p.temp site.Params.showPhotoBadges }}<span class="temp-badge" title="Borrowed open-licence photo. Replace with our own shot.">{{ i18n "photo_temp" }}</span>{{ end }}
+  </div>
+  <figcaption>
+    {{ with .caption }}<span class="cap">{{ . | markdownify }}</span>{{ end }}
+    <span class="credit">{{ i18n "photo_by" }}: <a href="{{ $p.page }}" rel="noopener">{{ $p.author }}</a>, {{ $p.license }}</span>
+  </figcaption>
+</figure>
+{{ else }}
+<figure class="photo photo-missing {{ .class }}">
+  <div class="photo-frame"><span>{{ i18n "coming_soon" }}: {{ .key }}</span></div>
+</figure>
+{{ end }}

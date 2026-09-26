@@ -1,0 +1,7 @@
+{{ $siblings := where (.Parent.Pages.ByWeight) "Permalink" "ne" .Permalink }}
+{{ with first 3 $siblings }}
+<section class="wrap listing nearby">
+  <h2 class="listing-title">{{ i18n "more_in" }} {{ $.Parent.LinkTitle }}</h2>
+  <div class="cards">{{ range . }}{{ partial "card.html" . }}{{ end }}</div>
+</section>
+{{ end }}

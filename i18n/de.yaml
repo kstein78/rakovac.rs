@@ -1,0 +1,70 @@
+# UI strings. Machine-drafted by Claude 2026-09-26 - have a native speaker review before enabling.
+nav_nature: Natur
+nav_routes: Wanderwege
+nav_monastery: Das Kloster
+nav_history: Geschichte
+nav_stay: Übernachten
+nav_eat: Essen & Wein
+nav_products: Regionale Produkte
+nav_shops: Läden & Dienste
+nav_business: Lokale Betriebe
+nav_people: Menschen
+nav_kids: Für Kinder
+nav_useful: Nützliches
+nav_map: Karte
+nav_support: Für lokale Betriebe
+nav_about: Über diese Seite
+menu: Menü
+skip: Zum Inhalt springen
+unofficial_note: Ein unabhängiger, inoffizieller Führer durch das Dorf Rakovac.
+get_directions: Route planen
+open_gmaps: In Google Maps öffnen
+on_site_map: Auf der Karte zeigen
+address: Adresse
+phone: Telefon
+website: Website
+coordinates: Koordinaten
+altitude: Höhe
+distance: Länge
+walking_time: Gehzeit
+difficulty: Schwierigkeit
+parking: Parken
+how_to_get: Anfahrt
+video: Video
+video_soon: Video folgt
+video_consent: Das Video wird von YouTube abgespielt. Mit dem Klick laden Sie Inhalte von YouTube (Google).
+play_video: Video abspielen
+photo_temp: PLATZHALTER-FOTO
+read_more: Mehr lesen
+unconfirmed: Angaben noch nicht vom Inhaber bestätigt
+partner: Unterstützt rakovac.rs
+language: Sprache
+nearby: In der Nähe
+kids_friendly: Für Kinder geeignet
+cat_nature: Natur
+cat_heritage: Kulturerbe
+cat_stay: Übernachten
+cat_food: Essen & Wein
+cat_products: Regionale Produkte
+cat_shops: Läden
+cat_business: Lokale Betriebe
+cat_services: Dienste
+cat_kids: Kinder
+photo_credits: Bildnachweise
+sources: Quellen
+emergency: Notfall
+see_all: Alle
+explore: Entdecken
+m_asl: m über dem Meeresspiegel
+hours_note: 'Öffnungszeiten ändern sich: bitte vorher prüfen.'
+todo: Redaktionsnotiz
+map_hint: Tippen Sie auf eine Markierung.
+coming_soon: Demnächst
+contact: Kontakt
+photo_by: Foto
+em_legend: 112 Notruf · 192 Polizei · 193 Feuerwehr · 194 Rettungsdienst
+footer_region: Novi Rakovac · Stari Rakovac · 21299 Rakovac · Gemeinde Beočin · Serbien
+more_in: "Mehr aus"
+author: "Urheber"
+license: "Lizenz"
+status: "Status"

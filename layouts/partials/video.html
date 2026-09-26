@@ -1,0 +1,16 @@
+{{/* Usage: partial "video.html" (dict "id" "YOUTUBE_ID" "title" "…") ; empty id = planned video placeholder */}}
+{{ if .id }}
+<figure class="video" data-yt="{{ .id }}">
+  <button type="button" class="video-consent">
+    <span class="video-play" aria-hidden="true">▶</span>
+    <span class="video-title">{{ .title }}</span>
+    <span class="video-note">{{ i18n "video_consent" }}</span>
+  </button>
+</figure>
+{{ else }}
+<figure class="video video-planned">
+  <div class="video-consent">
+    <span class="video-title">{{ i18n "video_soon" }}{{ with .title }}: {{ . }}{{ end }}</span>
+  </div>
+</figure>
+{{ end }}

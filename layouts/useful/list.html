@@ -1,0 +1,33 @@
+{{ define "main" }}
+{{ partial "page-head.html" . }}
+<div class="wrap page-body"><div class="prose">{{ .Content }}</div></div>
+{{ range .Params.groups }}
+<section class="wrap useful-group" id="{{ .id }}">
+  <h2>{{ .title }}</h2>
+  {{ with .intro }}<p class="prose-width">{{ . | markdownify }}</p>{{ end }}
+  <ul class="poi-list">
+    {{ range .items }}
+    <li class="poi">
+      <div class="poi-main">
+        <p class="poi-name">{{ .name }}</p>
+        {{ with .what }}<p class="poi-what">{{ . | markdownify }}</p>{{ end }}
+        <p class="poi-meta">
+          {{ with .address }}<span>{{ . }}</span>{{ end }}
+          {{ with .phone }}<span><a href="tel:{{ replace . " " "" }}">{{ . }}</a></span>{{ end }}
+          {{ with .distance }}<span>{{ . }}</span>{{ end }}
+        </p>
+        {{ with .note }}<p class="small muted">{{ . | markdownify }}</p>{{ end }}
+      </div>
+      {{ with .coords }}
+      <div class="poi-actions">
+        <a class="btn" href="https://www.google.com/maps/dir/?api=1&destination={{ index . 0 }},{{ index . 1 }}" rel="noopener">{{ i18n "get_directions" }}</a>
+      </div>
+      {{ end }}
+      {{ with .url }}<div class="poi-actions"><a class="btn btn-quiet" href="{{ . }}" rel="noopener">{{ i18n "website" }}</a></div>{{ end }}
+    </li>
+    {{ end }}
+  </ul>
+</section>
+{{ end }}
+<section class="wrap">{{ partial "allpoints-map.html" (dict "class" "map-home") }}</section>
+{{ end }}

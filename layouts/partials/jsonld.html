@@ -1,0 +1,8 @@
+{{ if and .Params.coords (not .IsSection) }}
+{{ $type := "TouristAttraction" }}
+{{ if eq .Params.category "stay" }}{{ $type = "LodgingBusiness" }}{{ else if eq .Params.category "food" }}{{ $type = "FoodEstablishment" }}{{ else if in (slice "shops" "products" "business") .Params.category }}{{ $type = "LocalBusiness" }}{{ end }}
+{{ $d := dict "@context" "https://schema.org" "@type" $type "name" .Title "url" .Permalink "geo" (dict "@type" "GeoCoordinates" "latitude" (index .Params.coords 0) "longitude" (index .Params.coords 1)) }}
+{{ with .Params.address }}{{ $d = merge $d (dict "address" .) }}{{ end }}
+{{ with .Params.phone }}{{ $d = merge $d (dict "telephone" .) }}{{ end }}
+<script type="application/ld+json">{{ $d | jsonify | safeJS }}</script>
+{{ end }}

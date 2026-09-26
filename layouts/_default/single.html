@@ -1,0 +1,15 @@
+{{ define "main" }}
+{{ partial "page-head.html" . }}
+<div class="wrap page-body has-aside">
+  <div class="prose">
+    {{ .Content }}
+  </div>
+  <div class="aside">
+    {{ partial "facts.html" . }}
+    {{ partial "minimap.html" . }}
+  </div>
+</div>
+{{ partial "gallery.html" . }}
+<div class="wrap">{{ partial "videos.html" . }}</div>
+{{ partial "nearby.html" . }}
+{{ end }}

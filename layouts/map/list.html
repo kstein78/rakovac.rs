@@ -1,0 +1,7 @@
+{{ define "main" }}
+{{ partial "page-head.html" . }}
+<div class="wrap">
+  {{ partial "allpoints-map.html" (dict "class" "map-full") }}
+  <div class="prose">{{ .Content }}</div>
+</div>
+{{ end }}

@@ -1,0 +1,49 @@
+{{ define "main" }}
+<section class="home-hero">
+  <div class="wrap home-hero-grid">
+    <div class="home-hero-text">
+      <p class="kicker">{{ site.Params.tagline }}</p>
+      <h1 class="display">Rakovac</h1>
+      {{ with .Params.lead }}<p class="lead">{{ . | markdownify }}</p>{{ end }}
+      {{ with .Params.keyfacts }}
+      <ul class="keyfacts">
+        {{ range . }}<li><span class="kf-num">{{ .value }}</span><span class="kf-label">{{ .label }}</span></li>{{ end }}
+      </ul>
+      {{ end }}
+    </div>
+    {{ with .Params.photo }}{{ partial "photo.html" (dict "key" . "class" "home-photo" "eager" true) }}{{ end }}
+  </div>
+</section>
+
+{{ with .Params.featured }}
+<section class="wrap listing">
+  <h2 class="listing-title">{{ $.Params.featured_title }}</h2>
+  <div class="cards cards-3">
+    {{ range . }}{{ with site.GetPage . }}{{ partial "card.html" . }}{{ end }}{{ end }}
+  </div>
+</section>
+{{ end }}
+
+<section class="wrap sections">
+  <h2 class="listing-title">{{ .Params.sections_title }}</h2>
+  <div class="section-tiles">
+    {{ range (append site.Data.nav.secondary site.Data.nav.primary) }}
+      {{ with site.GetPage .path }}{{ if not (in (slice "map" "about" "support") .Section) }}
+      <a class="tile" href="{{ .RelPermalink }}">
+        <span class="tile-title">{{ .LinkTitle }}</span>
+        {{ with .Params.tile }}<span class="tile-text">{{ . }}</span>{{ end }}
+      </a>
+      {{ end }}{{ end }}
+    {{ end }}
+  </div>
+</section>
+
+<section class="wrap page-body">
+  <div class="prose">{{ .Content }}</div>
+</section>
+
+<section class="wrap home-map">
+  <h2 class="listing-title">{{ with site.GetPage "map" }}<a href="{{ .RelPermalink }}">{{ .Title }}</a>{{ end }}</h2>
+  {{ partial "allpoints-map.html" (dict "class" "map-home") }}
+</section>
+{{ end }}

@@ -1,0 +1,28 @@
+<footer class="site-footer">
+  <div class="wrap footer-grid">
+    <div>
+      <p class="footer-brand">Rakovac</p>
+      <p>{{ i18n "unofficial_note" }}</p>
+      <p class="muted small">{{ i18n "footer_region" }}</p>
+    </div>
+    <nav aria-label="Sections">
+      <ul class="footer-links">
+        {{ range site.Data.nav.primary }}{{ with site.GetPage .path }}<li><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></li>{{ end }}{{ end }}
+      </ul>
+    </nav>
+    <nav aria-label="More">
+      <ul class="footer-links">
+        {{ range site.Data.nav.secondary }}{{ with site.GetPage .path }}<li><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></li>{{ end }}{{ end }}
+      </ul>
+    </nav>
+    <div>
+      <p class="label">{{ i18n "emergency" }}</p>
+      <p class="emergency-line"><strong>112</strong> · 192 · 193 · 194</p>
+      <p class="small muted">{{ i18n "em_legend" }}</p>
+    </div>
+  </div>
+  <div class="wrap footer-base small muted">
+    <span>© {{ now.Year }} rakovac.rs</span>
+    <span>© OpenStreetMap contributors · <a href="{{ with site.GetPage "about" }}{{ .RelPermalink }}{{ end }}#photo-credits">{{ i18n "photo_credits" }}</a></span>
+  </div>
+</footer>

@@ -1,0 +1,30 @@
+---
+title: About this site
+linkTitle: About this site
+weight: 95
+kicker: rakovac.rs
+lead: rakovac.rs is an independent, unofficial guide to the village of Rakovac on Fruška Gora, made by people who live here.
+tile: Who we are, sources, photo credits
+---
+
+## Who is behind the site
+
+The site is a volunteer project by residents of Rakovac. It is **not** an official website of the Municipality of Beočin, the local community office, Rakovac Monastery or Fruška Gora National Park.
+
+## How we check facts
+
+Every factual statement comes from a published source, from an inscription we have photographed, or from a named local witness. We keep a fact log with the source of each statement. Where sources disagree we say so on the page. Business details are marked **"not yet confirmed by the owner"** until the owner has checked them.
+
+Found a mistake? Please tell us at **hello@rakovac.rs**.
+
+## Local journalism
+
+We record interviews with residents: memories of the village, the monastery, the quarry and the war years. Every interview is published only with the speaker's consent. See [People]({{< relref "people" >}}).
+
+## Privacy
+
+This site does not use advertising or tracking cookies. Videos are loaded from YouTube only after you press play. The maps load map tiles from OpenStreetMap servers.
+
+## Languages
+
+The site is being prepared in five languages: Serbian, English, Russian, German and Hungarian.

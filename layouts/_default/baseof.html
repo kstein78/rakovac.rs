@@ -1,0 +1,44 @@
+<!doctype html>
+<html lang="{{ site.Language.LanguageCode | default site.Language.Lang }}">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  {{ $title := cond .IsHome (printf "%s · %s" site.Title site.Params.tagline) (printf "%s · %s" .Title site.Title) }}
+  <title>{{ $title }}</title>
+  {{ $desc := .Params.summary | default .Description | default site.Params.description }}
+  <meta name="description" content="{{ $desc | plainify }}">
+  <link rel="canonical" href="{{ .Permalink }}">
+  {{ if site.Params.noindex }}<meta name="robots" content="noindex, nofollow">{{ end }}
+  {{ range .AllTranslations }}<link rel="alternate" hreflang="{{ .Language.LanguageCode | default .Language.Lang }}" href="{{ .Permalink }}">
+  {{ end }}
+  <meta property="og:title" content="{{ .Title }}">
+  <meta property="og:description" content="{{ $desc | plainify }}">
+  <meta property="og:url" content="{{ .Permalink }}">
+  <meta property="og:type" content="website">
+  {{ with .Params.photo }}{{ with index site.Data.photos . }}<meta property="og:image" content="{{ .src }}">{{ end }}{{ end }}
+  <meta name="theme-color" content="#1f3a2e">
+  <link rel="icon" href="{{ "favicon.svg" | absURL }}" type="image/svg+xml">
+  {{ $css := resources.Get "css/main.css" | minify | fingerprint }}
+  <link rel="stylesheet" href="{{ $css.RelPermalink }}" integrity="{{ $css.Data.Integrity }}">
+  {{ $needsMap := or .Params.coords .Params.map .IsHome (in (slice "map" "useful") .Section) }}
+  {{ if $needsMap }}
+  <link rel="stylesheet" href="{{ "vendor/leaflet/leaflet.css" | relURL }}">
+  {{ end }}
+  {{ partial "jsonld.html" . }}
+</head>
+<body class="section-{{ .Section | default "home" }}{{ if eq .Section "kids" }} is-kids{{ end }}">
+  <a class="skip" href="#main">{{ i18n "skip" }}</a>
+  {{ partial "header.html" . }}
+  <main id="main">
+    {{ block "main" . }}{{ end }}
+  </main>
+  {{ partial "footer.html" . }}
+  {{ $js := resources.Get "js/site.js" | minify | fingerprint }}
+  <script src="{{ $js.RelPermalink }}" defer></script>
+  {{ if $needsMap }}
+  <script src="{{ "vendor/leaflet/leaflet.js" | relURL }}" defer></script>
+  {{ $mjs := resources.Get "js/map.js" | minify | fingerprint }}
+  <script src="{{ $mjs.RelPermalink }}" defer></script>
+  {{ end }}
+</body>
+</html>

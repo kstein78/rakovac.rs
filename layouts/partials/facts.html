@@ -1,0 +1,26 @@
+{{/* Fact box: coordinates, altitude, address, phone, website, walking data. */}}
+{{ $p := .Params }}
+{{ if or $p.coords $p.address $p.phone $p.website $p.facts }}
+<aside class="factbox" aria-label="Facts">
+  <dl>
+    {{ with $p.facts }}
+      {{ with .distance }}<div><dt>{{ i18n "distance" }}</dt><dd>{{ . }}</dd></div>{{ end }}
+      {{ with .time }}<div><dt>{{ i18n "walking_time" }}</dt><dd>{{ . }}</dd></div>{{ end }}
+      {{ with .difficulty }}<div><dt>{{ i18n "difficulty" }}</dt><dd>{{ . }}</dd></div>{{ end }}
+      {{ with .parking }}<div><dt>{{ i18n "parking" }}</dt><dd>{{ . | markdownify }}</dd></div>{{ end }}
+    {{ end }}
+    {{ with $p.address }}<div><dt>{{ i18n "address" }}</dt><dd>{{ . }}</dd></div>{{ end }}
+    {{ with $p.phone }}<div><dt>{{ i18n "phone" }}</dt><dd><a href="tel:{{ replace . " " "" }}">{{ . }}</a></dd></div>{{ end }}
+    {{ with $p.website }}<div><dt>{{ i18n "website" }}</dt><dd><a href="{{ . }}" rel="noopener">{{ replaceRE "^https?://(www\\.)?" "" . | strings.TrimSuffix "/" }}</a></dd></div>{{ end }}
+    {{ with $p.altitude }}<div><dt>{{ i18n "altitude" }}</dt><dd class="num">{{ . }} {{ i18n "m_asl" }}</dd></div>{{ end }}
+    {{ with $p.coords }}<div><dt>{{ i18n "coordinates" }}</dt><dd class="num">{{ index . 0 }}, {{ index . 1 }}</dd></div>{{ end }}
+  </dl>
+  {{ with $p.coords }}
+  <p class="factbox-actions">
+    <a class="btn" href="https://www.google.com/maps/dir/?api=1&destination={{ index . 0 }},{{ index . 1 }}" rel="noopener">{{ i18n "get_directions" }}</a>
+    <a class="btn btn-quiet" href="https://www.google.com/maps/search/?api=1&query={{ index . 0 }},{{ index . 1 }}" rel="noopener">{{ i18n "open_gmaps" }}</a>
+  </p>
+  {{ end }}
+  {{ if eq $p.status "unconfirmed" }}<p class="small muted">{{ i18n "unconfirmed" }}. {{ i18n "hours_note" }}</p>{{ end }}
+</aside>
+{{ end }}

@@ -1,0 +1,70 @@
+# UI strings. Machine-drafted by Claude 2026-09-26 - have a native speaker review before enabling.
+nav_nature: Priroda
+nav_routes: Pešačke staze
+nav_monastery: Manastir
+nav_history: Istorija
+nav_stay: Smeštaj
+nav_eat: Hrana i vino
+nav_products: Domaći proizvodi
+nav_shops: Prodavnice i usluge
+nav_business: Lokalna privreda
+nav_people: Ljudi
+nav_kids: Za decu
+nav_useful: Korisne informacije
+nav_map: Mapa
+nav_support: Za lokalne firme
+nav_about: O sajtu
+menu: Meni
+skip: Preskoči na sadržaj
+unofficial_note: Nezavisni, nezvanični vodič kroz selo Rakovac.
+get_directions: Putanja do mesta
+open_gmaps: Otvori u Google mapama
+on_site_map: Prikaži na mapi sajta
+address: Adresa
+phone: Telefon
+website: Veb-sajt
+coordinates: Koordinate
+altitude: Nadmorska visina
+distance: Dužina
+walking_time: Vreme hoda
+difficulty: Težina
+parking: Parking
+how_to_get: Kako stići
+video: Video
+video_soon: Video uskoro
+video_consent: Video se pušta sa YouTube-a. Klikom učitavate sadržaj sa YouTube-a (Google).
+play_video: Pusti video
+photo_temp: PRIVREMENA FOTO
+read_more: Više
+unconfirmed: Podaci još nisu potvrđeni od strane vlasnika
+partner: Podržava rakovac.rs
+language: Jezik
+nearby: U blizini
+kids_friendly: Pogodno za decu
+cat_nature: Priroda
+cat_heritage: Nasleđe
+cat_stay: Smeštaj
+cat_food: Hrana i vino
+cat_products: Domaći proizvodi
+cat_shops: Prodavnice
+cat_business: Lokalna privreda
+cat_services: Usluge
+cat_kids: Deca
+photo_credits: Autori fotografija
+sources: Izvori
+emergency: Hitni slučajevi
+see_all: Sve
+explore: Istražite
+m_asl: m nadmorske visine
+hours_note: 'Radno vreme se menja: proverite pre polaska.'
+todo: Napomena urednika
+map_hint: Kliknite na oznaku da vidite šta je tamo.
+coming_soon: Uskoro
+contact: Kontakt
+photo_by: Foto
+em_legend: 112 hitne službe · 192 policija · 193 vatrogasci · 194 hitna pomoć
+footer_region: Novi Rakovac · Stari Rakovac · 21299 Rakovac · opština Beočin · Srbija
+more_in: "Još iz rubrike"
+author: "Autor"
+license: "Licenca"
+status: "Status"

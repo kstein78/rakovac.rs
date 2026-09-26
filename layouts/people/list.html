@@ -1,0 +1,20 @@
+{{ define "main" }}
+{{ partial "page-head.html" . }}
+<div class="wrap page-body"><div class="prose">{{ .Content }}</div></div>
+{{ range $group := slice "contemporary" "historical" }}
+  {{ $ps := where $.Pages "Params.group" $group }}
+  {{ with $ps }}
+  <section class="wrap glossary">
+    <h2 class="listing-title">{{ index $.Params.group_titles $group }}</h2>
+    <dl class="glossary-list">
+      {{ range sort . "Params.sort_name" }}
+      <div class="glossary-item">
+        <dt><a href="{{ .RelPermalink }}">{{ .Title }}</a>{{ with .Params.years }} <span class="muted num">{{ . }}</span>{{ end }}{{ if .Params.videos }}<span class="chip chip-video">{{ i18n "video" }}</span>{{ end }}</dt>
+        <dd>{{ .Params.summary | markdownify }}</dd>
+      </div>
+      {{ end }}
+    </dl>
+  </section>
+  {{ end }}
+{{ end }}
+{{ end }}

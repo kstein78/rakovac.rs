@@ -1,0 +1,21 @@
+<header class="page-head{{ if .Params.photo }} with-photo{{ end }}">
+  <div class="wrap">
+    {{ if not .IsHome }}
+    <nav class="crumbs" aria-label="Breadcrumb">
+      <a href="{{ site.Home.RelPermalink }}">Rakovac</a>
+      {{ with .Parent }}{{ if not .IsHome }} / <a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a>{{ end }}{{ end }}
+    </nav>
+    {{ end }}
+    {{ with .Params.kicker }}<p class="kicker">{{ . }}</p>{{ end }}
+    <h1>{{ .Title }}</h1>
+    {{ with .Params.lead }}<p class="lead">{{ . | markdownify }}</p>{{ end }}
+    {{ if or .Params.kids (eq .Params.status "unconfirmed") .Params.supporter }}
+    <p class="chips">
+      {{ if .Params.kids }}<span class="chip chip-kids">{{ i18n "kids_friendly" }}</span>{{ end }}
+      {{ if eq .Params.status "unconfirmed" }}<span class="chip chip-muted">{{ i18n "unconfirmed" }}</span>{{ end }}
+      {{ if .Params.supporter }}<span class="chip chip-partner">{{ i18n "partner" }}</span>{{ end }}
+    </p>
+    {{ end }}
+  </div>
+  {{ with .Params.photo }}<div class="wrap wide">{{ partial "photo.html" (dict "key" . "class" "hero" "eager" true) }}</div>{{ end }}
+</header>

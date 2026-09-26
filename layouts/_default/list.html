@@ -1,0 +1,23 @@
+{{ define "main" }}
+{{ partial "page-head.html" . }}
+<div class="wrap page-body{{ if .Params.coords }} has-aside{{ end }}">
+  <div class="prose">
+    {{ .Content }}
+  </div>
+  {{ if .Params.coords }}<div class="aside">{{ partial "facts.html" . }}{{ partial "minimap.html" . }}</div>{{ end }}
+</div>
+{{ if not .Params.hide_children }}
+  {{ $pages := .Pages.ByWeight }}
+  {{ with $pages }}
+  <section class="wrap listing">
+    {{ with $.Params.list_title }}<h2 class="listing-title">{{ . }}</h2>{{ end }}
+    <div class="cards">
+      {{ range . }}{{ partial "card.html" . }}{{ end }}
+    </div>
+  </section>
+  {{ end }}
+{{ end }}
+{{ with .Params.after }}<div class="wrap prose after">{{ . | markdownify }}</div>{{ end }}
+{{ partial "gallery.html" . }}
+<div class="wrap">{{ partial "videos.html" . }}</div>
+{{ end }}

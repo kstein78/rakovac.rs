@@ -1,0 +1,1 @@
+<div class="note note-{{ .Get "type" | default "info" }}">{{ with .Get "title" }}<p class="note-title">{{ . }}</p>{{ end }}{{ .Inner | markdownify }}</div>

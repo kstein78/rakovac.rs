@@ -1,0 +1,15 @@
+{{ define "main" }}
+{{ partial "page-head.html" . }}
+<div class="wrap page-body"><div class="prose">{{ .Content }}</div></div>
+<section class="wrap credits" id="photo-credits">
+  <h2>{{ i18n "photo_credits" }}</h2>
+  <table class="credit-table">
+    <thead><tr><th>{{ i18n "photo_by" }}</th><th>{{ i18n "author" }}</th><th>{{ i18n "license" }}</th><th>{{ i18n "status" }}</th></tr></thead>
+    <tbody>
+    {{ range $k, $p := site.Data.photos }}
+      <tr><td><a href="{{ $p.page }}" rel="noopener">{{ $p.alt }}</a></td><td>{{ $p.author }}</td><td>{{ $p.license }}</td><td>{{ if $p.temp }}<span class="chip chip-temp">{{ i18n "photo_temp" }}</span>{{ else }}✓{{ end }}</td></tr>
+    {{ end }}
+    </tbody>
+  </table>
+</section>
+{{ end }}

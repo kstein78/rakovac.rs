@@ -1,0 +1,31 @@
+# Site navigation. "path" is the section folder under content/<lang>/,
+# "label" is the key in i18n/<lang>.yaml.
+primary:
+  - { path: nature,     label: nav_nature }
+  - { path: routes,     label: nav_routes }
+  - { path: monastery,  label: nav_monastery }
+  - { path: history,    label: nav_history }
+  - { path: stay,       label: nav_stay }
+  - { path: eat-drink,  label: nav_eat }
+  - { path: people,     label: nav_people }
+  - { path: kids,       label: nav_kids }
+  - { path: useful,     label: nav_useful }
+  - { path: map,        label: nav_map }
+secondary:
+  - { path: local-products, label: nav_products }
+  - { path: shops,          label: nav_shops }
+  - { path: business,       label: nav_business }
+  - { path: support,        label: nav_support }
+  - { path: about,          label: nav_about }
+
+# Map marker colours per category (front matter "category").
+categories:
+  nature:   { label: cat_nature,   color: "#3f7a3a" }
+  heritage: { label: cat_heritage, color: "#7b3f63" }
+  stay:     { label: cat_stay,     color: "#2f5f8a" }
+  food:     { label: cat_food,     color: "#b35a1f" }
+  products: { label: cat_products, color: "#a5801b" }
+  shops:    { label: cat_shops,    color: "#56616b" }
+  business: { label: cat_business, color: "#3d4a57" }
+  services: { label: cat_services, color: "#b3261e" }
+  kids:     { label: cat_kids,     color: "#1f8a86" }

@@ -1,0 +1,14 @@
+{{/* {{< route name="…" distance="…" time="…" climb="…" level="easy|moderate|hard" start="lat,lng" >}}markdown{{< /route >}} */}}
+<section class="route" {{ with .Get "id" }}id="{{ . }}"{{ end }}>
+  <header class="route-head">
+    <h2>{{ .Get "name" }}</h2>
+    <p class="route-stats num">
+      {{ with .Get "distance" }}<span><b>{{ i18n "distance" }}</b> {{ . }}</span>{{ end }}
+      {{ with .Get "time" }}<span><b>{{ i18n "walking_time" }}</b> {{ . }}</span>{{ end }}
+      {{ with .Get "climb" }}<span><b>↑</b> {{ . }}</span>{{ end }}
+      {{ with .Get "level" }}<span class="level level-{{ . }}"><b>{{ i18n "difficulty" }}</b> {{ . }}</span>{{ end }}
+    </p>
+  </header>
+  <div class="route-body">{{ .Inner | markdownify }}</div>
+  {{ with .Get "start" }}<p><a class="btn" href="https://www.google.com/maps/dir/?api=1&destination={{ . }}" rel="noopener">{{ i18n "get_directions" }}</a></p>{{ end }}
+</section>

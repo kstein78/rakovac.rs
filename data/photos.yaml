@@ -1,0 +1,159 @@
+# Photo registry.
+# Every photo on the site is referenced by its key (front matter "photo:" or
+# the {{< photo >}} shortcode). The site prints the credit line automatically.
+#
+# temp: true  -> borrowed open-licence photo, shown with a yellow TEMP badge
+#                while params.showPhotoBadges = true. Replace with our own shot.
+# To replace: drop your file into static/img/, then change "src" to
+# "/img/your-file.jpg", set author/license to your own, and set temp: false.
+#
+# All entries below were checked on Wikimedia Commons on 2026-09-26
+# (licence + author read from the file page; each 1280px thumbnail loaded OK).
+
+monastery-2026-1:
+  src: https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/2026-06-10_Rakovac_monastery_1.jpg/1280px-2026-06-10_Rakovac_monastery_1.jpg
+  page: https://commons.wikimedia.org/wiki/File:2026-06-10_Rakovac_monastery_1.jpg
+  author: Alexkom000
+  license: CC BY 4.0
+  alt: Rakovac Monastery, June 2026
+  temp: true
+monastery-2026-2:
+  src: https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/2026-06-10_Rakovac_monastery_2.jpg/1280px-2026-06-10_Rakovac_monastery_2.jpg
+  page: https://commons.wikimedia.org/wiki/File:2026-06-10_Rakovac_monastery_2.jpg
+  author: Alexkom000
+  license: CC BY 4.0
+  alt: Rakovac Monastery church and courtyard
+  temp: true
+monastery-belltower:
+  src: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Manastir_Rakovac,_zvonik.jpg/1280px-Manastir_Rakovac,_zvonik.jpg
+  page: https://commons.wikimedia.org/wiki/File:Manastir_Rakovac,_zvonik.jpg
+  author: Pavle Marjanović
+  license: CC BY-SA 3.0
+  alt: Baroque bell tower of Rakovac Monastery
+  temp: true
+monastery-konak:
+  src: https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Konak_manastira_Rakovac.JPG/1280px-Konak_manastira_Rakovac.JPG
+  page: https://commons.wikimedia.org/wiki/File:Konak_manastira_Rakovac.JPG
+  author: Micki
+  license: CC BY-SA 3.0
+  alt: Residential wing (konak) of Rakovac Monastery
+  temp: true
+monastery-iconostasis:
+  src: https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Rakovac_monastery_iconostasis.jpg/1280px-Rakovac_monastery_iconostasis.jpg
+  page: https://commons.wikimedia.org/wiki/File:Rakovac_monastery_iconostasis.jpg
+  author: Aleksandar Cocek
+  license: CC BY-SA 2.0
+  alt: Iconostasis of the monastery church
+  temp: true
+monastery-1885:
+  src: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Rakovac_Monastery_in_Serbia,_1885.jpg/1280px-Rakovac_Monastery_in_Serbia,_1885.jpg
+  page: https://commons.wikimedia.org/wiki/File:Rakovac_Monastery_in_Serbia,_1885.jpg
+  author: Ottokar Rechnitzer
+  license: Public domain
+  alt: Rakovac Monastery in 1885
+  temp: false
+monastery-engraving:
+  src: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Donau-Ansichten-_Syrmien._Griechisches_Kloster_Rakovatz_(cropped).jpg/1280px-Donau-Ansichten-_Syrmien._Griechisches_Kloster_Rakovatz_(cropped).jpg
+  page: https://commons.wikimedia.org/wiki/File:Donau-Ansichten-_Syrmien._Griechisches_Kloster_Rakovatz_(cropped).jpg
+  author: Adolf Friedrich Kunike
+  license: Public domain
+  alt: 19th-century engraving "Griechisches Kloster Rakovatz" from the Danube views series
+  temp: false
+beli-majdan-06:
+  src: https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/2026-06-10_Rakovac,_Beli_Majdan_06.jpg/1280px-2026-06-10_Rakovac,_Beli_Majdan_06.jpg
+  page: https://commons.wikimedia.org/wiki/File:2026-06-10_Rakovac,_Beli_Majdan_06.jpg
+  author: Alexkom000
+  license: CC BY 4.0
+  alt: Stone pillars inside the Beli Majdan quarry hall
+  temp: true
+beli-majdan-17:
+  src: https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/2026-06-10_Rakovac,_Beli_Majdan_17.jpg/1280px-2026-06-10_Rakovac,_Beli_Majdan_17.jpg
+  page: https://commons.wikimedia.org/wiki/File:2026-06-10_Rakovac,_Beli_Majdan_17.jpg
+  author: Alexkom000
+  license: CC BY 4.0
+  alt: Beli Majdan, the old quarry above the monastery
+  temp: true
+beli-majdan-24:
+  src: https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/2026-06-10_Rakovac,_Beli_Majdan_24.jpg/1280px-2026-06-10_Rakovac,_Beli_Majdan_24.jpg
+  page: https://commons.wikimedia.org/wiki/File:2026-06-10_Rakovac,_Beli_Majdan_24.jpg
+  author: Alexkom000
+  license: CC BY 4.0
+  alt: Forest around Beli Majdan
+  temp: true
+dumbovac-waterfall:
+  src: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Dumbovacki_vodopad.jpg/1280px-Dumbovacki_vodopad.jpg
+  page: https://commons.wikimedia.org/wiki/File:Dumbovacki_vodopad.jpg
+  author: Jovancavic
+  license: CC BY-SA 4.0
+  alt: Dumbovac waterfall on the Dumbovac stream
+  temp: true
+street-manastirska:
+  src: https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Manastirska_ulica,_Rakovac.JPG/1280px-Manastirska_ulica,_Rakovac.JPG
+  page: https://commons.wikimedia.org/wiki/File:Manastirska_ulica,_Rakovac.JPG
+  author: Micki
+  license: CC BY-SA 3.0
+  alt: Manastirska street in Rakovac
+  temp: true
+village-2026:
+  src: https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/2026-06-07_Rakovac,_Serbia_04.jpg/1280px-2026-06-07_Rakovac,_Serbia_04.jpg
+  page: https://commons.wikimedia.org/wiki/File:2026-06-07_Rakovac,_Serbia_04.jpg
+  author: Alexkom000
+  license: CC BY 4.0
+  alt: Rakovac village, June 2026
+  temp: true
+gradina-2018:
+  src: https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Gradina_(Novi_Rakovac)6.7.2018_043.jpg/1280px-Gradina_(Novi_Rakovac)6.7.2018_043.jpg
+  page: https://commons.wikimedia.org/wiki/File:Gradina_(Novi_Rakovac)6.7.2018_043.jpg
+  author: Ванилица
+  license: CC BY-SA 4.0
+  alt: Excavated walls at the Gradina archaeological site
+  temp: true
+village-entrance:
+  src: https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Ulaz_u_Rakovac.JPG/1280px-Ulaz_u_Rakovac.JPG
+  page: https://commons.wikimedia.org/wiki/File:Ulaz_u_Rakovac.JPG
+  author: Micki
+  license: CC BY-SA 3.0
+  alt: Road sign at the entrance to Rakovac
+  temp: true
+strucica:
+  src: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Spomenik_Strucica_Rakovac_2020.jpg/1280px-Spomenik_Strucica_Rakovac_2020.jpg
+  page: https://commons.wikimedia.org/wiki/File:Spomenik_Strucica_Rakovac_2020.jpg
+  author: Subnorns
+  license: CC BY-SA 4.0
+  alt: The Stručica memorial with its three concrete pillars
+  temp: true
+kamenolom-memorial:
+  src: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Rakovac,_spomenik_Kamenolom_004.jpg/1280px-Rakovac,_spomenik_Kamenolom_004.jpg
+  page: https://commons.wikimedia.org/wiki/File:Rakovac,_spomenik_Kamenolom_004.jpg
+  author: Ванилица
+  license: CC BY-SA 4.0
+  alt: The Kamenolom memorial near the monastery
+  temp: true
+forest-spring:
+  src: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Fru%C5%A1ka_gora_-_%C5%A1umska_staza_u_prole%C4%87e.jpg/1280px-Fru%C5%A1ka_gora_-_%C5%A1umska_staza_u_prole%C4%87e.jpg
+  page: https://commons.wikimedia.org/wiki/File:Fru%C5%A1ka_gora_-_%C5%A1umska_staza_u_prole%C4%87e.jpg
+  author: Goonie Bagheera
+  license: CC BY-SA 4.0
+  alt: Forest path on Fruška Gora in spring
+  temp: true
+forest-autumn:
+  src: https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Fru%C5%A1ka_gora_-_%C5%A1uma_u_jesen_1.jpg/1280px-Fru%C5%A1ka_gora_-_%C5%A1uma_u_jesen_1.jpg
+  page: https://commons.wikimedia.org/wiki/File:Fru%C5%A1ka_gora_-_%C5%A1uma_u_jesen_1.jpg
+  author: Goonie Bagheera
+  license: CC BY-SA 4.0
+  alt: Fruška Gora forest in autumn
+  temp: true
+forest-fog:
+  src: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Fruska_gora_-_staza_u_magli.jpg/1280px-Fruska_gora_-_staza_u_magli.jpg
+  page: https://commons.wikimedia.org/wiki/File:Fruska_gora_-_staza_u_magli.jpg
+  author: Goonie Bagheera
+  license: CC BY-SA 4.0
+  alt: Fruška Gora trail in the fog
+  temp: true
+strazilovo:
+  src: https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Stra%C5%BEilovo.JPG/1280px-Stra%C5%BEilovo.JPG
+  page: https://commons.wikimedia.org/wiki/File:Stra%C5%BEilovo.JPG
+  author: Micki
+  license: CC BY-SA 3.0
+  alt: Stražilovo picnic area
+  temp: true

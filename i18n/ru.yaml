@@ -1,0 +1,70 @@
+# UI strings. Machine-drafted by Claude 2026-09-26 - have a native speaker review before enabling.
+nav_nature: Природа
+nav_routes: Пешие маршруты
+nav_monastery: Монастырь
+nav_history: История
+nav_stay: Где остановиться
+nav_eat: Еда и вино
+nav_products: Местные продукты
+nav_shops: Магазины и услуги
+nav_business: Местные предприятия
+nav_people: Люди
+nav_kids: Детям
+nav_useful: Полезная информация
+nav_map: Карта
+nav_support: Местному бизнесу
+nav_about: О сайте
+menu: Меню
+skip: Перейти к содержанию
+unofficial_note: Независимый неофициальный путеводитель по селу Раковац.
+get_directions: Проложить маршрут
+open_gmaps: Открыть в Google Картах
+on_site_map: Показать на карте сайта
+address: Адрес
+phone: Телефон
+website: Сайт
+coordinates: Координаты
+altitude: Высота
+distance: Протяжённость
+walking_time: Время в пути пешком
+difficulty: Сложность
+parking: Парковка
+how_to_get: Как добраться
+video: Видео
+video_soon: Видео скоро появится
+video_consent: Видео воспроизводится с YouTube. Нажимая, вы загружаете контент YouTube (Google).
+play_video: Смотреть видео
+photo_temp: ВРЕМЕННОЕ ФОТО
+read_more: Подробнее
+unconfirmed: Данные ещё не подтверждены владельцем
+partner: Поддерживает rakovac.rs
+language: Язык
+nearby: Рядом
+kids_friendly: Подходит для детей
+cat_nature: Природа
+cat_heritage: Наследие
+cat_stay: Жильё
+cat_food: Еда и вино
+cat_products: Местные продукты
+cat_shops: Магазины
+cat_business: Местные предприятия
+cat_services: Услуги
+cat_kids: Детям
+photo_credits: Авторы фотографий
+sources: Источники
+emergency: Экстренные службы
+see_all: Все
+explore: Смотреть
+m_asl: м над уровнем моря
+hours_note: 'Часы работы меняются: уточняйте перед поездкой.'
+todo: Заметка редактора
+map_hint: Нажмите на метку, чтобы увидеть, что там.
+coming_soon: Скоро
+contact: Контакты
+photo_by: Фото
+em_legend: 112 единый номер · 192 полиция · 193 пожарные · 194 скорая помощь
+footer_region: Нови-Раковац · Стари-Раковац · 21299 Раковац · община Беочин · Сербия
+more_in: "Ещё в разделе"
+author: "Автор"
+license: "Лицензия"
+status: "Статус"

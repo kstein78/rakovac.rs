@@ -1,0 +1,73 @@
+baseURL = "https://rakovac.rs/"
+title = "Rakovac"
+enableRobotsTXT = true
+timeZone = "Europe/Belgrade"
+
+# --- Languages -------------------------------------------------------------
+# All five languages are configured. Only English has content in this draft.
+# To switch a language on: translate content/<lang>/, then remove it from
+# disableLanguages below. UI strings for all five already live in i18n/.
+defaultContentLanguage = "en"
+defaultContentLanguageInSubdir = true
+disableLanguages = ["sr", "ru", "de", "hu"]
+
+[languages]
+  [languages.en]
+    languageName = "English"
+    languageCode = "en"
+    weight = 1
+    contentDir = "content/en"
+    [languages.en.params]
+      tagline = "A village on the northern slope of Fruška Gora"
+  [languages.sr]
+    languageName = "Srpski"
+    languageCode = "sr-Latn"
+    weight = 2
+    contentDir = "content/sr"
+    [languages.sr.params]
+      tagline = "Selo na severnoj padini Fruške gore"
+  [languages.ru]
+    languageName = "Русский"
+    languageCode = "ru"
+    weight = 3
+    contentDir = "content/ru"
+    [languages.ru.params]
+      tagline = "Село на северном склоне Фрушка-Горы"
+  [languages.de]
+    languageName = "Deutsch"
+    languageCode = "de"
+    weight = 4
+    contentDir = "content/de"
+    [languages.de.params]
+      tagline = "Ein Dorf am Nordhang der Fruška Gora"
+  [languages.hu]
+    languageName = "Magyar"
+    languageCode = "hu"
+    weight = 5
+    contentDir = "content/hu"
+    [languages.hu.params]
+      tagline = "Falu a Tarcal-hegység északi lejtőjén"
+
+# --- Site-wide settings ----------------------------------------------------
+[params]
+  description = "Unofficial visitor portal of Rakovac: nature, walks, the monastery, history, places to stay, local food and wine."
+  # Village centre (Novi Rakovac) and the monastery, used by the maps.
+  mapCenter = [45.1950, 19.7700]
+  mapZoom = 14
+  # Draft helpers. Set both to false before the public launch.
+  showPhotoBadges = true   # yellow "TEMP PHOTO" badge on borrowed photos
+  showTodos = true         # yellow editor notes written with {{< todo >}}
+  contactEmail = "hello@rakovac.rs"
+
+[taxonomies]
+  # none used for now; categories live in front matter "category"
+
+[markup.goldmark.renderer]
+  unsafe = true
+
+[outputs]
+  home = ["HTML", "RSS"]
+  section = ["HTML"]
+
+[sitemap]
+  changeFreq = "monthly"

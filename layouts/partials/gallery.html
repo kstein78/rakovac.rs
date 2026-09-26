@@ -1,0 +1,5 @@
+{{ with .Params.gallery }}
+<section class="wrap gallery" aria-label="Gallery">
+  {{ range . }}{{ partial "photo.html" (dict "key" .) }}{{ end }}
+</section>
+{{ end }}

@@ -1,0 +1,15 @@
+{{/* Collects every page with coords (plus useful/items) into one map. */}}
+{{ $points := slice }}
+{{ range where site.RegularPages "Params.coords" "!=" nil }}
+  {{ $points = $points | append (dict "lat" (index .Params.coords 0) "lng" (index .Params.coords 1) "title" .Title "url" .RelPermalink "cat" (.Params.category | default "nature")) }}
+{{ end }}
+{{ range where site.Sections "Params.coords" "!=" nil }}
+  {{ $points = $points | append (dict "lat" (index .Params.coords 0) "lng" (index .Params.coords 1) "title" .Title "url" .RelPermalink "cat" (.Params.category | default "heritage")) }}
+{{ end }}
+{{ with site.GetPage "useful" }}{{ $u := .RelPermalink }}{{ range .Params.groups }}{{ range .items }}{{ $it := . }}{{ with $it.coords }}
+  {{ $points = $points | append (dict "lat" (index . 0) "lng" (index . 1) "title" $it.name "url" $u "cat" "services") }}
+{{ end }}{{ end }}{{ end }}{{ end }}
+{{ $cats := dict }}
+{{ range $k, $v := site.Data.nav.categories }}{{ $cats = merge $cats (dict $k (dict "color" $v.color "label" (i18n $v.label))) }}{{ end }}
+<div class="bigmap {{ .class }}" data-map='{{ dict "points" $points "cats" $cats | jsonify }}' role="region" aria-label="Map"></div>
+<p class="small muted">{{ i18n "map_hint" }}</p>

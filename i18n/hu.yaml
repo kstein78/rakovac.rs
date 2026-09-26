@@ -1,0 +1,70 @@
+# UI strings. Machine-drafted by Claude 2026-09-26 - have a native speaker review before enabling.
+nav_nature: Természet
+nav_routes: Túraútvonalak
+nav_monastery: A kolostor
+nav_history: Történelem
+nav_stay: Szállás
+nav_eat: Étel és bor
+nav_products: Helyi termékek
+nav_shops: Boltok és szolgáltatások
+nav_business: Helyi vállalkozások
+nav_people: Emberek
+nav_kids: Gyerekeknek
+nav_useful: Hasznos tudnivalók
+nav_map: Térkép
+nav_support: Helyi vállalkozásoknak
+nav_about: Az oldalról
+menu: Menü
+skip: Ugrás a tartalomra
+unofficial_note: Független, nem hivatalos útikalauz Rakovac faluhoz.
+get_directions: Útvonaltervezés
+open_gmaps: Megnyitás a Google Térképen
+on_site_map: Mutasd a térképen
+address: Cím
+phone: Telefon
+website: Weboldal
+coordinates: Koordináták
+altitude: Tengerszint feletti magasság
+distance: Hossz
+walking_time: Gyalogidő
+difficulty: Nehézség
+parking: Parkolás
+how_to_get: Megközelítés
+video: Videó
+video_soon: A videó hamarosan érkezik
+video_consent: A videó a YouTube-ról töltődik be. A lejátszással a YouTube (Google) tartalmát tölti be.
+play_video: Videó lejátszása
+photo_temp: IDEIGLENES FOTÓ
+read_more: Tovább
+unconfirmed: Az adatokat a tulajdonos még nem erősítette meg
+partner: A rakovac.rs támogatója
+language: Nyelv
+nearby: A közelben
+kids_friendly: Gyerekeknek is
+cat_nature: Természet
+cat_heritage: Örökség
+cat_stay: Szállás
+cat_food: Étel és bor
+cat_products: Helyi termékek
+cat_shops: Boltok
+cat_business: Helyi vállalkozások
+cat_services: Szolgáltatások
+cat_kids: Gyerekek
+photo_credits: Fotók forrása
+sources: Források
+emergency: Segélyhívás
+see_all: Mind
+explore: Felfedezés
+m_asl: m tengerszint felett
+hours_note: 'A nyitvatartás változhat: indulás előtt ellenőrizze.'
+todo: Szerkesztői megjegyzés
+map_hint: Koppintson egy jelölőre.
+coming_soon: Hamarosan
+contact: Kapcsolat
+photo_by: Fotó
+em_legend: 112 segélyhívó · 192 rendőrség · 193 tűzoltóság · 194 mentők
+footer_region: Novi Rakovac · Stari Rakovac · 21299 Rakovac · Beočin község · Szerbia
+more_in: "Továbbiak:"
+author: "Szerző"
+license: "Licenc"
+status: "Állapot"

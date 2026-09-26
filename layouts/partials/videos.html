@@ -1,0 +1,9 @@
+{{/* Renders front matter "videos:" list: - { id: "", title: "" } */}}
+{{ with .Params.videos }}
+<section class="videos">
+  <h2>{{ i18n "video" }}</h2>
+  <div class="video-grid">
+    {{ range . }}{{ partial "video.html" (dict "id" .id "title" .title) }}{{ end }}
+  </div>
+</section>
+{{ end }}

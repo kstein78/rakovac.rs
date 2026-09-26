@@ -1,0 +1,3 @@
+{{ with .Params.coords }}
+<div class="minimap" data-map='{{ dict "points" (slice (dict "lat" (index . 0) "lng" (index . 1) "title" $.Title "cat" ($.Params.category | default "nature"))) "zoom" 15 | jsonify }}'></div>
+{{ end }}
