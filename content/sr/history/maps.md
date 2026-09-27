@@ -3,10 +3,24 @@ title: "Stare karte Rakovca"
 linkTitle: "Stare karte"
 kicker: "Karte · 18–20. vek"
 weight: 7
-summary: "Rakovac na istorijskim kartama: generalna karta Austrougarske iz oko 1910, a uskoro i karte iz arhiva i privatnih zbirki."
+summary: "Rakovac na istorijskim kartama: detaljna austrougarska specijalna karta iz 1915. i generalna karta iz oko 1910, a uskoro i karte iz arhiva i privatnih zbirki."
 lead: "Stare karte prikazuju dolinu pre nego što je nastao Novi Rakovac: selo kod manastira u brdima, železničku prugu duž Dunava i susedna mesta pod nemačkim i mađarskim imenima koja su koristili kartografi."
-photo: map-generalkarte-1910
+photo: map-spezialkarte-1915
 ---
+
+## Specijalna karta 1:75.000, izdanje iz 1915.
+
+Najdetaljnija od starih austrougarskih karata. List „Ilok und Ruma“ (zona 25, kolona XXI) Specijalne karte Austrougarske monarhije obuhvata zapadnu polovinu Fruške gore; Rakovac je u njegovom severoistočnom uglu, gde se karta i otvara.
+
+{{< oldmap src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Ilok_BV042104680.jpg/3840px-Ilok_BV042104680.jpg" poster="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Ilok_BV042104680.jpg/960px-Ilok_BV042104680.jpg" x="3230" y="800" size="5,2 MB" link="https://commons.wikimedia.org/wiki/File:Ilok_BV042104680.jpg" alt="Specijalna karta 1:75.000, list Ilok und Ruma, 1915." >}}List „Ilok und Ruma“ Specijalne karte Austrougarske monarhije 1:75.000, izdanje iz 1915. Javno dobro; sken Lajbnicovog instituta za istraživanje Istočne i Jugoistočne Evrope (IOS), Regensburg, preko portala GeoPortOst.{{< /oldmap >}}
+
+Šta se na ovom listu može naći oko Rakovca:
+
+- **Rakovac** sa oznakom manastira („Kls.“): staro selo kod manastira, današnji Stari Rakovac, a iznad njega Planina, Kesten i vrh Gradac (471 m).
+- **„H.St. Rakovac“**, železničko stajalište na pruzi duž Dunava.
+- **Beočin** sa fabrikom cementa („Cement Fb.“) i stanicom, Dumbovo na zapadu, Ledinci na istoku.
+- Toponim **Salaksia** između sela i Dunava – danas ime vinarije ispod manastira.
+- Preko reke: Ófutak i Újfutak (Stari i Novi Futog) i Újvidék, mađarsko ime Novog Sada.
 
 ## Generalna karta Srednje Evrope, oko 1910.
 
@@ -26,6 +40,6 @@ Generalnu kartu Srednje Evrope u razmeri 1:200.000 izradio je Vojnogeografski in
 
 Ovde će uskoro biti prikazana karta iz jedne privatne zbirke u Rakovcu, zajedno sa njenom pričom.
 
-{{< todo >}}Kosta: skenirati kućnu kartu (300–600 dpi, ceo list i krupno Rakovac) i zabeležiti naslov, kartografa, godinu, razmeru i oglas na ZVAB-u gde je pronađena. Šta dalje proveriti: Prvi vojni premer iz 1780-ih na Arcanum Maps (slojevi „Provinz Slavonien 1781–1783“ i „Slawonische Militärgrenze 1780“; pun pristup uz pretplatu, Rakovac tamo još nije proveren), Drugi vojni premer, specijalnu kartu 1:75.000 okoline Novog Sada i katastarske karte (pitati u Arhivu Vojvodine).{{< /todo >}}
+{{< todo >}}Kosta: skenirati kućnu kartu (300–600 dpi, ceo list i krupno Rakovac) i zabeležiti naslov, kartografa, godinu, razmeru i oglas na ZVAB-u gde je pronađena. Još proveriti: Prvi vojni premer iz 1780-ih na Arcanum Maps (uz pretplatu), Drugi vojni premer, generalnu kartu 1:300.000 iz 1877. (Rakovac je na njoj upisan, ali dobar javni sken još nedostaje) i katastarske karte (pitati u Arhivu Vojvodine).{{< /todo >}}
 
 Imate li staru kartu, plan ili razglednicu sa Rakovcem? [Javite nam se]({{< relref "author" >}}) – možemo je prikazati ovde uz vaše ime.

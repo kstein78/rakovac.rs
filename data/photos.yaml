@@ -321,3 +321,17 @@ map-generalkarte-1910:
   alt_de: Generalkarte von Mitteleuropa 1:200.000, Blatt Mistrowitz (um 1910), mit der Fruška Gora und Rakovac
   alt_hu: Közép-Európa általános térképe 1:200 000, „Mistrowitz” lap (1910 körül), a Tarcal-hegységgel és Rakovaccal
   temp: false
+
+# Historical map, public domain (Commons: "Ilok BV042104680.jpg", 9287 x 7395 px, from GeoPortOst / IOS Regensburg).
+# Checked 2026-09-27 on the 3840 px version: "Rakovac" with "Kls." at about x 3207, y 923; "H.St. Rakovac" at about x 3241, y 629.
+map-spezialkarte-1915:
+  src: https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Ilok_BV042104680.jpg/960px-Ilok_BV042104680.jpg
+  page: https://commons.wikimedia.org/wiki/File:Ilok_BV042104680.jpg
+  author: Military Geographical Institute, Vienna (scan IOS Regensburg / GeoPortOst)
+  license: Public domain
+  alt: Special map of the Austro-Hungarian Monarchy 1:75,000, sheet Ilok und Ruma (1915), with Rakovac in its north-eastern corner
+  alt_ru: Специальная карта Австро-Венгерской монархии 1:75 000, лист «Ilok und Ruma» (1915), Раковац в её северо-восточном углу
+  alt_sr: Specijalna karta Austrougarske monarhije 1:75.000, list „Ilok und Ruma“ (1915), Rakovac u severoistočnom uglu
+  alt_de: Spezialkarte der Österreichisch-Ungarischen Monarchie 1:75.000, Blatt Ilok und Ruma (1915), mit Rakovac in der Nordostecke
+  alt_hu: Az Osztrák–Magyar Monarchia 1:75 000-es speciális térképe, Ilok und Ruma lap (1915), északkeleti sarkában Rakovaccal
+  temp: false

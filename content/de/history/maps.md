@@ -3,10 +3,24 @@ title: "Alte Karten von Rakovac"
 linkTitle: "Alte Karten"
 kicker: "Karten · 18.–20. Jahrhundert"
 weight: 7
-summary: "Rakovac auf historischen Karten: eine Generalkarte Österreich-Ungarns von etwa 1910, bald ergänzt durch Karten aus Archiven und Privatsammlungen."
+summary: "Rakovac auf historischen Karten: die detaillierte österreichisch-ungarische Spezialkarte von 1915 und eine Generalkarte von etwa 1910, bald ergänzt durch Karten aus Archiven und Privatsammlungen."
 lead: "Alte Karten zeigen das Tal, bevor es Novi Rakovac gab: das Dorf beim Kloster in den Hügeln, eine Bahnlinie entlang der Donau und die Nachbarorte unter den deutschen und ungarischen Namen, die die Kartografen verwendeten."
-photo: map-generalkarte-1910
+photo: map-spezialkarte-1915
 ---
+
+## Spezialkarte 1:75.000, Ausgabe 1915
+
+Die genaueste der alten österreichisch-ungarischen Karten. Das Blatt „Ilok und Ruma“ (Zone 25, Kolonne XXI) der Spezialkarte der Österreichisch-Ungarischen Monarchie umfasst die westliche Hälfte der Fruška Gora; Rakovac liegt in seiner Nordostecke, wo sich die Karte öffnet.
+
+{{< oldmap src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Ilok_BV042104680.jpg/3840px-Ilok_BV042104680.jpg" poster="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Ilok_BV042104680.jpg/960px-Ilok_BV042104680.jpg" x="3230" y="800" size="5,2 MB" link="https://commons.wikimedia.org/wiki/File:Ilok_BV042104680.jpg" alt="Spezialkarte 1:75.000, Blatt Ilok und Ruma, 1915" >}}Blatt „Ilok und Ruma“ der Spezialkarte der Österreichisch-Ungarischen Monarchie 1:75.000, Ausgabe 1915. Gemeinfrei; Scan des Leibniz-Instituts für Ost- und Südosteuropaforschung (IOS), Regensburg, über GeoPortOst.{{< /oldmap >}}
+
+Was Sie auf diesem Blatt rund um Rakovac finden:
+
+- **Rakovac** mit dem Zeichen für ein Kloster („Kls.“): das alte Dorf beim Kloster, das heutige Stari Rakovac, darüber Planina, Kesten und der Gipfel Gradac (471 m).
+- **„H.St. Rakovac“**, eine Haltestelle an der Bahnlinie entlang der Donau.
+- **Beočin** mit der Zementfabrik („Cement Fb.“) und seinem Bahnhof, Dumbovo im Westen, Ledinci im Osten.
+- Den Flurnamen **Salaksia** zwischen Dorf und Donau, heute der Name eines Weinguts unterhalb des Klosters.
+- Jenseits des Flusses: Ófutak und Újfutak (Alt- und Neu-Futog) und Újvidék, der ungarische Name von Novi Sad.
 
 ## Generalkarte von Mitteleuropa, um 1910
 
@@ -26,6 +40,6 @@ Was Sie auf diesem Blatt rund um Rakovac finden:
 
 Hier wird bald eine Karte aus einer Privatsammlung in Rakovac gezeigt, zusammen mit ihrer Geschichte.
 
-{{< todo >}}Kosta: die Karte von zu Hause scannen (300–600 dpi, ganzes Blatt und Rakovac vergrößert) und Titel, Kartograf, Jahr, Maßstab sowie das ZVAB-Angebot notieren, über das sie gefunden wurde. Als Nächstes prüfen: die Erste Landesaufnahme der 1780er Jahre auf Arcanum Maps (Ebenen „Provinz Slavonien 1781–1783“ und „Slawonische Militärgrenze 1780“; voller Zugang nur mit Abonnement, Rakovac dort noch nicht geprüft), die Zweite Landesaufnahme, die Spezialkarte 1:75.000 der Umgebung von Novi Sad und Katasterkarten (im Archiv der Vojvodina nachfragen).{{< /todo >}}
+{{< todo >}}Kosta: die Karte von zu Hause scannen (300–600 dpi, ganzes Blatt und Rakovac vergrößert) und Titel, Kartograf, Jahr, Maßstab sowie das ZVAB-Angebot notieren, über das sie gefunden wurde. Noch zu prüfen: die Erste Landesaufnahme der 1780er Jahre auf Arcanum Maps (Abonnement), die Zweite Landesaufnahme, die Generalkarte 1:300.000 von 1877 (Rakovac ist darauf eingetragen, ein guter gemeinfreier Scan fehlt noch) und Katasterkarten (im Archiv der Vojvodina nachfragen).{{< /todo >}}
 
 Haben Sie eine alte Karte, einen Plan oder eine Postkarte mit Rakovac? [Melden Sie sich]({{< relref "author" >}}): Sie kann hier mit Ihrem Namen gezeigt werden.
