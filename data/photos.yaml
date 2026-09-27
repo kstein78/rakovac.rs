@@ -307,3 +307,17 @@ beli-majdan-entrance-sign:
   alt_de: Eingang zum Stollen von Beli Majdan mit dem Warnschild des Nationalparks
   alt_hu: A Beli Majdan-i tárna bejárata a nemzeti park figyelmeztető táblájával
   temp: false
+
+# Historical map, public domain. Checked 2026-09-26: Rakovac (village by the monastery and the railway
+# station) is on this sheet near its eastern edge, around pixel x 3190, y 1410–1580 of the full scan.
+map-generalkarte-1910:
+  src: https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Mistrowitz_-_37-45.jpg/960px-Mistrowitz_-_37-45.jpg
+  page: https://commons.wikimedia.org/wiki/File:Mistrowitz_-_37-45.jpg
+  author: Military Geographical Institute of Austria-Hungary (scan ELTE Lazarus, László Zentai)
+  license: Public domain
+  alt: General map of Central Europe 1:200,000, sheet Mistrowitz (about 1910), showing Fruška Gora and Rakovac
+  alt_ru: Генеральная карта Центральной Европы 1:200 000, лист «Mistrowitz» (около 1910 года), с Фрушка-Горой и Раковцем
+  alt_sr: Generalna karta Srednje Evrope 1:200.000, list „Mistrowitz“ (oko 1910), sa Fruškom gorom i Rakovcem
+  alt_de: Generalkarte von Mitteleuropa 1:200.000, Blatt Mistrowitz (um 1910), mit der Fruška Gora und Rakovac
+  alt_hu: Közép-Európa általános térképe 1:200 000, „Mistrowitz” lap (1910 körül), a Tarcal-hegységgel és Rakovaccal
+  temp: false

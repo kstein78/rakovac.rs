@@ -247,6 +247,18 @@ p { margin: 0 0 1em; }
 .todo p { margin: 0; display: inline; }
 
 /* Video */
+/* Old maps: full scan loads on request, then scroll / drag to pan */
+.oldmap { margin: 1.5rem 0; width: max(100%, calc(min(1160px, 100vw) - 2 * var(--gutter) - 16px)); }
+.oldmap-view { contain: inline-size; position: relative; height: min(70vh, 560px); overflow: hidden; border-radius: var(--radius); background: #e9e2cf; }
+.oldmap-view.loaded { overflow: auto; cursor: grab; }
+.oldmap-view.dragging { cursor: grabbing; user-select: none; }
+.oldmap-view img { max-width: none; display: block; }
+.oldmap-poster { position: absolute; inset: 0; width: 100%; height: 100%; object-fit: cover; }
+.oldmap-load { position: absolute; inset: 0; width: 100%; height: 100%; border: 0; display: flex; flex-direction: column; align-items: center; justify-content: center; gap: .35rem; font: inherit; color: #fff; background: rgba(19, 36, 28, .5); cursor: pointer; }
+.oldmap-btn { font-weight: 700; font-size: 1.1rem; padding: .55rem 1.1rem; border-radius: 999px; background: rgba(0, 0, 0, .35); border: 1px solid rgba(255, 255, 255, .6); }
+.oldmap-view.loading .oldmap-btn { opacity: .6; }
+.oldmap figcaption { margin-top: .5rem; font-size: .92rem; }
+
 .videos { padding-block: 1rem 2rem; }
 .video-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(300px, 1fr)); gap: 1rem; }
 .video { margin: 0; aspect-ratio: 16 / 9; max-width: 100%; border-radius: var(--radius); overflow: hidden; background: var(--forest); }
