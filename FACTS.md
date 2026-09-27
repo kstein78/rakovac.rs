@@ -103,3 +103,22 @@ Kamenolom memorial: coords 45.18103, 19.77137; 500 m from monastery — fruskac.
 | Drive times: Vrdnik ~12 min, Lake Ledinci ~15 min; trail directions east (Beli Majdan, hermitage) / west (waterfall, lookouts) | C | Kosta |
 | Author photo | C | Kosta, private archive |
 | Beli Majdan: NP sign "no entry into the gallery without a national park official — risk of rockfall" | C | Kosta's photo, 26 Sep 2026 |
+
+## Vrdnik Tower (Vrdnička kula), added 2026-09-27
+
+| Fact | Level | Source |
+|---|---|---|
+| Coords 45.1439865, 19.7752531 (tower footprint, OSM way 643233179); Wikidata Q12749999 point is ~200 m off (precision ~1 km) | A | OpenStreetMap / Nominatim; Wikidata |
+| ~10 min by car from Stari Rakovac | C | Kosta |
+| First mentioned 1315, "Castrum Rednek", estate of the Archbishop of Kalocsa | A | sr.wikipedia "Врдничка кула"; tvrdjave.rs; board on site |
+| Cultural Monument of Great Importance | A | sr.wikipedia; Wikidata P1435; tvrdjave.rs |
+| ~400 m a.s.l.; elongated semicircular plan (~50 × 60 m, tvrdjave), east gate + entrance tower, buttresses on south wall | B | sr.wikipedia; tvrdjave.rs |
+| Keep horseshoe-shaped, 18 m high | A | board on site; tvrdjave.rs |
+| Roman finds (Tetrarchy, Probus 276–282) → Roman lookout for Sirmium | B | sr.wikipedia; tvrdjave.rs |
+| "Built by Probus in 287" | ? | board, en.wikipedia — contradicts Probus's reign (276–282); site says so |
+| Ottomans took Srem 1521, used fortress for a time; declared it a "kamenolom" and sold the stone | B | board (Udruženje "Vrdnička kula"); tvrdjave.rs (use) |
+| Destroyed by 1702 (papal visitor) | B | tvrdjave.rs |
+| Excavations from 2015 (sr.wiki says "no research so far" — outdated) | B | tvrdjave.rs |
+| Ethno village "Vrdnička kula" construction began 2013 | B | board on site |
+| Vrdnik brown-coal mine 1804–1968 | B | en.wikipedia "Vrdnik" |
+| Steel staircase, benches, shelter, headframe near tower | C | Kosta's photos 2026 |

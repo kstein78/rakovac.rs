@@ -12,7 +12,7 @@ website: https://frusketerme.com/
 kids: true
 ---
 
-**Vrdnik** ist ein Kurort an den Südhängen der Fruška Gora. Von Rakovac führt die Straße am Kloster vorbei hinauf nach Zmajevac und auf der anderen Seite wieder hinunter: etwa 12 Minuten mit dem Auto.
+**Vrdnik** ist ein Kurort an den Südhängen der Fruška Gora. Von Rakovac führt die Straße am Kloster vorbei hinauf nach Zmajevac und auf der anderen Seite wieder hinunter: etwa 12 Minuten mit dem Auto. Über dem Ort steht der mittelalterliche [Vrdnik-Turm]({{< relref "nearby/vrdnicka-kula" >}}).
 
 ## Fruške Terme
 

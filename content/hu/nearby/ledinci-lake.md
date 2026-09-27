@@ -1,7 +1,7 @@
 ---
 title: Ledinci-tó
 kicker: Ledinačko jezero · kb. 15 perc autóval
-weight: 2
+weight: 3
 category: nature
 summary: Mély, türkizkék tó egy elárasztott kőbányában, az erdőben, Stari Ledinci közelében. Gyönyörű, de jelenleg nem látogatható.
 coords:

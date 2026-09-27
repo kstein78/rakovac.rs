@@ -1,7 +1,7 @@
 ---
 title: Lake Ledinci
 kicker: Ledinačko jezero · about 15 minutes by car
-weight: 2
+weight: 3
 category: nature
 summary: A deep turquoise lake in a flooded stone quarry in the forest near Stari Ledinci. Beautiful, but currently closed to visitors.
 coords:

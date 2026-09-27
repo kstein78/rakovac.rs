@@ -1,7 +1,7 @@
 ---
 title: Ledinci-See
 kicker: Ledinačko jezero · etwa 15 Minuten mit dem Auto
-weight: 2
+weight: 3
 category: nature
 summary: Ein tiefer, türkisfarbener See in einem gefluteten Steinbruch im Wald bei Stari Ledinci. Wunderschön, aber derzeit für Besucher gesperrt.
 coords:

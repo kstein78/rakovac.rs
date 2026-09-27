@@ -335,3 +335,93 @@ map-spezialkarte-1915:
   alt_de: Spezialkarte der Österreichisch-Ungarischen Monarchie 1:75.000, Blatt Ilok und Ruma (1915), mit Rakovac in der Nordostecke
   alt_hu: Az Osztrák–Magyar Monarchia 1:75 000-es speciális térképe, Ilok und Ruma lap (1915), északkeleti sarkában Rakovaccal
   temp: false
+
+# Konstantin Stein's own photos, Vrdnik Tower, 2026 (EXIF/GPS stripped).
+vrdnicka-kula-stairs:
+  src: img/vrdnicka-kula-stairs.jpg
+  page: https://stein-1.com
+  author: Konstantin Stein
+  license: © all rights reserved
+  alt: "Vrdnik Tower, the 18-metre keep of the medieval fortress, with its steel visitor staircase"
+  alt_ru: "Врдничская башня — 18-метровый донжон средневековой крепости со стальной лестницей для посетителей"
+  alt_sr: "Vrdnička kula, 18 metara visoka donžon kula srednjovekovnog utvrđenja, sa čeličnim stepeništem za posetioce"
+  alt_de: "Die Vrdnik-Turm, der 18 Meter hohe Bergfried der mittelalterlichen Festung, mit Besuchertreppe aus Stahl"
+  alt_hu: "A vrdniki torony, a középkori vár 18 méter magas lakótornya, acél látogatólépcsővel"
+  temp: false
+vrdnicka-kula-tower:
+  src: img/vrdnicka-kula-tower.jpg
+  page: https://stein-1.com
+  author: Konstantin Stein
+  license: © all rights reserved
+  alt: "The rounded side of Vrdnik Tower above dry grass and shrubs"
+  alt_ru: "Скруглённая сторона Врдничской башни над сухой травой и кустарником"
+  alt_sr: "Zaobljena strana Vrdničke kule iznad suve trave i žbunja"
+  alt_de: "Die abgerundete Seite des Vrdnik-Turms über trockenem Gras und Gebüsch"
+  alt_hu: "A vrdniki torony lekerekített oldala a száraz fű és bokrok fölött"
+  temp: false
+vrdnicka-kula-walls:
+  src: img/vrdnicka-kula-walls.jpg
+  page: https://stein-1.com
+  author: Konstantin Stein
+  license: © all rights reserved
+  alt: "Remains of the fortress walls at Vrdnik Tower"
+  alt_ru: "Остатки крепостных стен у Врдничской башни"
+  alt_sr: "Ostaci bedema kod Vrdničke kule"
+  alt_de: "Reste der Festungsmauern am Vrdnik-Turm"
+  alt_hu: "A várfalak maradványai a vrdniki toronynál"
+  temp: false
+vrdnicka-kula-stairs-close:
+  src: img/vrdnicka-kula-stairs-close.jpg
+  page: https://stein-1.com
+  author: Konstantin Stein
+  license: © all rights reserved
+  alt: "The steel staircase up to the viewing platform inside Vrdnik Tower"
+  alt_ru: "Стальная лестница к смотровой площадке Врдничской башни"
+  alt_sr: "Čelično stepenište do vidikovca u Vrdničkoj kuli"
+  alt_de: "Die Stahltreppe zur Aussichtsplattform im Vrdnik-Turm"
+  alt_hu: "Az acéllépcső a vrdniki torony kilátójához"
+  temp: false
+vrdnicka-kula-view:
+  src: img/vrdnicka-kula-view.jpg
+  page: https://stein-1.com
+  author: Konstantin Stein
+  license: © all rights reserved
+  alt: "View from the tower hill over Vrdnik and the Fruške Terme resort towards the plain of Srem"
+  alt_ru: "Вид с башенного холма на Врдник и курорт Fruške Terme в сторону сремской равнины"
+  alt_sr: "Pogled sa brda kod kule na Vrdnik i kompleks Fruške Terme prema sremskoj ravnici"
+  alt_de: "Blick vom Turmhügel über Vrdnik und das Resort Fruške Terme in die Ebene von Srem"
+  alt_hu: "Kilátás a toronydombról Vrdnikre és a Fruške Terme üdülőre, a szerémségi síkság felé"
+  temp: false
+vrdnicka-kula-path:
+  src: img/vrdnicka-kula-path.jpg
+  page: https://stein-1.com
+  author: Konstantin Stein
+  license: © all rights reserved
+  alt: "Forest path with wood chips on the way to Vrdnik Tower"
+  alt_ru: "Лесная тропа, посыпанная щепой, по пути к Врдничской башне"
+  alt_sr: "Šumska staza posuta iverjem na putu do Vrdničke kule"
+  alt_de: "Mit Holzhackschnitzeln bestreuter Waldweg auf dem Weg zum Vrdnik-Turm"
+  alt_hu: "Faforgáccsal borított erdei ösvény a vrdniki torony felé"
+  temp: false
+vrdnicka-kula-headframe:
+  src: img/vrdnicka-kula-headframe.jpg
+  page: https://stein-1.com
+  author: Konstantin Stein
+  license: © all rights reserved
+  alt: "A steel mine headframe near the tower, a reminder of Vrdnik's coal-mining past"
+  alt_ru: "Стальной шахтный копёр у башни — память о шахтёрском прошлом Врдника"
+  alt_sr: "Čelični izvozni toranj kod kule, podsetnik na rudarsku prošlost Vrdnika"
+  alt_de: "Ein stählernes Fördergerüst beim Turm erinnert an Vrdniks Bergbauvergangenheit"
+  alt_hu: "Acél aknatorony a torony közelében, Vrdnik bányászmúltjának emléke"
+  temp: false
+vrdnicka-kula-shelter:
+  src: img/vrdnicka-kula-shelter.jpg
+  page: https://stein-1.com
+  author: Konstantin Stein
+  license: © all rights reserved
+  alt: "Wooden shelter with a table near Vrdnik Tower"
+  alt_ru: "Деревянная беседка со столом у Врдничской башни"
+  alt_sr: "Drvena nadstrešnica sa stolom kod Vrdničke kule"
+  alt_de: "Hölzerner Unterstand mit Tisch beim Vrdnik-Turm"
+  alt_hu: "Fából készült esőbeálló asztallal a vrdniki torony közelében"
+  temp: false

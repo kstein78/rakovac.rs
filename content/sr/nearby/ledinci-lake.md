@@ -1,7 +1,7 @@
 ---
 title: Ledinačko jezero
 kicker: Oko 15 minuta automobilom
-weight: 2
+weight: 3
 category: nature
 summary: Duboko tirkizno jezero u potopljenom kamenolomu u šumi kod Starih Ledinaca. Prelepo, ali trenutno zatvoreno za posetioce.
 coords:

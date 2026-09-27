@@ -12,7 +12,7 @@ website: https://frusketerme.com/
 kids: true
 ---
 
-**Vrdnik** is a spa village on the southern slopes of Fruška Gora. From Rakovac the road climbs past the monastery to Zmajevac and drops down the other side: about 12 minutes by car.
+**Vrdnik** is a spa village on the southern slopes of Fruška Gora. From Rakovac the road climbs past the monastery to Zmajevac and drops down the other side: about 12 minutes by car. Above the village stands the medieval [Vrdnik Tower]({{< relref "nearby/vrdnicka-kula" >}}).
 
 ## Fruške Terme
 

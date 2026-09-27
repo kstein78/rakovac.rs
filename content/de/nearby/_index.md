@@ -3,8 +3,8 @@ title: Rund um Rakovac
 linkTitle: Umgebung
 weight: 18
 kicker: Nur eine kurze Autofahrt entfernt
-lead: 'Ein Thermalresort hinter dem Berg und ein türkisfarbener Steinbruchsee im Wald: zwei Orte, die höchstens eine Viertelstunde vom Dorf entfernt sind.'
-tile: Kurort Vrdnik und Fruške Terme, Ledinci-See
+lead: 'Ein Thermalresort hinter dem Berg, ein mittelalterlicher Turm darüber und ein türkisfarbener Steinbruchsee im Wald: alles höchstens eine Viertelstunde vom Dorf entfernt.'
+tile: Kurort Vrdnik und Fruške Terme, Vrdnik-Turm, Ledinci-See
 list_title: In der Nähe
 ---
 

@@ -12,7 +12,7 @@ website: https://frusketerme.com/
 kids: true
 ---
 
-**Vrdnik** fürdőfalu a Tarcal-hegység (Fruška gora) déli lejtőin. Rakovacból az út a kolostor mellett kapaszkodik fel Zmajevacig, majd a túloldalon ereszkedik le: autóval kb. 12 perc.
+**Vrdnik** fürdőfalu a Tarcal-hegység (Fruška gora) déli lejtőin. Rakovacból az út a kolostor mellett kapaszkodik fel Zmajevacig, majd a túloldalon ereszkedik le: autóval kb. 12 perc. A falu fölött áll a középkori [vrdniki torony]({{< relref "nearby/vrdnicka-kula" >}}).
 
 ## Fruške Terme
 

@@ -12,7 +12,7 @@ website: https://frusketerme.com/
 kids: true
 ---
 
-**Vrdnik** je banjsko mesto na južnim padinama Fruške gore. Iz Rakovca put se penje pored manastira do Zmajevca i spušta na drugu stranu: oko 12 minuta automobilom.
+**Vrdnik** je banjsko mesto na južnim padinama Fruške gore. Iz Rakovca put se penje pored manastira do Zmajevca i spušta na drugu stranu: oko 12 minuta automobilom. Iznad mesta stoji srednjovekovna [Vrdnička kula]({{< relref "nearby/vrdnicka-kula" >}}).
 
 ## Fruške terme
 
