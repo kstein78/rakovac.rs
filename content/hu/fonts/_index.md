@@ -10,7 +10,7 @@ hide_children: true
 
 <p class="fonts-sample"><span class="rk-cap">R</span>akovac · <span class="rk-cap">T</span>arcal-hegység</p>
 
-{{< note title="Nem hivatalos címer" >}}A pajzsos R a rakovac.rs portál jele, és ehhez tervezték. Nem a falu és nem Beočin község címere. Használata nem jelenti azt, hogy a község vagy a rakovac.rs ajánlja az adott vállalkozást.{{< /note >}}
+{{< note title="Nem hivatalos címer" >}}A pajzsos R a rakovac.rs portál jele, és ehhez tervezték. Nem a falu és nem Beočin község címere. A pajzs formáját és a szőlőt a falu címere ihlette, a betűk és motívumok a portál saját rajzai. Használata nem jelenti azt, hogy a község vagy a rakovac.rs ajánlja az adott vállalkozást.{{< /note >}}
 
 ## A logó
 

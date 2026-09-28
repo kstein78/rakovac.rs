@@ -11,7 +11,7 @@ aliases: ["/fonts/"]
 
 <p class="fonts-sample"><span class="rk-cap">R</span>akovac · <span class="rk-cap">F</span>ruška Gora</p>
 
-{{< note title="Not an official coat of arms" >}}The shield R is the identity of the rakovac.rs portal and was designed for it. It is not the coat of arms of the village or of the Municipality of Beočin. Using it does not mean that the municipality or rakovac.rs endorses a business.{{< /note >}}
+{{< note title="Not an official coat of arms" >}}The shield R is the identity of the rakovac.rs portal and was designed for it. It is not the coat of arms of the village or of the Municipality of Beočin. The shape of the shield and the grapes are inspired by the village coat of arms; the letters and motifs are our own drawing. Using it does not mean that the municipality or rakovac.rs endorses a business.{{< /note >}}
 
 ## The logo
 

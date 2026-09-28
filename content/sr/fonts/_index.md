@@ -10,7 +10,7 @@ hide_children: true
 
 <p class="fonts-sample"><span class="rk-cap">R</span>akovac · <span class="rk-cap">F</span>ruška gora</p>
 
-{{< note title="Ovo nije zvanični grb" >}}Slovo R u štitu je znak portala rakovac.rs i napravljen je za njega. To nije grb sela niti grb opštine Beočin. Korišćenje znaka ne znači da opština ili rakovac.rs preporučuju neku firmu.{{< /note >}}
+{{< note title="Ovo nije zvanični grb" >}}Slovo R u štitu je znak portala rakovac.rs i napravljen je za njega. To nije grb sela niti grb opštine Beočin. Oblik štita i grožđe su inspirisani grbom sela, a slova i motivi su naš sopstveni crtež. Korišćenje znaka ne znači da opština ili rakovac.rs preporučuju neku firmu.{{< /note >}}
 
 ## Logo
 

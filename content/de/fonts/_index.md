@@ -10,7 +10,7 @@ hide_children: true
 
 <p class="fonts-sample"><span class="rk-cap">R</span>akovac · <span class="rk-cap">F</span>ruška Gora</p>
 
-{{< note title="Kein offizielles Wappen" >}}Das R im Schild ist das Zeichen des Portals rakovac.rs und wurde dafür gestaltet. Es ist weder das Wappen des Dorfes noch das der Gemeinde Beočin. Wer es verwendet, wird dadurch nicht von der Gemeinde oder von rakovac.rs empfohlen.{{< /note >}}
+{{< note title="Kein offizielles Wappen" >}}Das R im Schild ist das Zeichen des Portals rakovac.rs und wurde dafür gestaltet. Es ist weder das Wappen des Dorfes noch das der Gemeinde Beočin. Form des Schildes und Trauben sind vom Wappen des Dorfes inspiriert, Buchstaben und Motive sind eine eigene Zeichnung des Portals. Wer es verwendet, wird dadurch nicht von der Gemeinde oder von rakovac.rs empfohlen.{{< /note >}}
 
 ## Das Logo
 
