@@ -18,7 +18,7 @@
 	}
 	handle @home {
 		header Vary Accept-Language
-		redir /{lang}/ 302
+		redir * /{lang}/ 302
 	}
 	handle {
 		file_server
