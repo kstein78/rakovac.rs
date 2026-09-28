@@ -5,12 +5,8 @@ weight: 20
 kicker: Stari Rakovac
 lead: Živ pravoslavni manastir u podnožju šume, prvi put pomenut 1545–1546. godine, danas dom ženskog monaškog sestrinstva. Njegov barokni zvonik je znamenje Starog Rakovca.
 tile: Posete, mleko i sir sestrinstva, filmska lokacija
-photo: monastery-2026-1
-gallery:
-- monastery-belltower
-- monastery-konak
-- monastery-iconostasis
-- monastery-2026-2
+photo: monastery-summer
+gallery: [monastery-mist, monastery-valley-winter, monastery-roofs-winter, monastery-belltower, monastery-iconostasis]
 coords:
 - 45.184697
 - 19.774143
@@ -49,6 +45,14 @@ Duga istorija manastira, od legende o Raki i jelenu do razaranja 1943. i obnove 
 - Mala **grobljanska kapela Pokrova Presvete Bogorodice** iz 1751. godine.
 
 {{< photo key="monastery-engraving" caption="Rakovac očima putnika iz 19. veka: „Griechisches Kloster Rakovatz“, iz albuma podunavskih prizora." >}}
+
+## Badnji dan u manastiru
+
+Uveče **6. januara**, na Badnji dan, uoči pravoslavnog Božića, ispred manastira gori badnjak: vatra od mladih hrastovih grana, stari srpski božićni običaj. Srpska pravoslavna crkva se drži julijanskog kalendara, pa Badnji dan pada 6. januara. Meštani dolaze sa decom i okupljaju se oko vatre.
+
+{{< photo key="monastery-badnjak" caption="Badnji dan ispred manastira." >}}
+
+{{< todo >}}Pitati u manastiru: da li badnjak gori svake godine, u koliko sati počinje i da li su gosti dobrodošli?{{< /todo >}}
 
 ## Mleko i sir od sestrinstva
 

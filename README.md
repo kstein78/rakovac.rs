@@ -41,6 +41,17 @@ PHOTOS-TODO.md         shot list to replace the temporary photos
 
 ## Everyday editing
 
+### Add photos to the gallery (/gallery/)
+
+1. Put the JPEG into `static/img/` and register it in `data/photos.yaml` (author = the photographer's name,
+   licence = what they allowed, e.g. "© all rights reserved" or "CC BY 4.0", alt + alt_ru/sr/de/hu).
+2. Add a line to `data/gallery.yaml`: `- { photo: key, season: summer, theme: views }`
+   (seasons: spring, summer, autumn, winter; themes: views, monastery, village, nature, monuments).
+3. `python3 scripts/gallery_thumbs.py` makes the 720-px thumbnails in `static/img/thumb/`.
+
+The page has season and theme filters, a viewer with arrows, swipe and keys (← → space, F for full screen,
+Esc), and a slideshow that changes the photo every 5 seconds.
+
 ### Add a place (house for rent, producer, shop …)
 
 Create e.g. `content/en/stay/vila-primer.md`:

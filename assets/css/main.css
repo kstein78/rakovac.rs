@@ -113,8 +113,8 @@ p { margin: 0 0 1em; }
 .langs a { color: var(--forest-muted); text-decoration: none; font-size: .8rem; font-weight: 600; padding: .2rem .4rem; border-radius: 4px; }
 .langs a[aria-current] { color: var(--forest-ink); background: rgb(255 255 255 / .12); }
 .menu-toggle { display: none; font: inherit; font-weight: 600; background: transparent; color: var(--forest-ink); border: 1px solid rgb(255 255 255 / .35); border-radius: 4px; padding: .3rem .8rem; cursor: pointer; }
-.site-nav ul { list-style: none; margin-block: 0; margin-inline: auto; display: flex; flex-wrap: wrap; gap: .1rem 1.1rem; padding-block: .2rem .8rem; }
-.site-nav a { color: var(--forest-ink); text-decoration: none; font-weight: 400; font-size: .98rem; padding-block: .2rem; border-bottom: 2px solid transparent; }
+.site-nav ul { list-style: none; margin-block: 0; margin-inline: auto; display: flex; flex-wrap: wrap; gap: .1rem .9rem; padding-block: .2rem .8rem; }
+.site-nav a { color: var(--forest-ink); text-decoration: none; font-weight: 400; font-size: .95rem; padding-block: .2rem; border-bottom: 2px solid transparent; }
 .site-nav a:hover, .site-nav a[aria-current] { border-bottom-color: var(--temp); }
 /* Narrow phones: Rakovac Common is wider than the old sans, so tighten the header and let the tools wrap if still needed */
 @media (max-width: 560px) {
@@ -448,3 +448,43 @@ p { margin: 0 0 1em; }
 .prose .gd-card ul { list-style: none; padding-left: 0; margin: .4rem 0 0; }
 .gd-badge { display: inline-flex; align-items: center; justify-content: center; min-width: 1.4em; height: 1.4em; padding: 0 .2em; border-radius: 3px; font-size: .8em; font-weight: 600; background: var(--line); color: var(--ink); vertical-align: .08em; }
 .gd-legend { font-size: .85rem; color: var(--muted); margin: .5rem 0 0; }
+
+/* Photo gallery (layouts/gallery/list.html) and its full-screen viewer (site.js). */
+.gal-intro { margin-bottom: 1rem; }
+.gal-bar { display: flex; flex-wrap: wrap; gap: .75rem 1.25rem; align-items: center; margin-bottom: 1rem; }
+.gal-start { display: inline-flex; align-items: center; gap: .45rem; }
+.gal-filters { display: grid; gap: .45rem; }
+.gal-group { display: flex; flex-wrap: wrap; gap: 6px; }
+.gal-group .chip { border: 1px solid var(--line); cursor: pointer; font: inherit; font-size: .82rem; padding: .25rem .7rem; }
+.gal-group .chip.is-on { background: var(--ink); color: var(--bg); border-color: var(--ink); }
+.gal-grid { list-style: none; padding: 0; margin: 0; display: grid; grid-template-columns: repeat(auto-fill, minmax(220px, 1fr)); gap: 8px; }
+@media (max-width: 520px) { .gal-grid { grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 6px; } }
+.gal-item[hidden] { display: none; }
+.gal-item a { display: block; aspect-ratio: 4 / 3; overflow: hidden; border-radius: var(--radius); background: var(--surface-2, var(--surface)); }
+.gal-item img { display: block; width: 100%; height: 100%; object-fit: cover; transition: transform .35s ease; }
+.gal-item a:hover img, .gal-item a:focus-visible img { transform: scale(1.04); }
+@media (prefers-reduced-motion: reduce) { .gal-item img { transition: none; } }
+html.gal-open { overflow: hidden; }
+.gal-viewer { position: fixed; inset: 0; z-index: 1000; background: #0b0d0c; color: #e6ebe6; }
+.gal-viewer[hidden] { display: none; }
+.gal-stage { margin: 0; height: 100%; display: grid; grid-template-rows: minmax(0, 1fr) auto; }
+.gal-img { width: 100%; height: 100%; min-height: 0; object-fit: contain; transition: opacity .35s ease; }
+.gal-img.is-fading { opacity: 0; }
+.gal-cap { padding: .6rem 1rem calc(.8rem + env(safe-area-inset-bottom, 0px)); text-align: center; font-size: .9rem; line-height: 1.4; color: #d8ded8; }
+.gal-credit, .gal-num { color: #9aa59c; font-size: .8rem; white-space: nowrap; }
+.gal-num { margin-left: .5rem; font-variant-numeric: tabular-nums; }
+.gal-viewer button { background: rgb(0 0 0 / .45); color: #fff; border: 0; border-radius: 6px; cursor: pointer; display: inline-flex; align-items: center; justify-content: center; }
+.gal-viewer button:hover { background: rgb(255 255 255 / .18); }
+.gal-viewer button:focus-visible { outline: 2px solid #fff; outline-offset: 2px; }
+.gal-btn { position: absolute; top: 50%; transform: translateY(-60%); width: 3rem; height: 4.5rem; }
+.gal-prev { left: max(.5rem, env(safe-area-inset-left, 0px)); }
+.gal-next { right: max(.5rem, env(safe-area-inset-right, 0px)); }
+.gal-tools { position: absolute; top: max(.5rem, env(safe-area-inset-top, 0px)); right: max(.5rem, env(safe-area-inset-right, 0px)); display: flex; gap: .4rem; }
+.gal-tools button { width: 2.75rem; height: 2.75rem; }
+.gal-tools button[hidden] { display: none; }
+.gal-viewer .i-pause, .gal-viewer.is-playing .i-play { display: none; }
+.gal-viewer.is-playing .i-pause { display: block; }
+.gal-btn, .gal-tools, .gal-cap { transition: opacity .5s ease; }
+.gal-viewer.gal-idle { cursor: none; }
+.gal-viewer.gal-idle .gal-btn, .gal-viewer.gal-idle .gal-tools, .gal-viewer.gal-idle .gal-cap { opacity: 0; }
+@media (max-width: 600px) { .gal-btn { width: 2.4rem; height: 3.6rem; } }

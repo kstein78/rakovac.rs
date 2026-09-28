@@ -1,6 +1,6 @@
 ---
 title: Túraútvonalak Rakovacból
-linkTitle: Túraútvonalak
+linkTitle: Túrák
 weight: 15
 kicker: Négy séta 10 perctől egy egész napig
 lead: Minden itt szereplő útvonal a Stari Rakovacban álló Rakovaci kolostortól indul, ahol parkolni lehet, és ahol a 77-es városi busz is megáll. Az útvonalakat a legrövidebbtől a leghosszabbig soroljuk fel.

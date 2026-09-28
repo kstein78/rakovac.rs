@@ -1,7 +1,7 @@
 ---
 title: Rakovac
 slogan: Otkrij svoj Rakovac
-photo: monastery-2026-1
+photo: monastery-mist
 lead: 'Više od 7.000 godina istorije u jednoj dolini na severnoj padini Fruške gore, 13 km od Novog Sada. Rakovac je odlično mesto da upoznate prirodu Fruške gore i uronite u istoriju: neobična prirodna mesta i arheološki spomenici, stari manastir, šumske staze do vodopada, a na kraju dana domaća kuhinja i vino.'
 keyfacts:
 - value: 7.000+

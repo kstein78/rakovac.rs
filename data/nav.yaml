@@ -11,6 +11,7 @@ primary:
   - { path: people,     label: nav_people }
   - { path: kids,       label: nav_kids }
   - { path: useful,     label: nav_useful }
+  - { path: gallery,    label: nav_gallery }
   - { path: map,        label: nav_map }
 secondary:
   - { path: local-products, label: nav_products }

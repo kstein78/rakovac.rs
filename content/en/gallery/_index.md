@@ -1,0 +1,10 @@
+---
+title: "Rakovac in photos"
+linkTitle: "Photos"
+kicker: "Gallery"
+weight: 90
+summary: "Views from the hills, the monastery in every season, snow in the gardens and the monuments around the village: photos of Rakovac today, to browse or to watch as a full-screen slideshow."
+lead: "Rakovac today, season by season. Press Slideshow to watch the photos on the full screen."
+---
+
+Old photos from family albums have their own place: the [photo archive]({{< relref "history/photos" >}}).

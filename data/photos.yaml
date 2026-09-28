@@ -504,3 +504,195 @@ vrdnicka-kula-shelter:
   alt_de: "Hölzerner Unterstand mit Tisch beim Vrdnik-Turm"
   alt_hu: "Fából készült esőbeálló asztallal a vrdniki torony közelében"
   temp: false
+
+# Kosta's own photos, sent 2026-09-29 (views from the lookout with the swing, the monastery, Badnji dan, the village in winter).
+lookout-swing-autumn:
+  src: img/lookout-swing-autumn.jpg
+  author: Konstantin Stein
+  license: © all rights reserved
+  alt: "On the swing at the lookout above Novi Rakovac in late autumn, Novi Sad on the horizon"
+  temp: false
+  alt_ru: "На качелях у смотровой над Нови-Раковцем поздней осенью, на горизонте Нови-Сад"
+  alt_sr: "Na ljuljašci na vidikovcu iznad Novog Rakovca u kasnu jesen, na horizontu Novi Sad"
+  alt_de: "Auf der Schaukel am Aussichtspunkt über Novi Rakovac im Spätherbst, am Horizont Novi Sad"
+  alt_hu: "Hintázás a Novi Rakovac feletti kilátónál késő ősszel, a láthatáron Újvidék"
+lookout-summer-fields:
+  src: img/lookout-summer-fields.jpg
+  author: Konstantin Stein
+  license: © all rights reserved
+  alt: "Summer view from the hills above Rakovac: a cornfield, white quarry cuts and the Danube plain"
+  temp: false
+  alt_ru: "Летний вид с холмов над Раковцем: кукурузное поле, белые срезы карьеров и Дунайская равнина"
+  alt_sr: "Letnji pogled sa brda iznad Rakovca: kukuruzište, beli useci kamenoloma i podunavska ravnica"
+  alt_de: "Sommerblick von den Hügeln über Rakovac: ein Maisfeld, weiße Steinbruchkanten und die Donauebene"
+  alt_hu: "Nyári kilátás a Rakovac feletti dombokról: kukoricaföld, fehér kőbányafalak és a Duna menti síkság"
+lookout-slopes-novi-sad:
+  src: img/lookout-slopes-novi-sad.jpg
+  author: Konstantin Stein
+  license: © all rights reserved
+  alt: "Houses on the wooded slopes below the lookout; beyond them Novi Sad and the arches of the Žeželj Bridge"
+  temp: false
+  alt_ru: "Дома на лесистых склонах под смотровой, за ними Нови-Сад и арки моста Жежеля"
+  alt_sr: "Kuće na šumovitim padinama ispod vidikovca, iza njih Novi Sad i lukovi Žeželjevog mosta"
+  alt_de: "Häuser an den bewaldeten Hängen unter dem Aussichtspunkt, dahinter Novi Sad und die Bögen der Žeželj-Brücke"
+  alt_hu: "Házak a kilátó alatti erdős lejtőkön, mögöttük Újvidék és a Žeželj-híd ívei"
+lookout-swing-summer:
+  src: img/lookout-swing-summer.jpg
+  author: Konstantin Stein
+  license: © all rights reserved
+  alt: "A child on the swing at the lookout in summer"
+  temp: false
+  alt_ru: "Ребёнок на качелях у смотровой летом"
+  alt_sr: "Dete na ljuljašci na vidikovcu leti"
+  alt_de: "Ein Kind auf der Schaukel am Aussichtspunkt im Sommer"
+  alt_hu: "Gyerek a hintán a kilátónál nyáron"
+lookout-storm-novi-sad:
+  src: img/lookout-storm-novi-sad.jpg
+  author: Konstantin Stein
+  license: © all rights reserved
+  alt: "Storm clouds over Novi Sad and the Danube, seen from the meadow above Rakovac"
+  temp: false
+  alt_ru: "Грозовые тучи над Нови-Садом и Дунаем, вид с луга над Раковцем"
+  alt_sr: "Olujni oblaci nad Novim Sadom i Dunavom, pogled sa livade iznad Rakovca"
+  alt_de: "Gewitterwolken über Novi Sad und der Donau, gesehen von der Wiese über Rakovac"
+  alt_hu: "Viharfelhők Újvidék és a Duna fölött a Rakovac feletti rétről nézve"
+lookout-rain-danube:
+  src: img/lookout-rain-danube.jpg
+  author: Konstantin Stein
+  license: © all rights reserved
+  alt: "Rain moving over the Danube; a dog in the tall grass of the meadow"
+  temp: false
+  alt_ru: "Над Дунаем идёт дождь; собака в высокой траве на лугу"
+  alt_sr: "Kiša nad Dunavom; pas u visokoj travi na livadi"
+  alt_de: "Regen zieht über die Donau; ein Hund im hohen Gras der Wiese"
+  alt_hu: "Eső vonul a Duna fölött; kutya a rét magas füvében"
+lookout-grass-sky:
+  src: img/lookout-grass-sky.jpg
+  author: Konstantin Stein
+  license: © all rights reserved
+  alt: "Dry grass and a heavy sky over the Danube valley"
+  temp: false
+  alt_ru: "Сухая трава и тяжёлое небо над долиной Дуная"
+  alt_sr: "Suva trava i teško nebo nad dolinom Dunava"
+  alt_de: "Trockenes Gras und schwerer Himmel über dem Donautal"
+  alt_hu: "Száraz fű és nehéz ég a Duna völgye fölött"
+lookout-danube-bend:
+  src: img/lookout-danube-bend.jpg
+  author: Konstantin Stein
+  license: © all rights reserved
+  alt: "Late-autumn view from the meadow: the Danube bend and Novi Sad"
+  temp: false
+  alt_ru: "Вид с луга в конце осени: излучина Дуная и Нови-Сад"
+  alt_sr: "Pogled sa livade u kasnu jesen: okuka Dunava i Novi Sad"
+  alt_de: "Blick von der Wiese im Spätherbst: die Donauschleife und Novi Sad"
+  alt_hu: "Kilátás a rétről késő ősszel: a Duna kanyarulata és Újvidék"
+monastery-summer:
+  src: img/monastery-summer.jpg
+  author: Konstantin Stein
+  license: © all rights reserved
+  alt: "Rakovac Monastery in summer: the long residential building (konak) and the lawn in front of it"
+  temp: false
+  alt_ru: "Монастырь Раковац летом: длинный жилой корпус (конак) и лужайка перед ним"
+  alt_sr: "Manastir Rakovac leti: dugački konak i travnjak ispred njega"
+  alt_de: "Kloster Rakovac im Sommer: der lange Wohntrakt (Konak) und die Wiese davor"
+  alt_hu: "A rakovaci kolostor nyáron: a hosszú lakószárny (konak) és az előtte lévő gyep"
+monastery-valley-winter:
+  src: img/monastery-valley-winter.jpg
+  author: Konstantin Stein
+  license: © all rights reserved
+  alt: "Rakovac Monastery in its valley, seen from the hills on a hazy winter day"
+  temp: false
+  alt_ru: "Монастырь Раковац в своей долине: вид с холмов в дымчатый зимний день"
+  alt_sr: "Manastir Rakovac u svojoj dolini, pogled sa brda po maglovitom zimskom danu"
+  alt_de: "Kloster Rakovac in seinem Tal, von den Hügeln aus an einem dunstigen Wintertag"
+  alt_hu: "A rakovaci kolostor a völgyében, a dombokról nézve egy párás téli napon"
+monastery-roofs-winter:
+  src: img/monastery-roofs-winter.jpg
+  author: Konstantin Stein
+  license: © all rights reserved
+  alt: "Rakovac Monastery above the roofs of Stari Rakovac in winter light"
+  temp: false
+  alt_ru: "Монастырь Раковац над крышами Стари-Раковца в зимнем свете"
+  alt_sr: "Manastir Rakovac iznad krovova Starog Rakovca u zimskom svetlu"
+  alt_de: "Kloster Rakovac über den Dächern von Stari Rakovac im Winterlicht"
+  alt_hu: "A rakovaci kolostor Stari Rakovac háztetői fölött, téli fényben"
+monastery-mist:
+  src: img/monastery-mist.jpg
+  author: Konstantin Stein
+  license: © all rights reserved
+  alt: "Mist in the valley of Stari Rakovac, with the monastery in the middle"
+  temp: false
+  alt_ru: "Дымка в долине Стари-Раковца, в центре монастырь"
+  alt_sr: "Izmaglica u dolini Starog Rakovca, u sredini manastir"
+  alt_de: "Dunst im Tal von Stari Rakovac, in der Mitte das Kloster"
+  alt_hu: "Pára Stari Rakovac völgyében, középen a kolostor"
+monastery-badnjak:
+  src: img/monastery-badnjak.jpg
+  author: Konstantin Stein
+  license: © all rights reserved
+  alt: "Badnji dan, 6 January: the badnjak bonfire in front of Rakovac Monastery on Orthodox Christmas Eve"
+  temp: false
+  alt_ru: "Бадни дан, 6 января: костёр-бадняк перед монастырём Раковац в канун православного Рождества"
+  alt_sr: "Badnji dan, 6. januar: badnjak gori ispred manastira Rakovac uoči pravoslavnog Božića"
+  alt_de: "Badnji dan, 6. Januar: das Badnjak-Feuer vor dem Kloster Rakovac am orthodoxen Heiligabend"
+  alt_hu: "Badnji dan, január 6.: badnjak-tűz a rakovaci kolostor előtt az ortodox karácsony előestéjén"
+village-house-summer:
+  src: img/village-house-summer.jpg
+  author: Konstantin Stein
+  license: © all rights reserved
+  alt: "A house among the trees of Rakovac in summer"
+  temp: false
+  alt_ru: "Дом среди деревьев Раковца летом"
+  alt_sr: "Kuća među drvećem Rakovca leti"
+  alt_de: "Ein Haus zwischen den Bäumen von Rakovac im Sommer"
+  alt_hu: "Ház Rakovac fái között nyáron"
+village-garden-snow:
+  src: img/village-garden-snow.jpg
+  author: Konstantin Stein
+  license: © all rights reserved
+  alt: "Deep snow in a garden in Rakovac"
+  temp: false
+  alt_ru: "Глубокий снег в саду в Раковце"
+  alt_sr: "Dubok sneg u jednom dvorištu u Rakovcu"
+  alt_de: "Tiefer Schnee in einem Garten in Rakovac"
+  alt_hu: "Mély hó egy rakovaci kertben"
+village-snow-pillar:
+  src: img/village-snow-pillar.jpg
+  author: Konstantin Stein
+  license: © all rights reserved
+  alt: "A cap of snow on a brick pillar with a cross"
+  temp: false
+  alt_ru: "Шапка снега на кирпичном столбе с крестом"
+  alt_sr: "Kapa snega na stubu od opeke sa krstom"
+  alt_de: "Eine Schneehaube auf einem Ziegelpfeiler mit Kreuz"
+  alt_hu: "Hósapka egy keresztes téglaoszlopon"
+village-snow-sun:
+  src: img/village-snow-sun.jpg
+  author: Konstantin Stein
+  license: © all rights reserved
+  alt: "Fresh snow on birches and firs, with the low sun behind the clouds"
+  temp: false
+  alt_ru: "Свежий снег на берёзах и елях, низкое солнце за облаками"
+  alt_sr: "Svež sneg na brezama i jelama, nisko sunce iza oblaka"
+  alt_de: "Frischer Schnee auf Birken und Tannen, die tiefe Sonne hinter den Wolken"
+  alt_hu: "Friss hó nyírfákon és fenyőkön, alacsonyan járó nap a felhők mögött"
+nature-frost-oak:
+  src: img/nature-frost-oak.jpg
+  author: Konstantin Stein
+  license: © all rights reserved
+  alt: "Hoarfrost on fallen oak leaves"
+  temp: false
+  alt_ru: "Иней на опавших дубовых листьях"
+  alt_sr: "Inje na opalom hrastovom lišću"
+  alt_de: "Raureif auf abgefallenem Eichenlaub"
+  alt_hu: "Zúzmara lehullott tölgyleveleken"
+nature-frost-grass:
+  src: img/nature-frost-grass.jpg
+  author: Konstantin Stein
+  license: © all rights reserved
+  alt: "Oak leaves and grass in the morning frost"
+  temp: false
+  alt_ru: "Дубовые листья и трава в утреннем инее"
+  alt_sr: "Hrastovo lišće i trava pod jutarnjim injem"
+  alt_de: "Eichenblätter und Gras im Morgenfrost"
+  alt_hu: "Tölgylevelek és fű a reggeli dérben"

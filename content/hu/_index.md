@@ -1,7 +1,7 @@
 ---
 title: Rakovac
 slogan: Fedezze fel a saját Rakovacát
-photo: monastery-2026-1
+photo: monastery-mist
 lead: 'Több mint 7000 év története egyetlen völgyben, a Tarcal-hegység (Fruška gora) északi lejtőjén, 13 km-re Újvidéktől (Novi Sad). Rakovac remek hely arra, hogy megismerje a hegység természetét, és elmerüljön a múltjában: különleges természeti helyek és régészeti emlékek, egy régi kolostor, erdei ösvények egy vízeséshez, a nap végén pedig helyi ételek és borok.'
 keyfacts:
 - value: 7000+

@@ -1,0 +1,64 @@
+{{/* Photo gallery: items from data/gallery.yaml, pictures, captions and credits from data/photos.yaml.
+  Grid of thumbnails (static/img/thumb/, made by scripts/gallery_thumbs.py) with season and theme filters;
+  a click opens the viewer (site.js, [data-gallery]): arrows, swipe, slideshow every 5 s, full screen.
+  Without JS every thumbnail is a plain link to the full photo. */}}
+{{ define "main" }}
+{{ partial "page-head.html" . }}
+{{ $lang := site.Language.Lang }}
+{{ $seasons := slice }}{{ $themes := slice }}
+{{ range site.Data.gallery }}{{ with .season }}{{ $seasons = $seasons | append . }}{{ end }}{{ $themes = $themes | append .theme }}{{ end }}
+<div class="wrap gal-intro"><div class="prose">{{ .Content }}</div></div>
+<div class="wrap gal" data-gallery>
+  <div class="gal-bar">
+    <button type="button" class="btn gal-start" data-gal-start hidden>
+      <svg viewBox="0 0 16 16" width="16" height="16" aria-hidden="true"><path d="M4 2.5v11l9-5.5z" fill="currentColor"/></svg>
+      {{ i18n "gal_slideshow" }}
+    </button>
+    <div class="gal-filters" data-gal-filters hidden>
+      <div class="gal-group" role="group" aria-label="{{ i18n "gal_theme" }}" data-group="theme">
+        <button type="button" class="chip is-on" data-val="">{{ i18n "gal_all" }}</button>
+        {{ range slice "views" "monastery" "village" "nature" "monuments" }}{{ if in $themes . }}<button type="button" class="chip" data-val="{{ . }}">{{ i18n (printf "gal_theme_%s" .) }}</button>{{ end }}{{ end }}
+      </div>
+      <div class="gal-group" role="group" aria-label="{{ i18n "gal_season" }}" data-group="season">
+        <button type="button" class="chip is-on" data-val="">{{ i18n "gal_all_seasons" }}</button>
+        {{ range slice "spring" "summer" "autumn" "winter" }}{{ if in $seasons . }}<button type="button" class="chip" data-val="{{ . }}">{{ i18n (printf "gal_season_%s" .) }}</button>{{ end }}{{ end }}
+      </div>
+    </div>
+  </div>
+  <ul class="gal-grid">
+    {{ range site.Data.gallery }}
+    {{ $p := index site.Data.photos .photo }}
+    {{ if $p }}
+    {{ $src := $p.src }}
+    {{ $full := $src }}{{ $thumb := $src }}
+    {{ if not (hasPrefix $src "http") }}
+      {{ $full = $src | relURL }}{{ $thumb = $full }}
+      {{ $t := printf "img/thumb/%s" (path.Base $src) }}
+      {{ if fileExists (printf "static/%s" $t) }}{{ $thumb = $t | relURL }}{{ end }}
+    {{ end }}
+    {{ $alt := index $p (printf "alt_%s" $lang) | default $p.alt }}
+    <li class="gal-item" data-season="{{ .season }}" data-theme="{{ .theme }}">
+      <a href="{{ $full }}" data-credit="{{ i18n "photo_by" }}: {{ $p.author }}, {{ $p.license }}"><img src="{{ $thumb }}" alt="{{ $alt }}" loading="lazy" decoding="async"></a>
+    </li>
+    {{ end }}
+    {{ end }}
+  </ul>
+</div>
+<div class="gal-viewer" data-gal-viewer hidden role="dialog" aria-modal="true" aria-label="{{ .Title }}">
+  <figure class="gal-stage">
+    <img class="gal-img" alt="">
+    <figcaption class="gal-cap"><span class="gal-alt"></span> <span class="gal-credit"></span> <span class="gal-num"></span></figcaption>
+  </figure>
+  <button type="button" class="gal-btn gal-prev" data-act="prev" aria-label="{{ i18n "gal_prev" }}"><svg viewBox="0 0 24 24" width="28" height="28" aria-hidden="true"><path d="M15 5l-7 7 7 7" fill="none" stroke="currentColor" stroke-width="2.2"/></svg></button>
+  <button type="button" class="gal-btn gal-next" data-act="next" aria-label="{{ i18n "gal_next" }}"><svg viewBox="0 0 24 24" width="28" height="28" aria-hidden="true"><path d="M9 5l7 7-7 7" fill="none" stroke="currentColor" stroke-width="2.2"/></svg></button>
+  <div class="gal-tools">
+    <button type="button" data-act="play" aria-label="{{ i18n "gal_play" }}" data-l-play="{{ i18n "gal_play" }}" data-l-pause="{{ i18n "gal_pause" }}">
+      <svg class="i-play" viewBox="0 0 16 16" width="18" height="18" aria-hidden="true"><path d="M4 2.5v11l9-5.5z" fill="currentColor"/></svg>
+      <svg class="i-pause" viewBox="0 0 16 16" width="18" height="18" aria-hidden="true"><path d="M4 2.5h3v11H4zM9 2.5h3v11H9z" fill="currentColor"/></svg>
+    </button>
+    <button type="button" data-act="fs" aria-label="{{ i18n "gal_fullscreen" }}"><svg viewBox="0 0 16 16" width="18" height="18" aria-hidden="true"><path d="M2 6V2h4M10 2h4v4M14 10v4h-4M6 14H2v-4" fill="none" stroke="currentColor" stroke-width="1.6"/></svg></button>
+    <button type="button" data-act="close" aria-label="{{ i18n "gal_close" }}"><svg viewBox="0 0 16 16" width="18" height="18" aria-hidden="true"><path d="M3 3l10 10M13 3L3 13" fill="none" stroke="currentColor" stroke-width="1.8"/></svg></button>
+  </div>
+</div>
+{{ partial "photo-call.html" . }}
+{{ end }}

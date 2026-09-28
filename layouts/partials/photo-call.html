@@ -1,19 +1,21 @@
-{{/* "Do you have old photos of Rakovac?" box: on the People and History pages (lists and single pages).
+{{/* "Do you have old photos of Rakovac?" box: on the People and History pages (lists and single pages);
+  on the gallery page the same box asks for present-day photos (gal_call_* texts, no home-visit line).
   Channels: e-mail, WhatsApp, Viber, Telegram (site params), plus a home visit to scan the originals. */}}
-{{ if in (slice "people" "history") .Section }}
+{{ if in (slice "people" "history" "gallery") .Section }}
+{{ $g := eq .Section "gallery" }}
 {{ $p := site.Params }}
 {{ $num := strings.TrimPrefix "+" $p.contactPhone }}
 <div class="wrap">
   <aside class="photo-call" id="old-photos" aria-labelledby="old-photos-title">
-    <p class="photo-call-title" id="old-photos-title">{{ i18n "pc_title" }}</p>
-    <p>{{ i18n "pc_text" }}</p>
+    <p class="photo-call-title" id="old-photos-title">{{ i18n (cond $g "gal_call_title" "pc_title") }}</p>
+    <p>{{ i18n (cond $g "gal_call_text" "pc_text") }}</p>
     <p class="photo-call-actions">
-      <a class="btn" href="mailto:{{ $p.contactEmail }}?subject={{ i18n "pc_mail_subject" | urlquery }}">{{ i18n "pc_email" }}</a>
+      <a class="btn" href="mailto:{{ $p.contactEmail }}?subject={{ i18n (cond $g "gal_mail_subject" "pc_mail_subject") | urlquery }}">{{ i18n "pc_email" }}</a>
       <a class="btn btn-quiet" href="https://wa.me/{{ $num }}" rel="noopener">WhatsApp</a>
       <a class="btn btn-quiet" href="viber://chat?number=%2B{{ $num }}">Viber</a>
       <a class="btn btn-quiet" href="https://t.me/{{ $p.contactPhone }}" rel="noopener">Telegram</a>
     </p>
-    <p>{{ i18n "pc_visit" }} <a href="tel:{{ $p.contactPhone }}">{{ $p.contactPhoneDisplay }}</a></p>
+    {{ if not $g }}<p>{{ i18n "pc_visit" }} <a href="tel:{{ $p.contactPhone }}">{{ $p.contactPhoneDisplay }}</a></p>{{ end }}
     <p class="small muted">{{ i18n "pc_consent" }}{{ with site.GetPage "history/photos" }}{{ if ne .RelPermalink $.RelPermalink }} <a href="{{ .RelPermalink }}">{{ i18n "pc_archive_link" }} →</a>{{ end }}{{ end }}</p>
   </aside>
 </div>

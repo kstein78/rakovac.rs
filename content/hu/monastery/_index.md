@@ -5,12 +5,8 @@ weight: 20
 kicker: Manastir Rakovac · Stari Rakovac
 lead: Működő ortodox kolostor az erdő lábánál, amelyet először 1545–46-ban említenek, ma pedig apácaközösség otthona. Barokk harangtornya Stari Rakovac jellegzetes tájékozódási pontja.
 tile: Látogatás, a nővérek teje és sajtja, forgatási helyszín
-photo: monastery-2026-1
-gallery:
-- monastery-belltower
-- monastery-konak
-- monastery-iconostasis
-- monastery-2026-2
+photo: monastery-summer
+gallery: [monastery-mist, monastery-valley-winter, monastery-roofs-winter, monastery-belltower, monastery-iconostasis]
 coords:
 - 45.184697
 - 19.774143
@@ -49,6 +45,14 @@ A kolostor hosszú történetét, Raka és a szarvas alapítási legendájától
 - Az Istenszülő Oltalmának szentelt kis **temetőkápolna** 1751-ből.
 
 {{< photo key="monastery-engraving" caption="Rakovac, ahogy a 19. századi utazók látták: „Griechisches Kloster Rakovatz”, egy dunai látképeket tartalmazó albumból." >}}
+
+## Badnji dan a kolostornál
+
+**Január 6-án** este, Badnji danon, az ortodox karácsony előestéjén a kolostor előtt ég a badnjak: fiatal tölgyágakból rakott tűz, régi szerb karácsonyi szokás. A Szerb Ortodox Egyház a Julián-naptárt követi, ezért szentestéje január 6-ra esik. A falubeliek gyerekeikkel együtt jönnek el, és a tűz köré gyűlnek.
+
+{{< photo key="monastery-badnjak" caption="Badnji dan a kolostor előtt." >}}
+
+{{< todo >}}Megkérdezni a kolostort: minden évben ég-e a badnjak, hánykor kezdődik, és szívesen látják-e a látogatókat?{{< /todo >}}
 
 ## Tej és sajt a nővérektől
 

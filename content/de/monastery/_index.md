@@ -5,12 +5,8 @@ weight: 20
 kicker: Manastir Rakovac · Stari Rakovac
 lead: Ein lebendiges orthodoxes Kloster am Waldrand, erstmals 1545–46 erwähnt und heute Heimat einer Gemeinschaft von Nonnen. Sein barocker Glockenturm ist das Wahrzeichen von Stari Rakovac.
 tile: Besuch, Milch und Käse der Schwesternschaft und ein Drehort
-photo: monastery-2026-1
-gallery:
-- monastery-belltower
-- monastery-konak
-- monastery-iconostasis
-- monastery-2026-2
+photo: monastery-summer
+gallery: [monastery-mist, monastery-valley-winter, monastery-roofs-winter, monastery-belltower, monastery-iconostasis]
 coords:
 - 45.184697
 - 19.774143
@@ -49,6 +45,14 @@ Die lange Geschichte des Klosters, von der Gründungslegende um Raka und den Hir
 - Die kleine **Friedhofskapelle Mariä Schutz** von 1751.
 
 {{< photo key="monastery-engraving" caption="Rakovac, wie Reisende es im 19. Jahrhundert sahen: „Griechisches Kloster Rakovatz“, aus einem Album mit Donauansichten." >}}
+
+## Badnji dan im Kloster
+
+Am Abend des **6. Januar**, am Badnji dan, dem orthodoxen Heiligabend, brennt vor dem Kloster der Badnjak: ein Feuer aus jungen Eichenzweigen, ein alter serbischer Weihnachtsbrauch. Die Serbisch-Orthodoxe Kirche folgt dem julianischen Kalender, deshalb fällt ihr Heiligabend auf den 6. Januar. Leute aus dem Dorf kommen mit ihren Kindern und versammeln sich um das Feuer.
+
+{{< photo key="monastery-badnjak" caption="Badnji dan vor dem Kloster." >}}
+
+{{< todo >}}Im Kloster fragen: Brennt der Badnjak jedes Jahr, wann beginnt es, und sind Besucher willkommen?{{< /todo >}}
 
 ## Milch und Käse von der Schwesternschaft
 

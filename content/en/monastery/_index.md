@@ -5,8 +5,8 @@ weight: 20
 kicker: "Manastir Rakovac · Stari Rakovac"
 lead: "A living Orthodox monastery at the foot of the forest, first recorded in 1545–46 and home today to a community of nuns. Its baroque bell tower is the landmark of Stari Rakovac."
 tile: "Visiting, the sisterhood's milk and cheese, and a film location"
-photo: monastery-2026-1
-gallery: [monastery-belltower, monastery-konak, monastery-iconostasis, monastery-2026-2]
+photo: monastery-summer
+gallery: [monastery-mist, monastery-valley-winter, monastery-roofs-winter, monastery-belltower, monastery-iconostasis]
 coords: [45.184697, 19.774143]
 altitude: 176
 category: heritage
@@ -41,6 +41,14 @@ The long story of the monastery, from the founding legend of Raka and the deer t
 - The small **cemetery chapel of the Protection of the Mother of God** from 1751.
 
 {{< photo key="monastery-engraving" caption="Rakovac as travellers saw it in the 19th century: \"Griechisches Kloster Rakovatz\", from an album of Danube views." >}}
+
+## Badnji dan at the monastery
+
+On the evening of **6 January**, Badnji dan, the eve of Orthodox Christmas, the badnjak burns in front of the monastery: a bonfire of young oak branches, an old Serbian Christmas custom. The Serbian Orthodox Church keeps the Julian calendar, so its Christmas Eve falls on 6 January. People from the village come with their children and gather around the fire.
+
+{{< photo key="monastery-badnjak" caption="Badnji dan in front of the monastery." >}}
+
+{{< todo >}}Ask the monastery: does the badnjak burn every year, at what time does it start, and are visitors welcome?{{< /todo >}}
 
 ## Milk and cheese from the sisterhood
 

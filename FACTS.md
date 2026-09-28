@@ -125,3 +125,11 @@ Kamenolom memorial, on site (Kosta's photos, 2026-09): introductory plaque text 
 | Ethno village "Vrdnička kula" construction began 2013 | B | board on site |
 | Vrdnik brown-coal mine 1804–1968 | B | en.wikipedia "Vrdnik" |
 | Steel staircase, benches, shelter, headframe near tower | C | Kosta's photos 2026 |
+
+## Added 2026-09-29
+| Claim | Level | Source |
+|---|---|---|
+| Lookout with the swing: coords 45.195847, 19.767228 (Kosta's Google Maps pin); ~1.1 km S of Gradina, ~1.4 km from the monastery (computed); no sign, name is ours | C | Kosta, 2026-09-29 |
+| View from the lookout: Novi Sad with the two arches of the Žeželj Bridge visible in Kosta's photo | C | Kosta's photo |
+| Badnji dan (6 January, Julian Christmas Eve): badnjak bonfire in front of Rakovac Monastery, villagers with children | C | Kosta (photo + statement); yearly repetition and time to confirm with the monastery |
+| Monastery far shots are winter (Kosta), summer facade photo | C | Kosta |
