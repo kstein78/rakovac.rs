@@ -8,7 +8,7 @@
       {{ with .Params.lead }}<p class="lead">{{ . | markdownify }}</p>{{ end }}
       {{ with .Params.keyfacts }}
       <ul class="keyfacts">
-        {{ range . }}<li><span class="kf-num">{{ .value }}</span><span class="kf-label">{{ .label }}</span></li>{{ end }}
+        {{ range . }}<li><span class="kf-num">{{ replace (.value | htmlEscape) "+" `<span class="kf-plus">+</span>` | safeHTML }}</span><span class="kf-label">{{ .label }}</span></li>{{ end }}
       </ul>
       {{ end }}
     </div>
