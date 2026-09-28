@@ -858,3 +858,13 @@ isposnica-chapel-child:
   alt_sr: "U Isposnici: mala pećinska kapela sa ikonama i kandilom"
   alt_de: "In der Einsiedelei: die kleine Höhlenkapelle mit Ikonen und einer Öllampe"
   alt_hu: "A remetelakban: a kis barlangkápolna ikonokkal és olajmécsessel"
+monastery-entrance:
+  src: img/monastery-entrance.jpg
+  author: Konstantin Stein
+  license: © all rights reserved
+  alt: "The path to the monastery gate between lavender beds, benches and white stone urns"
+  temp: false
+  alt_ru: "Дорожка к воротам монастыря между клумбами лаванды, скамейками и белыми каменными вазами"
+  alt_sr: "Staza do manastirske kapije između leja lavande, klupa i belih kamenih žardinjera"
+  alt_de: "Der Weg zum Klostertor zwischen Lavendelbeeten, Bänken und weißen Steinvasen"
+  alt_hu: "A kolostor kapujához vezető út levendulaágyások, padok és fehér kővázák között"
