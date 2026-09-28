@@ -19,9 +19,9 @@ altitude: 135
 
 Spomenik je dobio ime po **Stručici**, delu Rakovca u kome se nalazi, u ulici Stanka Paunovića Veljka. Podignut je početkom sedamdesetih po projektu arhitekte **Mirka Krstonošića**. Tri zakrivljena betonska stuba simbolizuju trojicu poginulih ovde tokom proboja iz obruča na Fruškoj gori u avgustu 1942:
 
-- **Đorđe Marković Đilas**, komandant štaba partizanskih odreda Srema;
-- **Stanko Paunović Veljko** (1907–1942), politički komesar, kasnije proglašen narodnim herojem;
-- **Zencel Hunjadi**, kurir „Franja“.
+- [**Đorđe Marković Đilas**]({{< relref "people/djordje-markovic-djilas" >}}), komandant štaba partizanskih odreda Srema;
+- [**Stanko Paunović Veljko**]({{< relref "people/stanko-paunovic-veljko" >}}) (1907–1942), politički komesar, kasnije proglašen narodnim herojem;
+- [**Zencel Hunjadi**]({{< relref "people/zencel-hunjadi" >}}), kurir „Franja“.
 
 Paunović je najpre sahranjen ovde, a kasnije prenet na Spomen-groblje u Sremskoj Mitrovici.
 

@@ -6,6 +6,7 @@ category: heritage
 summary: "The memorial near the monastery where villagers and quarry workers took the partisan oath in 1941, with the names of the fallen and of the civilian victims."
 photo: kamenolom-memorial
 gallery:
+- kamenolom-plaques
 - kamenolom-tito-mosaic
 - kamenolom-plaque-1961
 coords: [45.18103, 19.77137]

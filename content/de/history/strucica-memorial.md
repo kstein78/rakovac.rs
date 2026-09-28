@@ -19,9 +19,9 @@ altitude: 135
 
 Die Gedenkstätte ist nach **Stručica** benannt, dem Teil von Rakovac, in dem sie steht, in der Straße, die den Namen von Stanko Paunović Veljko trägt. Sie wurde Anfang der 1970er-Jahre nach einem Entwurf des Architekten **Mirko Krstonošić** errichtet. Ihre drei geschwungenen Betonpfeiler stehen für drei Männer, die hier beim Ausbruch aus der Einkesselung der Fruška Gora im August 1942 getötet wurden:
 
-- **Đorđe Marković Đilas**, Kommandeur des Stabes der Partisanenabteilungen von Srem;
-- **Stanko Paunović Veljko** (1907–1942), politischer Kommissar, später zum Volkshelden erklärt;
-- **Zencel Hunjadi**, der Kurier „Franja“.
+- [**Đorđe Marković Đilas**]({{< relref "people/djordje-markovic-djilas" >}}), Kommandeur des Stabes der Partisanenabteilungen von Srem;
+- [**Stanko Paunović Veljko**]({{< relref "people/stanko-paunovic-veljko" >}}) (1907–1942), politischer Kommissar, später zum Volkshelden erklärt;
+- [**Zencel Hunjadi**]({{< relref "people/zencel-hunjadi" >}}), der Kurier „Franja“.
 
 Paunović wurde zunächst hier bestattet und später auf den Gedenkfriedhof in Sremska Mitrovica umgebettet.
 

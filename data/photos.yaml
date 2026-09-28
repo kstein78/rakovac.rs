@@ -236,6 +236,17 @@ strucica-plaque-paunovic:
   alt_de: "Tafel: „Volksheld Stanko Paunović Veljko, 1907–1942“"
   alt_hu: "Tábla: „Stanko Paunović Veljko népi hős, 1907–1942”"
 kamenolom-memorial:
+  src: img/kamenolom-diptych.jpg
+  position: "0% 50%"
+  page: https://stein-1.com
+  author: Konstantin Stein
+  license: © all rights reserved
+  alt: "The Kamenolom memorial: the mosaic with Tito's portrait above the gallery entrance, and the wall of plaques with the names of the fallen"
+  alt_ru: "Мемориал «Каменолом»: мозаика с портретом Тито над входом в штольню и стена с плитами, на которых имена погибших"
+  alt_sr: "Spomen-obeležje Kamenolom: mozaik sa Titovim portretom iznad ulaza u galeriju i zid sa pločama sa imenima poginulih"
+  alt_de: "Die Gedenkstätte Kamenolom: das Mosaik mit Titos Porträt über dem Stolleneingang und die Wand mit den Namenstafeln der Gefallenen"
+  alt_hu: "A Kamenolom-emlékmű: a mozaik Tito arcképével a tárna bejárata fölött és a fal az elesettek nevét viselő táblákkal"
+kamenolom-plaques:
   src: img/kamenolom-memorial.jpg
   page: https://stein-1.com
   author: Konstantin Stein

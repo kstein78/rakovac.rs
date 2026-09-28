@@ -6,6 +6,7 @@ category: heritage
 summary: Spomen-obeležje kod manastira na mestu gde su meštani i radnici kamenoloma 1941. položili partizansku zakletvu, sa imenima palih boraca i civilnih žrtava.
 photo: kamenolom-memorial
 gallery:
+- kamenolom-plaques
 - kamenolom-tito-mosaic
 - kamenolom-plaque-1961
 coords:

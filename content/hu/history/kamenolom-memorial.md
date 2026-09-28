@@ -6,6 +6,7 @@ category: heritage
 summary: Az emlékmű a kolostor közelében, ahol 1941-ben a falubeliek és a kőbánya munkásai letették a partizánesküt; rajta az elesettek és a polgári áldozatok nevei.
 photo: kamenolom-memorial
 gallery:
+- kamenolom-plaques
 - kamenolom-tito-mosaic
 - kamenolom-plaque-1961
 coords:

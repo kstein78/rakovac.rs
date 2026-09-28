@@ -6,6 +6,7 @@ category: heritage
 summary: Die Gedenkstätte beim Kloster, wo Dorfbewohner und Steinbrucharbeiter 1941 den Partisaneneid leisteten, mit den Namen der Gefallenen und der zivilen Opfer.
 photo: kamenolom-memorial
 gallery:
+- kamenolom-plaques
 - kamenolom-tito-mosaic
 - kamenolom-plaque-1961
 coords:

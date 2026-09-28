@@ -5,7 +5,7 @@
 {{ if $p }}
 <figure class="photo {{ .class }}">
   <div class="photo-frame">
-    {{ if site.Params.offlinePreview }}<div class="offline-img" role="img" aria-label="{{ $alt }}"><span>{{ $alt }}</span></div>{{ else }}<img src="{{ $src }}" alt="{{ $alt }}" {{ if not .eager }}loading="lazy"{{ end }} decoding="async">{{ end }}
+    {{ if site.Params.offlinePreview }}<div class="offline-img" role="img" aria-label="{{ $alt }}"><span>{{ $alt }}</span></div>{{ else }}<img src="{{ $src }}" alt="{{ $alt }}"{{ with $p.position }} style="object-position: {{ . | safeCSS }}"{{ end }} {{ if not .eager }}loading="lazy"{{ end }} decoding="async">{{ end }}
     {{ if and $p.temp site.Params.showPhotoBadges }}<span class="temp-badge" title="{{ i18n "temp_tip" }}">{{ i18n "photo_temp" }}</span>{{ end }}
   </div>
   <figcaption>

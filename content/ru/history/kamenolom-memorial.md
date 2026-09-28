@@ -6,6 +6,7 @@ category: heritage
 summary: "Мемориал у монастыря на месте, где в 1941 году жители села и рабочие каменоломни приняли партизанскую присягу. На нём имена павших бойцов и погибших мирных жителей."
 photo: kamenolom-memorial
 gallery:
+- kamenolom-plaques
 - kamenolom-tito-mosaic
 - kamenolom-plaque-1961
 coords: [45.18103, 19.77137]
