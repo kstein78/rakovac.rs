@@ -1,0 +1,167 @@
+{{/* Diagrams of the Gradina (Dombó) site: {{< gradina plan|layers|hypocaust|screen >}}.
+  Drawn from published descriptions (see FACTS.md and the page text), schematic, not measured plans.
+  All labels come from i18n (gd_*), colours from CSS tokens (.gd-* in main.css), so they work in every
+  language and in the dark theme. The plan is interactive (site.js, [data-gd-plan]); without JS it shows
+  the basilica period. Layers with data-from/data-to: active = solid, older = faint, labels only when active. */}}
+{{ $what := .Get 0 }}
+{{ if eq $what "plan" }}
+{{ $phases := slice
+  (dict "n" 0 "f" (slice "" "" "a"))
+  (dict "n" 1 "f" (slice "" "" "a"))
+  (dict "n" 2 "f" (slice "" "" "d"))
+  (dict "n" 3 "f" (slice "" "" ""))
+  (dict "n" 4 "f" (slice "" "" "a"))
+  (dict "n" 5 "f" (slice "" "d" "")) }}
+<figure class="gd gd-plan" data-gd-plan>
+  <div class="gd-phases" role="group" aria-label="{{ i18n "gd_period" }}">
+    {{ range $phases }}<button type="button" aria-pressed="{{ if eq .n 2 }}true{{ else }}false{{ end }}">{{ i18n (printf "gd_p%d_name" .n) }}</button>{{ end }}
+  </div>
+  <div class="gd-stage">
+    <svg viewBox="0 0 800 520" role="img" aria-label="{{ i18n "gd_plan_title" }}">
+      <g class="gd-layer" data-from="0" data-to="0" style="opacity:.18">
+        <ellipse class="gd-ochre" cx="410" cy="268" rx="360" ry="222" fill="none" stroke-width="10" stroke-dasharray="2 10" stroke-linecap="round"/>
+      </g>
+      <g class="gd-layer" data-from="1" data-to="1" style="opacity:.18">
+        <g class="gd-brick gd-soft" stroke-width="2">
+          <rect x="150" y="250" width="260" height="170"/><rect x="150" y="250" width="90" height="80"/><rect x="240" y="250" width="90" height="80"/>
+          <rect x="150" y="330" width="90" height="90"/><rect x="240" y="330" width="170" height="90"/><rect x="330" y="250" width="80" height="80"/>
+        </g>
+        <g class="gd-fill-brick">
+          {{ range seq 0 3 }}{{ $y := add 340 (mul . 20) }}{{ range seq 0 3 }}<rect x="{{ add 160 (mul . 20) }}" y="{{ $y }}" width="8" height="8"/>{{ end }}{{ end }}
+        </g>
+        <rect class="gd-fill-ochre" x="118" y="370" width="32" height="18"/>
+      </g>
+      <g class="gd-layer" data-from="2" data-to="3">
+        <g class="gd-slate" fill="none" stroke-width="3">
+          <rect x="300" y="150" width="300" height="180"/><line x1="300" y1="200" x2="600" y2="200"/><line x1="300" y1="280" x2="600" y2="280"/>
+          <path d="M600 150 A25 25 0 0 1 600 200"/><path d="M600 200 A40 40 0 0 1 600 280"/><path d="M600 280 A25 25 0 0 1 600 330"/>
+        </g>
+        <g class="gd-fill-slate">{{ range seq 0 4 }}<circle cx="{{ add 350 (mul . 50) }}" cy="200" r="4"/><circle cx="{{ add 350 (mul . 50) }}" cy="280" r="4"/>{{ end }}</g>
+        <rect class="gd-slate" x="520" y="212" width="80" height="56" fill="none" stroke-width="1.5" stroke-dasharray="5 4"/>
+        <line class="gd-brick" x1="560" y1="200" x2="560" y2="280" stroke-width="5"/>
+      </g>
+      <g class="gd-layer" data-from="4" data-to="4" style="opacity:0">
+        <path class="gd-moss" d="M330 190 H590 L625 212 V268 L590 290 H330 Z" fill="none" stroke-width="4"/>
+        <path class="gd-moss" d="M590 190 V290" fill="none" stroke-dasharray="3 5" stroke-width="1.5"/>
+        <rect class="gd-slate" x="68" y="46" width="694" height="442" fill="none" stroke-width="12" opacity=".35"/>
+        <rect class="gd-ink" x="95" y="72" width="640" height="390" fill="none" stroke-width="7"/>
+      </g>
+      <g class="gd-layer" data-from="5" data-to="5" style="opacity:0">
+        <g class="gd-ink" fill="none" stroke-width="3" stroke-dasharray="14 8">
+          <path d="M330 190 H590 L625 212 V268 L590 290 H330 Z"/><rect x="520" y="212" width="80" height="56"/>
+        </g>
+      </g>
+      <g class="gd-text">
+        <g class="gd-layer gd-lbl" data-from="0" data-to="0" style="opacity:0"><text x="410" y="28" text-anchor="middle">{{ i18n "gd_l_rampart" }}</text></g>
+        <g class="gd-layer gd-lbl" data-from="1" data-to="1" style="opacity:0">
+          <text x="150" y="238">{{ i18n "gd_l_villa" }}</text>
+          <text x="150" y="446">{{ i18n "gd_l_heated" }}</text>
+          <text x="110" y="384" text-anchor="end">{{ i18n "gd_l_furnace" }}</text>
+        </g>
+        <g class="gd-layer gd-lbl" data-from="2" data-to="3">
+          <text x="300" y="138">{{ i18n "gd_l_basilica" }}</text>
+          <path class="gd-lead" d="M563 196 L648 172"/><text x="654" y="177">{{ i18n "gd_l_screen" }}</text>
+          <path class="gd-lead" d="M596 266 L648 310"/><text x="654" y="315">{{ i18n "gd_l_crypt" }}</text>
+        </g>
+        <g class="gd-layer gd-lbl" data-from="4" data-to="4" style="opacity:0">
+          <text x="330" y="178">{{ i18n "gd_l_gothic" }}</text>
+          <text x="112" y="100">{{ i18n "gd_l_wall" }}</text>
+        </g>
+        <g class="gd-layer gd-lbl" data-from="5" data-to="5" style="opacity:0"><text x="330" y="178">{{ i18n "gd_l_today" }}</text></g>
+      </g>
+    </svg>
+  </div>
+  <div class="gd-cards" aria-live="polite">
+    {{ range $phases }}{{ $n := .n }}
+    <div class="gd-card"{{ if ne $n 2 }} hidden{{ end }}>
+      <p class="gd-card-head"><strong>{{ i18n (printf "gd_p%d_name" $n) }}</strong> <span class="gd-when">{{ i18n (printf "gd_p%d_when" $n) }}</span></p>
+      <ul>
+        {{ range $i, $flag := .f }}<li{{ with $flag }} class="gd-{{ . }}"{{ end }}>{{ if eq $flag "d" }}<span class="gd-badge" title="{{ i18n "gd_leg_d" }}">?</span> {{ else if eq $flag "a" }}<span class="gd-badge" title="{{ i18n "gd_leg_a" }}">≈</span> {{ end }}{{ i18n (printf "gd_p%d_%d" $n (add $i 1)) }}</li>{{ end }}
+      </ul>
+    </div>
+    {{ end }}
+    <p class="gd-legend"><span class="gd-badge">?</span> {{ i18n "gd_leg_d" }} · <span class="gd-badge">≈</span> {{ i18n "gd_leg_a" }}</p>
+  </div>
+  <figcaption>{{ i18n "gd_plan_cap" }} {{ i18n "gd_not_to_scale" }}</figcaption>
+</figure>
+{{ else if eq $what "layers" }}
+{{ $bands := slice
+  (dict "k" "gd_s_top" "c" "gd-band-moss" "y" 20 "h" 30)
+  (dict "k" "gd_s_fort" "c" "gd-band-ink" "y" 50 "h" 38)
+  (dict "k" "gd_s_rom" "c" "gd-band-slate" "y" 88 "h" 40)
+  (dict "k" "gd_s_villa" "c" "gd-band-brick" "y" 128 "h" 40)
+  (dict "k" "gd_s_iron" "c" "gd-band-ochre" "y" 168 "h" 32)
+  (dict "k" "gd_s_neo" "c" "gd-band-ghost" "y" 200 "h" 30) }}
+<figure class="gd gd-small">
+  <div class="gd-stage">
+    <svg viewBox="0 0 420 250" role="img" aria-label="{{ i18n "gd_layers_title" }}">
+      {{ range $bands }}<g class="{{ .c }}"><rect x="16" y="{{ .y }}" width="318" height="{{ .h }}"/><text x="28" y="{{ add .y (div .h 2) 5 }}">{{ i18n .k }}</text></g>{{ end }}
+      <g class="gd-text">
+        <path class="gd-lead" d="M346 222 V30 M341 40 L346 28 L351 40"/>
+        <text x="356" y="36">{{ i18n "gd_s_new" }}</text><text x="356" y="226">{{ i18n "gd_s_old" }}</text>
+      </g>
+    </svg>
+  </div>
+  <figcaption>{{ i18n "gd_layers_cap" }}</figcaption>
+</figure>
+{{ else if eq $what "hypocaust" }}
+<figure class="gd gd-small">
+  <div class="gd-stage">
+    <svg viewBox="0 0 420 250" role="img" aria-label="{{ i18n "gd_hy_title" }}">
+      <rect class="gd-ink" x="60" y="40" width="330" height="140" fill="none" stroke-width="2"/>
+      <rect class="gd-fill-ochre" x="60" y="150" width="330" height="10"/>
+      <g class="gd-fill-brick">{{ range seq 0 7 }}<rect x="{{ add 80 (mul . 40) }}" y="160" width="14" height="36"/>{{ end }}</g>
+      <rect class="gd-fill-muted" x="60" y="196" width="330" height="6"/>
+      <rect class="gd-brick" x="376" y="40" width="14" height="110" fill="none" stroke-width="2" stroke-dasharray="4 3"/>
+      <rect class="gd-brick gd-soft" x="8" y="166" width="52" height="30"/>
+      <path class="gd-brick" d="M22 188 q6 -12 12 0 q6 -12 12 0" fill="none" stroke-width="2"/>
+      <path class="gd-brick" d="M66 180 H360 M360 180 L383 150 V60" fill="none" stroke-width="1.5" stroke-dasharray="6 4"/>
+      <path class="gd-fill-brick" d="M383 56 l-5 9 h10 z"/>
+      <g class="gd-text">
+        <text x="8" y="224">{{ i18n "gd_hy_furnace" }}</text>
+        <text x="100" y="224">{{ i18n "gd_hy_pillars" }}</text>
+        <text x="190" y="142">{{ i18n "gd_hy_floor" }}</text>
+        <text x="390" y="30" text-anchor="end">{{ i18n "gd_hy_tiles" }}</text>
+        <text x="80" y="82">{{ i18n "gd_hy_room" }}</text>
+      </g>
+    </svg>
+  </div>
+  <figcaption>{{ i18n "gd_hy_cap" }}</figcaption>
+</figure>
+{{ else if eq $what "screen" }}
+{{/* Scale 100 units = 1 m (source: slabs ~1 m wide, 80–90 cm high; whole screen 2.8–2.9 m). */}}
+{{ $posts := slice 70 190 230 350 390 490 530 650 690 810 }}
+<figure class="gd">
+  <div class="gd-stage gd-scroll">
+    <svg viewBox="0 0 900 390" role="img" aria-label="{{ i18n "gd_sc_title" }}">
+      <rect class="gd-ink gd-panel" x="60" y="55" width="780" height="30" stroke-width="2"/>
+      <g class="gd-brick gd-panel" stroke-width="2">
+        {{ range slice (slice 450 13) (slice 405 11) (slice 495 11) (slice 330 9) (slice 570 9) (slice 130 9) (slice 770 9) (slice 250 9) (slice 650 9) }}<circle cx="{{ index . 0 }}" cy="70" r="{{ index . 1 }}"/>{{ end }}
+      </g>
+      <g class="gd-ink" stroke-width="2">{{ range $posts }}<line x1="{{ add . 10 }}" y1="85" x2="{{ add . 10 }}" y2="255"/>{{ end }}</g>
+      <g class="gd-fill-muted">{{ range $posts }}<rect x="{{ . }}" y="255" width="20" height="85"/>{{ end }}</g>
+      <g class="gd-brick gd-soft" stroke-width="1.5">
+        {{ range slice 90 250 550 710 }}<rect x="{{ . }}" y="255" width="100" height="85"/>{{ end }}
+        {{ range slice 210 370 510 670 }}<rect x="{{ . }}" y="270" width="20" height="70"/>{{ end }}
+      </g>
+      <g class="gd-brick" fill="none" stroke-width="1.5">
+        {{ range slice 140 300 600 760 }}<circle cx="{{ . }}" cy="297" r="26"/>{{ end }}
+        <path d="M140 315 q-14 -20 0 -36 q14 16 0 36 M126 303 q-8 -6 -12 -14 M154 303 q8 -6 12 -14"/>
+        <path d="M760 315 q-14 -20 0 -36 q14 16 0 36 M746 303 q-8 -6 -12 -14 M774 303 q8 -6 12 -14"/>
+        <path d="M280 297 q10 -12 20 0 q10 12 20 0 M280 289 q10 12 20 0 q10 -12 20 0"/>
+        <path d="M580 297 q10 -12 20 0 q10 12 20 0 M580 289 q10 12 20 0 q10 -12 20 0"/>
+      </g>
+      <rect class="gd-fill-ochre" x="60" y="340" width="780" height="14" opacity=".8"/>
+      <g class="gd-text">
+        <text x="450" y="244" text-anchor="middle">{{ i18n "gd_sc_door" }}</text>
+        <text x="60" y="40">{{ i18n "gd_sc_beam" }}</text>
+        <text x="60" y="380">{{ i18n "gd_sc_threshold" }}</text>
+        <text x="840" y="380" text-anchor="end">{{ i18n "gd_sc_slabs" }}</text>
+        <path class="gd-lead" d="M866 340 V55 M860 340 H872 M860 55 H872"/>
+        <text x="884" y="40" text-anchor="end">{{ i18n "gd_sc_height" }}</text>
+      </g>
+    </svg>
+  </div>
+  <figcaption>{{ i18n "gd_sc_cap" }} <a href="https://www.sulinet.hu/oroksegtar/data/megyek_oroksege/Csongrad_megye/pages/Kozepkori_del_alfold_es_szer/016_dombo.htm" rel="noopener" hreflang="hu">{{ i18n "gd_source" }}</a></figcaption>
+</figure>
+{{ end }}

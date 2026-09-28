@@ -43,4 +43,17 @@ document.addEventListener('DOMContentLoaded', function () {
       img.src = btn.getAttribute('data-src');
     });
   });
+  // Gradina plan: period buttons show that period solid, older ones faint, labels only for the active one.
+  document.querySelectorAll('[data-gd-plan]').forEach(function (fig) {
+    var btns = fig.querySelectorAll('.gd-phases button'), layers = fig.querySelectorAll('.gd-layer'), cards = fig.querySelectorAll('.gd-card');
+    function show(i) {
+      layers.forEach(function (g) {
+        var f = +g.getAttribute('data-from'), t = +g.getAttribute('data-to');
+        g.style.opacity = (i >= f && i <= t) ? 1 : (g.classList.contains('gd-lbl') || t > i ? 0 : .18);
+      });
+      btns.forEach(function (b, j) { b.setAttribute('aria-pressed', j === i ? 'true' : 'false'); });
+      cards.forEach(function (c, j) { c.hidden = j !== i; });
+    }
+    btns.forEach(function (b, j) { b.addEventListener('click', function () { show(j); }); });
+  });
 });

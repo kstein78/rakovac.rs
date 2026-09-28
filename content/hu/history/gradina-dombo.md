@@ -13,6 +13,8 @@ coords:
 
 Novi Rakovacban, a falu alsó részén található a **Gradina**, a Tarcal-hegység (Fruška gora) egyik legjelentősebb régészeti lelőhelye. Itt megszakításokkal mintegy hétezer éve élnek emberek.
 
+{{< gradina plan >}}
+
 ## Az idő rétegei
 
 - **Újkőkor:** egy mintegy 7000 éves földműves település nyomai.
@@ -20,9 +22,15 @@ Novi Rakovacban, a falu alsó részén található a **Gradina**, a Tarcal-hegys
 - **Római kor:** 3–4. századi késő római villa hypocaustummal (padlófűtéssel). A villa köveit később a középkori épületekben újra felhasználták.
 - **Középkor:** a Szent Györgynek szentelt **dombói** bencés apátság.
 
+{{< gradina layers >}}
+
+{{< gradina hypocaust >}}
+
 ## A dombói apátság
 
 A 12. században az apátság mintegy 32 m hosszú, román stílusú **háromhajós bazilikát** épített három félköríves apszissal és kriptával. Belsejében gazdagon faragott **márvány szentélyrekesztő** állt, palmettákkal, fonatos szalagokkal, állatalakos medalionokkal és pávákkal díszítve. A keltezésben a történészek nem értenek egyet: egyesek a bazilikát a 12. század elejére, Kálmán király idejére teszik, mások az alapítást 1176–86-ra datálják.
+
+{{< gradina screen >}}
 
 Az apátságot először egy **1237**-es oklevél említi („Abbas de Dombo”). Egy 1390-es irat a kalocsai egyházmegyében fekvő dombói Szent György-monostorként nevezi meg. 1416-ban apátját, Györgyöt oszmán portyázók ejtették fogságba.
 

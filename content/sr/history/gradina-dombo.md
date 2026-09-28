@@ -13,6 +13,8 @@ coords:
 
 U Novom Rakovcu, donjem delu sela, nalazi se **Gradina**, jedno od najvažnijih arheoloških nalazišta na Fruškoj gori. Ljudi su ovde živeli, s prekidima, oko sedam hiljada godina.
 
+{{< gradina plan >}}
+
 ## Slojevi vremena
 
 - **Neolit:** tragovi zemljoradničkog naselja starog oko 7.000 godina.
@@ -20,9 +22,15 @@ U Novom Rakovcu, donjem delu sela, nalazi se **Gradina**, jedno od najvažnijih 
 - **Rimsko doba:** kasnorimska vila iz 3–4. veka sa hipokaustom (podnim grejanjem). Kamen iz vile kasnije je ponovo korišćen u srednjovekovnim građevinama.
 - **Srednji vek:** benediktinska opatija **Dombo**, posvećena Svetom Đorđu.
 
+{{< gradina layers >}}
+
+{{< gradina hypocaust >}}
+
 ## Opatija Dombo
 
 U 12. veku opatija je podigla romaničku **trobrodnu baziliku** dugu oko 32 m, sa tri polukružne apside i kriptom. Unutra je stajala bogato ukrašena **mermerna oltarska pregrada** sa palmetama, pleterom, medaljonima sa životinjama i paunovima. Istoričari se ne slažu oko datuma: jedni baziliku smeštaju u početak 12. veka, u doba kralja Kolomana, drugi navode osnivanje 1176–1186.
+
+{{< gradina screen >}}
 
 Opatija se prvi put pominje u povelji iz **1237.** („Abbas de Dombo“). Dokument iz 1390. naziva je manastirom Svetog Đorđa u Dombu, u Kaločkoj biskupiji. Godine 1416. njenog opata Đorđa zarobili su osmanski pljačkaši.
 

@@ -413,3 +413,38 @@ p { margin: 0 0 1em; }
 .archive-item img { display: block; width: 100%; aspect-ratio: 4 / 3; object-fit: cover; border-radius: var(--radius); filter: sepia(.08); }
 .archive-item figcaption { font-size: .9rem; margin-top: .4rem; display: grid; gap: .15rem; }
 .archive-year { font-family: var(--font-display); font-size: 1.2rem; font-weight: 300; }
+
+/* Gradina diagrams ({{< gradina plan|layers|hypocaust|screen >}}): schematic drawings, colours per period. */
+.gd { --gd-brick: #a4461f; --gd-ochre: #8f6c19; --gd-slate: #3e5a6b; --gd-moss: var(--moss); --gd-ink: var(--ink); --gd-ghost: #bcc3b7; margin: 1.6rem 0; display: grid; gap: .6rem; }
+@media (prefers-color-scheme: dark) { :root:not([data-theme="light"]) .gd { --gd-brick: #e8925f; --gd-ochre: #d6ad52; --gd-slate: #8db0c4; --gd-ghost: #46524c; } }
+:root[data-theme="dark"] .gd { --gd-brick: #e8925f; --gd-ochre: #d6ad52; --gd-slate: #8db0c4; --gd-ghost: #46524c; }
+.gd-stage { background: var(--surface); border: 1px solid var(--line); border-radius: var(--radius); padding: 10px; overflow-x: auto; }
+.gd-stage svg { display: block; width: 100%; height: auto; }
+.gd-plan .gd-stage svg, .gd-scroll svg { min-width: 560px; }
+.gd-small { max-width: 560px; }
+.gd figcaption { font-size: .9rem; color: var(--muted); }
+.gd-text text, .gd svg text { font-family: var(--font-body); font-size: 15px; fill: var(--ink); }
+.gd-small svg text { font-size: 13.5px; }
+.gd-plan svg text { font-size: 16px; }
+.gd-scroll svg text { font-size: 18px; }
+.gd-lead { fill: none; stroke: var(--muted); stroke-width: 1; }
+.gd-brick { stroke: var(--gd-brick); } .gd-slate { stroke: var(--gd-slate); } .gd-moss { stroke: var(--gd-moss); }
+.gd-ochre { stroke: var(--gd-ochre); } .gd-ink { stroke: var(--gd-ink); }
+.gd-soft { fill: color-mix(in srgb, var(--gd-brick) 20%, var(--surface)); } .gd-panel { fill: var(--surface); }
+.gd-fill-brick { fill: var(--gd-brick); } .gd-fill-ochre { fill: var(--gd-ochre); } .gd-fill-slate { fill: var(--gd-slate); }
+.gd-fill-ink { fill: var(--gd-ink); } .gd-fill-muted { fill: var(--muted); }
+.gd-band-moss rect { fill: var(--gd-moss); } .gd-band-ink rect { fill: var(--gd-ink); } .gd-band-slate rect { fill: var(--gd-slate); }
+.gd-band-brick rect { fill: var(--gd-brick); } .gd-band-ochre rect { fill: var(--gd-ochre); } .gd-band-ghost rect { fill: var(--gd-ghost); }
+.gd svg [class^="gd-band"] text { fill: var(--bg); font-weight: 500; }
+.gd svg .gd-band-ghost text { fill: var(--ink); }
+.gd-layer { transition: opacity .35s; }
+@media (prefers-reduced-motion: reduce) { .gd-layer { transition: none; } }
+.gd-phases { display: flex; flex-wrap: wrap; gap: 6px; }
+.gd-phases button { font: inherit; font-size: .88rem; line-height: 1.2; background: transparent; color: var(--ink); border: 1px solid var(--line); border-radius: 4px; padding: .4rem .7rem; cursor: pointer; }
+.gd-phases button:hover { border-color: var(--muted); }
+.gd-phases button[aria-pressed="true"] { background: var(--ink); color: var(--bg); border-color: var(--ink); }
+.gd-card-head { margin: 0; }
+.gd-when { color: var(--muted); margin-left: .35em; }
+.prose .gd-card ul { list-style: none; padding-left: 0; margin: .4rem 0 0; }
+.gd-badge { display: inline-flex; align-items: center; justify-content: center; min-width: 1.4em; height: 1.4em; padding: 0 .2em; border-radius: 3px; font-size: .8em; font-weight: 600; background: var(--line); color: var(--ink); vertical-align: .08em; }
+.gd-legend { font-size: .85rem; color: var(--muted); margin: .5rem 0 0; }

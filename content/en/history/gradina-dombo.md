@@ -11,6 +11,8 @@ coords: [45.205573, 19.766519]
 
 In Novi Rakovac, the lower part of the village, lies **Gradina**, one of the most important archaeological sites on Fruška Gora. People have lived here, on and off, for about seven thousand years.
 
+{{< gradina plan >}}
+
 ## Layers of time
 
 - **Neolithic:** traces of a farming settlement around 7,000 years old.
@@ -18,9 +20,15 @@ In Novi Rakovac, the lower part of the village, lies **Gradina**, one of the mos
 - **Roman period:** a late Roman villa of the 3rd–4th century with a hypocaust (underfloor heating). Stones from the villa were later reused in the medieval buildings.
 - **Middle Ages:** the Benedictine abbey of **Dombó**, dedicated to St George.
 
+{{< gradina layers >}}
+
+{{< gradina hypocaust >}}
+
 ## The abbey of Dombó
 
 In the 12th century the abbey built a Romanesque **three-aisled basilica** about 32 m long, with three semicircular apses and a crypt. Inside stood a richly carved **marble chancel screen** decorated with palmettes, braided bands, animal medallions and peacocks. Historians disagree on the date: some place the basilica in the early 12th century under King Coloman, others give the founding as 1176–86.
+
+{{< gradina screen >}}
 
 The abbey is first named in a charter of **1237** ("Abbas de Dombo"). A document of 1390 calls it the monastery of St George of Dombó in the diocese of Kalocsa. In 1416 its abbot, George, was taken prisoner by Ottoman raiders.
 
