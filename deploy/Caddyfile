@@ -1,0 +1,81 @@
+# Web server config for rakovac.rs (Caddy 2). Lives in the repo: the server copies it to
+# /etc/caddy/Caddyfile and reloads Caddy within a minute after it changes on main
+# (only if "caddy validate" accepts it; otherwise the old config stays).
+# HTTPS certificates (Let's Encrypt) are obtained and renewed by Caddy automatically.
+
+(site) {
+	root * /srv/rakovac/current
+	encode zstd gzip
+
+	# "/" picks the visitor's language from the browser; everything else is a static file.
+	@home path /
+	map {header.Accept-Language} {lang} {
+		~^(sr|hr|bs|sh|cnr|me)\b sr
+		~^(ru|uk|be)\b ru
+		~^de\b de
+		~^hu\b hu
+		default en
+	}
+	handle @home {
+		header Vary Accept-Language
+		redir /{lang}/ 302
+	}
+	handle {
+		file_server
+	}
+
+	header {
+		Strict-Transport-Security "max-age=31536000"
+		X-Content-Type-Options "nosniff"
+		Referrer-Policy "strict-origin-when-cross-origin"
+		-Server
+	}
+	# Pages are checked on every visit (cheap, thanks to ETag), so a new version shows at once.
+	@html path / *.html */
+	header @html Cache-Control "no-cache"
+	header /version.txt Cache-Control "no-store"
+	# CSS and JS have a content hash in the file name and never change.
+	header /css/* Cache-Control "public, max-age=31536000, immutable"
+	header /js/* Cache-Control "public, max-age=31536000, immutable"
+	# Photos, fonts and downloads: one week.
+	@assets path /img/* /fonts/* /downloads/* /vendor/* /favicon* /apple-touch-icon.png /icon-*.png
+	header @assets Cache-Control "public, max-age=604800"
+
+	handle_errors 404 {
+		@sr path /sr/*
+		@ru path /ru/*
+		@de path /de/*
+		@hu path /hu/*
+		handle @sr {
+			rewrite * /sr/404.html
+		}
+		handle @ru {
+			rewrite * /ru/404.html
+		}
+		handle @de {
+			rewrite * /de/404.html
+		}
+		handle @hu {
+			rewrite * /hu/404.html
+		}
+		handle {
+			rewrite * /en/404.html
+		}
+		file_server
+	}
+}
+
+rakovac.rs {
+	import site
+}
+
+www.rakovac.rs {
+	redir https://rakovac.rs{uri} permanent
+}
+
+# Any other address on plain HTTP (e.g. http://<server IP>/): the same site, for checking the
+# server before DNS points here. Not indexed by search engines.
+http:// {
+	import site
+	header X-Robots-Tag "noindex"
+}

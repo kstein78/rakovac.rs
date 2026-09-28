@@ -1,0 +1,106 @@
+#cloud-config
+# rakovac.rs web server (Hetzner Cloud, Ubuntu 24.04).
+# Paste this whole file into the "Cloud config" field when creating the server.
+# What it sets up:
+#   - Caddy web server with automatic HTTPS (config comes from deploy/Caddyfile in the repo)
+#   - a "deploy" user that checks GitHub every minute and rebuilds the site when main changes
+#     (the repo is public, so the server needs no keys or passwords)
+#   - firewall (SSH, HTTP, HTTPS) and automatic security updates
+# Nothing in this file is secret.
+
+package_update: true
+package_upgrade: true
+packages:
+  - git
+  - curl
+  - gpg
+  - ufw
+  - unattended-upgrades
+
+users:
+  - default
+  - name: deploy
+    system: true
+    shell: /bin/bash
+    homedir: /srv/rakovac
+
+write_files:
+  - path: /usr/local/sbin/rakovac-update
+    permissions: "0755"
+    content: |
+      #!/bin/bash
+      # Checks GitHub for a new commit on main; if there is one, builds it and makes it live.
+      # Runs every minute (rakovac-update.timer). Logs: journalctl -u rakovac-update
+      set -euo pipefail
+      BASE=/srv/rakovac
+      REPO_URL=${RAKOVAC_REPO:-https://github.com/kstein78/rakovac.rs.git}
+      BRANCH=main
+      as_deploy() { runuser -u deploy -- env HOME="$BASE" "$@"; }
+      cd "$BASE"
+      [ -d repo/.git ] || as_deploy git clone -q --branch "$BRANCH" "$REPO_URL" repo
+      as_deploy git -C repo fetch -q origin "$BRANCH"
+      new=$(as_deploy git -C repo rev-parse FETCH_HEAD)
+      if [ "$new" != "$(cat deployed 2>/dev/null || true)" ] && [ "$new" != "$(cat failed 2>/dev/null || true)" ]; then
+        as_deploy git -C repo reset -q --hard "$new"
+        as_deploy git -C repo clean -qfd
+        if as_deploy bash repo/deploy/build.sh "$new"; then
+          echo "$new" > deployed; rm -f failed
+        else
+          echo "$new" > failed
+          echo "build of $new failed, the previous version stays live" >&2
+        fi
+      fi
+      # web server config from the repo
+      src=$BASE/repo/deploy/Caddyfile
+      if [ -f "$src" ] && ! cmp -s "$src" /etc/caddy/Caddyfile; then
+        if caddy validate --adapter caddyfile --config "$src" >/dev/null 2>&1; then
+          install -m 644 "$src" /etc/caddy/Caddyfile
+          systemctl reload caddy
+          echo "Caddy config updated"
+        else
+          echo "deploy/Caddyfile is not valid, the old config stays" >&2
+        fi
+      fi
+
+  - path: /etc/systemd/system/rakovac-update.service
+    content: |
+      [Unit]
+      Description=Update rakovac.rs from GitHub
+      Wants=network-online.target
+      After=network-online.target caddy.service
+
+      [Service]
+      Type=oneshot
+      ExecStart=/usr/local/sbin/rakovac-update
+      TimeoutStartSec=20min
+
+  - path: /etc/systemd/system/rakovac-update.timer
+    content: |
+      [Unit]
+      Description=Check GitHub for a new version of rakovac.rs every minute
+
+      [Timer]
+      OnBootSec=30s
+      OnUnitInactiveSec=1min
+      AccuracySec=5s
+
+      [Install]
+      WantedBy=timers.target
+
+runcmd:
+  # Caddy from its official package repository (current version, updated with the system)
+  - curl -1sLf https://dl.cloudsmith.io/public/caddy/stable/gpg.key | gpg --dearmor -o /usr/share/keyrings/caddy-stable-archive-keyring.gpg
+  - curl -1sLf https://dl.cloudsmith.io/public/caddy/stable/debian.deb.txt -o /etc/apt/sources.list.d/caddy-stable.list
+  - apt-get update -q
+  - DEBIAN_FRONTEND=noninteractive apt-get install -y -q caddy
+  # firewall
+  - ufw allow OpenSSH
+  - ufw allow 80/tcp
+  - ufw allow 443/tcp
+  - ufw allow 443/udp
+  - ufw --force enable
+  # first build, then every minute
+  - install -d -o deploy -g deploy -m 755 /srv/rakovac
+  - /usr/local/sbin/rakovac-update
+  - systemctl daemon-reload
+  - systemctl enable --now rakovac-update.timer

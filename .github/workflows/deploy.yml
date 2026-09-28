@@ -37,52 +37,40 @@ jobs:
           path: public
           retention-days: 7
 
-  # Deploys to the Hetzner server with rsync over SSH.
-  # Runs only on pushes to main, and only when the DEPLOY_HOST secret exists.
-  # Secrets to add in GitHub → Settings → Secrets and variables → Actions:
-  #   DEPLOY_HOST         server IP or hostname
-  #   DEPLOY_USER         e.g. deploy
-  #   DEPLOY_PATH         e.g. /var/www/rakovac.rs
-  #   DEPLOY_KEY          private SSH key (ed25519) of the deploy user
-  #   DEPLOY_KNOWN_HOSTS  output of: ssh-keyscan -t ed25519 <server>
-  deploy:
+  # The Hetzner server deploys itself: every minute it checks main, rebuilds and switches
+  # (see deploy/cloud-init.yaml and deploy/build.sh). No secrets are needed here.
+  # This job only proves it: it waits until https://rakovac.rs/version.txt shows this
+  # commit (or a newer one) and fails if that does not happen within 10 minutes.
+  # While the server is not live yet, it skips with a notice.
+  live:
     needs: build
     if: github.event_name != 'pull_request' && github.ref == 'refs/heads/main'
     runs-on: ubuntu-24.04
-    environment: production
     steps:
-      - uses: actions/download-artifact@v8
+      - uses: actions/checkout@v7
         with:
-          name: site
-          path: public
+          fetch-depth: 0
 
-      - name: Check that server secrets are set
-        id: check
-        env:
-          HOST: ${{ secrets.DEPLOY_HOST }}
+      - name: Wait until rakovac.rs serves this commit
         run: |
-          if [ -n "$HOST" ]; then echo "ready=true" >> "$GITHUB_OUTPUT"; else echo "ready=false" >> "$GITHUB_OUTPUT"; fi
-
-      - name: Upload to server
-        if: steps.check.outputs.ready == 'true'
-        env:
-          DEPLOY_HOST: ${{ secrets.DEPLOY_HOST }}
-          DEPLOY_USER: ${{ secrets.DEPLOY_USER }}
-          DEPLOY_PATH: ${{ secrets.DEPLOY_PATH }}
-          DEPLOY_KEY: ${{ secrets.DEPLOY_KEY }}
-          DEPLOY_KNOWN_HOSTS: ${{ secrets.DEPLOY_KNOWN_HOSTS }}
-        run: |
-          install -m 700 -d ~/.ssh
-          printf '%s\n' "$DEPLOY_KEY" > ~/.ssh/deploy_key
-          chmod 600 ~/.ssh/deploy_key
-          printf '%s\n' "$DEPLOY_KNOWN_HOSTS" > ~/.ssh/known_hosts
-          rsync -az --delete --chmod=D755,F644 \
-            -e "ssh -i ~/.ssh/deploy_key -o StrictHostKeyChecking=yes" \
-            public/ "${DEPLOY_USER}@${DEPLOY_HOST}:${DEPLOY_PATH}/"
-
-      - name: Server not configured yet
-        if: steps.check.outputs.ready != 'true'
-        run: echo "::notice::DEPLOY_HOST secret is not set, so the site was built but not uploaded."
+          url=https://rakovac.rs/version.txt
+          get() { curl -fsS --max-time 15 "$url?t=$(date +%s%N)" 2>/dev/null | head -1 || true; }
+          live=$(get)
+          if ! printf '%s' "$live" | grep -Eq '^[0-9a-f]{40}$'; then
+            echo "::notice::rakovac.rs does not serve version.txt yet, so the server is not live. Nothing to check."
+            exit 0
+          fi
+          for i in $(seq 1 40); do
+            git fetch -q origin main
+            if git merge-base --is-ancestor "$GITHUB_SHA" "$live" 2>/dev/null; then
+              echo "rakovac.rs is live with $live (includes $GITHUB_SHA)"
+              exit 0
+            fi
+            sleep 15
+            live=$(get)
+          done
+          echo "::error::after 10 minutes rakovac.rs still serves $live, not $GITHUB_SHA. On the server: journalctl -u rakovac-update"
+          exit 1
 
   # Preview on GitHub Pages: https://kstein78.github.io/rakovac.rs/
   # One-time: repo Settings -> Pages -> Build and deployment -> Source: "GitHub Actions".
