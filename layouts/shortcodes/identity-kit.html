@@ -1,4 +1,4 @@
-{{/* Local identity kit: {{< identity-kit logos >}}, {{< identity-kit colours >}} or {{< identity-kit downloads >}}.
+{{/* Local identity kit: {{< identity-kit logos|mockups|colours|downloads >}}.
   Colours and files are defined here once for all languages; labels come from i18n; file sizes are read from static/. */}}
 {{ $what := .Get 0 }}
 {{ if eq $what "colours" }}
@@ -8,18 +8,26 @@
   {{ end }}
 </ul>
 {{ else if eq $what "logos" }}
-{{ $b := i18n "brand_name" }}
 <div class="logo-lockups">
-  <div class="logo-lockup on-light"><span class="stack rk-cap">{{ substr $b 0 1 }}</span>{{ $b }}<small>{{ i18n "kit_stacked" }}</small></div>
-  <div class="logo-lockup on-dark"><span class="stack rk-cap rk-cap-mono">{{ substr $b 0 1 }}</span>{{ $b }}<small>{{ i18n "kit_on_dark" }}</small></div>
-  <div class="logo-lockup on-light"><span class="rk-cap">{{ substr $b 0 1 }}</span>{{ substr $b 1 }}<small>{{ i18n "kit_one_line" }}</small></div>
+  <figure class="logo-lockup on-light"><img src="{{ "downloads/logo/rakovac-lockup-colour.svg" | relURL }}" alt="Rakovac · rakovac.rs" width="600" height="718" loading="lazy"><figcaption>{{ i18n "kit_main" }}</figcaption></figure>
+  <figure class="logo-lockup on-dark"><img src="{{ "downloads/logo/rakovac-lockup-one-colour.svg" | relURL }}" alt="Rakovac · rakovac.rs" width="600" height="718" loading="lazy"><figcaption>{{ i18n "kit_on_dark" }}</figcaption></figure>
+  <figure class="logo-lockup on-light"><img src="{{ "downloads/logo/rakovac-lockup-colour-noqr.svg" | relURL }}" alt="Rakovac · rakovac.rs" width="600" height="518" loading="lazy"><figcaption>{{ i18n "kit_noqr" }}</figcaption></figure>
+</div>
+{{ else if eq $what "mockups" }}
+<div class="mockups">
+  {{ range slice (dict "f" "car" "k" "mock_car" "w" 1200 "h" 560 "wide" true) (dict "f" "mug" "k" "mock_mug" "w" 700 "h" 640) (dict "f" "tshirt" "k" "mock_tshirt" "w" 700 "h" 640) }}
+  <figure class="mockup{{ if .wide }} is-wide{{ end }}"><img src="{{ printf "img/identity/mockup-%s.svg" .f | relURL }}" alt="{{ i18n .k }}" width="{{ .w }}" height="{{ .h }}" loading="lazy"><figcaption>{{ i18n .k }}</figcaption></figure>
+  {{ end }}
 </div>
 {{ else if eq $what "downloads" }}
 {{ $files := slice
   (dict "k" "kit_all" "f" "downloads/rakovac-fonts.zip" "main" true)
   (dict "k" "kit_logo_zip" "f" "downloads/rakovac-logo.zip" "main" true)
-  (dict "k" "kit_png_colour" "f" "downloads/logo/rakovac-logo-R-colour-2240px.png")
-  (dict "k" "kit_png_mono" "f" "downloads/logo/rakovac-logo-R-one-colour-2240px.png")
+  (dict "k" "kit_lockup_colour" "f" "downloads/logo/rakovac-lockup-colour.svg")
+  (dict "k" "kit_lockup_colour_png" "f" "downloads/logo/rakovac-lockup-colour-1800px.png")
+  (dict "k" "kit_lockup_mono" "f" "downloads/logo/rakovac-lockup-one-colour.svg")
+  (dict "k" "kit_lockup_mono_png" "f" "downloads/logo/rakovac-lockup-one-colour-1800px.png")
+  (dict "k" "kit_qr" "f" "downloads/logo/rakovac-qr.svg")
   (dict "k" "kit_svg_colour" "f" "downloads/logo/rakovac-logo-R-colour.svg")
   (dict "k" "kit_svg_mono" "f" "downloads/logo/rakovac-logo-R-one-colour.svg")
   (dict "k" "kit_guide_en" "f" "downloads/Rakovac-Fonts-Guide-EN.pdf")

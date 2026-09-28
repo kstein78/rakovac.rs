@@ -16,12 +16,19 @@ hide_children: true
 
 {{< identity-kit logos >}}
 
-- Das Logo ist der Buchstabe R im Schild aus der Schrift Rakovac Capital. Der Rest des Namens ist in Rakovac Common gesetzt.
-- Für Ihren eigenen Betrieb gilt dasselbe System: der erste Buchstabe des Namens in Rakovac Capital, der Rest in Rakovac Common.
-- Lassen Sie um das Schild auf jeder Seite mindestens eine halbe Schildbreite frei.
-- Kleinste Größe: Schild 12 mm hoch im Druck, 24 px auf dem Bildschirm.
-- Auf hellem Grund die farbige Fassung. Auf dunklem Grund, Fotos und Glas die einfarbige Fassung in Weiß oder Creme.
-- Das Schild nicht verzerren, schräg stellen, umranden oder umfärben und keine Schatten hinzufügen.
+- Das Logo ist das R im Schild aus der Schrift Rakovac Capital über dem Namen Rakovac in Rakovac Common. Darunter, kleiner, stehen die Adresse rakovac.rs und ein QR-Code, der das Portal öffnet.
+- Lassen Sie um das Logo auf jeder Seite mindestens eine halbe Schildbreite frei.
+- Der QR-Code muss mindestens 20 mm breit sein, damit er zuverlässig gescannt wird. Wo das Logo kleiner wäre, nehmen Sie die Fassung ohne QR-Code.
+- Kleinste Größe des Schildes: 12 mm hoch im Druck, 24 px auf dem Bildschirm.
+- Auf hellem Grund die farbige Fassung. Auf dunklem Grund, Fotos und Glas die einfarbige Fassung in Weiß oder Creme: R, Blätter und Trauben sind aus dem Schild ausgespart, so dass nur eine Farbe nötig ist.
+- Das Logo nicht verzerren, schräg stellen, umranden oder umfärben, keine Schatten hinzufügen und seine Teile nicht auseinanderrücken.
+- Den Namen Ihres eigenen Betriebs können Sie mit einem Buchstaben aus Rakovac Capital beginnen und den Rest in Rakovac Common setzen.
+
+## Beispiele
+
+{{< identity-kit mockups >}}
+
+Skizzen, wie das Logo auf einem Auto, einer Tasse und einem T-Shirt aussehen kann. Druckereien und Werbetechniker können direkt mit den SVG-Dateien unten arbeiten.
 
 ## Schriften
 

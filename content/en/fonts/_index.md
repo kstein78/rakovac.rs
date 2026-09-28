@@ -17,12 +17,19 @@ aliases: ["/fonts/"]
 
 {{< identity-kit logos >}}
 
-- The logo is the letter R in a shield, taken from the Rakovac Capital font. The rest of the name is set in Rakovac Common.
-- For your own business, use the same system: the first letter of its name in Rakovac Capital, the rest in Rakovac Common.
-- Leave free space around the shield of at least half its width on every side.
-- Smallest size: the shield 12 mm high in print, 24 px on screen.
-- Use the colour version on light backgrounds. On dark backgrounds, photos and glass, use the one-colour version in white or cream.
-- Do not stretch, slant, outline or recolour the shield, and do not add shadows.
+- The logo is the shield R, taken from the Rakovac Capital font, above the name Rakovac set in Rakovac Common. Below them, smaller, is the address rakovac.rs and a QR code that opens the portal.
+- Leave free space around the logo of at least half the shield width on every side.
+- The QR code must be at least 20 mm wide to scan reliably. Where the logo would be smaller than that allows, use the version without the QR code.
+- Smallest size of the shield: 12 mm high in print, 24 px on screen.
+- Use the colour version on light backgrounds. On dark backgrounds, photos and glass, use the one-colour version in white or cream: the R, the leaves and the grapes are cut out of the shield, so only one ink is needed.
+- Do not stretch, slant, outline or recolour the logo, do not add shadows, and do not move its parts apart.
+- For your own business name, you can start it with a Rakovac Capital letter and set the rest in Rakovac Common.
+
+## Examples
+
+{{< identity-kit mockups >}}
+
+Sketches of how the logo can look on a car, a mug and a T-shirt. Print shops and sign makers can work directly from the SVG files below.
 
 ## Fonts
 

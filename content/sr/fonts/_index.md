@@ -16,12 +16,19 @@ hide_children: true
 
 {{< identity-kit logos >}}
 
-- Logo je slovo R u štitu iz fonta Rakovac Capital. Ostatak imena je složen fontom Rakovac Common.
-- Za svoju firmu koristite isti sistem: prvo slovo imena u fontu Rakovac Capital, ostalo u fontu Rakovac Common.
-- Oko štita ostavite slobodan prostor od najmanje pola njegove širine sa svake strane.
-- Najmanja veličina: štit visok 12 mm u štampi, 24 px na ekranu.
-- Na svetloj podlozi koristite verziju u boji. Na tamnoj podlozi, fotografijama i staklu koristite jednobojnu verziju, belu ili krem.
-- Štit nemojte razvlačiti, iskošavati, oivičavati ni prebojavati i nemojte mu dodavati senke.
+- Logo je slovo R u štitu iz fonta Rakovac Capital, iznad imena Rakovac složenog fontom Rakovac Common. Ispod njih, sitnije, su adresa rakovac.rs i QR kod koji otvara portal.
+- Oko loga ostavite slobodan prostor od najmanje pola širine štita sa svake strane.
+- QR kod mora biti širok najmanje 20 mm da bi se pouzdano skenirao. Gde bi logo bio manji, koristite verziju bez QR koda.
+- Najmanja veličina štita: 12 mm visine u štampi, 24 px na ekranu.
+- Na svetloj podlozi koristite verziju u boji. Na tamnoj podlozi, fotografijama i staklu koristite jednobojnu verziju, belu ili krem: slovo R, lišće i grožđe su izrezani iz štita, pa je potrebna samo jedna boja.
+- Logo nemojte razvlačiti, iskošavati, oivičavati ni prebojavati, nemojte mu dodavati senke i nemojte razmicati njegove delove.
+- Ime svoje firme možete početi slovom iz fonta Rakovac Capital, a ostatak složiti fontom Rakovac Common.
+
+## Primeri
+
+{{< identity-kit mockups >}}
+
+Skice kako logo može da izgleda na automobilu, šolji i majici. Štamparije i izrađivači reklama mogu da rade direktno sa SVG fajlovima ispod.
 
 ## Fontovi
 

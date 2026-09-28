@@ -16,12 +16,19 @@ hide_children: true
 
 {{< identity-kit logos >}}
 
-- A logó a pajzsba írt R betű a Rakovac Capital betűtípusból. A név többi része Rakovac Common betűvel van szedve.
-- Saját vállalkozásához használja ugyanezt a rendszert: a név első betűje Rakovac Capital, a többi Rakovac Common.
-- A pajzs körül minden oldalon hagyjon legalább fél pajzsszélességnyi szabad helyet.
-- Legkisebb méret: a pajzs 12 mm magas nyomtatásban, 24 px képernyőn.
-- Világos háttéren a színes változatot használja. Sötét háttéren, fotón és üvegen az egyszínű változatot, fehérben vagy krémszínben.
-- A pajzsot ne nyújtsa, ne döntse meg, ne körvonalazza, ne színezze át, és ne tegyen rá árnyékot.
+- A logó a pajzsba írt R betű a Rakovac Capital betűtípusból, alatta a Rakovac név Rakovac Common betűvel. Alattuk kisebben a rakovac.rs cím és egy QR-kód, amely megnyitja a portált.
+- A logó körül minden oldalon hagyjon legalább fél pajzsszélességnyi szabad helyet.
+- A QR-kód legalább 20 mm széles legyen, hogy biztosan beolvasható legyen. Ahol a logó ennél kisebb lenne, a QR-kód nélküli változatot használja.
+- A pajzs legkisebb mérete: 12 mm magas nyomtatásban, 24 px képernyőn.
+- Világos háttéren a színes változatot használja. Sötét háttéren, fotón és üvegen az egyszínű változatot, fehérben vagy krémszínben: az R, a levelek és a szőlő ki vannak vágva a pajzsból, így csak egy festék kell.
+- A logót ne nyújtsa, ne döntse meg, ne körvonalazza, ne színezze át, ne tegyen rá árnyékot, és ne húzza szét a részeit.
+- Saját vállalkozása nevét kezdheti Rakovac Capital betűvel, a többit Rakovac Common betűvel szedve.
+
+## Példák
+
+{{< identity-kit mockups >}}
+
+Vázlatok arról, hogyan mutathat a logó egy autón, egy bögrén és egy pólón. A nyomdák és reklámkészítők közvetlenül az alábbi SVG-fájlokkal dolgozhatnak.
 
 ## Betűtípusok
 

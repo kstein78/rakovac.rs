@@ -6,6 +6,8 @@ Grape   #e07a2e   RGB 224 122 46  grapes, shield border, highlights (use sparing
 Paper   #f5f0e6   RGB 245 240 230 light backgrounds, one-colour logo on dark
 Ink     #1b1d17   RGB 27 29 23    body text
 
+Main logo: the shield R above the name Rakovac (Rakovac Common), below it rakovac.rs and a QR code to https://rakovac.rs
+  (rakovac-lockup-*.svg/png). Use the -noqr files where the QR code would be narrower than 20 mm.
 Logo: colour version on light backgrounds; one-colour version in white or cream on dark or busy backgrounds and on glass.
 Clear space: at least half the shield width on every side. Smallest size: shield 12 mm high in print, 24 px on screen.
 Not an official coat of arms of the village or of Beočin municipality.
