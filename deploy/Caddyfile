@@ -2,6 +2,7 @@
 # /etc/caddy/Caddyfile and reloads Caddy within a minute after it changes on main
 # (only if "caddy validate" accepts it; otherwise the old config stays).
 # HTTPS certificates (Let's Encrypt) are obtained and renewed by Caddy automatically.
+# (A change to this file reloads Caddy, which also retries a certificate that failed before DNS was ready.)
 
 (site) {
 	root * /srv/rakovac/current
