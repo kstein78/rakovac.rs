@@ -351,3 +351,21 @@ p { margin: 0 0 1em; }
 .fonts-sample { font-size: clamp(2.2rem, 7vw, 4.2rem); line-height: 1.15; padding-bottom: .45em; color: var(--forest); margin: .2em 0 .5em; }
 :root[data-theme="dark"] .fonts-sample { color: var(--ink); }
 @media (max-width: 560px) { .fonts-cta { grid-template-columns: 1fr; } .fonts-cta-mark { font-size: 3.2rem; } }
+
+/* Local identity page: colour swatches and download list */
+.swatches { list-style: none; padding: 0; margin: 1rem 0 1.5rem; display: grid; grid-template-columns: repeat(auto-fill, minmax(120px, 1fr)); gap: .9rem; }
+.swatch { display: flex; flex-direction: column; gap: .15rem; margin: 0; }
+.swatch-chip { display: block; height: 64px; border-radius: var(--radius); border: 1px solid var(--line); margin-bottom: .35rem; }
+.swatch-name { font-weight: 600; }
+.swatch code { font-size: .9rem; }
+.kit-files { list-style: none; padding: 0; margin: 1rem 0 1.5rem; display: grid; gap: .55rem; }
+.kit-files li { margin: 0; display: flex; flex-wrap: wrap; align-items: baseline; gap: .3rem .7rem; }
+.kit-files li.is-main { margin-bottom: .35rem; }
+.logo-lockups { display: grid; grid-template-columns: repeat(auto-fit, minmax(220px, 1fr)); gap: 1rem; margin: 1rem 0 1.5rem; }
+.logo-lockup { border-radius: var(--radius); padding: 1.4rem 1.2rem .6rem; font-family: var(--font-display); font-size: 2.6rem; line-height: 1.1; text-align: center; border: 1px solid var(--line); }
+.logo-lockup.on-light { background: #f5f0e6; color: #1f3a2e; }
+.logo-lockup.on-dark { background: #1f3a2e; color: #f5f0e6; }
+.logo-lockup .stack { display: block; font-size: 1.7em; line-height: 1; padding-bottom: .35em; }
+.logo-lockup small { display: block; font-family: var(--font-body); font-size: .8rem; margin-top: .6rem; opacity: .8; }
+.fonts-cta-rules { margin: .2rem 0 .6rem; padding-left: 1.1rem; font-size: .95rem; }
+.fonts-cta-rules li { margin: .15rem 0; }

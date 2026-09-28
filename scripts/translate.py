@@ -42,6 +42,15 @@ LOCKED_LEAVES = {'id', 'url', 'coords', 'phone', 'website', 'email', 'key', 'map
 # Shortcode parameters that must not change (the rest, e.g. title/caption/name, are text).
 LOCKED_PARAMS = {'key', 'id', 'class', 'type', 'level', 'start', 'src'}
 LOCAL_KEYS = {'translation_locked'}
+# Keys that belong to the English page only (e.g. aliases: an old root URL such as /fonts/ may redirect to one language only).
+SOURCE_ONLY_KEYS = {'aliases'}
+SOURCE_ONLY_RE = re.compile(r'^(?:' + '|'.join(SOURCE_ONLY_KEYS) + r'):.*\n(?:[ \t]+-.*\n)*', re.M)
+
+
+def strip_source_only(text):
+    """Remove English-only front matter keys before the page is given to the translator."""
+    _, fm, body = text.split('---\n', 2)
+    return '---\n' + SOURCE_ONLY_RE.sub('', fm) + '---\n' + body
 
 
 # ---------------------------------------------------------------- helpers
@@ -137,6 +146,7 @@ def validate(en_text, tr_text):
     """Return a list of problems (empty = the translation keeps every non-text part of the source)."""
     try:
         efm, ebody = split(en_text)
+        efm = {k: v for k, v in efm.items() if k not in SOURCE_ONLY_KEYS}
         tfm, tbody = split(tr_text)
     except Exception as e:
         return [f'front matter does not parse: {e}']
@@ -257,6 +267,7 @@ def page_state(lang, rel, manifest):
 
 
 def translate_page(lang, rel, en_text):
+    en_text = strip_source_only(en_text)
     tp = os.path.join(CONTENT, lang, rel)
     current = read(tp) if os.path.exists(tp) else None
     user = f'<english_source path="content/en/{rel}">\n{en_text}\n</english_source>\n'

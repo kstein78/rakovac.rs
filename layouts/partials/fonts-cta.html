@@ -1,17 +1,22 @@
-{{/* Free-fonts box: shown on the fonts page and on the business, food and stay sections. */}}
+{{/* "Local identity and portal typeface" box: a short guideline and the downloads,
+  shown on the pages for businesses, food and drink, places to stay, shops, local products and support. */}}
 {{ $sec := .Section }}
-{{ if in (slice "fonts" "support" "business" "eat-drink" "stay") $sec }}
-{{ $guide := cond (eq site.Language.Lang "sr") "downloads/Rakovac-Fontovi-Uputstvo-SR.pdf" "downloads/Rakovac-Fonts-Guide-EN.pdf" }}
+{{ if in (slice "support" "business" "eat-drink" "stay" "shops" "local-products") $sec }}
 <div class="wrap">
-  <aside class="fonts-cta" aria-label="{{ i18n "nav_fonts" }}">
+  <aside class="fonts-cta" id="local-identity" aria-labelledby="local-identity-title">
     <div class="fonts-cta-mark" aria-hidden="true"><span class="rk-cap">R</span></div>
     <div>
-      <p class="fonts-cta-title">{{ i18n "fonts_cta_title" }}</p>
+      <p class="fonts-cta-title" id="local-identity-title">{{ i18n "fonts_cta_title" }}</p>
       <p>{{ i18n "fonts_cta_text" }}</p>
+      <ul class="fonts-cta-rules">
+        <li>{{ i18n "cta_rule_logo" }}</li>
+        <li>{{ i18n "cta_rule_fonts" }}</li>
+        <li>{{ i18n "cta_rule_official" }}</li>
+      </ul>
       <p class="fonts-cta-actions">
         <a class="btn" href="{{ "downloads/rakovac-fonts.zip" | relURL }}" download>{{ i18n "fonts_zip" }}</a>
-        <a class="btn btn-quiet" href="{{ $guide | relURL }}">{{ i18n "fonts_pdf" }}</a>
-        {{ if ne $sec "fonts" }}{{ with site.GetPage "fonts" }}<a href="{{ .RelPermalink }}">{{ i18n "fonts_more" }} →</a>{{ end }}{{ end }}
+        <a class="btn btn-quiet" href="{{ "downloads/rakovac-logo.zip" | relURL }}" download>{{ i18n "kit_logo_zip" }}</a>
+        {{ with site.GetPage "fonts" }}<a href="{{ .RelPermalink }}">{{ i18n "fonts_more" }} →</a>{{ end }}
       </p>
       <p class="small muted">{{ i18n "fonts_license_short" }}</p>
     </div>

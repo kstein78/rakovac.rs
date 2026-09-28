@@ -1,0 +1,35 @@
+{{/* Local identity kit: {{< identity-kit logos >}}, {{< identity-kit colours >}} or {{< identity-kit downloads >}}.
+  Colours and files are defined here once for all languages; labels come from i18n; file sizes are read from static/. */}}
+{{ $what := .Get 0 }}
+{{ if eq $what "colours" }}
+<ul class="swatches">
+  {{ range slice (dict "k" "col_forest" "hex" "#1f3a2e" "rgb" "31 58 46" "dark" true) (dict "k" "col_vine" "hex" "#3d7a34" "rgb" "61 122 52" "dark" true) (dict "k" "col_grape" "hex" "#e07a2e" "rgb" "224 122 46" "dark" false) (dict "k" "col_paper" "hex" "#f5f0e6" "rgb" "245 240 230" "dark" false) (dict "k" "col_ink" "hex" "#1b1d17" "rgb" "27 29 23" "dark" true) }}
+  <li class="swatch"><span class="swatch-chip{{ if .dark }} is-dark{{ end }}" style="background:{{ .hex | safeCSS }}"></span><span class="swatch-name">{{ i18n .k }}</span><code>{{ .hex }}</code><span class="small muted">RGB {{ .rgb }}</span></li>
+  {{ end }}
+</ul>
+{{ else if eq $what "logos" }}
+{{ $b := i18n "brand_name" }}
+<div class="logo-lockups">
+  <div class="logo-lockup on-light"><span class="stack rk-cap">{{ substr $b 0 1 }}</span>{{ $b }}<small>{{ i18n "kit_stacked" }}</small></div>
+  <div class="logo-lockup on-dark"><span class="stack rk-cap rk-cap-mono">{{ substr $b 0 1 }}</span>{{ $b }}<small>{{ i18n "kit_on_dark" }}</small></div>
+  <div class="logo-lockup on-light"><span class="rk-cap">{{ substr $b 0 1 }}</span>{{ substr $b 1 }}<small>{{ i18n "kit_one_line" }}</small></div>
+</div>
+{{ else if eq $what "downloads" }}
+{{ $files := slice
+  (dict "k" "kit_all" "f" "downloads/rakovac-fonts.zip" "main" true)
+  (dict "k" "kit_logo_zip" "f" "downloads/rakovac-logo.zip" "main" true)
+  (dict "k" "kit_png_colour" "f" "downloads/logo/rakovac-logo-R-colour-2240px.png")
+  (dict "k" "kit_png_mono" "f" "downloads/logo/rakovac-logo-R-one-colour-2240px.png")
+  (dict "k" "kit_svg_colour" "f" "downloads/logo/rakovac-logo-R-colour.svg")
+  (dict "k" "kit_svg_mono" "f" "downloads/logo/rakovac-logo-R-one-colour.svg")
+  (dict "k" "kit_guide_en" "f" "downloads/Rakovac-Fonts-Guide-EN.pdf")
+  (dict "k" "kit_guide_sr" "f" "downloads/Rakovac-Fontovi-Uputstvo-SR.pdf")
+  (dict "k" "kit_colours_txt" "f" "downloads/logo/rakovac-colours.txt") }}
+<ul class="kit-files">
+  {{ range $files }}
+    {{ $size := (os.Stat (printf "static/%s" .f)).Size }}
+    {{ $h := cond (ge $size 1048576) (printf "%.1f MB" (div (float $size) 1048576)) (printf "%d KB" (int (math.Ceil (div (float $size) 1024)))) }}
+    <li{{ if .main }} class="is-main"{{ end }}><a {{ if .main }}class="btn" {{ end }}href="{{ .f | relURL }}" download>{{ i18n .k }}</a> <span class="small muted">{{ upper (strings.TrimPrefix "." (path.Ext .f)) }} · {{ $h }}</span></li>
+  {{ end }}
+</ul>
+{{ end }}

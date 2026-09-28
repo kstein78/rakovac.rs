@@ -155,3 +155,11 @@ One-time server setup: [deploy/SERVER-SETUP.md](deploy/SERVER-SETUP.md).
 - **Rakovac Capital** is the shield initial. Write a first letter as `<span class="rk-cap">R</span>akovac` (colour) or add
   `rk-cap-mono` on dark backgrounds. Page titles get it automatically through `.page-head h1::first-letter`;
   `class="rk-dropcap"` on a paragraph makes a drop cap.
+- **Local identity page** (`content/*/fonts/`, URL `/<lang>/fonts/`; the old `/fonts/` redirects to English): the short
+  guideline for local businesses and residents. `{{< identity-kit logos|colours|downloads >}}` draws the logo lockups,
+  the five colours and the download list (file sizes are read from `static/` at build time). The shield R is the portal's
+  sign, **not** an official coat of arms of the village or of Beočin municipality: never call it one.
+- `layouts/partials/fonts-cta.html` puts the short guideline and the ZIP downloads on the business, eat-drink, stay,
+  shops, local-products and support pages. `static/downloads/rakovac-logo.zip` is the logo pack;
+  `rakovac-fonts.zip` has everything, including a `Logo/` folder.
+- `aliases` in front matter are English-only: `translate.py` strips them before translating and rejects them in translations.

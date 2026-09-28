@@ -1,0 +1,12 @@
+Rakovac — local identity of rakovac.rs · colours
+
+Forest  #1f3a2e   RGB 31 58 46    main colour: shield, headings, dark backgrounds
+Vine    #3d7a34   RGB 61 122 52   leaves, accents
+Grape   #e07a2e   RGB 224 122 46  grapes, shield border, highlights (use sparingly)
+Paper   #f5f0e6   RGB 245 240 230 light backgrounds, one-colour logo on dark
+Ink     #1b1d17   RGB 27 29 23    body text
+
+Logo: colour version on light backgrounds; one-colour version in white or cream on dark or busy backgrounds and on glass.
+Clear space: at least half the shield width on every side. Smallest size: shield 12 mm high in print, 24 px on screen.
+Not an official coat of arms of the village or of Beočin municipality.
+Guideline: https://rakovac.rs/en/fonts/
