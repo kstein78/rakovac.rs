@@ -21,6 +21,14 @@ A helytörténet, a körülöttem lévő világ felfedezése és az utazás irá
 
 Bárhol élek is, igyekszem megismerni az ország és a hely történetét. Rakovacban, ahol egyetlen kis völgyben hétezer év története sűrűsödik, ebből lett ez a weboldal. Local Guide-ként (8. szint) helyeket és fotókat is feltöltök a Google Mapsre.
 
+## Csendes éjszakák
+
+Rakovacon leginkább a csendet és a nyugalmat szeretem: az estéket, amikor nem hallani más embereket, és a csillagok az egész égbolton ragyognak, szinte fényszennyezés nélkül.
+
+{{< photo key="night-valley-stars" >}}
+
+{{< photo key="night-moon" class="inline-tall" >}}
+
 ## Vásároljunk helyben
 
 Amikor csak tehetem, helyi termelőktől veszem az élelmiszert és a szolgáltatásokat. Ez az oldal is egy módja annak, hogy segítsek nekik. Idővel az [Emberek]({{< relref "people" >}}) rovatban szeretnénk összegyűjteni, ki mivel foglalkozik Rakovacban, és milyen szolgáltatásokat tud nyújtani.

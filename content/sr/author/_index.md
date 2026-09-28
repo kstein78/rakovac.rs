@@ -21,6 +21,14 @@ Ljubav prema zavičajnoj istoriji, upoznavanju sveta oko sebe i putovanjima usad
 
 Gde god da živim, trudim se da znam istoriju zemlje i mesta. U Rakovcu, gde je u jednoj maloj dolini sabrano sedam hiljada godina istorije, to je preraslo u ovaj sajt. Takođe dodajem mesta i fotografije na Google mape kao Local Guide (nivo 8).
 
+## Tihe noći
+
+U Rakovcu najviše volim tišinu i mir: večeri kada se ne čuju drugi ljudi, a zvezde sijaju preko celog neba, gotovo bez svetlosnog zagađenja.
+
+{{< photo key="night-valley-stars" >}}
+
+{{< photo key="night-moon" class="inline-tall" >}}
+
 ## Kupujte od lokalnih
 
 Uvek se trudim da hranu i usluge kupujem od lokalnih proizvođača i majstora. Ovaj sajt je jedan od načina da im pomognem. S vremenom želimo da u rubrici [Ljudi]({{< relref "people" >}}) sakupimo i ko se u Rakovcu čime bavi i koje usluge može da pruži.

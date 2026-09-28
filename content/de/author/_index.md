@@ -21,6 +21,14 @@ Meine Liebe zur Lokalgeschichte, zum Erkunden der Welt um mich herum und zum Rei
 
 Wo immer ich lebe, versuche ich, die Geschichte des Landes und des Ortes zu kennen. In Rakovac, mit siebentausend Jahren Geschichte in einem kleinen Tal, ist daraus diese Website geworden. Außerdem füge ich als Local Guide (Stufe 8) Orte und Fotos zu Google Maps hinzu.
 
+## Ruhige Nächte
+
+Am meisten liebe ich in Rakovac die Stille und die Ruhe: Abende, an denen man keine anderen Menschen hört und die Sterne am ganzen Himmel leuchten, fast ohne Lichtverschmutzung.
+
+{{< photo key="night-valley-stars" >}}
+
+{{< photo key="night-moon" class="inline-tall" >}}
+
 ## Lokal einkaufen
 
 Ich versuche, Lebensmittel und Dienstleistungen wann immer möglich bei Erzeugern aus der Region zu kaufen. Diese Seite ist eine Möglichkeit, sie zu unterstützen. Mit der Zeit wollen wir im Bereich [Menschen]({{< relref "people" >}}) sammeln, wer in Rakovac was macht und welche Dienstleistungen angeboten werden.

@@ -21,6 +21,14 @@ My love of local history, of exploring the world around me and of travel was pla
 
 Wherever I live, I try to know the history of the country and the place. In Rakovac, with seven thousand years of history in one small valley, that turned into this website. I also add places and photos to Google Maps as a Local Guide (level 8).
 
+## Quiet nights
+
+What I love most in Rakovac is the quiet and the peace: evenings when you cannot hear other people, and the stars shine across the whole sky, with almost no light pollution.
+
+{{< photo key="night-valley-stars" >}}
+
+{{< photo key="night-moon" class="inline-tall" >}}
+
 ## Buy local
 
 I try to buy food and services from local producers whenever I can. This site is one way to help them. Over time we want to collect in the [People]({{< relref "people" >}}) section who in Rakovac does what, and which services they can offer.

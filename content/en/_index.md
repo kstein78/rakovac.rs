@@ -1,7 +1,7 @@
 ---
 title: Rakovac
 slogan: Discover your Rakovac
-photo: monastery-fence-summer
+photo: monastery-summer
 lead: 'More than 7,000 years of history in one valley on the northern slope of Fruška Gora, 13 km from Novi Sad. Rakovac is a great place to get to know the mountain''s nature and dive into its past: remarkable natural sites and archaeological monuments, an old monastery, forest trails to a waterfall, and local food and wine at the end of the day.'
 keyfacts:
 - value: 7,000+
