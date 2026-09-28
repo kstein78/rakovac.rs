@@ -1,0 +1,8 @@
+{{/* Page content. Kids section rule: every story paragraph that starts with a letter and is at least
+  ~80 characters long gets class "kcap", and CSS turns its first letter into a Rakovac Capital shield
+  (paragraphs starting with a digit, a link-only line or a short note keep a normal first letter). */}}
+{{ if eq .Section "kids" }}
+{{ replaceRE `<p>((?:<strong>|<em>)?\p{L})([^\n]{80,}</p>)` `<p class="kcap">$1$2` .Content | safeHTML }}
+{{ else }}
+{{ .Content }}
+{{ end }}

@@ -2,7 +2,7 @@
 {{ partial "page-head.html" . }}
 <div class="wrap page-body{{ if .Params.coords }} has-aside{{ end }}">
   <div class="prose">
-    {{ .Content }}
+    {{ partial "content.html" . }}
   </div>
   {{ if .Params.coords }}<div class="aside">{{ partial "facts.html" . }}{{ partial "minimap.html" . }}</div>{{ end }}
 </div>

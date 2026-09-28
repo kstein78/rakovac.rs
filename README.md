@@ -159,6 +159,12 @@ One-time server setup: [deploy/SERVER-SETUP.md](deploy/SERVER-SETUP.md).
 - **Rakovac Capital** is the shield initial. Write a first letter as `<span class="rk-cap">R</span>akovac` (colour) or add
   `rk-cap-mono` on dark backgrounds. Page titles get it automatically through `.page-head h1::first-letter`;
   `class="rk-dropcap"` on a paragraph makes a drop cap.
+- **Kids section rule:** story paragraphs start with a shield initial (drop cap, three lines) and the subheadings
+  are in the kids colour. `layouts/partials/content.html` marks every paragraph of a kids page that starts with a
+  letter and is at least ~80 characters long (`class="kcap"`); paragraphs starting with a digit, link-only lines
+  and short notes keep a normal letter. New kids pages get this automatically in all languages.
+- **Language order:** Serbian first in the language switcher (`weight` in hugo.toml: sr 1, en 2, ru 3, de 4, hu 5).
+  English stays the source language for translations and the fallback for browsers in other languages.
 - **Local identity page** (`content/*/fonts/`, URL `/<lang>/fonts/`; the old `/fonts/` redirects to English): the short
   guideline for local businesses and residents. `{{< identity-kit logos|colours|downloads >}}` draws the logo lockups,
   the five colours and the download list (file sizes are read from `static/` at build time). The shield R is the portal's

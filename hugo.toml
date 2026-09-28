@@ -16,14 +16,14 @@ disableLanguages = []
   [languages.en]
     languageName = "English"
     languageCode = "en"
-    weight = 1
+    weight = 2
     contentDir = "content/en"
     [languages.en.params]
       tagline = "A village on the northern slope of Fruška Gora"
   [languages.sr]
     languageName = "Srpski"
     languageCode = "sr-Latn"
-    weight = 2
+    weight = 1
     contentDir = "content/sr"
     [languages.sr.params]
       tagline = "Selo na severnoj padini Fruške gore"

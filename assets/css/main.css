@@ -319,6 +319,11 @@ p { margin: 0 0 1em; }
 .is-kids { --accent: var(--kids); --accent-soft: color-mix(in srgb, var(--kids) 14%, var(--surface)); }
 .is-kids .prose { font-size: 1.15rem; line-height: 1.7; }
 .is-kids h1 { font-size: clamp(2.2rem, 1.6rem + 3vw, 3.4rem); }
+/* Rule for the kids section: story paragraphs (class kcap, set in layouts/partials/content.html) start with a shield initial,
+   a drop cap three lines high, and the subheadings are in the kids colour. Applies to every page of the kids section in all languages. */
+.is-kids .prose > p.kcap::first-letter { font-family: var(--font-capital); font-synthesis: none; font-weight: 400; float: left; font-size: 3.25em; line-height: .86; margin: .14em .14em 0 0; padding-bottom: .5em; }
+.is-kids .prose h2, .is-kids .prose h3 { color: var(--kids); }
+.is-kids .prose > p.kcap { min-height: 4.4em; }
 
 /* Leaflet popups follow the theme */
 .leaflet-popup-content-wrapper, .leaflet-popup-tip { background: var(--surface); color: var(--ink); }
