@@ -187,16 +187,35 @@ strucica:
   alt_de: Die Gedenkstätte Stručica mit ihren drei Betonpfeilern
   alt_hu: A Stručica-emlékmű három betonpillérével
 kamenolom-memorial:
-  src: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Rakovac,_spomenik_Kamenolom_004.jpg/1280px-Rakovac,_spomenik_Kamenolom_004.jpg
-  page: https://commons.wikimedia.org/wiki/File:Rakovac,_spomenik_Kamenolom_004.jpg
-  author: Ванилица
-  license: CC BY-SA 4.0
-  alt: The Kamenolom memorial near the monastery
-  temp: true
-  alt_ru: "Мемориал «Каменолом» у монастыря"
-  alt_sr: "Spomen-obeležje Kamenolom kod manastira"
-  alt_de: Die Gedenkstätte Kamenolom beim Kloster
-  alt_hu: A Kamenolom-emlékmű a kolostor közelében
+  src: img/kamenolom-memorial.jpg
+  page: https://stein-1.com
+  author: Konstantin Stein
+  license: © all rights reserved
+  alt: "The Kamenolom memorial: plaques with the names of the fallen, with wreaths"
+  alt_ru: "Мемориал «Каменолом»: плиты с именами погибших и венки"
+  alt_sr: "Spomen-obeležje Kamenolom: ploče sa imenima poginulih i venci"
+  alt_de: "Die Gedenkstätte Kamenolom: Tafeln mit den Namen der Gefallenen und Kränze"
+  alt_hu: "A Kamenolom-emlékmű: táblák az elesettek nevével és koszorúk"
+kamenolom-tito-mosaic:
+  src: img/kamenolom-tito-mosaic.jpg
+  page: https://stein-1.com
+  author: Konstantin Stein
+  license: © all rights reserved
+  alt: "Mosaic with Tito's portrait and the words \"Druže Tito, mi ti se kunemo\" above the gallery entrance"
+  alt_ru: "Мозаика с портретом Тито и словами «Друже Тито, ми ти се кунемо» над входом в штольню"
+  alt_sr: "Mozaik sa Titovim portretom i rečima „Druže Tito, mi ti se kunemo“ iznad ulaza u galeriju"
+  alt_de: "Mosaik mit Titos Porträt und den Worten „Druže Tito, mi ti se kunemo“ über dem Stolleneingang"
+  alt_hu: "Mozaik Tito arcképével és a „Druže Tito, mi ti se kunemo” felirattal a tárna bejárata fölött"
+kamenolom-plaque-1961:
+  src: img/kamenolom-plaque-1961.jpg
+  page: https://stein-1.com
+  author: Konstantin Stein
+  license: © all rights reserved
+  alt: "The introductory plaque of the memorial, dated 1941–1961"
+  alt_ru: "Вводная плита мемориала с датой 1941–1961"
+  alt_sr: "Uvodna ploča spomen-obeležja sa datumom 1941–1961."
+  alt_de: "Die Einleitungstafel der Gedenkstätte, datiert 1941–1961"
+  alt_hu: "Az emlékmű bevezető táblája, 1941–1961 dátummal"
 forest-spring:
   src: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Fru%C5%A1ka_gora_-_%C5%A1umska_staza_u_prole%C4%87e.jpg/1280px-Fru%C5%A1ka_gora_-_%C5%A1umska_staza_u_prole%C4%87e.jpg
   page: https://commons.wikimedia.org/wiki/File:Fru%C5%A1ka_gora_-_%C5%A1umska_staza_u_prole%C4%87e.jpg

@@ -80,6 +80,7 @@ See `claude/rakovac-plan-index.md` in the claude.ai project "Rakovac – the his
 hungarianottomanwars.com, znaci.org, sr.wikipedia NOB chronology, novisad.travel, memorial inscriptions).
 Stručica: coords 45.2065767, 19.7601763; architect Mirko Krstonošić; early 1970s — fruskac.net, sr.wiki.
 Kamenolom memorial: coords 45.18103, 19.77137; 500 m from monastery — fruskac.net.
+Kamenolom memorial, on site (Kosta's photos, 2026-09): introductory plaque text transcribed on the page, dated "1941 – 1961"; mosaic with Tito's portrait and "ДРУЖЕ ТИТО МИ ТИ СЕ КУНЕМО" above the gallery entrance is visible (no longer painted over); name plaques headed "Другови који су погинули као борци НОР-а из Раковца од 41–45 г." and "…као жртве фаш. терора од 41–45 г. из Раковца и Каменолома".
 
 ## Businesses
 | Claim | Level | Source |
