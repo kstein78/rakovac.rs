@@ -38,7 +38,7 @@ API_URL = (os.environ.get('TRANSLATE_API_URL') or 'https://api.anthropic.com').r
 TEXT_KEYS = {'title', 'linkTitle', 'kicker', 'slogan', 'summary', 'lead', 'tile', 'list_title',
              'featured_title', 'sections_title', 'years', 'sort_name', 'address'}
 STRUCT_KEYS = {'facts', 'videos', 'keyfacts', 'groups', 'group_titles'}
-LOCKED_LEAVES = {'id', 'url', 'coords', 'phone', 'website', 'email', 'key', 'map'}
+LOCKED_LEAVES = {'id', 'url', 'url_label', 'coords', 'phone', 'website', 'email', 'key', 'map'}
 # Shortcode parameters that must not change (the rest, e.g. title/caption/name, are text).
 LOCKED_PARAMS = {'key', 'id', 'class', 'type', 'level', 'start', 'src'}
 LOCAL_KEYS = {'translation_locked'}

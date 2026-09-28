@@ -143,6 +143,22 @@ groups:
     what: 'Управляет парком: тропы, зоны отдыха, правила.'
     phone: +381 21 463 666
     url: https://www.npfruskagora.co.rs/
+- id: community
+  title: Местные группы в сети
+  intro: Здесь соседи делятся новостями, просят о помощи и продают вещи. Знаете другую группу Раковца, сообщество в Viber или страницу? Пришлите ссылку [по почте](mailto:konstantin.stein@gmail.com?subject=Rakovac%20groups), в Viber или WhatsApp (+381 63 801 5320), и мы её добавим.
+  items:
+  - name: Раковчане-Односельчане :) — Telegram
+    what: Русскоязычное сообщество Раковца.
+    url: https://t.me/+mbrfYMKeJ3JiNzQy
+    url_label: open_group
+  - name: Раковац – моје село — Facebook
+    what: Группа на сербском; закрытая, чтобы видеть публикации, подайте заявку на вступление.
+    url: https://www.facebook.com/groups/162591316887245
+    url_label: open_group
+  - name: РАКОВАЦ — Facebook
+    what: Открытая группа села на сербском.
+    url: https://www.facebook.com/groups/47046637665
+    url_label: open_group
 ---
 
 Нажмите **«Проложить маршрут»**, чтобы открыть путь в Google Картах на телефоне.

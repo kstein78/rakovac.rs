@@ -137,3 +137,4 @@ arch_empty: "Архив только начинается, фотографий 
 arch_all: "Все"
 arch_about: "около"
 arch_shared_by: "Прислал(а)"
+open_group: "Открыть группу"

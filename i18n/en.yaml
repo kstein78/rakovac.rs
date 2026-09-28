@@ -136,3 +136,4 @@ arch_empty: "The archive is just starting and has no photos yet. Yours could be 
 arch_all: "All"
 arch_about: "about"
 arch_shared_by: "Shared by"
+open_group: "Open group"

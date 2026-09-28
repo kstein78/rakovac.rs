@@ -23,7 +23,7 @@
         <a class="btn" href="https://www.google.com/maps/dir/?api=1&destination={{ index . 0 }},{{ index . 1 }}" rel="noopener">{{ i18n "get_directions" }}</a>
       </div>
       {{ end }}
-      {{ with .url }}<div class="poi-actions"><a class="btn btn-quiet" href="{{ . }}" rel="noopener">{{ i18n "website" }}</a></div>{{ end }}
+      {{ if .url }}<div class="poi-actions"><a class="btn btn-quiet" href="{{ .url }}" rel="noopener">{{ i18n (.url_label | default "website") }}</a></div>{{ end }}
     </li>
     {{ end }}
   </ul>

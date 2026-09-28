@@ -143,6 +143,22 @@ groups:
     what: 'Manages the national park: trails, picnic areas, rules.'
     phone: +381 21 463 666
     url: https://www.npfruskagora.co.rs/
+- id: community
+  title: Local groups online
+  intro: Where neighbours share news, ask for help and sell things. Know another Rakovac group, a Viber community or a page? Send us the link by [e-mail](mailto:konstantin.stein@gmail.com?subject=Rakovac%20groups), Viber or WhatsApp (+381 63 801 5320) and we will add it.
+  items:
+  - name: Раковчане-Односельчане :) — Telegram
+    what: Russian-speaking community of Rakovac.
+    url: https://t.me/+mbrfYMKeJ3JiNzQy
+    url_label: open_group
+  - name: Раковац – моје село — Facebook
+    what: Serbian-language group; private, ask to join to see the posts.
+    url: https://www.facebook.com/groups/162591316887245
+    url_label: open_group
+  - name: РАКОВАЦ — Facebook
+    what: Public Serbian-language group of the village.
+    url: https://www.facebook.com/groups/47046637665
+    url_label: open_group
 ---
 
 Tap **Get directions** to open the route in Google Maps on your phone.

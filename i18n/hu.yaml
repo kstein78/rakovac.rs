@@ -137,3 +137,4 @@ arch_empty: "Az archívum most indul, még nincsenek benne fényképek. Az Öné
 arch_all: "Mind"
 arch_about: "kb."
 arch_shared_by: "Beküldte"
+open_group: "Csoport megnyitása"

@@ -143,6 +143,22 @@ groups:
     what: 'A nemzeti park kezelője: ösvények, piknikhelyek, szabályok.'
     phone: +381 21 463 666
     url: https://www.npfruskagora.co.rs/
+- id: community
+  title: Helyi csoportok az interneten
+  intro: Itt osztják meg a szomszédok a híreket, kérnek segítséget és adnak el dolgokat. Ismer még rakovaci csoportot, Viber-közösséget vagy oldalt? Küldje el a linket [e-mailben](mailto:konstantin.stein@gmail.com?subject=Rakovac%20groups), Viberen vagy WhatsAppon (+381 63 801 5320), és felvesszük.
+  items:
+  - name: Раковчане-Односельчане :) — Telegram
+    what: Rakovac orosz nyelvű közössége.
+    url: https://t.me/+mbrfYMKeJ3JiNzQy
+    url_label: open_group
+  - name: Раковац – моје село — Facebook
+    what: Szerb nyelvű csoport; zárt, a bejegyzések megtekintéséhez kérje a felvételt.
+    url: https://www.facebook.com/groups/162591316887245
+    url_label: open_group
+  - name: РАКОВАЦ — Facebook
+    what: A falu nyilvános, szerb nyelvű csoportja.
+    url: https://www.facebook.com/groups/47046637665
+    url_label: open_group
 ---
 
 Az **Útvonaltervezés** gombra koppintva az útvonal a telefonon a Google Térképben nyílik meg.
