@@ -1,0 +1,14 @@
+# Photo archive of Rakovac (page History › Photo archive, shortcode {{< photo-archive >}}).
+# One entry per photo, in any order: the page sorts them by year and groups them by decade.
+# The picture itself is registered in data/photos.yaml like every photo on the site
+# (src, author = who took it or "unknown", license = e.g. "© Petrović family, published with permission",
+#  alt = caption in English; the translation workflow adds alt_ru/sr/de/hu).
+#
+# - photo: archive-1962-wedding     # key in data/photos.yaml
+#   year: 1962                      # best known year
+#   approx: true                    # true = "about 1962"
+#   shared_by: "Marija Petrović"    # who sent it, only with their permission
+#   place: "Stari Rakovac"          # optional
+#
+# Publish only with the permission of the person who sent the photo, and remove on request.
+[]

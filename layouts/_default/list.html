@@ -19,6 +19,7 @@
 {{ end }}
 {{ with .Params.after }}<div class="wrap prose after">{{ . | markdownify }}</div>{{ end }}
 {{ partial "fonts-cta.html" . }}
+{{ partial "photo-call.html" . }}
 {{ partial "gallery.html" . }}
 <div class="wrap">{{ partial "videos.html" . }}</div>
 {{ end }}

@@ -1,0 +1,43 @@
+{{/* Photo archive: entries from data/archive.yaml, pictures and credits from data/photos.yaml.
+  Sorted by year, grouped by decade; filter buttons by decade and by photographer (plain JS, works without it too). */}}
+{{ $lang := site.Language.Lang }}
+{{ $items := sort (site.Data.archive | default slice) "year" }}
+{{ if not $items }}
+<p class="archive-empty">{{ i18n "arch_empty" }}</p>
+{{ else }}
+{{ $decades := slice }}{{ $authors := slice }}
+{{ range $items }}
+  {{ $decades = $decades | append (mul (div (int .year) 10) 10) }}
+  {{ with index site.Data.photos .photo }}{{ with .author }}{{ $authors = $authors | append . }}{{ end }}{{ end }}
+{{ end }}
+<div class="archive-filters" data-archive-filters hidden>
+  <button type="button" class="chip is-on" data-filter="*">{{ i18n "arch_all" }}</button>
+  {{ range uniq $decades }}<button type="button" class="chip" data-filter="d{{ . }}">{{ . }}–{{ add . 9 }}</button>{{ end }}
+  {{ range uniq (sort $authors) }}<button type="button" class="chip" data-filter="a{{ . | urlize }}">{{ i18n "photo_by" }}: {{ . }}</button>{{ end }}
+</div>
+<div class="archive-grid">
+  {{ range $items }}
+  {{ $ph := index site.Data.photos .photo }}
+  {{ if $ph }}
+  {{ $alt := index $ph (printf "alt_%s" $lang) | default $ph.alt }}
+  {{ $src := $ph.src }}{{ if not (hasPrefix $src "http") }}{{ $src = $src | relURL }}{{ end }}
+  {{ $dec := mul (div (int .year) 10) 10 }}
+  <figure class="archive-item" data-tags="d{{ $dec }} a{{ $ph.author | default "" | urlize }}">
+    <a href="{{ $src }}"><img src="{{ $src }}" alt="{{ $alt }}" loading="lazy"></a>
+    <figcaption>
+      <span class="archive-year">{{ if .approx }}{{ i18n "arch_about" }} {{ end }}{{ .year }}</span>
+      {{ $alt }}{{ with .place }} · {{ . }}{{ end }}
+      <span class="small muted">{{ with $ph.author }}{{ i18n "photo_by" }}: {{ . }} · {{ end }}{{ with .shared_by }}{{ i18n "arch_shared_by" }}: {{ . }} · {{ end }}{{ $ph.license }}</span>
+    </figcaption>
+  </figure>
+  {{ end }}
+  {{ end }}
+</div>
+<script>
+(function(){var f=document.querySelector('[data-archive-filters]');if(!f)return;f.hidden=false;
+f.addEventListener('click',function(e){var b=e.target.closest('[data-filter]');if(!b)return;
+f.querySelectorAll('[data-filter]').forEach(function(x){x.classList.toggle('is-on',x===b)});
+var t=b.dataset.filter;document.querySelectorAll('.archive-item').forEach(function(i){
+i.hidden=!(t==='*'||(' '+i.dataset.tags+' ').indexOf(' '+t+' ')>=0)})})})();
+</script>
+{{ end }}
