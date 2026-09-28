@@ -28,7 +28,7 @@ passwords, and there are no secrets in GitHub.
    - `A` `@` → server IPv4, `AAAA` `@` → server IPv6
    - `A` `www` → server IPv4, `AAAA` `www` → server IPv6
 4. **Webglobe → Moji domeni → rakovac.rs → Nameservers → "Koristi DNS servere (upisane ispod)"**:
-   `ns1.your-server.de`, `ns.second-ns.com`, `ns3.second-ns.de` (servers 4–5 empty) → Izmeni Name servere.
+   the NS values of the zone (for Hetzner Console DNS: `hydrogen.ns.hetzner.com`, `oxygen.ns.hetzner.com`, `helium.ns.hetzner.de`; servers 4–5 empty) → Izmeni Name servere.
 5. Wait for DNS (usually 1–2 hours, up to 24). Caddy gets the HTTPS certificate by itself.
 
 ## On the server (only if something is wrong)
