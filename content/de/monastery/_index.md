@@ -6,7 +6,7 @@ kicker: Manastir Rakovac · Stari Rakovac
 lead: Ein lebendiges orthodoxes Kloster am Waldrand, erstmals 1545–46 erwähnt und heute Heimat einer Gemeinschaft von Nonnen. Sein barocker Glockenturm ist das Wahrzeichen von Stari Rakovac.
 tile: Besuch, Milch und Käse der Schwesternschaft und ein Drehort
 photo: monastery-summer
-gallery: [monastery-mist, monastery-valley-winter, monastery-roofs-winter, monastery-belltower, monastery-iconostasis]
+gallery: [monastery-fence-summer, monastery-mist, monastery-road-winter, monastery-valley-winter, monastery-roofs-winter, monastery-lavender, monastery-belltower, monastery-iconostasis]
 coords:
 - 45.184697
 - 19.774143

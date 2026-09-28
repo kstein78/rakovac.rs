@@ -17,7 +17,7 @@
     <div class="gal-filters" data-gal-filters hidden>
       <div class="gal-group" role="group" aria-label="{{ i18n "gal_theme" }}" data-group="theme">
         <button type="button" class="chip is-on" data-val="">{{ i18n "gal_all" }}</button>
-        {{ range slice "views" "monastery" "village" "nature" "monuments" }}{{ if in $themes . }}<button type="button" class="chip" data-val="{{ . }}">{{ i18n (printf "gal_theme_%s" .) }}</button>{{ end }}{{ end }}
+        {{ range slice "views" "monastery" "village" "nature" "night" "monuments" }}{{ if in $themes . }}<button type="button" class="chip" data-val="{{ . }}">{{ i18n (printf "gal_theme_%s" .) }}</button>{{ end }}{{ end }}
       </div>
       <div class="gal-group" role="group" aria-label="{{ i18n "gal_season" }}" data-group="season">
         <button type="button" class="chip is-on" data-val="">{{ i18n "gal_all_seasons" }}</button>

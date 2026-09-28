@@ -18,6 +18,7 @@ videos:
 - id: ''
   title: 'Die Einsiedelei: der Weg und die Inschriften'
 photo: isposnica-inscription-detail
+gallery: [isposnica-entrance-child, isposnica-chapel-child]
 ---
 
 Eine *isposnica* ist eine Einsiedelei: ein Ort, an den sich ein Mönch aus dem Kloster zurückzog, um allein zu leben, zu fasten und zu beten. Diese hier ist in weichen, hellen Kalkstein gehauen, auf einem kleinen Plateau unterhalb einer Felswand. Der Eingang liegt etwas seitlich und ist weniger als 1,5 m hoch. Ein schmales Fenster lässt ein wenig Licht herein.

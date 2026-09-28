@@ -1,7 +1,7 @@
 # Photo gallery (page /gallery/, layouts/gallery/list.html). Shown in this order.
 # photo  = key in data/photos.yaml (src, author, licence and captions in 5 languages live there)
 # season = summer | autumn | winter | spring (optional, for the season filter)
-# theme  = views | monastery | village | nature | monuments (for the theme filter)
+# theme  = views | monastery | village | nature | night | monuments (for the theme filter)
 # A neighbour's photos: add them to photos.yaml with their name as author and the licence they gave, then list them here.
 # Thumbnails: static/img/thumb/<same file name>, 720 px: run python3 scripts/gallery_thumbs.py. Without one the full photo is used.
 - { photo: lookout-swing-autumn, season: autumn, theme: views }
@@ -12,22 +12,38 @@
 - { photo: lookout-rain-danube, season: summer, theme: views }
 - { photo: lookout-grass-sky, season: summer, theme: views }
 - { photo: lookout-danube-bend, season: autumn, theme: views }
+- { photo: vrdnicka-kula-view, theme: views }
 - { photo: monastery-summer, season: summer, theme: monastery }
 - { photo: monastery-valley-winter, season: winter, theme: monastery }
 - { photo: monastery-roofs-winter, season: winter, theme: monastery }
 - { photo: monastery-mist, season: winter, theme: monastery }
 - { photo: monastery-badnjak, season: winter, theme: monastery }
+- { photo: monastery-fence-summer, season: summer, theme: monastery }
+- { photo: monastery-road-winter, season: winter, theme: monastery }
+- { photo: monastery-lavender, season: summer, theme: monastery }
 - { photo: village-house-summer, season: summer, theme: village }
 - { photo: village-garden-snow, season: winter, theme: village }
 - { photo: village-snow-pillar, season: winter, theme: village }
 - { photo: village-snow-sun, season: winter, theme: village }
+- { photo: garden-quince, season: spring, theme: village }
+- { photo: garden-wisteria, season: spring, theme: village }
 - { photo: nature-frost-oak, season: winter, theme: nature }
 - { photo: nature-frost-grass, season: winter, theme: nature }
+- { photo: flower-snowdrops, season: spring, theme: nature }
+- { photo: flower-hellebore, season: spring, theme: nature }
+- { photo: flower-cornel, season: spring, theme: nature }
+- { photo: flower-pasque-bee, season: spring, theme: nature }
+- { photo: flower-poppies, season: summer, theme: nature }
+- { photo: flower-dandelion-frost, theme: nature }
+- { photo: night-valley-stars, season: winter, theme: night }
+- { photo: night-stars-branches, season: winter, theme: night }
+- { photo: night-moon, theme: night }
 - { photo: kamenolom-memorial, theme: monuments }
 - { photo: kamenolom-tito-mosaic, theme: monuments }
 - { photo: strucica, theme: monuments }
 - { photo: strucica-pillar, theme: monuments }
 - { photo: vrdnicka-kula-tower, theme: monuments }
-- { photo: vrdnicka-kula-view, theme: views }
 - { photo: vrdnicka-kula-walls, theme: monuments }
 - { photo: isposnica-inscriptions-entrance, theme: monuments }
+- { photo: isposnica-entrance-child, theme: monuments }
+- { photo: isposnica-chapel-child, theme: monuments }

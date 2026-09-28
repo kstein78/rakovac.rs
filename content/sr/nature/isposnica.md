@@ -18,6 +18,7 @@ videos:
 - id: ''
   title: 'Isposnica: staza i natpisi'
 photo: isposnica-inscription-detail
+gallery: [isposnica-entrance-child, isposnica-chapel-child]
 ---
 
 *Isposnica* je mesto na koje se monah povlačio iz manastira da živi sam, posti i moli se. Ova je uklesana u meki, svetli krečnjak, na malom platou ispod stene. Ulaz je malo sa strane i visok je manje od 1,5 m. Uzak prozor propušta malo svetla.

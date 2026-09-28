@@ -6,7 +6,7 @@ kicker: "Manastir Rakovac · Стари-Раковац"
 lead: "Действующий православный монастырь у кромки леса, впервые упомянутый в 1545–1546 годах. Сегодня здесь живёт женская монашеская община. Его барочная колокольня — главный ориентир Стари-Раковца."
 tile: "Посещение, молоко и сыр сестринства, место съёмок кино"
 photo: monastery-summer
-gallery: [monastery-mist, monastery-valley-winter, monastery-roofs-winter, monastery-belltower, monastery-iconostasis]
+gallery: [monastery-fence-summer, monastery-mist, monastery-road-winter, monastery-valley-winter, monastery-roofs-winter, monastery-lavender, monastery-belltower, monastery-iconostasis]
 coords: [45.184697, 19.774143]
 altitude: 176
 category: heritage

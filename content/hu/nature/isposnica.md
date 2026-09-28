@@ -18,6 +18,7 @@ videos:
 - id: ''
   title: 'A remetelak: az ösvény és a feliratok'
 photo: isposnica-inscription-detail
+gallery: [isposnica-entrance-child, isposnica-chapel-child]
 ---
 
 Az *isposnica* remetelak: olyan hely, ahová egy szerzetes a kolostorból visszavonult, hogy egyedül éljen, böjtöljön és imádkozzon. Ezt egy kis fennsíkon, egy sziklafal alatt vájták a puha, világos mészkőbe. A bejárat kissé oldalt helyezkedik el, és 1,5 m-nél alacsonyabb. Egy keskeny ablakon át egy kevés fény szűrődik be.

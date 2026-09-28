@@ -133,3 +133,5 @@ Kamenolom memorial, on site (Kosta's photos, 2026-09): introductory plaque text 
 | View from the lookout: Novi Sad with the two arches of the Žeželj Bridge visible in Kosta's photo | C | Kosta's photo |
 | Badnji dan (6 January, Julian Christmas Eve): badnjak bonfire in front of Rakovac Monastery, villagers with children | C | Kosta (photo + statement); yearly repetition and time to confirm with the monastery |
 | Monastery far shots are winter (Kosta), summer facade photo | C | Kosta |
+| Lookout coords confirmed by Kosta as 45°11'45.1"N 19°46'02.0"E (= 45.195861, 19.767222; the Maps pin 45.195847, 19.767228 is within 2 m) | C | Kosta, 2026-09-29 |
+| Lavender grows at the monastery; Japanese quince and wisteria in Kosta's own garden; night-sky and flower photos taken in Rakovac | C | Kosta, 2026-09-29 |

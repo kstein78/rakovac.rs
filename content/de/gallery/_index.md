@@ -8,3 +8,5 @@ lead: "Das heutige Rakovac, Jahreszeit für Jahreszeit. Drücken Sie auf „Dias
 ---
 
 Alte Fotos aus Familienalben haben ihren eigenen Platz: das [Fotoarchiv]({{< relref "history/photos" >}}).
+
+In klaren Nächten, vor allem im Winter, ist der Himmel über dem Tal von Rakovac voller Sterne, und der Vollmond steigt über die Hügel: siehe die Fotos unter „Nachthimmel“.

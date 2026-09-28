@@ -6,7 +6,7 @@ kicker: "Manastir Rakovac · Stari Rakovac"
 lead: "A living Orthodox monastery at the foot of the forest, first recorded in 1545–46 and home today to a community of nuns. Its baroque bell tower is the landmark of Stari Rakovac."
 tile: "Visiting, the sisterhood's milk and cheese, and a film location"
 photo: monastery-summer
-gallery: [monastery-mist, monastery-valley-winter, monastery-roofs-winter, monastery-belltower, monastery-iconostasis]
+gallery: [monastery-fence-summer, monastery-mist, monastery-road-winter, monastery-valley-winter, monastery-roofs-winter, monastery-lavender, monastery-belltower, monastery-iconostasis]
 coords: [45.184697, 19.774143]
 altitude: 176
 category: heritage

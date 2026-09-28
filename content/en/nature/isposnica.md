@@ -18,6 +18,7 @@ videos:
 - id: ''
   title: 'The hermitage: the path and the inscriptions'
 photo: isposnica-inscription-detail
+gallery: [isposnica-entrance-child, isposnica-chapel-child]
 ---
 
 An *isposnica* is a hermitage: a place where a monk withdrew from the monastery to live alone, fast and pray. This one is carved into soft, light limestone on a small plateau below a cliff. The entrance is set slightly to the side and is less than 1.5 m high. A narrow window lets in a little light.

@@ -6,7 +6,7 @@ kicker: Manastir Rakovac · Stari Rakovac
 lead: Működő ortodox kolostor az erdő lábánál, amelyet először 1545–46-ban említenek, ma pedig apácaközösség otthona. Barokk harangtornya Stari Rakovac jellegzetes tájékozódási pontja.
 tile: Látogatás, a nővérek teje és sajtja, forgatási helyszín
 photo: monastery-summer
-gallery: [monastery-mist, monastery-valley-winter, monastery-roofs-winter, monastery-belltower, monastery-iconostasis]
+gallery: [monastery-fence-summer, monastery-mist, monastery-road-winter, monastery-valley-winter, monastery-roofs-winter, monastery-lavender, monastery-belltower, monastery-iconostasis]
 coords:
 - 45.184697
 - 19.774143

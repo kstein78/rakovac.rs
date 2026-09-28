@@ -696,3 +696,165 @@ nature-frost-grass:
   alt_sr: "Hrastovo lišće i trava pod jutarnjim injem"
   alt_de: "Eichenblätter und Gras im Morgenfrost"
   alt_hu: "Tölgylevelek és fű a reggeli dérben"
+
+# Kosta's photos, second batch 2026-09-29 (monastery close and far, Isposnica, night sky, local flowers).
+monastery-fence-summer:
+  src: img/monastery-fence-summer.jpg
+  author: Konstantin Stein
+  license: © all rights reserved
+  alt: "Rakovac Monastery in summer behind its white wall with wrought-iron windows"
+  temp: false
+  alt_ru: "Монастырь Раковац летом за белой оградой с коваными решётками"
+  alt_sr: "Manastir Rakovac leti iza bele ograde sa kovanim rešetkama"
+  alt_de: "Kloster Rakovac im Sommer hinter seiner weißen Mauer mit schmiedeeisernen Gittern"
+  alt_hu: "A rakovaci kolostor nyáron, fehér fala és kovácsoltvas rácsai mögött"
+monastery-road-winter:
+  src: img/monastery-road-winter.jpg
+  author: Konstantin Stein
+  license: © all rights reserved
+  alt: "A gravel road above Stari Rakovac in the winter sun, the monastery in the hazy valley below"
+  temp: false
+  alt_ru: "Гравийная дорога над Стари-Раковцем на зимнем солнце, внизу в дымке долины монастырь"
+  alt_sr: "Makadamski put iznad Starog Rakovca na zimskom suncu, dole u izmaglici doline manastir"
+  alt_de: "Ein Schotterweg über Stari Rakovac in der Wintersonne, unten im dunstigen Tal das Kloster"
+  alt_hu: "Kavicsos út Stari Rakovac fölött téli napsütésben, lent a párás völgyben a kolostor"
+monastery-lavender:
+  src: img/monastery-lavender.jpg
+  author: Konstantin Stein
+  license: © all rights reserved
+  alt: "Lavender at the monastery"
+  temp: false
+  alt_ru: "Лаванда у монастыря"
+  alt_sr: "Lavanda kod manastira"
+  alt_de: "Lavendel am Kloster"
+  alt_hu: "Levendula a kolostornál"
+garden-quince:
+  src: img/garden-quince.jpg
+  author: Konstantin Stein
+  license: © all rights reserved
+  alt: "Japanese quince in bloom in a Rakovac garden"
+  temp: false
+  alt_ru: "Цветущая японская айва в саду в Раковце"
+  alt_sr: "Japanska dunja u cvetu u jednom rakovačkom dvorištu"
+  alt_de: "Blühende Japanische Quitte in einem Garten in Rakovac"
+  alt_hu: "Virágzó japánbirs egy rakovaci kertben"
+garden-wisteria:
+  src: img/garden-wisteria.jpg
+  author: Konstantin Stein
+  license: © all rights reserved
+  alt: "Wisteria in bloom in a Rakovac garden"
+  temp: false
+  alt_ru: "Цветущая глициния в саду в Раковце"
+  alt_sr: "Glicinija u cvetu u jednom rakovačkom dvorištu"
+  alt_de: "Blühende Glyzinie in einem Garten in Rakovac"
+  alt_hu: "Virágzó lilaakác egy rakovaci kertben"
+flower-snowdrops:
+  src: img/flower-snowdrops.jpg
+  author: Konstantin Stein
+  license: © all rights reserved
+  alt: "Snowdrops in the woods in early spring"
+  temp: false
+  alt_ru: "Подснежники в лесу ранней весной"
+  alt_sr: "Visibabe u šumi u rano proleće"
+  alt_de: "Schneeglöckchen im Wald im Vorfrühling"
+  alt_hu: "Hóvirágok az erdőben kora tavasszal"
+flower-hellebore:
+  src: img/flower-hellebore.jpg
+  author: Konstantin Stein
+  license: © all rights reserved
+  alt: "Hellebores and snowdrops on the forest floor in early spring"
+  temp: false
+  alt_ru: "Морозник и подснежники на лесной подстилке ранней весной"
+  alt_sr: "Kukurek i visibabe na šumskom tlu u rano proleće"
+  alt_de: "Nieswurz und Schneeglöckchen auf dem Waldboden im Vorfrühling"
+  alt_hu: "Hunyor és hóvirág az erdő talaján kora tavasszal"
+flower-cornel:
+  src: img/flower-cornel.jpg
+  author: Konstantin Stein
+  license: © all rights reserved
+  alt: "Cornelian cherry (dren) in bloom, one of the first signs of spring"
+  temp: false
+  alt_ru: "Цветущий кизил, одна из первых примет весны"
+  alt_sr: "Dren u cvetu, jedan od prvih znakova proleća"
+  alt_de: "Blühende Kornelkirsche, eines der ersten Frühlingszeichen"
+  alt_hu: "Virágzó húsos som, a tavasz egyik első jele"
+flower-pasque-bee:
+  src: img/flower-pasque-bee.jpg
+  author: Konstantin Stein
+  license: © all rights reserved
+  alt: "Pasque flower (Pulsatilla) with a bee in early spring"
+  temp: false
+  alt_ru: "Сон-трава (прострел) с пчелой ранней весной"
+  alt_sr: "Sasa (Pulsatilla) sa pčelom u rano proleće"
+  alt_de: "Küchenschelle (Pulsatilla) mit einer Biene im Vorfrühling"
+  alt_hu: "Kökörcsin (Pulsatilla) méhhel kora tavasszal"
+flower-poppies:
+  src: img/flower-poppies.jpg
+  author: Konstantin Stein
+  license: © all rights reserved
+  alt: "Wild poppies and their seed heads in summer"
+  temp: false
+  alt_ru: "Дикие маки и их коробочки летом"
+  alt_sr: "Divlje bulke i njihove čaure leti"
+  alt_de: "Wilder Mohn mit Samenkapseln im Sommer"
+  alt_hu: "Vadpipacsok és magtokjaik nyáron"
+flower-dandelion-frost:
+  src: img/flower-dandelion-frost.jpg
+  author: Konstantin Stein
+  license: © all rights reserved
+  alt: "A dandelion in the morning frost"
+  temp: false
+  alt_ru: "Одуванчик в утреннем инее"
+  alt_sr: "Maslačak pod jutarnjim injem"
+  alt_de: "Löwenzahn im Morgenfrost"
+  alt_hu: "Pitypang a reggeli dérben"
+night-valley-stars:
+  src: img/night-valley-stars.jpg
+  author: Konstantin Stein
+  license: © all rights reserved
+  alt: "Night sky over the Rakovac valley, with the lights of Stari Rakovac below"
+  temp: false
+  alt_ru: "Ночное небо над долиной Раковца, внизу огни Стари-Раковца"
+  alt_sr: "Noćno nebo nad dolinom Rakovca, dole svetla Starog Rakovca"
+  alt_de: "Nachthimmel über dem Tal von Rakovac, unten die Lichter von Stari Rakovac"
+  alt_hu: "Éjszakai égbolt a rakovaci völgy fölött, lent Stari Rakovac fényei"
+night-stars-branches:
+  src: img/night-stars-branches.jpg
+  author: Konstantin Stein
+  license: © all rights reserved
+  alt: "Stars through bare branches: a clear night in Rakovac"
+  temp: false
+  alt_ru: "Звёзды сквозь голые ветви: ясная ночь в Раковце"
+  alt_sr: "Zvezde kroz golo granje: vedra noć u Rakovcu"
+  alt_de: "Sterne zwischen kahlen Ästen: eine klare Nacht in Rakovac"
+  alt_hu: "Csillagok a csupasz ágak között: tiszta éjszaka Rakovacon"
+night-moon:
+  src: img/night-moon.jpg
+  author: Konstantin Stein
+  license: © all rights reserved
+  alt: "Full moon over Rakovac"
+  temp: false
+  alt_ru: "Полная луна над Раковцем"
+  alt_sr: "Pun mesec nad Rakovcem"
+  alt_de: "Vollmond über Rakovac"
+  alt_hu: "Telihold Rakovac fölött"
+isposnica-entrance-child:
+  src: img/isposnica-entrance-child.jpg
+  author: Konstantin Stein
+  license: © all rights reserved
+  alt: "A small visitor at the entrance of the Hermitage, in the limestone wall covered with carved names"
+  temp: false
+  alt_ru: "Маленькая гостья у входа в Испосницу, в известняковой скале, покрытой вырезанными именами"
+  alt_sr: "Mala posetiteljka na ulazu u Isposnicu, u krečnjačkoj steni prekrivenoj urezanim imenima"
+  alt_de: "Eine kleine Besucherin am Eingang der Einsiedelei, im Kalkfels voller eingeritzter Namen"
+  alt_hu: "Kis látogató a remetelak bejáratánál, a bevésett nevekkel borított mészkősziklában"
+isposnica-chapel-child:
+  src: img/isposnica-chapel-child.jpg
+  author: Konstantin Stein
+  license: © all rights reserved
+  alt: "Inside the Hermitage: the small cave chapel with icons and an oil lamp"
+  temp: false
+  alt_ru: "Внутри Испосницы: маленькая пещерная часовня с иконами и лампадой"
+  alt_sr: "U Isposnici: mala pećinska kapela sa ikonama i kandilom"
+  alt_de: "In der Einsiedelei: die kleine Höhlenkapelle mit Ikonen und einer Öllampe"
+  alt_hu: "A remetelakban: a kis barlangkápolna ikonokkal és olajmécsessel"
