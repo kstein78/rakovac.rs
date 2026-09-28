@@ -11,6 +11,7 @@ Writes
   static/downloads/logo/rakovac-qr.svg                   QR code to https://rakovac.rs alone
   static/downloads/logo/rakovac-lockup-{colour,one-colour}-1800px.png   PNG copies (needs Playwright + Chromium)
   static/img/identity/mockup-{car,mug,tshirt}.svg        branding sketches for the identity page
+  static/img/brand-shield-mono.svg                       cream shield R for the site header and footer
 All text is converted to outlines, so the files look the same without the fonts installed.
 """
 import io, os, re, zipfile
@@ -266,6 +267,10 @@ def main():
     with open(os.path.join(LOGO, 'rakovac-qr.svg'), 'w', encoding='utf-8') as f:
         f.write(svg_doc(f'<rect width="{q}" height="{q}" fill="#ffffff"/><path d="{qr_modules(0, 0, q, quiet=4)}" fill="{FOREST}"/>',
                         q, q, URL))
+    # site header and footer (dark green bar): one-colour shield in the header text colour
+    sh, sw = shield('one-colour', 0, 0, 224, ink='#eef2ea')
+    with open(os.path.join(ROOT, 'static', 'img', 'brand-shield-mono.svg'), 'w', encoding='utf-8') as f:
+        f.write(svg_doc(sh, sw, 224, 'Rakovac'))
     for name, fn in (('car', mockup_car), ('mug', mockup_mug), ('tshirt', mockup_tshirt)):
         with open(os.path.join(MOCK, f'mockup-{name}.svg'), 'w', encoding='utf-8') as f:
             f.write(fn())

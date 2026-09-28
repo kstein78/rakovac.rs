@@ -1,7 +1,7 @@
 <footer class="site-footer">
   <div class="wrap footer-grid">
     <div>
-      {{ $b := i18n "brand_name" }}<p class="footer-brand"><span class="rk-cap rk-cap-mono">{{ substr $b 0 1 }}</span>{{ substr $b 1 }}</p>
+      <p class="footer-brand"><img class="brand-shield" src="{{ "img/brand-shield-mono.svg" | relURL }}" alt="" width="43" height="56">{{ i18n "brand_name" }}</p>
       <p>{{ i18n "unofficial_note" }}</p>
       <p class="muted small">{{ i18n "footer_region" }}</p>
       {{ with site.GetPage "fonts" }}<p class="small"><a href="{{ .RelPermalink }}">{{ i18n "fonts_footer" }} →</a> · <a href="{{ "downloads/rakovac-fonts.zip" | relURL }}" download>ZIP</a></p>{{ end }}
