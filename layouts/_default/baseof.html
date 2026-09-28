@@ -17,7 +17,12 @@
   <meta property="og:type" content="website">
   {{ with (.Params.photo | default .Params.portrait) }}{{ with index site.Data.photos . }}<meta property="og:image" content="{{ if hasPrefix .src "http" }}{{ .src }}{{ else }}{{ .src | absURL }}{{ end }}">{{ end }}{{ end }}
   <meta name="theme-color" content="#1f3a2e">
-  <link rel="icon" href="{{ "favicon.svg" | absURL }}" type="image/svg+xml">
+  <link rel="icon" href="{{ "favicon.ico" | relURL }}" sizes="48x48">
+  <link rel="icon" href="{{ "favicon.svg" | relURL }}" type="image/svg+xml">
+  <link rel="apple-touch-icon" href="{{ "apple-touch-icon.png" | relURL }}">
+  <link rel="manifest" href="{{ "site.webmanifest" | relURL }}">
+  <link rel="preload" href="{{ "fonts/RakovacCapital-Regular.woff2" | relURL }}" as="font" type="font/woff2" crossorigin>
+  <link rel="preload" href="{{ "fonts/rakovac-common-latin-400-normal.woff2" | relURL }}" as="font" type="font/woff2" crossorigin>
   {{ $css := resources.Get "css/main.css" | minify | fingerprint }}
   <link rel="stylesheet" href="{{ $css.RelPermalink }}" integrity="{{ $css.Data.Integrity }}">
   {{ $needsMap := or .Params.coords .Params.map .IsHome (in (slice "map" "useful") .Section) }}

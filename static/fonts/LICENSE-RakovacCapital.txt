@@ -1,0 +1,33 @@
+RAKOVAC CAPITAL FONT LICENCE, version 1.0 (2026)
+
+Copyright (c) 2026 Konstantin Stein, rakovac.rs. All rights reserved except as granted below.
+Designed by Konstantin Stein together with Claude, an AI model by Anthropic.
+
+"The Font" means Rakovac Capital and Rakovac Capital Color, in every format (OTF, WOFF2, SVG and PNG letter graphics), including all versions.
+
+1. FREE USE
+You may install and use the Font free of charge on any number of computers and devices, for personal, educational, non-profit and commercial work. This includes printed matter, signs, stickers, clothing, packaging, websites, apps, videos and documents.
+
+2. CREDIT FOR COMMERCIAL USE
+If you use the Font commercially, you must show this credit wherever it can reasonably be read: on the product, its packaging or label, the imprint, or your website footer.
+    Font: Rakovac Capital, rakovac.rs
+The credit is not needed if:
+  a) you have written permission (email is enough) from Konstantin Stein; or
+  b) your business, organisation or project is located in Rakovac (Novi Rakovac, Stari Rakovac, 21299 Rakovac, Beočin municipality, Serbia) or is related to Rakovac, for example by promoting the village, its monastery, nature, products or events.
+
+3. SHARING
+You may share unmodified copies of the Font, but only together with this licence file.
+
+4. RESTRICTIONS
+  a) You may not sell the Font itself, alone or in a bundle of fonts.
+  b) You may change the Font for your own use. If you share a changed version, you may not call it "Rakovac Capital", and you must say that it is based on Rakovac Capital, rakovac.rs.
+  c) You may not use the Font, or the shield R, as the logo or trademark of a business or product that is not related to Rakovac without written permission. You may not use them in a way that suggests rakovac.rs endorses you.
+
+5. NO WARRANTY
+The Font is provided "as is", without any warranty. The author is not liable for any damage that comes from using it.
+
+Contact: konstantin.stein@gmail.com · https://rakovac.rs
+
+
+RAKOVAC COMMON
+Rakovac Common is a renamed copy of Literata (Copyright The Literata Project Authors) and is licensed under the SIL Open Font License 1.1 (see OFL.txt). Everyone may use, change and share it for free. A credit "Font: Rakovac Common (Literata), rakovac.rs" is welcome but not required.

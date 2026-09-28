@@ -30,7 +30,9 @@ data/nav.yaml          menu order and map marker colours per category
 i18n/*.yaml            interface strings in 5 languages
 layouts/               templates (no external theme)
 assets/css, assets/js  styles, menu, click-to-load YouTube, Leaflet maps
-static/fonts, static/vendor/leaflet   self-hosted fonts and Leaflet (no Google Fonts, no CDN)
+static/fonts, static/vendor/leaflet   self-hosted fonts (Rakovac Common, Rakovac Capital) and Leaflet (no Google Fonts, no CDN)
+static/downloads       font ZIP and font guides (PDF) offered on /fonts/
+static/favicon.*       the R favicon set + site.webmanifest
 scripts/               translate.py (automatic translation), make-preview.sh
 deploy/                nginx config and server setup guide
 FACTS.md               fact log: where every statement comes from
@@ -144,4 +146,12 @@ One-time server setup: [deploy/SERVER-SETUP.md](deploy/SERVER-SETUP.md).
 | Source code (layouts, CSS, JS, config, workflows) | **MIT**, see [LICENSE](LICENSE) |
 | Texts (`content/`, `i18n/`) | **CC BY 4.0**: reuse allowed with credit to rakovac.rs, see [LICENSE-CONTENT.md](LICENSE-CONTENT.md) |
 | Our own photos, videos, interviews | **© Konstantin Stein / rakovac.rs, all rights reserved** |
-| Temporary Wikimedia photos, fonts, Leaflet, map tiles | their own licences, listed in LICENSE-CONTENT.md |
+| Rakovac Capital font | © Konstantin Stein / rakovac.rs, own free licence (static/fonts/LICENSE-RakovacCapital.txt) |
+| Temporary Wikimedia photos, Rakovac Common (OFL), Leaflet, map tiles | their own licences, listed in LICENSE-CONTENT.md |
+
+## Typography
+
+- **Rakovac Common** (Literata, OFL) is used for headings and body text.
+- **Rakovac Capital** is the shield initial. Write a first letter as `<span class="rk-cap">R</span>akovac` (colour) or add
+  `rk-cap-mono` on dark backgrounds. Page titles get it automatically through `.page-head h1::first-letter`;
+  `class="rk-dropcap"` on a paragraph makes a drop cap.

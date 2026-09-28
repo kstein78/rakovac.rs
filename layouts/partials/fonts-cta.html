@@ -1,0 +1,20 @@
+{{/* Free-fonts box: shown on the fonts page and on the business, food and stay sections. */}}
+{{ $sec := .Section }}
+{{ if in (slice "fonts" "support" "business" "eat-drink" "stay") $sec }}
+{{ $guide := cond (eq site.Language.Lang "sr") "downloads/Rakovac-Fontovi-Uputstvo-SR.pdf" "downloads/Rakovac-Fonts-Guide-EN.pdf" }}
+<div class="wrap">
+  <aside class="fonts-cta" aria-label="{{ i18n "nav_fonts" }}">
+    <div class="fonts-cta-mark" aria-hidden="true"><span class="rk-cap">R</span></div>
+    <div>
+      <p class="fonts-cta-title">{{ i18n "fonts_cta_title" }}</p>
+      <p>{{ i18n "fonts_cta_text" }}</p>
+      <p class="fonts-cta-actions">
+        <a class="btn" href="{{ "downloads/rakovac-fonts.zip" | relURL }}" download>{{ i18n "fonts_zip" }}</a>
+        <a class="btn btn-quiet" href="{{ $guide | relURL }}">{{ i18n "fonts_pdf" }}</a>
+        {{ if ne $sec "fonts" }}{{ with site.GetPage "fonts" }}<a href="{{ .RelPermalink }}">{{ i18n "fonts_more" }} →</a>{{ end }}{{ end }}
+      </p>
+      <p class="small muted">{{ i18n "fonts_license_short" }}</p>
+    </div>
+  </aside>
+</div>
+{{ end }}

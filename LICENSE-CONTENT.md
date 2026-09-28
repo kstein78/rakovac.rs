@@ -26,7 +26,8 @@ and indicate if you changed it.
 
 - Temporary photos from Wikimedia Commons: licence and author are listed for
   each photo in `data/photos.yaml` and on the site's *About* page.
-- Fonts Alegreya and Source Sans 3: SIL Open Font License 1.1 (`static/fonts/`).
+- Font Rakovac Common (Literata under a new name, © The Literata Project Authors): SIL Open Font License 1.1 (`static/fonts/LICENSE-RakovacCommon-OFL.txt`).
+- Font Rakovac Capital: © Konstantin Stein / rakovac.rs, free to use under its own licence (`static/fonts/LICENSE-RakovacCapital.txt`; credit "Font: Rakovac Capital, rakovac.rs" for commercial use outside Rakovac).
 - Leaflet 1.9.4: BSD-2-Clause (`static/vendor/leaflet/`).
 - Map tiles: © OpenStreetMap contributors (ODbL).
 

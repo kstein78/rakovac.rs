@@ -17,6 +17,7 @@ secondary:
   - { path: shops,          label: nav_shops }
   - { path: business,       label: nav_business }
   - { path: support,        label: nav_support }
+  - { path: fonts,          label: nav_fonts }
   - { path: about,          label: nav_about }
   - { path: author,         label: nav_author }
 
