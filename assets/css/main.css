@@ -2,6 +2,10 @@
    Palette: limestone ground (Beli Majdan stone), beech-forest green, Fruška Gora wine as accent. */
 
 /* Rakovac Common (a renamed Literata, SIL OFL 1.1) and Rakovac Capital (© rakovac.rs). See static/fonts/LICENSE-RakovacCommon-OFL.txt */
+@font-face { font-family: "Rakovac Common"; font-weight: 300; font-display: swap; src: url("../fonts/rakovac-common-latin-300-normal.woff2") format("woff2"); unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD; }
+@font-face { font-family: "Rakovac Common"; font-weight: 300; font-display: swap; src: url("../fonts/rakovac-common-latin-ext-300-normal.woff2") format("woff2"); unicode-range: U+0100-02AF, U+0304, U+0308, U+0329, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF; }
+@font-face { font-family: "Rakovac Common"; font-weight: 300; font-display: swap; src: url("../fonts/rakovac-common-cyrillic-300-normal.woff2") format("woff2"); unicode-range: U+0301, U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116; }
+@font-face { font-family: "Rakovac Common"; font-weight: 300; font-display: swap; src: url("../fonts/rakovac-common-cyrillic-ext-300-normal.woff2") format("woff2"); unicode-range: U+0460-052F, U+1C80-1C88, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F; }
 @font-face { font-family: "Rakovac Common"; font-weight: 400; font-display: swap; src: url("../fonts/rakovac-common-latin-400-normal.woff2") format("woff2"); unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD; }
 @font-face { font-family: "Rakovac Common"; font-weight: 400; font-display: swap; src: url("../fonts/rakovac-common-latin-ext-400-normal.woff2") format("woff2"); unicode-range: U+0100-02AF, U+0304, U+0308, U+0329, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF; }
 @font-face { font-family: "Rakovac Common"; font-weight: 400; font-display: swap; src: url("../fonts/rakovac-common-cyrillic-400-normal.woff2") format("woff2"); unicode-range: U+0301, U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116; }
@@ -78,6 +82,8 @@ a { color: var(--accent); text-underline-offset: .18em; text-decoration-thicknes
 a:hover { text-decoration-thickness: 2px; }
 :focus-visible { outline: 3px solid var(--accent); outline-offset: 2px; }
 h1, h2, h3 { font-family: var(--font-display); font-weight: 700; line-height: 1.15; text-wrap: balance; margin: 0 0 .5em; }
+/* Page titles follow the shield initial (Rakovac Capital): the text is lighter than the initial, as in the manuscripts once copied at Rakovac. */
+h1 { font-weight: 300; }
 h1 { font-size: var(--step-3); }
 h2 { font-size: var(--step-2); }
 h3 { font-size: var(--step-1); }
@@ -211,7 +217,7 @@ p { margin: 0 0 1em; }
 .home-hero { padding-block: 2.5rem 1.5rem; }
 .home-hero-grid { display: grid; grid-template-columns: minmax(0, 5fr) minmax(0, 6fr); gap: 2.5rem; align-items: end; }
 @media (max-width: 900px) { .home-hero-grid { grid-template-columns: 1fr; gap: 1.5rem; } }
-.display { font-size: var(--step-4); font-weight: 400; line-height: 1; margin-bottom: .1em; padding: .05em 0 .5em; letter-spacing: -.01em; }
+.display { font-size: var(--step-4); font-weight: 300; line-height: 1; margin-bottom: .1em; padding: .05em 0 .5em; letter-spacing: -.01em; }
 .home-photo .photo-frame { aspect-ratio: 4 / 3; }
 .home-photo .photo-frame img { height: 100%; }
 .keyfacts { list-style: none; padding: 0; margin: 1.5rem 0 0; display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 1rem 1.5rem; border-top: 1px solid var(--line); padding-top: 1rem; }
@@ -350,7 +356,7 @@ p { margin: 0 0 1em; }
 .fonts-cta-mark { font-size: 4.2rem; line-height: 1; padding-bottom: .45em; }
 .fonts-cta-title { font-family: var(--font-display); font-weight: 600; font-size: 1.3rem; line-height: 1.25; }
 .fonts-cta-actions { display: flex; flex-wrap: wrap; gap: .6rem 1rem; align-items: center; margin: .9rem 0 !important; }
-.fonts-sample { font-size: clamp(2.2rem, 7vw, 4.2rem); line-height: 1.15; padding-bottom: .45em; color: var(--forest); margin: .2em 0 .5em; }
+.fonts-sample { font-weight: 300; font-size: clamp(2.2rem, 7vw, 4.2rem); line-height: 1.15; padding-bottom: .45em; color: var(--forest); margin: .2em 0 .5em; }
 :root[data-theme="dark"] .fonts-sample { color: var(--ink); }
 @media (prefers-color-scheme: dark) { :root:not([data-theme="light"]) .fonts-sample { color: var(--ink); } }
 @media (max-width: 560px) { .fonts-cta { grid-template-columns: 1fr; } .fonts-cta-mark { font-size: 3.2rem; } }

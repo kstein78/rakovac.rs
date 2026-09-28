@@ -151,7 +151,9 @@ One-time server setup: [deploy/SERVER-SETUP.md](deploy/SERVER-SETUP.md).
 
 ## Typography
 
-- **Rakovac Common** (Literata, OFL) is used for headings and body text.
+- **Rakovac Common** (Literata, OFL) is used for headings and body text. Page titles (`h1`) and the home title use the Light
+  weight (300), so the text after the shield initial is thinner than the initial, as in manuscripts: stem of the
+  Capital R ≈ 82/1000 em, Common Light 71, Regular 93, Bold 159. Other headings stay Bold.
 - **Rakovac Capital** is the shield initial. Write a first letter as `<span class="rk-cap">R</span>akovac` (colour) or add
   `rk-cap-mono` on dark backgrounds. Page titles get it automatically through `.page-head h1::first-letter`;
   `class="rk-dropcap"` on a paragraph makes a drop cap.

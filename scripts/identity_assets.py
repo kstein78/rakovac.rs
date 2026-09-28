@@ -137,10 +137,10 @@ def lockup(one_colour=False, with_qr=True):
     sh_h = 250
     sh_svg, sh_w = shield('one-colour' if one_colour else 'colour', (W - 250 * SHIELD_VB[2] / SHIELD_VB[3]) / 2, 30, sh_h)
     parts.append(sh_svg)
-    d, w = text_path('Rakovac', 132, wght=560)
+    d, w = text_path('Rakovac', 132, wght=360)
     base = 30 + sh_h + 128
     parts.append(f'<path d="{d}" transform="translate({(W - w) / 2:.2f} {base})" fill="{name_col}"/>')
-    d2, w2 = text_path('rakovac.rs', 44, wght=500, tracking=0.06)
+    d2, w2 = text_path('rakovac.rs', 44, wght=420, tracking=0.06)
     base2 = base + 70
     parts.append(f'<path d="{d2}" transform="translate({(W - w2) / 2:.2f} {base2})" fill="{url_col}"/>')
     H = base2 + 40

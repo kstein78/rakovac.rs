@@ -23,6 +23,7 @@
   <link rel="manifest" href="{{ "site.webmanifest" | relURL }}">
   <link rel="preload" href="{{ "fonts/RakovacCapital-Regular.woff2" | relURL }}" as="font" type="font/woff2" crossorigin>
   <link rel="preload" href="{{ "fonts/rakovac-common-latin-400-normal.woff2" | relURL }}" as="font" type="font/woff2" crossorigin>
+  <link rel="preload" href="{{ "fonts/rakovac-common-latin-300-normal.woff2" | relURL }}" as="font" type="font/woff2" crossorigin>
   {{ $css := resources.Get "css/main.css" | minify | fingerprint }}
   <link rel="stylesheet" href="{{ $css.RelPermalink }}" integrity="{{ $css.Data.Integrity }}">
   {{ $needsMap := or .Params.coords .Params.map .IsHome (in (slice "map" "useful") .Section) }}
