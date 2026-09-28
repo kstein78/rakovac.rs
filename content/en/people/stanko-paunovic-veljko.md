@@ -5,6 +5,7 @@ sort_name: Paunovic Stanko
 years: 1907–1942
 summary: Partisan commissar and People's Hero, killed at Stručica in Rakovac in August 1942.
 weight: 20
+photo: strucica-plaque-paunovic
 ---
 
 Born on 16 October 1907 in Brestovac near Negotin, a metal worker and communist activist from his youth. Sentenced in 1929 to 16 years in prison, he escaped from Sremska Mitrovica prison on 22 August 1941 and became political commissar of the staff of the partisan detachments of Srem. His nom de guerre came from the hajduk leader Hajduk Veljko.

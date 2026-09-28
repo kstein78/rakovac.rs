@@ -176,16 +176,65 @@ village-entrance:
   alt_de: Ortsschild am Eingang von Rakovac
   alt_hu: Helységnévtábla Rakovac bejáratánál
 strucica:
-  src: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Spomenik_Strucica_Rakovac_2020.jpg/1280px-Spomenik_Strucica_Rakovac_2020.jpg
-  page: https://commons.wikimedia.org/wiki/File:Spomenik_Strucica_Rakovac_2020.jpg
-  author: Subnorns
-  license: CC BY-SA 4.0
-  alt: The Stručica memorial with its three concrete pillars
-  temp: true
-  alt_ru: "Мемориал «Стручица» с тремя бетонными колоннами"
-  alt_sr: "Spomenik Stručica sa tri betonska stuba"
-  alt_de: Die Gedenkstätte Stručica mit ihren drei Betonpfeilern
-  alt_hu: A Stručica-emlékmű három betonpillérével
+  src: img/strucica.jpg
+  page: https://stein-1.com
+  author: Konstantin Stein
+  license: © all rights reserved
+  alt: "The Stručica memorial: three curved concrete pillars among the trees"
+  alt_ru: "Мемориал «Стручица»: три изогнутых бетонных столба среди деревьев"
+  alt_sr: "Spomenik Stručica: tri izvijena betonska stuba među drvećem"
+  alt_de: "Die Gedenkstätte Stručica: drei geschwungene Betonpfeiler zwischen den Bäumen"
+  alt_hu: "A Stručica-emlékmű: három ívelt betonpillér a fák között"
+strucica-board:
+  src: img/strucica-board.jpg
+  page: https://stein-1.com
+  author: Konstantin Stein
+  license: © all rights reserved
+  alt: "Information board at the memorial about the battle of August 1942"
+  alt_ru: "Информационный щит у мемориала о бое в августе 1942 года"
+  alt_sr: "Informativna tabla kod spomenika o borbi u avgustu 1942."
+  alt_de: "Infotafel an der Gedenkstätte über den Kampf im August 1942"
+  alt_hu: "Tájékoztató tábla az emlékműnél az 1942. augusztusi harcról"
+strucica-pillar:
+  src: img/strucica-pillar.jpg
+  page: https://stein-1.com
+  author: Konstantin Stein
+  license: © all rights reserved
+  alt: "The middle pillar with wreaths and the commander's plaque"
+  alt_ru: "Центральный столб с венками и табличкой командира"
+  alt_sr: "Srednji stub sa vencima i pločom komandanta"
+  alt_de: "Der mittlere Pfeiler mit Kränzen und der Tafel des Kommandanten"
+  alt_hu: "A középső pillér koszorúkkal és a parancsnok emléktáblájával"
+strucica-plaque-hunjadi:
+  src: img/strucica-plaque-hunjadi.jpg
+  page: https://stein-1.com
+  author: Konstantin Stein
+  license: © all rights reserved
+  alt: "Plaque: \"Zencel Hunjadi, courier Franja, 1942\""
+  alt_ru: "Табличка: «Зенцел Хуньяди, курьер Франя, 1942»"
+  alt_sr: "Ploča: „Zencel Hunjadi, kurir Franja, 1942“"
+  alt_de: "Tafel: „Zencel Hunjadi, Kurier Franja, 1942“"
+  alt_hu: "Tábla: „Zencel Hunjadi, Franja futár, 1942”"
+strucica-plaque-markovic:
+  src: img/strucica-plaque-markovic.jpg
+  page: https://stein-1.com
+  author: Konstantin Stein
+  license: © all rights reserved
+  alt: "Plaque: \"Commander Đorđe Marković Đilas, 1942\""
+  alt_ru: "Табличка: «Командир Джордже Маркович Джилас, 1942»"
+  alt_sr: "Ploča: „Komandant Đorđe Marković Đilas, 1942“"
+  alt_de: "Tafel: „Kommandant Đorđe Marković Đilas, 1942“"
+  alt_hu: "Tábla: „Đorđe Marković Đilas parancsnok, 1942”"
+strucica-plaque-paunovic:
+  src: img/strucica-plaque-paunovic.jpg
+  page: https://stein-1.com
+  author: Konstantin Stein
+  license: © all rights reserved
+  alt: "Plaque: \"People's Hero Stanko Paunović Veljko, 1907–1942\""
+  alt_ru: "Табличка: «Народный герой Станко Паунович Велько, 1907–1942»"
+  alt_sr: "Ploča: „Narodni heroj Stanko Paunović Veljko, 1907–1942“"
+  alt_de: "Tafel: „Volksheld Stanko Paunović Veljko, 1907–1942“"
+  alt_hu: "Tábla: „Stanko Paunović Veljko népi hős, 1907–1942”"
 kamenolom-memorial:
   src: img/kamenolom-memorial.jpg
   page: https://stein-1.com

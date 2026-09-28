@@ -5,6 +5,7 @@ sort_name: Paunovic Stanko
 years: 1907–1942
 summary: Partizán politikai biztos és Népi Hős; 1942 augusztusában esett el a rakovaci Stručicán.
 weight: 20
+photo: strucica-plaque-paunovic
 ---
 
 1907. október 16-án született a Negotin melletti Brestovacon; fémmunkás, fiatal korától kommunista aktivista. 1929-ben 16 év börtönre ítélték; 1941. augusztus 22-én megszökött a Sremska Mitrovica-i börtönből, és a szerémségi partizánosztagok törzsének politikai biztosa lett. Harci nevét Hajduk Veljko hajdúvezérről kapta.

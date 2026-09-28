@@ -79,6 +79,7 @@ See `claude/rakovac-plan-index.md` in the claude.ai project "Rakovac – the his
 (fruskac.net, vojvodina.travel, sulinet.hu, muemlekem.hu, hu.wikipedia, lexikon.katolikus.hu, ertektar, Hungaricana DL charters,
 hungarianottomanwars.com, znaci.org, sr.wikipedia NOB chronology, novisad.travel, memorial inscriptions).
 Stručica: coords 45.2065767, 19.7601763; architect Mirko Krstonošić; early 1970s — fruskac.net, sr.wiki.
+Stručica, on site (Kosta's photos, 2026-09): board — "one of the most unequal battles"; 18,000 German soldiers + 6,000 Ustaše, Home Guards, Volksdeutsche (40:1); breakout night 27/28 Aug 1942 towards the Srem plain and Bosut forests; courier named "Венцел Фрања Хуњади" on the board but "Зенцел Хуњади ‹Курир Фрања› 1942" on his plaque; plaques "Командант Ђорђе Марковић Ђилас 1942", "Народни херој Станко Пауновић – Вељко 1907–1942"; author Mirko Krstonošić; built early 1970s.
 Kamenolom memorial: coords 45.18103, 19.77137; 500 m from monastery — fruskac.net.
 Kamenolom memorial, on site (Kosta's photos, 2026-09): introductory plaque text transcribed on the page, dated "1941 – 1961"; mosaic with Tito's portrait and "ДРУЖЕ ТИТО МИ ТИ СЕ КУНЕМО" above the gallery entrance is visible (no longer painted over); name plaques headed "Другови који су погинули као борци НОР-а из Раковца од 41–45 г." and "…као жртве фаш. терора од 41–45 г. из Раковца и Каменолома".
 
