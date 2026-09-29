@@ -21,9 +21,11 @@ Hibát talált? Kérjük, jelezze nekünk a **konstantin.stein@gmail.com** címe
 
 Interjúkat készítünk a lakosokkal: emlékeket a faluról, a kolostorról, a kőbányáról és a háborús évekről. Minden interjút csak a megszólaló hozzájárulásával teszünk közzé. Lásd: [Emberek]({{< relref "people" >}}).
 
-## Adatvédelem
+## Adatvédelem {#privacy}
 
-Az oldal nem használ hirdetési vagy követő sütiket. A videók csak a lejátszás megnyomása után töltődnek be a YouTube-ról. A térképek az OpenStreetMap szervereiről töltik be a térképcsempéket.
+Az oldalon nincs hirdetés. Az Ön engedélyével (sáv az első látogatáskor) a látogatásokat **Google Analytics 4** és **Yandex Metrica** segítségével számoljuk: mely oldalakat olvassák, melyik országból és milyen eszközről, és hogyan találták meg az oldalt. Mindkét szolgáltatás sütiket helyez el, és megkapja ezeket a használati adatokat; mi csak összesített számokat látunk, semmit nem adunk el és semmit nem használunk hirdetésre. Amíg nem nyomja meg az „Engedélyezem” gombot, a Yandex Metrica egyáltalán nem töltődik be, a Google Analytics pedig nem helyez el sütit (csak azonosító nélküli, névtelen jelzéseket kap). A döntését bármikor megváltoztathatja minden oldal alján a „Süti-beállítások” hivatkozással.
+
+A videók csak a lejátszás megnyomása után töltődnek be a YouTube-ról. A térképek az OpenStreetMap szervereiről töltik be a térképcsempéket.
 
 ## Licenc
 

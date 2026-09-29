@@ -21,9 +21,11 @@ Found a mistake? Please tell us at **konstantin.stein@gmail.com**.
 
 We record interviews with residents: memories of the village, the monastery, the quarry and the war years. Every interview is published only with the speaker's consent. See [People]({{< relref "people" >}}).
 
-## Privacy
+## Privacy {#privacy}
 
-This site does not use advertising or tracking cookies. Videos are loaded from YouTube only after you press play. The maps load map tiles from OpenStreetMap servers.
+The site shows no advertising. With your permission (the banner on your first visit) we count visits with **Google Analytics 4** and **Yandex Metrica**: which pages are read, from which country and type of device, and how visitors found the site. Both services set cookies and receive this usage data; we see only totals, sell nothing and use nothing for ads. Until you press “Allow”, Yandex Metrica is not loaded at all and Google Analytics sets no cookies (it only receives anonymous signals without identifiers). You can change your choice at any time with the “Cookie settings” link at the bottom of every page.
+
+Videos are loaded from YouTube only after you press play. The maps load map tiles from OpenStreetMap servers.
 
 ## Licence
 

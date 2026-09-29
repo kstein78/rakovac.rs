@@ -1,14 +1,25 @@
-{{/* Google Analytics 4, only with the visitor's consent (Consent Mode v2: everything "denied" until they allow).
+{{/* Visitor statistics, only with the visitor's consent.
+  - Google Analytics 4 (params.gaID): Consent Mode v2, everything "denied" until they allow.
+  - Yandex Metrica (params.yandexMetrica, counter number): not loaded at all until they allow.
   The choice is kept in this browser (localStorage "rk-consent" = granted|denied) and can be changed with the
-  "Cookie settings" link in the footer ([data-consent-open]). Off when params.gaID is empty or on the preview. */}}
-{{ with site.Params.gaID }}{{ if not site.Params.noindex }}
+  "Cookie settings" link in the footer ([data-consent-open]). Off when both params are empty or on the preview. */}}
+{{ $ga := site.Params.gaID }}{{ $ym := site.Params.yandexMetrica }}
+{{ if and (or $ga $ym) (not site.Params.noindex) }}
 <script>
 window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments);}
 var rkC=null;try{rkC=localStorage.getItem('rk-consent');}catch(e){}
-gtag('consent','default',{analytics_storage:rkC==='granted'?'granted':'denied',ad_storage:'denied',ad_user_data:'denied',ad_personalization:'denied',wait_for_update:500});
-gtag('js',new Date());gtag('config','{{ . }}',{anonymize_ip:true});
+{{ with $ga }}gtag('consent','default',{analytics_storage:rkC==='granted'?'granted':'denied',ad_storage:'denied',ad_user_data:'denied',ad_personalization:'denied',wait_for_update:500});
+gtag('js',new Date());gtag('config','{{ . }}',{anonymize_ip:true});{{ end }}
+function rkYM(){ {{- with $ym -}}
+if(window.rkYMon)return;window.rkYMon=true;
+(function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};m[i].l=1*new Date();
+k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)})
+(window,document,'script','https://mc.yandex.ru/metrika/tag.js','ym');
+ym({{ . }},'init',{clickmap:true,trackLinks:true,accurateTrackBounce:true,webvisor:false});
+{{- end -}} }
+if(rkC==='granted')rkYM();
 </script>
-<script async src="https://www.googletagmanager.com/gtag/js?id={{ . }}"></script>
+{{ with $ga }}<script async src="https://www.googletagmanager.com/gtag/js?id={{ . }}"></script>{{ end }}
 <div class="consent" data-consent hidden role="dialog" aria-live="polite" aria-labelledby="consent-t">
   <p id="consent-t" class="consent-title">{{ i18n "consent_title" }}</p>
   <p>{{ i18n "consent_text" }} {{ with site.GetPage "about" }}<a href="{{ .RelPermalink }}#privacy">{{ i18n "consent_more" }}</a>{{ end }}</p>
@@ -16,11 +27,11 @@ gtag('js',new Date());gtag('config','{{ . }}',{anonymize_ip:true});
 </div>
 <script>
 (function(){var b=document.querySelector('[data-consent]');if(!b)return;
-function set(v){try{localStorage.setItem('rk-consent',v);}catch(e){}gtag('consent','update',{analytics_storage:v});b.hidden=true;}
+function set(v){try{localStorage.setItem('rk-consent',v);}catch(e){}{{ if $ga }}gtag('consent','update',{analytics_storage:v});{{ end }}if(v==='granted')rkYM();b.hidden=true;}
 if(rkC!=='granted'&&rkC!=='denied')b.hidden=false;
 b.querySelector('[data-consent-yes]').onclick=function(){set('granted');};
 b.querySelector('[data-consent-no]').onclick=function(){set('denied');};
 document.querySelectorAll('[data-consent-open]').forEach(function(a){a.hidden=false;a.addEventListener('click',function(e){e.preventDefault();b.hidden=false;});});
 })();
 </script>
-{{ end }}{{ end }}
+{{ end }}
