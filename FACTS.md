@@ -145,3 +145,5 @@ Kamenolom memorial, on site (Kosta's photos, 2026-09): introductory plaque text 
 | Ferry car price 500 dinars (2026); pedestrians possibly free, to confirm | C | Kosta, 2026-09-29 |
 | Beočin landlines renumbered 871-xxx → 2971-xxx (JKP Beočin 021 2971 246, Fabrika vode 021 2971 869) | C | Kosta's phone contacts, 2026-09-29. Applied the same pattern to Dom zdravlja 870055 → 2970 055 and Opština 870260 → 2970 260 (supported by beocin.rs 30 Apr 2024 listing Hitna pomoć as 021 2970124); to confirm |
 | Red sunset photo at the ferry landing = partial solar eclipse at sunset, 12 Aug 2026 (Novi Sad: starts 19:52, sets eclipsed) | B | Kosta; 021.rs 12 Aug 2026 |
+| Summer 2026 low Danube: Beočin–Futog ferry stopped for a while; Banoštor–Begeč ferry kept running, small capacity | C | Kosta, 2026-09-29 |
+| Ferry "Jole" Banoštor–Begeč: from 7:00 (Banoštor) to 17:00 (last from Begeč) | B | ozon.rs 1 Feb 2023 |

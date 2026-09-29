@@ -5,7 +5,7 @@ kicker: "Skela Beočin – Futog · át a Dunán"
 weight: 4
 category: nearby
 summary: "Autós komp a Dunán Beočin és Futak között: Beočinból minden egész órakor, Futakról fél órakor indul, az átkelés 10–15 perc, minden nap, kivéve január 1-jét és az ortodox karácsonyt."
-lead: "Egy kis autós komp a Szerémség és Bácska egyetlen rendszeres összeköttetése a Duna ezen szakaszán. Mintegy 25 km kerülőt spórol meg Újvidéken át, és tíz nyugodt percet ajándékoz a folyón."
+lead: "Ez a kis autós komp a Szerémség és Bácska fő összeköttetése Rakovac közelében. Mintegy 25 km kerülőt spórol meg Újvidéken át, és tíz nyugodt percet ajándékoz a folyón."
 photo: ferry-crossing
 gallery: [ferry-landing, ferry-deck-child, danube-sunset-landing, danube-sunset-houseboat, danube-sunset-island, danube-sunset-glow, danube-sunset-calm]
 coords: [45.2275493, 19.7135925]
@@ -34,6 +34,10 @@ Egy személyautó **500 dinár** (2026). Gyalogosok, kerékpárok és nagyobb j�
 ## Honnan indul?
 
 Beočinban a komp a **Put ka skeli** utcai kikötőből indul a Duna-parton, Rakovactól kb. 6 km-re nyugatra (légvonalban). A túloldalon a futaki rakparton köt ki.
+
+## Alacsony vízállásnál
+
+2026 nyarán, amikor a Duna nagyon alacsonyra apadt, a Beočin–Futak komp egy ideig nem járt. A kisebb **Jole** komp **Banoštor** (Szerémség, Beočintól feljebb) és **Begecs** (Bácska) között a legalacsonyabb vízállásnál is közlekedett, de csak néhány járművet visz. A 2023-as adatok szerint 7:00-tól (első indulás Banoštorból) 17:00-ig (utolsó indulás Begecsről) jár.
 
 ## Kapcsolat
 
