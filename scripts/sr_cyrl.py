@@ -104,7 +104,10 @@ def tr_markup(s):
     parts, last = [], 0
     for m in PROTECT.finditer(s):
         parts.append(tr_text(s[last:m.start()]))
-        parts.append(m.group(0))
+        kept = m.group(0)
+        if kept.startswith(']('):                    # links to Latin Serbian pages point to their Cyrillic twin
+            kept = kept.replace('](/sr/', '](/cyr/')
+        parts.append(kept)
         last = m.end()
     parts.append(tr_text(s[last:]))
     return ''.join(parts)

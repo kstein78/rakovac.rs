@@ -135,3 +135,10 @@ Kamenolom memorial, on site (Kosta's photos, 2026-09): introductory plaque text 
 | Monastery far shots are winter (Kosta), summer facade photo | C | Kosta |
 | Lookout coords confirmed by Kosta as 45°11'45.1"N 19°46'02.0"E (= 45.195861, 19.767222; the Maps pin 45.195847, 19.767228 is within 2 m) | C | Kosta, 2026-09-29 |
 | Lavender grows at the monastery; Japanese quince and wisteria in Kosta's own garden; night-sky and flower photos taken in Rakovac | C | Kosta, 2026-09-29 |
+| Fault lines: Elektrodistribucija Srbije 0800 360 300 (national), Novi Sad 021 421 066 / 021 421 068 | A | elektrodistribucija.rs/Prijava_kvarova_na_mrezi (checked 2026-09-29); Novi Sad numbers also given by Kosta |
+| Novi Sad Gas: havarije 066 333 090, free line 0800 021 025, switchboard 021 6411-900 | B | novisadgas.rs/sr-lat/kontakt (2026-09-29); 021.rs/novisad.com Feb 2023; Beočin served per Kosta |
+| JKP „Beočin“: Desanke Maksimović 52; uprava 021 871 246, Fabrika vode 021 871 869, radionica 021 871 320; on-duty 064 80 17 920 | B | beocin.rs JKP page + service notice (dates unknown). Kosta: Beočin landline prefix may have changed, to confirm |
+| Ferry Beočin–Futog: Beočin on the hour, Futog at half past; 10–15 min; summer ~6:30–20:15, winter 7:00–16:30; closed 1 Jan + Orthodox Christmas; since 2003, Mihajlović family (Banoštor) | B | mojnovisad.com 16 Dec 2017; 021.rs 24 Aug 2020; mitrovica.info 12 Oct 2022; futog.rs (modified 2026-04-27) |
+| Ferry prices: 70 pedestrian (2020/2022), 100 bicycle, 150 motorcycle (2018), 300 car, up to 1,000 larger | B | same sources; to confirm on site |
+| Ferry phone 064 28 13 481 | C | mojnovisad.com 2017 only; to confirm (Kosta) |
+| Ferry landing Beočin: Put ka skeli 1, 45.2275493, 19.7135925; Futog side 45.2349728, 19.7118786 | B | Google Places |

@@ -13,6 +13,14 @@
 - { photo: lookout-grass-sky, season: summer, theme: views }
 - { photo: lookout-danube-bend, season: autumn, theme: views }
 - { photo: vrdnicka-kula-view, theme: views }
+- { photo: ferry-crossing, season: autumn, theme: views }
+- { photo: ferry-landing, season: summer, theme: views }
+- { photo: ferry-deck-child, season: summer, theme: views }
+- { photo: danube-sunset-landing, season: summer, theme: views }
+- { photo: danube-sunset-houseboat, season: autumn, theme: views }
+- { photo: danube-sunset-island, season: autumn, theme: views }
+- { photo: danube-sunset-glow, season: autumn, theme: views }
+- { photo: danube-sunset-calm, season: autumn, theme: views }
 - { photo: monastery-summer, season: summer, theme: monastery }
 - { photo: monastery-valley-winter, season: winter, theme: monastery }
 - { photo: monastery-roofs-winter, season: winter, theme: monastery }

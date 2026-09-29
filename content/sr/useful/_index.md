@@ -18,6 +18,8 @@ groups:
     what: Iz Novog Sada do Beočin Sela, glavnim putem kroz Novi Rakovac (stajalište kod semafora na glavnoj raskrsnici). Polasci označeni sa SR idu kroz Stari Rakovac i staju i kod manastira, ostali ne.
     url: http://www.gspns.co.rs/red-voznje/prigradski
     url_label: gsp_timetable
+  - name: Skela Beočin – Futog
+    what: 'Preko Dunava do Futoga i Bačke, svakog sata: [red vožnje i cene](/sr/nearby/ferry-beocin-futog/).'
 - id: fuel
   title: Gorivo
   intro: 'Dve benzinske pumpe: jedna u samom Rakovcu, druga na ulazu u Beočin.'
@@ -45,6 +47,22 @@ groups:
   - name: 194 – hitna pomoć
   - name: 1987 – pomoć na putu (AMSS)
     what: Šlep i pomoć na putu Auto-moto saveza Srbije.
+- id: utilities
+  title: 'Struja, gas i voda: kvarovi i nestanci'
+  intro: 'Nestanak struje, curenje gasa ili pucanje vodovodne cevi prijavite preduzeću koje održava mrežu. Ako osetite miris gasa, ne palite svetlo i ne koristite otvoren plamen: izađite iz zgrade i pozovite spolja.'
+  items:
+  - name: 'Struja: Elektrodistribucija Srbije, Novi Sad'
+    what: Nestanci struje i kvarovi na elektromreži (nekadašnja Elektrovojvodina). Besplatan nacionalni broj [0800 360 300](tel:0800360300); drugi broj za Novi Sad [021 421 068](tel:+38121421068).
+    phone: +381 21 421 066
+  - name: 'Gas: Novi Sad Gas'
+    what: 'Broj za havarije i curenje gasa. Besplatan broj za korisnike: [0800 021 025](tel:0800021025).'
+    phone: +381 66 333 090
+  - name: 'Voda: JKP „Beočin“, Fabrika vode'
+    what: 'Kvarovi i prekidi u vodosnabdevanju. Dežurni mobilni: [064 80 17 920](tel:+381648017920).'
+    phone: +381 21 871 869
+  - name: 'JKP „Beočin“: uprava'
+    what: 'Javno komunalno preduzeće: voda, kanalizacija i komunalne usluge. Desanke Maksimović 52, Beočin.'
+    phone: +381 21 871 246
 - id: health
   title: Lekari i bolnice
   intro: Najbliži dom zdravlja je u Beočinu, oko 4 km zapadno. Za bolničko lečenje velike klinike su u Sremskoj Kamenici i Novom Sadu.

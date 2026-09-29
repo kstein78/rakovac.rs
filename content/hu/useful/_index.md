@@ -18,6 +18,8 @@ groups:
     what: Újvidékről Beočin Selóig a főúton, Novi Rakovacon át (megálló a főkereszteződés jelzőlámpájánál). Az SR jelzésű járatok Stari Rakovacon át közlekednek, és a kolostornál is megállnak, a többiek nem.
     url: http://www.gspns.co.rs/red-voznje/prigradski
     url_label: gsp_timetable
+  - name: Beočin–Futak komp
+    what: 'Át a Dunán Futakra és Bácskába, óránként: [menetrend és árak](/hu/nearby/ferry-beocin-futog/).'
 - id: fuel
   title: Üzemanyag
   intro: 'Két benzinkút: az egyik magában Rakovacon, a másik Beočin bejáratánál.'
@@ -45,6 +47,22 @@ groups:
   - name: 194 – mentők
   - name: 1987 – közúti segélyszolgálat (AMSS)
     what: A Szerbiai Autó- és Motoros Szövetség autómentő és vontatószolgálata.
+- id: utilities
+  title: 'Áram, gáz és víz: hibák és kimaradások'
+  intro: 'Az áramszünetet, a gázszivárgást vagy a csőtörést a hálózatot üzemeltető cégnek kell bejelenteni. Gázszag esetén ne kapcsoljon villanyt és ne használjon nyílt lángot: hagyja el az épületet, és onnan telefonáljon.'
+  items:
+  - name: 'Áram: Elektrodistribucija Srbije, Újvidék'
+    what: 'Áramszünetek és hibák az elektromos hálózaton (a korábbi Elektrovojvodina). Országos ingyenes szám: [0800 360 300](tel:0800360300); az újvidéki kirendeltség második száma: [021 421 068](tel:+38121421068).'
+    phone: +381 21 421 066
+  - name: 'Gáz: Novi Sad Gas'
+    what: 'Szám gázvészhelyzet és gázszivárgás esetére. Ingyenes ügyfélvonal: [0800 021 025](tel:0800021025).'
+    phone: +381 66 333 090
+  - name: 'Víz: JKP „Beočin”, vízmű (Fabrika vode)'
+    what: 'Vízellátási hibák és kimaradások. Ügyeletes mobil: [064 80 17 920](tel:+381648017920).'
+    phone: +381 21 871 869
+  - name: 'JKP „Beočin”: iroda'
+    what: 'A község kommunális vállalata: víz, csatorna és kommunális szolgáltatások. Desanke Maksimović 52, Beočin.'
+    phone: +381 21 871 246
 - id: health
   title: Orvosok és kórházak
   intro: A legközelebbi egészségház Beočinban van, kb. 4 km-re nyugatra. Kórházi ellátásért a Sremska Kamenica-i és újvidéki nagy klinikákra kell menni.

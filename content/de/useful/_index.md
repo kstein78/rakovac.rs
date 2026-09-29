@@ -18,6 +18,8 @@ groups:
     what: Von Novi Sad nach Beočin Selo über die Hauptstraße durch Novi Rakovac (Halt an der Ampel an der Hauptkreuzung). Die mit SR markierten Fahrten führen durch Stari Rakovac und halten auch am Kloster, die übrigen nicht.
     url: http://www.gspns.co.rs/red-voznje/prigradski
     url_label: gsp_timetable
+  - name: Fähre Beočin – Futog
+    what: 'Über die Donau nach Futog und in die Batschka, stündlich: [Fahrplan und Preise](/de/nearby/ferry-beocin-futog/).'
 - id: fuel
   title: Tanken
   intro: 'Zwei Tankstellen: eine direkt in Rakovac, eine an der Einfahrt nach Beočin.'
@@ -45,6 +47,22 @@ groups:
   - name: 194 – Rettungsdienst
   - name: 1987 – Pannenhilfe (AMSS)
     what: Pannen- und Abschleppdienst des Automobil- und Motorradverbands Serbiens.
+- id: utilities
+  title: 'Strom, Gas und Wasser: Störungen und Ausfälle'
+  intro: 'Stromausfälle, Gaslecks oder Rohrbrüche meldet man dem Unternehmen, das das Netz betreibt. Wenn es nach Gas riecht: keine Lichtschalter und kein offenes Feuer benutzen, das Haus verlassen und von draußen anrufen.'
+  items:
+  - name: 'Strom: Elektrodistribucija Srbije, Novi Sad'
+    what: Stromausfälle und Störungen im Stromnetz (früher Elektrovojvodina). Landesweite Gratisnummer [0800 360 300](tel:0800360300); zweite Nummer für Novi Sad [021 421 068](tel:+38121421068).
+    phone: +381 21 421 066
+  - name: 'Gas: Novi Sad Gas'
+    what: 'Nummer für Gasnotfälle und Gaslecks. Kostenlose Kundenhotline: [0800 021 025](tel:0800021025).'
+    phone: +381 66 333 090
+  - name: 'Wasser: JKP „Beočin“, Wasserwerk (Fabrika vode)'
+    what: 'Störungen und Unterbrechungen der Wasserversorgung. Bereitschaft mobil: [064 80 17 920](tel:+381648017920).'
+    phone: +381 21 871 869
+  - name: 'JKP „Beočin“: Verwaltung'
+    what: 'Das kommunale Versorgungsunternehmen: Wasser, Abwasser und kommunale Dienste. Desanke Maksimović 52, Beočin.'
+    phone: +381 21 871 246
 - id: health
   title: Ärzte und Krankenhäuser
   intro: Das nächste Gesundheitszentrum ist in Beočin, etwa 4 km westlich. Für Krankenhausbehandlung gibt es die großen Kliniken in Sremska Kamenica und Novi Sad.

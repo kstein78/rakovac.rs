@@ -18,6 +18,8 @@ groups:
     what: From Novi Sad to Beočin Selo along the main road through Novi Rakovac (stop at the traffic lights on the main crossroads). Runs marked SR go through Stari Rakovac and also stop at the monastery; the others do not.
     url: http://www.gspns.co.rs/red-voznje/prigradski
     url_label: gsp_timetable
+  - name: Ferry Beočin – Futog
+    what: 'Across the Danube to Futog and Bačka, every hour: [timetable and prices](/en/nearby/ferry-beocin-futog/).'
 - id: fuel
   title: Fuel
   intro: 'Two filling stations: one in Rakovac itself, one at the entrance to Beočin.'
@@ -45,6 +47,22 @@ groups:
   - name: 194 – ambulance
   - name: 1987 – roadside assistance (AMSS)
     what: Breakdown and towing service of the Automobile and Motorcycle Association of Serbia.
+- id: utilities
+  title: 'Power, gas and water: faults and outages'
+  intro: 'Report a power cut, a gas leak or a burst water pipe to the company that runs the network. If you smell gas, do not use light switches or open flames: leave the building and call from outside.'
+  items:
+  - name: 'Electricity: Elektrodistribucija Srbije, Novi Sad'
+    what: Power cuts and faults on the electricity network (the former Elektrovojvodina). National free number [0800 360 300](tel:0800360300); second Novi Sad number [021 421 068](tel:+38121421068).
+    phone: +381 21 421 066
+  - name: 'Gas: Novi Sad Gas'
+    what: 'Number for gas emergencies and leaks. Free customer line: [0800 021 025](tel:0800021025).'
+    phone: +381 66 333 090
+  - name: 'Water: JKP „Beočin“, water plant (Fabrika vode)'
+    what: 'Faults and interruptions of the water supply. On-duty mobile: [064 80 17 920](tel:+381648017920).'
+    phone: +381 21 871 869
+  - name: 'JKP „Beočin“: office'
+    what: 'The municipal utility company: water, sewage and communal services. Desanke Maksimović 52, Beočin.'
+    phone: +381 21 871 246
 - id: health
   title: Doctors and hospitals
   intro: The nearest health centre is in Beočin, about 4 km west. For hospital care, the large clinics are in Sremska Kamenica and Novi Sad.

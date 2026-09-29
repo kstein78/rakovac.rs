@@ -949,3 +949,93 @@ monastery-entrance:
   alt_cyr: "Стаза до манастирске капије између леја лаванде, клупа и белих камених жардињера"
   alt_de: "Der Weg zum Klostertor zwischen Lavendelbeeten, Bänken und weißen Steinvasen"
   alt_hu: "A kolostor kapujához vezető út levendulaágyások, padok és fehér kővázák között"
+
+# Kosta's photos of the Beočin–Futog ferry and the Danube at Beočin, sent 2026-09-29.
+ferry-crossing:
+  src: img/ferry-crossing.jpg
+  author: Konstantin Stein
+  license: © all rights reserved
+  alt: "The Beočin–Futog ferry on its way across the Danube with cars, Fruška Gora behind"
+  temp: false
+  alt_ru: "Паром Беочин – Футог с машинами посреди Дуная, за ним Фрушка-Гора"
+  alt_sr: "Skela Beočin – Futog sa automobilima nasred Dunava, iza nje Fruška gora"
+  alt_cyr: "Скела Беочин – Футог са аутомобилима насред Дунава, иза ње Фрушка гора"
+  alt_de: "Die Fähre Beočin–Futog mit Autos mitten auf der Donau, dahinter die Fruška Gora"
+  alt_hu: "A Beočin–Futog komp autókkal a Duna közepén, mögötte a Tarcal-hegység"
+ferry-landing:
+  src: img/ferry-landing.jpg
+  author: Konstantin Stein
+  license: © all rights reserved
+  alt: "The ferry landing at Beočin at low water; across the river, Futog"
+  temp: false
+  alt_ru: "Причал парома в Беочине при низкой воде; на другом берегу Футог"
+  alt_sr: "Pristanište skele u Beočinu pri niskom vodostaju; preko reke Futog"
+  alt_cyr: "Пристаниште скеле у Беочину при ниском водостају; преко реке Футог"
+  alt_de: "Die Fähranlegestelle in Beočin bei Niedrigwasser; am anderen Ufer Futog"
+  alt_hu: "A beočini kompkikötő alacsony vízállásnál; a túlparton Futak"
+ferry-deck-child:
+  src: img/ferry-deck-child.jpg
+  author: Konstantin Stein
+  license: © all rights reserved
+  alt: "A small passenger on the ferry deck"
+  temp: false
+  alt_ru: "Маленькая пассажирка на палубе парома"
+  alt_sr: "Mala putnica na palubi skele"
+  alt_cyr: "Мала путница на палуби скеле"
+  alt_de: "Eine kleine Passagierin an Deck der Fähre"
+  alt_hu: "Kis utas a komp fedélzetén"
+danube-sunset-landing:
+  src: img/danube-sunset-landing.jpg
+  author: Konstantin Stein
+  license: © all rights reserved
+  alt: "A red sunset over the Danube at the Beočin ferry landing"
+  temp: false
+  alt_ru: "Красный закат над Дунаем у причала парома в Беочине"
+  alt_sr: "Crveni zalazak sunca nad Dunavom kod pristaništa skele u Beočinu"
+  alt_cyr: "Црвени залазак сунца над Дунавом код пристаништа скеле у Беочину"
+  alt_de: "Roter Sonnenuntergang über der Donau an der Fähranlegestelle Beočin"
+  alt_hu: "Vörös naplemente a Duna fölött a beočini kompkikötőnél"
+danube-sunset-houseboat:
+  src: img/danube-sunset-houseboat.jpg
+  author: Konstantin Stein
+  license: © all rights reserved
+  alt: "Autumn sunset on the Danube at Beočin: a houseboat, a moored boat and the ferry in the distance"
+  temp: false
+  alt_ru: "Осенний закат на Дунае у Беочина: плавучий дом, лодка у берега и паром вдали"
+  alt_sr: "Jesenji zalazak na Dunavu kod Beočina: splav, čamac uz obalu i skela u daljini"
+  alt_cyr: "Јесењи залазак на Дунаву код Беочина: сплав, чамац уз обалу и скела у даљини"
+  alt_de: "Herbstlicher Sonnenuntergang an der Donau bei Beočin: ein Hausboot, ein Boot am Ufer und in der Ferne die Fähre"
+  alt_hu: "Őszi naplemente a Dunán Beočinnál: lakóhajó, a parthoz kötött csónak és távolabb a komp"
+danube-sunset-island:
+  src: img/danube-sunset-island.jpg
+  author: Konstantin Stein
+  license: © all rights reserved
+  alt: "An island on the Danube near Beočin against the evening sky"
+  temp: false
+  alt_ru: "Остров на Дунае у Беочина на фоне вечернего неба"
+  alt_sr: "Ada na Dunavu kod Beočina naspram večernjeg neba"
+  alt_cyr: "Ада на Дунаву код Беочина наспрам вечерњег неба"
+  alt_de: "Eine Donauinsel bei Beočin vor dem Abendhimmel"
+  alt_hu: "Dunai sziget Beočin közelében az esti ég előtt"
+danube-sunset-glow:
+  src: img/danube-sunset-glow.jpg
+  author: Konstantin Stein
+  license: © all rights reserved
+  alt: "The Danube glowing orange after sunset"
+  temp: false
+  alt_ru: "Дунай в оранжевом свете после заката"
+  alt_sr: "Dunav u narandžastom sjaju posle zalaska sunca"
+  alt_cyr: "Дунав у наранџастом сјају после заласка сунца"
+  alt_de: "Die Donau im orangen Licht nach Sonnenuntergang"
+  alt_hu: "A Duna narancssárga fényben naplemente után"
+danube-sunset-calm:
+  src: img/danube-sunset-calm.jpg
+  author: Konstantin Stein
+  license: © all rights reserved
+  alt: "A calm evening on the Danube near Beočin"
+  temp: false
+  alt_ru: "Тихий вечер на Дунае у Беочина"
+  alt_sr: "Tiho veče na Dunavu kod Beočina"
+  alt_cyr: "Тихо вече на Дунаву код Беочина"
+  alt_de: "Ein ruhiger Abend an der Donau bei Beočin"
+  alt_hu: "Csendes este a Dunán Beočin közelében"
