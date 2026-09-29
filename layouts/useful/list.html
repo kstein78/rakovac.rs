@@ -28,7 +28,7 @@
     {{ end }}
   </ul>
 </section>
-{{ if eq .id "transport" }}{{ partial "bus-timetable.html" $ }}{{ partial "weather.html" $ }}{{ end }}
+{{ if eq .id "transport" }}{{ partial "bus-timetable.html" $ }}{{ partial "weather.html" $ }}{{ partial "danube.html" $ }}{{ end }}
 {{ end }}
 <section class="wrap">{{ partial "allpoints-map.html" (dict "class" "map-home") }}</section>
 {{ end }}

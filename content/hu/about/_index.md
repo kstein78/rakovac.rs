@@ -25,7 +25,7 @@ Interjúkat készítünk a lakosokkal: emlékeket a faluról, a kolostorról, a 
 
 Az oldalon nincs hirdetés. Az Ön engedélyével (sáv az első látogatáskor) a látogatásokat **Google Analytics 4** és **Yandex Metrica** segítségével számoljuk: mely oldalakat olvassák, melyik országból és milyen eszközről, és hogyan találták meg az oldalt. Mindkét szolgáltatás sütiket helyez el, és megkapja ezeket a használati adatokat; mi csak összesített számokat látunk, semmit nem adunk el és semmit nem használunk hirdetésre. Amíg nem nyomja meg az „Engedélyezem” gombot, a Yandex Metrica egyáltalán nem töltődik be, a Google Analytics pedig nem helyez el sütit (csak azonosító nélküli, névtelen jelzéseket kap). A döntését bármikor megváltoztathatja minden oldal alján a „Süti-beállítások” hivatkozással.
 
-A videók csak a lejátszás megnyomása után töltődnek be a YouTube-ról, az időjárás-előrejelzés pedig csak a gombja megnyomása után a Windy.com-ról. A fejlécben látható aktuális időjárás az Open-Meteóról érkezik a saját szerverünkön keresztül; a böngészője nem kapcsolódik az Open-Meteóhoz. A térképek az OpenStreetMap szervereiről töltik be a térképcsempéket.
+A videók csak a lejátszás megnyomása után töltődnek be a YouTube-ról, az időjárás-előrejelzés pedig csak a gombja megnyomása után a Windy.com-ról. A fejlécben látható aktuális időjárás az Open-Meteóról érkezik a saját szerverünkön keresztül; a böngészője nem kapcsolódik az Open-Meteóhoz. A Duna vízállását a Hasznos információk oldalon ugyanígy, az RHMZ honlapjáról olvassuk be. A térképek az OpenStreetMap szervereiről töltik be a térképcsempéket.
 
 ## Licenc
 

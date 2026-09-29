@@ -63,6 +63,63 @@ document.addEventListener('DOMContentLoaded', function () {
       wx.hidden = false;
     }).catch(function () {});
   }
+  // Danube level at Novi Sad (Useful info): /danube.html is the official RHMZ report page, passed through our own
+  // server. We read the numbers by their labels; if anything is missing the block stays hidden (links remain).
+  var dn = document.querySelector('[data-danube]');
+  if (dn && window.fetch && window.DOMParser) {
+    fetch('/danube.html').then(function (r) { return r.ok ? r.text() : ''; }).then(function (html) {
+      if (!html) return;
+      var doc = new DOMParser().parseFromString(html, 'text/html'), L;
+      try { L = JSON.parse(dn.getAttribute('data-l')); } catch (e) { return; }
+      var txt = function (c) { return (c.textContent || '').replace(/\s+/g, ' ').trim(); };
+      var key = function (c) { return (c.textContent || '').replace(/\s+/g, ''); };
+      var num = function (v) { v = String(v).replace(',', '.').replace('\u2212', '-'); return /^-?\d+(\.\d+)?$/.test(v) ? parseFloat(v) : null; };
+      // the value row is the next row below the header row with the same number of cells and some content
+      var valuesBelow = function (label) {
+        var cell = [].slice.call(doc.querySelectorAll('td,th')).filter(function (c) { return key(c).indexOf(label) === 0; })[0];
+        if (!cell) return null;
+        var row = cell.parentElement, n = row.cells.length, idx = [].indexOf.call(row.cells, cell);
+        for (var r = row.nextElementSibling; r; r = r.nextElementSibling) if (r.cells.length === n && txt(r)) return { row: r, idx: idx };
+        return null;
+      };
+      var lv = valuesBelow('Vodostaj(cm)');
+      if (!lv) return;
+      var level = num(txt(lv.row.cells[lv.idx])), change = num(txt(lv.row.cells[lv.idx + 1] || {})),
+          flow = num(txt(lv.row.cells[lv.idx + 2] || {})), temp = num(txt(lv.row.cells[lv.idx + 3] || {}));
+      var dcell = [].slice.call(doc.querySelectorAll('td')).filter(function (c) { return /^Datum:.*\d{2}\.\d{2}\.\d{4}/.test(txt(c)); })[0];
+      var dm = dcell && txt(dcell).match(/(\d{2})\.(\d{2})\.(\d{4})/);
+      if (level === null || !dm) return;
+      var day = new Date(+dm[3], +dm[2] - 1, +dm[1]);
+      if (Date.now() - day.getTime() > 4 * 86400000) return;
+      var lang = document.documentElement.lang || 'en', loc = lang === 'cyr' ? 'sr-Cyrl' : lang;
+      var nf = new Intl.NumberFormat(loc, { maximumFractionDigits: 1 }), nf1 = new Intl.NumberFormat(loc, { minimumFractionDigits: 1, maximumFractionDigits: 1 });
+      var sgn = function (v, plus) { return (v < 0 ? '\u2212' : (plus && v > 0 ? '+' : '')) + nf.format(Math.abs(v)); };
+      var dfmt = function (d, wd) { try { return d.toLocaleDateString(loc, wd ? { weekday: 'short', day: 'numeric', month: 'short' } : { day: 'numeric', month: /^sr/.test(loc) ? 'numeric' : 'long' }); } catch (e) { return d.toDateString(); } };
+      var arrow = change === null ? '' : change > 0 ? ' \u2197' : change < 0 ? ' \u2198' : ' \u2192';
+      dn.querySelector('.danube-level').textContent = sgn(level) + ' ' + L.cm + arrow;
+      var meta = [L.at + ' ' + dfmt(day)];
+      if (change !== null) meta.push(L.change + ' ' + sgn(change, true) + ' ' + L.cm);
+      if (flow !== null) meta.push(L.flow + ' ' + nf.format(flow) + ' m\u00b3/s');
+      if (temp !== null) meta.push(L.temp + ' ' + nf1.format(temp) + ' \u00b0C');
+      dn.querySelector('.danube-meta').textContent = meta.join(' \u00b7 ');
+      // forecast: rows "Datum:" (dd.mm.) and "Vodostaj (cm):" of the Prognoza table
+      var fr = [].slice.call(doc.querySelectorAll('tr')), dates = null, vals = null;
+      fr.forEach(function (r) { var c = r.cells; if (!c.length) return; var h = key(c[0]);
+        if (h === 'Datum:' && !dates) dates = [].slice.call(c, 1).map(txt);
+        if (h === 'Vodostaj(cm):' && !vals) vals = [].slice.call(c, 1).map(txt); });
+      if (dates && vals) {
+        var out = [];
+        for (var i = 0; i < Math.min(dates.length, vals.length); i++) {
+          var m = dates[i].match(/^(\d{2})\.(\d{2})\.$/), v = num(vals[i]);
+          if (!m || v === null) continue;
+          var fd = new Date(+dm[3] + (+m[2] < day.getMonth() + 1 ? 1 : 0), +m[2] - 1, +m[1]);
+          out.push(dfmt(fd, true) + ' ' + sgn(v));
+        }
+        if (out.length) dn.querySelector('.danube-fc').textContent = L.forecast + ': ' + out.join(' \u00b7 ') + ' ' + L.cm;
+      }
+      dn.hidden = false;
+    }).catch(function () {});
+  }
   // Grouped main menu: one drop-down open at a time; closes on outside click and Escape (desktop only;
   // on phones the groups are always expanded inside the menu).
   var groups = [].slice.call(document.querySelectorAll('.nav-group'));
