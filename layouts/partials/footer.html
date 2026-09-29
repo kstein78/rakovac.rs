@@ -32,6 +32,6 @@
   </div>
   <div class="wrap footer-base small muted">
     <span>© {{ now.Year }} {{ i18n "made_by" }} · {{ i18n "license_line" | safeHTML }}</span>
-    <span>© OpenStreetMap contributors · <a href="{{ with site.GetPage "about" }}{{ .RelPermalink }}{{ end }}#photo-credits">{{ i18n "photo_credits" }}</a></span>
+    <span>© OpenStreetMap contributors · <a href="{{ with site.GetPage "about" }}{{ .RelPermalink }}{{ end }}#photo-credits">{{ i18n "photo_credits" }}</a>{{ if site.Params.gaID }} · <a href="#" data-consent-open hidden>{{ i18n "consent_settings" }}</a>{{ end }}</span>
   </div>
 </footer>

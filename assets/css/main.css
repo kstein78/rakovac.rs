@@ -544,3 +544,11 @@ html.gal-open { overflow: hidden; }
   .quest-draw { display: block; height: 4.5cm; border: 1px dashed #999; border-radius: 6px; margin-top: .6rem; }
 }
 a[href^="tel:"] { white-space: nowrap; }
+
+/* Consent banner for statistics (layouts/partials/analytics.html) */
+.consent { position: fixed; z-index: 900; left: 1rem; right: 1rem; bottom: 1rem; max-width: 30rem; margin-left: auto; background: var(--surface); color: var(--ink); border: 1px solid var(--line); border-radius: var(--radius); box-shadow: 0 12px 32px rgb(0 0 0 / .2); padding: 1rem 1.1rem; font-size: .92rem; }
+.consent[hidden] { display: none; }
+.consent p { margin: 0 0 .6rem; }
+.consent-title { font-weight: 600; }
+.consent-btns { display: flex; gap: .5rem; flex-wrap: wrap; margin: 0 !important; }
+.gal-open .consent { display: none; }

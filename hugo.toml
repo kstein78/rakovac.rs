@@ -83,6 +83,12 @@ disableLanguages = []
   contactPhone = "+381638015320"          # used in tel:, WhatsApp, Viber, Telegram links
   contactPhoneDisplay = "+381 63 801 5320"
   authorSite = "https://stein-1.com"
+  # Statistics and search-engine verification (empty = off). GA4 loads only after the visitor allows it
+  # (consent banner, Consent Mode v2); nothing is loaded on the GitHub Pages preview (noindex).
+  gaID = ""                     # Google Analytics 4 measurement ID, e.g. "G-XXXXXXXXXX"
+  googleSiteVerification = ""   # Search Console HTML-tag code (not needed with DNS verification)
+  bingSiteVerification = ""     # Bing Webmaster msvalidate.01 (not needed when imported from Search Console)
+  yandexVerification = ""       # Yandex Webmaster
 
 [taxonomies]
   # none used for now; categories live in front matter "category"
