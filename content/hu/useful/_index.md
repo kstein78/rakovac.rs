@@ -19,7 +19,7 @@ groups:
     url: http://www.gspns.co.rs/red-voznje/prigradski
     url_label: gsp_timetable
   - name: Beočin–Futak komp
-    what: 'Át a Dunán Futakra és Bácskába, óránként: [menetrend és árak](/hu/nearby/ferry-beocin-futog/).'
+    what: 'Át a Dunán Futakra és Bácskába, óránként, de indulás előtt telefonáljon: nem mindig jár. [Menetrend, árak és telefon](/hu/nearby/ferry-beocin-futog/).'
 - id: fuel
   title: Üzemanyag
   intro: 'Két benzinkút: az egyik magában Rakovacon, a másik Beočin bejáratánál.'

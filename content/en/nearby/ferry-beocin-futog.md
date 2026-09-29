@@ -4,7 +4,7 @@ linkTitle: "Ferry Beočin – Futog"
 kicker: "Skela Beočin – Futog · across the Danube"
 weight: 4
 category: nearby
-summary: "The car ferry across the Danube between Beočin and Futog: from Beočin every hour on the hour, from Futog at half past, 10–15 minutes across, every day except 1 January and Orthodox Christmas."
+summary: "The car ferry across the Danube between Beočin and Futog: from Beočin every hour on the hour, from Futog at half past, 10–15 minutes across, every day except 1 January and Orthodox Christmas. Call before you go: it does not always run."
 lead: "This small car ferry is the main crossing between Srem and Bačka near Rakovac. It saves about 25 km of driving through Novi Sad and gives you ten quiet minutes on the river."
 photo: ferry-crossing
 gallery: [ferry-landing, ferry-deck-child, danube-sunset-landing, danube-sunset-houseboat, danube-sunset-island, danube-sunset-glow, danube-sunset-calm]
@@ -13,6 +13,8 @@ facts:
   distance: "About 6 km west of Rakovac (straight line)"
   time: "10 to 15 minutes across"
 ---
+
+{{< note type="warning" title="Call before you go" >}}The ferry does not always run: a neighbour found it **not running on Saturday, 26 September 2026**. Before a trip that depends on it, call [064 28 13 481](tel:+381642813481) to check that it is running today. If it is not, the smaller ferry Banoštor – Begeč (see below) or the road through Novi Sad remain.{{< /note >}}
 
 The **skela** (ferry) links Beočin on the Srem bank of the Danube with Futog on the Bačka bank. A tug pushes a flat pontoon that takes cars, vans, bicycles and people on foot. A family business from Banoštor has run it since 2003.
 

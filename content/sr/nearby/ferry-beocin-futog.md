@@ -4,7 +4,7 @@ linkTitle: "Skela Beočin – Futog"
 kicker: "Skela Beočin – Futog · preko Dunava"
 weight: 4
 category: nearby
-summary: "Skela preko Dunava između Beočina i Futoga: iz Beočina svakog punog sata, iz Futoga u pola, prelaz traje 10–15 minuta, radi svaki dan osim 1. januara i Božića."
+summary: "Skela preko Dunava između Beočina i Futoga: iz Beočina svakog punog sata, iz Futoga u pola, prelaz traje 10–15 minuta, radi svaki dan osim 1. januara i Božića. Pozovite pre polaska: ne radi uvek."
 lead: "Ova mala skela je glavna veza Srema i Bačke kod Rakovca. Štedi oko 25 km vožnje kroz Novi Sad i poklanja vam deset mirnih minuta na reci."
 photo: ferry-crossing
 gallery: [ferry-landing, ferry-deck-child, danube-sunset-landing, danube-sunset-houseboat, danube-sunset-island, danube-sunset-glow, danube-sunset-calm]
@@ -13,6 +13,8 @@ facts:
   distance: "Oko 6 km zapadno od Rakovca (vazdušnom linijom)"
   time: "Prelaz 10 do 15 minuta"
 ---
+
+{{< note type="warning" title="Pozovite pre polaska" >}}Skela ne radi uvek: komšija ju je zatekao **van pogona u subotu, 26. septembra 2026**. Pre puta koji zavisi od nje pozovite [064 28 13 481](tel:+381642813481) i proverite da li danas radi. Ako ne radi, ostaju manja skela Banoštor – Begeč (vidi dole) ili put preko Novog Sada.{{< /note >}}
 
 **Skela** povezuje Beočin na sremskoj obali Dunava sa Futogom na bačkoj obali. Remorker gura ravni ponton koji prevozi automobile, kombije, bicikliste i pešake. Od 2003. godine skelu drži porodica iz Banoštora.
 

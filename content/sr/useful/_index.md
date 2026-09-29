@@ -19,7 +19,7 @@ groups:
     url: http://www.gspns.co.rs/red-voznje/prigradski
     url_label: gsp_timetable
   - name: Skela Beočin – Futog
-    what: 'Preko Dunava do Futoga i Bačke, svakog sata: [red vožnje i cene](/sr/nearby/ferry-beocin-futog/).'
+    what: 'Preko Dunava do Futoga i Bačke, svakog sata, ali pozovite pre polaska: ne radi uvek. [Red vožnje, cene i telefon](/sr/nearby/ferry-beocin-futog/).'
 - id: fuel
   title: Gorivo
   intro: 'Dve benzinske pumpe: jedna u samom Rakovcu, druga na ulazu u Beočin.'

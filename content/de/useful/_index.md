@@ -19,7 +19,7 @@ groups:
     url: http://www.gspns.co.rs/red-voznje/prigradski
     url_label: gsp_timetable
   - name: Fähre Beočin – Futog
-    what: 'Über die Donau nach Futog und in die Batschka, stündlich: [Fahrplan und Preise](/de/nearby/ferry-beocin-futog/).'
+    what: 'Über die Donau nach Futog und in die Batschka, stündlich, aber vorher anrufen: Sie fährt nicht immer. [Fahrplan, Preise und Telefon](/de/nearby/ferry-beocin-futog/).'
 - id: fuel
   title: Tanken
   intro: 'Zwei Tankstellen: eine direkt in Rakovac, eine an der Einfahrt nach Beočin.'

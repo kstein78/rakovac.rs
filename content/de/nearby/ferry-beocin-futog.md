@@ -4,7 +4,7 @@ linkTitle: "Fähre Beočin – Futog"
 kicker: "Skela Beočin – Futog · über die Donau"
 weight: 4
 category: nearby
-summary: "Die Autofähre über die Donau zwischen Beočin und Futog: ab Beočin jede volle Stunde, ab Futog zur halben Stunde, 10–15 Minuten Überfahrt, täglich außer am 1. Januar und am orthodoxen Weihnachtsfest."
+summary: "Die Autofähre über die Donau zwischen Beočin und Futog: ab Beočin jede volle Stunde, ab Futog zur halben Stunde, 10–15 Minuten Überfahrt, täglich außer am 1. Januar und am orthodoxen Weihnachtsfest. Vorher anrufen: Sie fährt nicht immer."
 lead: "Diese kleine Autofähre ist die wichtigste Verbindung zwischen Syrmien und der Batschka bei Rakovac. Sie erspart etwa 25 km Fahrt durch Novi Sad und schenkt zehn ruhige Minuten auf dem Fluss."
 photo: ferry-crossing
 gallery: [ferry-landing, ferry-deck-child, danube-sunset-landing, danube-sunset-houseboat, danube-sunset-island, danube-sunset-glow, danube-sunset-calm]
@@ -13,6 +13,8 @@ facts:
   distance: "Etwa 6 km westlich von Rakovac (Luftlinie)"
   time: "10 bis 15 Minuten Überfahrt"
 ---
+
+{{< note type="warning" title="Vorher anrufen" >}}Die Fähre fährt nicht immer: Ein Nachbar fand sie **am Samstag, 26. September 2026, außer Betrieb** vor. Vor einer Fahrt, die von ihr abhängt, rufen Sie [064 28 13 481](tel:+381642813481) an und fragen, ob sie heute fährt. Wenn nicht, bleiben die kleinere Fähre Banoštor – Begeč (siehe unten) oder die Straße über Novi Sad.{{< /note >}}
 
 Die **Skela** (Fähre) verbindet Beočin am syrmischen Donauufer mit Futog am Ufer der Batschka. Ein Schlepper schiebt einen flachen Ponton, der Autos, Kleinbusse, Radfahrer und Fußgänger mitnimmt. Seit 2003 betreibt ein Familienunternehmen aus Banoštor die Fähre.
 

@@ -20,7 +20,7 @@ groups:
     url: http://www.gspns.co.rs/red-voznje/prigradski
     url_label: gsp_timetable
   - name: Скела Беочин – Футог
-    what: 'Преко Дунава до Футога и Бачке, сваког сата: [ред вожње и цене](/cyr/nearby/ferry-beocin-futog/).'
+    what: 'Преко Дунава до Футога и Бачке, сваког сата, али позовите пре поласка: не ради увек. [Ред вожње, цене и телефон](/cyr/nearby/ferry-beocin-futog/).'
 - id: fuel
   title: Гориво
   intro: 'Две бензинске пумпе: једна у самом Раковцу, друга на улазу у Беочин.'

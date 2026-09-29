@@ -19,7 +19,7 @@ groups:
     url: http://www.gspns.co.rs/red-voznje/prigradski
     url_label: gsp_timetable
   - name: Ferry Beočin – Futog
-    what: 'Across the Danube to Futog and Bačka, every hour: [timetable and prices](/en/nearby/ferry-beocin-futog/).'
+    what: 'Across the Danube to Futog and Bačka, every hour, but call before you go: it does not always run. [Timetable, prices and phone](/en/nearby/ferry-beocin-futog/).'
 - id: fuel
   title: Fuel
   intro: 'Two filling stations: one in Rakovac itself, one at the entrance to Beočin.'

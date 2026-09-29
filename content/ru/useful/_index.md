@@ -19,7 +19,7 @@ groups:
     url: http://www.gspns.co.rs/red-voznje/prigradski
     url_label: gsp_timetable
   - name: Паром Беочин – Футог
-    what: 'Через Дунай в Футог и Бачку, каждый час: [расписание и цены](/ru/nearby/ferry-beocin-futog/).'
+    what: 'Через Дунай в Футог и Бачку, каждый час, но перед поездкой позвоните: ходит не всегда. [Расписание, цены и телефон](/ru/nearby/ferry-beocin-futog/).'
 - id: fuel
   title: Заправки
   intro: 'Две заправки: одна в самом Раковце, другая на въезде в Беочин.'

@@ -147,3 +147,4 @@ Kamenolom memorial, on site (Kosta's photos, 2026-09): introductory plaque text 
 | Red sunset photo at the ferry landing = partial solar eclipse at sunset, 12 Aug 2026 (Novi Sad: starts 19:52, sets eclipsed) | B | Kosta; 021.rs 12 Aug 2026 |
 | Summer 2026 low Danube: Beočin–Futog ferry stopped for a while; Banoštor–Begeč ferry kept running, small capacity | C | Kosta, 2026-09-29 |
 | Ferry "Jole" Banoštor–Begeč: from 7:00 (Banoštor) to 17:00 (last from Begeč) | B | ozon.rs 1 Feb 2023 |
+| Ferry Beočin–Futog not running on Saturday 26 Sep 2026 (seen by a neighbour); site now says to call before going | C | neighbour via Kosta, 2026-09-29 |

@@ -4,7 +4,7 @@ linkTitle: "Beočin–Futak komp"
 kicker: "Skela Beočin – Futog · át a Dunán"
 weight: 4
 category: nearby
-summary: "Autós komp a Dunán Beočin és Futak között: Beočinból minden egész órakor, Futakról fél órakor indul, az átkelés 10–15 perc, minden nap, kivéve január 1-jét és az ortodox karácsonyt."
+summary: "Autós komp a Dunán Beočin és Futak között: Beočinból minden egész órakor, Futakról fél órakor indul, az átkelés 10–15 perc, minden nap, kivéve január 1-jét és az ortodox karácsonyt. Indulás előtt telefonáljon: nem mindig jár."
 lead: "Ez a kis autós komp a Szerémség és Bácska fő összeköttetése Rakovac közelében. Mintegy 25 km kerülőt spórol meg Újvidéken át, és tíz nyugodt percet ajándékoz a folyón."
 photo: ferry-crossing
 gallery: [ferry-landing, ferry-deck-child, danube-sunset-landing, danube-sunset-houseboat, danube-sunset-island, danube-sunset-glow, danube-sunset-calm]
@@ -13,6 +13,8 @@ facts:
   distance: "Kb. 6 km-re nyugatra Rakovactól (légvonalban)"
   time: "Az átkelés 10–15 perc"
 ---
+
+{{< note type="warning" title="Indulás előtt telefonáljon" >}}A komp nem mindig jár: egy szomszéd **2026. szeptember 26-án, szombaton nem működő kompot** talált. Ha az útja a komptól függ, hívja a [064 28 13 481](tel:+381642813481) számot, és kérdezze meg, jár-e aznap. Ha nem, marad a kisebb Banoštor – Begeč komp (lásd lent) vagy az Újvidéken át vezető út.{{< /note >}}
 
 A **skela** (komp) a Duna szerémségi partján fekvő Beočint köti össze a bácskai parton fekvő Futakkal (Futog). Egy vontatóhajó tol egy lapos pontont, amely autókat, kisbuszokat, kerékpárosokat és gyalogosokat szállít. 2003 óta egy banoštori családi vállalkozás üzemelteti.
 
