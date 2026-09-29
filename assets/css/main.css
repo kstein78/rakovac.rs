@@ -389,7 +389,6 @@ p { margin: 0 0 1em; }
 .photo.portrait .photo-frame img { height: 100%; }
 @media (max-width: 900px) { .author-body .aside { order: -1; max-width: 360px; } }
 
-.slogan { font-family: var(--font-display); font-size: var(--step-2); font-weight: 500; font-style: normal; color: var(--accent); margin: -.2em 0 .6em; line-height: 1.2; }
 /* Tall (portrait) photos inside text */
 .prose .photo.inline-tall { max-width: 420px; }
 .photo-pair { display: grid; grid-template-columns: repeat(auto-fit, minmax(220px, 1fr)); gap: 1rem; margin-block: 1.5rem; }

@@ -4,7 +4,6 @@
     <div class="home-hero-text">
       <p class="kicker">{{ site.Params.tagline }}</p>
       {{ $b := i18n "brand_name" }}<h1 class="display"><span class="rk-cap">{{ substr $b 0 1 }}</span>{{ substr $b 1 }}</h1>
-      {{ with .Params.slogan }}<p class="slogan">{{ . }}</p>{{ end }}
       {{ with .Params.lead }}<p class="lead">{{ . | markdownify }}</p>{{ end }}
       {{ with .Params.keyfacts }}
       <ul class="keyfacts">
