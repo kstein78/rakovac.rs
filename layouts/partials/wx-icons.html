@@ -1,0 +1,20 @@
+{{/* Weather pictograms for the header (used via <use href="#wx-…">). Line drawings in the style of the
+  Rakovac Capital motifs: the sun is the one under the letter S (circle r 9, twelve rays from 13 to 20),
+  the fog waves follow the Danube waves under D. viewBox -22 -22 44 44, stroke = currentColor. */}}
+<svg width="0" height="0" style="position:absolute" aria-hidden="true" focusable="false">
+  <defs>
+    <g id="wx-rays"><path d="M13 0H20M11.3 6.5L17.3 10M6.5 11.3L10 17.3M0 13V20M-6.5 11.3L-10 17.3M-11.3 6.5L-17.3 10M-13 0H-20M-11.3-6.5L-17.3-10M-6.5-11.3L-10-17.3M0-13V-20M6.5-11.3L10-17.3M11.3-6.5L17.3-10"/></g>
+    <path id="wx-cloud-p" d="M-12 13H12A8 8 0 0 0 12-3 11 11 0 0 0-9.5-5.5 9.2 9.2 0 0 0-12 13Z"/>
+    <path id="wx-moon-p" d="M4-15A15 15 0 1 0 15 7 12 12 0 0 1 4-15Z"/>
+  </defs>
+  <symbol id="wx-sun" viewBox="-22 -22 44 44"><g fill="none" stroke="currentColor" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round"><circle r="9"/><use href="#wx-rays"/></g></symbol>
+  <symbol id="wx-moon" viewBox="-22 -22 44 44"><g fill="none" stroke="currentColor" stroke-width="2.6" stroke-linejoin="round"><use href="#wx-moon-p"/></g></symbol>
+  <symbol id="wx-sun-cloud" viewBox="-22 -22 44 44"><g fill="none" stroke="currentColor" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round"><g transform="translate(-7 -8) scale(.62)" stroke-width="4.2"><circle r="9"/><use href="#wx-rays"/></g><g transform="translate(3 4) scale(.8)" stroke-width="3.2"><use href="#wx-cloud-p" fill="var(--forest, #1f3b30)"/></g></g></symbol>
+  <symbol id="wx-moon-cloud" viewBox="-22 -22 44 44"><g fill="none" stroke="currentColor" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round"><g transform="translate(-6 -8) scale(.6)" stroke-width="4.3"><use href="#wx-moon-p"/></g><g transform="translate(3 4) scale(.8)" stroke-width="3.2"><use href="#wx-cloud-p" fill="var(--forest, #1f3b30)"/></g></g></symbol>
+  <symbol id="wx-cloud" viewBox="-22 -22 44 44"><g fill="none" stroke="currentColor" stroke-width="2.6" stroke-linejoin="round"><g transform="translate(0 1)"><use href="#wx-cloud-p"/></g></g></symbol>
+  <symbol id="wx-fog" viewBox="-22 -22 44 44"><g fill="none" stroke="currentColor" stroke-width="2.6" stroke-linecap="round"><path d="M-18-9C-13-13-8-5-3-9S7-13 12-9 17-7 18-9M-18 0C-13-4-8 4-3 0S7-4 12 0 17 2 18 0M-18 9C-13 5-8 13-3 9S7 5 12 9 17 11 18 9"/></g></symbol>
+  <symbol id="wx-drizzle" viewBox="-22 -22 44 44"><g fill="none" stroke="currentColor" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round"><g transform="translate(0 -7) scale(.9)"><use href="#wx-cloud-p"/></g><path d="M-8 12V13M0 15V16M8 12V13M-4 19V20M4 19V20"/></g></symbol>
+  <symbol id="wx-rain" viewBox="-22 -22 44 44"><g fill="none" stroke="currentColor" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round"><g transform="translate(0 -7) scale(.9)"><use href="#wx-cloud-p"/></g><path d="M-7 11L-10 19M1 11L-2 19M9 11L6 19"/></g></symbol>
+  <symbol id="wx-snow" viewBox="-22 -22 44 44"><g fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><g transform="translate(0 -7) scale(.9)" stroke-width="2.9"><use href="#wx-cloud-p"/></g><path d="M-9 11V19M-12.5 13L-5.5 17M-12.5 17L-5.5 13M8 11V19M4.5 13L11.5 17M4.5 17L11.5 13"/></g></symbol>
+  <symbol id="wx-thunder" viewBox="-22 -22 44 44"><g fill="none" stroke="currentColor" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round"><g transform="translate(0 -7) scale(.9)"><use href="#wx-cloud-p"/></g><path d="M1 9L-4 16H3L-2 22"/></g></symbol>
+</svg>

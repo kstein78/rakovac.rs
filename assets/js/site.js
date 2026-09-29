@@ -29,6 +29,40 @@ document.addEventListener('DOMContentLoaded', function () {
       fig.replaceChildren(f);
     });
   });
+  // Current weather in the header: /weather.json is served by our own server (Caddy asks Open-Meteo, the visitor's
+  // browser never contacts it). WMO weather codes -> label + pictogram. Hidden if the data is missing or stale.
+  var wx = document.querySelector('[data-wx]');
+  if (wx && window.fetch) {
+    fetch('/weather.json').then(function (r) { return r.ok ? r.json() : null; }).then(function (d) {
+      var c = d && d.current, L;
+      if (!c || typeof c.temperature_2m !== 'number' || typeof c.weather_code !== 'number') return;
+      var at = Date.parse(c.time + 'Z') - (d.utc_offset_seconds || 0) * 1000;
+      if (!(Date.now() - at < 3 * 3600 * 1000)) return;
+      try { L = JSON.parse(wx.getAttribute('data-l')); } catch (e) { return; }
+      var w = c.weather_code, day = c.is_day !== 0, k, ico;
+      if (w === 0) { k = 'clear'; ico = day ? 'sun' : 'moon'; }
+      else if (w === 1) { k = 'mostly_clear'; ico = day ? 'sun' : 'moon'; }
+      else if (w === 2) { k = 'partly'; ico = day ? 'sun-cloud' : 'moon-cloud'; }
+      else if (w === 3) { k = 'overcast'; ico = 'cloud'; }
+      else if (w === 45 || w === 48) { k = 'fog'; ico = 'fog'; }
+      else if (w >= 51 && w <= 55) { k = 'drizzle'; ico = 'drizzle'; }
+      else if (w === 56 || w === 57 || w === 66 || w === 67) { k = 'freezing'; ico = 'rain'; }
+      else if (w >= 61 && w <= 65) { k = 'rain'; ico = 'rain'; }
+      else if (w >= 71 && w <= 77) { k = 'snow'; ico = 'snow'; }
+      else if (w >= 80 && w <= 82) { k = 'showers'; ico = 'rain'; }
+      else if (w === 85 || w === 86) { k = 'snow_showers'; ico = 'snow'; }
+      else if (w >= 95) { k = 'thunder'; ico = 'thunder'; }
+      else return;
+      var t = Math.round(c.temperature_2m), hm = c.time.slice(11, 16);
+      wx.querySelector('.wx-ico use').setAttribute('href', '#wx-' + ico);
+      wx.querySelector('.wx-t').textContent = (t < 0 ? '\u2212' + (-t) : t) + ' °C';
+      wx.querySelector('.wx-c').textContent = L[k];
+      if (typeof c.wind_speed_10m === 'number') wx.querySelector('.wx-w').textContent = L.wind + ' ' + Math.round(c.wind_speed_10m) + ' ' + L.kmh;
+      wx.title = L.now + ': ' + L[k] + ', ' + (t < 0 ? '\u2212' + (-t) : t) + ' °C (' + L.src + ', ' + hm + ')';
+      wx.setAttribute('aria-label', wx.title);
+      wx.hidden = false;
+    }).catch(function () {});
+  }
   // Grouped main menu: one drop-down open at a time; closes on outside click and Escape (desktop only;
   // on phones the groups are always expanded inside the menu).
   var groups = [].slice.call(document.querySelectorAll('.nav-group'));

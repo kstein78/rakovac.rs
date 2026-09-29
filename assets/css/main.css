@@ -108,6 +108,16 @@ p { margin: 0 0 1em; }
    and Cyrillic pages show the same R shield. */
 .brand-shield { height: 1.45em; width: auto; flex: none; }
 .brand-meta { font-size: .78rem; color: var(--forest-muted); letter-spacing: .06em; font-variant-numeric: tabular-nums; }
+.header-row { flex-wrap: wrap; row-gap: 0; }
+.header-sub { flex: 1 0 100%; display: flex; align-items: center; justify-content: space-between; gap: .75rem; margin-top: -.15rem; min-height: 1.4rem; }
+.wx { display: inline-flex; align-items: center; gap: .35em; color: var(--forest-ink); text-decoration: none; font-size: .82rem; font-variant-numeric: tabular-nums; white-space: nowrap; border-bottom: 1px solid transparent; }
+.wx[hidden] { display: none; }
+.wx:hover, .wx:focus-visible { border-bottom-color: var(--temp); }
+.wx-ico { flex: none; width: 1.35em; height: 1.35em; }
+.wx-t { font-weight: 600; }
+.wx-c, .wx-w { color: var(--forest-muted); }
+.wx-c::before, .wx-w::before { content: "· "; }
+@media (max-width: 860px) { .wx-w { display: none; } }
 .header-tools { display: flex; align-items: center; gap: .75rem; }
 .langs { display: flex; gap: .15rem; }
 .langs a { color: var(--forest-muted); text-decoration: none; font-size: .8rem; font-weight: 600; padding: .2rem .4rem; border-radius: 4px; }
@@ -134,6 +144,10 @@ p { margin: 0 0 1em; }
   .brand { min-width: 0; }
   .brand-name { font-size: 1.6rem; }
   .brand-meta { font-size: .72rem; }
+  .header-sub { order: 1; margin-top: -.2rem; }
+  .header-tools { order: 2; }
+  .wx { font-size: .76rem; }
+  .wx-c { display: none; }
   .header-tools { gap: .4rem; margin-left: auto; }
   .langs { gap: 0; }
   .langs a { font-size: .74rem; padding: .2rem .28rem; }

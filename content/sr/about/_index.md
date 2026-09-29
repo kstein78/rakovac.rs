@@ -25,7 +25,7 @@ Snimamo razgovore sa meštanima: sećanja na selo, manastir, kamenolom i ratne g
 
 Sajt ne prikazuje reklame. Uz vašu dozvolu (traka pri prvoj poseti) brojimo posete pomoću **Google Analytics 4** i **Yandex Metrica**: koje se stranice čitaju, iz koje zemlje i sa kakvog uređaja, i kako su posetioci pronašli sajt. Oba servisa postavljaju kolačiće i primaju te podatke o korišćenju; mi vidimo samo zbirne brojeve, ništa ne prodajemo i ništa ne koristimo za reklame. Dok ne pritisnete „Dozvoli”, Yandex Metrica se uopšte ne učitava, a Google Analytics ne postavlja kolačiće (prima samo anonimne signale bez identifikatora). Izbor možete promeniti u svakom trenutku preko veze „Podešavanja kolačića” na dnu svake stranice.
 
-Video-snimci se učitavaju sa YouTube-a tek kada pritisnete dugme za reprodukciju, a vremenska prognoza sa Windy.com tek kada pritisnete njeno dugme. Mape učitavaju pločice sa servera OpenStreetMap.
+Video-snimci se učitavaju sa YouTube-a tek kada pritisnete dugme za reprodukciju, a vremenska prognoza sa Windy.com tek kada pritisnete njeno dugme. Trenutno vreme u zaglavlju dolazi sa Open-Meteo preko našeg servera; vaš pregledač ne kontaktira Open-Meteo. Mape učitavaju pločice sa servera OpenStreetMap.
 
 ## Licenca
 

@@ -25,6 +25,30 @@
 		header Vary Accept-Language
 		redir * /{lang}/ 302
 	}
+	# Current weather for the header (site.js): our server asks Open-Meteo (free, CC BY 4.0) for the point
+	# above the village, so visitors' browsers never contact a third party. The visitor's IP address, cookies
+	# and referrer are not passed on. Browsers keep the answer for 10 minutes (Open-Meteo updates every 15).
+	handle /weather.json {
+		rewrite * /v1/forecast?latitude=45.1958&longitude=19.7672&current=temperature_2m,apparent_temperature,is_day,precipitation,weather_code,wind_speed_10m,wind_gusts_10m&timezone=Europe%2FBelgrade&wind_speed_unit=kmh
+		reverse_proxy https://api.open-meteo.com {
+			header_up Host {upstream_hostport}
+			header_up -X-Forwarded-For
+			header_up -X-Forwarded-Host
+			header_up -X-Forwarded-Proto
+			header_up -X-Real-IP
+			header_up -Cookie
+			header_up -Referer
+			header_up -Origin
+			header_up User-Agent "rakovac.rs weather"
+			header_down -Set-Cookie
+			header_down -Access-Control-Allow-Origin
+			header_down Cache-Control "public, max-age=600"
+			transport http {
+				dial_timeout 3s
+				response_header_timeout 5s
+			}
+		}
+	}
 	handle {
 		file_server
 	}

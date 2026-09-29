@@ -13,7 +13,7 @@ photo: map-spezialkarte-1915
 
 Најдетаљнија од старих аустроугарских карата. Лист „Ilok und Ruma“ (зона 25, колона XXI) Специјалне карте Аустроугарске монархије обухвата западну половину Фрушке горе; Раковац је у његовом североисточном углу, где се карта и отвара.
 
-{{< oldmap src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Ilok_BV042104680.jpg/3840px-Ilok_BV042104680.jpg" poster="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Ilok_BV042104680.jpg/960px-Ilok_BV042104680.jpg" x="3230" y="800" size="5,2 МБ" link="https://commons.wikimedia.org/wiki/File:Ilok_BV042104680.jpg" alt="Специјална карта 1:75.000, лист Ilok und Ruma, 1915." >}}Лист „Ilok und Ruma“ Специјалне карте Аустроугарске монархије 1:75.000, издање из 1915. Јавно добро; скен Лајбницовог института за истраживање Источне и Југоисточне Европе (ИОС), Регенсбург, преко портала ГеоПортОст.{{< /oldmap >}}
+{{< oldmap src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Ilok_BV042104680.jpg/3840px-Ilok_BV042104680.jpg" poster="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Ilok_BV042104680.jpg/960px-Ilok_BV042104680.jpg" x="3230" y="800" size="5,2 МБ" link="https://commons.wikimedia.org/wiki/File:Ilok_BV042104680.jpg" alt="Специјална карта 1:75.000, лист Ilok und Ruma, 1915." >}}Лист „Ilok und Ruma“ Специјалне карте Аустроугарске монархије 1:75.000, издање из 1915. Јавно добро; скен Лајбницовог института за истраживање Источне и Југоисточне Европе (ИОС), Регенсбург, преко портала GeoPortOst.{{< /oldmap >}}
 
 Шта се на овом листу може наћи око Раковца:
 

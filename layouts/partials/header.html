@@ -4,13 +4,25 @@
   <div class="wrap header-row">
     <a class="brand" href="{{ site.Home.RelPermalink }}">
       <span class="brand-name"><img class="brand-shield" src="{{ "img/brand-shield-mono.svg" | relURL }}" alt="" width="43" height="56">{{ i18n "brand_name" }}</span>
-      <span class="brand-meta">{{ i18n "brand_meta" }} · 45.19° N 19.77° E</span>
     </a>
     <div class="header-tools">
       {{ partial "lang-switch.html" $cur }}
       <button class="menu-toggle" type="button" aria-expanded="false" aria-controls="site-nav">{{ i18n "menu" }}</button>
     </div>
+    {{/* Second line: coordinates on the left, current weather on the right (filled by site.js from /weather.json,
+      which Caddy fetches from Open-Meteo; stays hidden if that fails, e.g. on the GitHub Pages preview). */}}
+    <div class="header-sub">
+      <span class="brand-meta">{{ i18n "brand_meta" }} · 45.19° N 19.77° E</span>
+      {{ with site.GetPage "useful" }}
+      <a class="wx" href="{{ .RelPermalink }}#weather" data-wx hidden
+         data-l='{{ dict "now" (i18n "wx_now") "wind" (i18n "wx_wind") "kmh" (i18n "wx_kmh") "src" (i18n "wx_source") "clear" (i18n "wx_clear") "mostly_clear" (i18n "wx_mostly_clear") "partly" (i18n "wx_partly") "overcast" (i18n "wx_overcast") "fog" (i18n "wx_fog") "drizzle" (i18n "wx_drizzle") "rain" (i18n "wx_rain") "freezing" (i18n "wx_freezing") "snow" (i18n "wx_snow") "showers" (i18n "wx_showers") "snow_showers" (i18n "wx_snow_showers") "thunder" (i18n "wx_thunder") | jsonify }}'>
+        <svg class="wx-ico" width="18" height="18" aria-hidden="true"><use href="#wx-sun"/></svg>
+        <span class="wx-t"></span><span class="wx-c"></span><span class="wx-w"></span>
+      </a>
+      {{ end }}
+    </div>
   </div>
+  {{ partial "wx-icons.html" . }}
   <nav id="site-nav" class="site-nav" aria-label="{{ i18n "aria_main" }}">
     <ul class="wrap nav-groups">
       {{ range site.Data.nav.menu }}
