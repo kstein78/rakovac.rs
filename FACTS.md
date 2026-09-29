@@ -142,3 +142,6 @@ Kamenolom memorial, on site (Kosta's photos, 2026-09): introductory plaque text 
 | Ferry prices: 70 pedestrian (2020/2022), 100 bicycle, 150 motorcycle (2018), 300 car, up to 1,000 larger | B | same sources; to confirm on site |
 | Ferry phone 064 28 13 481 | C | mojnovisad.com 2017 only; to confirm (Kosta) |
 | Ferry landing Beočin: Put ka skeli 1, 45.2275493, 19.7135925; Futog side 45.2349728, 19.7118786 | B | Google Places |
+| Ferry car price 500 dinars (2026); pedestrians possibly free, to confirm | C | Kosta, 2026-09-29 |
+| Beočin landlines renumbered 871-xxx → 2971-xxx (JKP Beočin 021 2971 246, Fabrika vode 021 2971 869) | C | Kosta's phone contacts, 2026-09-29. Applied the same pattern to Dom zdravlja 870055 → 2970 055 and Opština 870260 → 2970 260 (supported by beocin.rs 30 Apr 2024 listing Hitna pomoć as 021 2970124); to confirm |
+| Red sunset photo at the ferry landing = partial solar eclipse at sunset, 12 Aug 2026 (Novi Sad: starts 19:52, sets eclipsed) | B | Kosta; 021.rs 12 Aug 2026 |

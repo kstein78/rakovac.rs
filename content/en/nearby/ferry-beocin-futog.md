@@ -29,7 +29,7 @@ The **skela** (ferry) links Beočin on the Srem bank of the Danube with Futog on
 
 ## How much does it cost?
 
-As reported in the press: **70 dinars** on foot, **100 dinars** with a bicycle, **150 dinars** with a motorcycle, **300 dinars** for a car, and up to **1,000 dinars** for larger vehicles (2018–2022 figures).
+A car costs **500 dinars** (2026). For people on foot, bicycles and larger vehicles, ask on board: the older prices published in the press (2018–2022) are out of date.
 
 ## Where does it leave from?
 

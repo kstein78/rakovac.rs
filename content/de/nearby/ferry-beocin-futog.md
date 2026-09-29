@@ -29,7 +29,7 @@ Die **Skela** (Fähre) verbindet Beočin am syrmischen Donauufer mit Futog am Uf
 
 ## Was kostet die Überfahrt?
 
-Laut Presse: **70 Dinar** zu Fuß, **100 Dinar** mit Fahrrad, **150 Dinar** mit Motorrad, **300 Dinar** für ein Auto und bis zu **1.000 Dinar** für größere Fahrzeuge (Angaben 2018–2022).
+Ein Auto kostet **500 Dinar** (2026). Für Fußgänger, Fahrräder und größere Fahrzeuge fragen Sie an Bord: Die älteren Preise aus der Presse (2018–2022) gelten nicht mehr.
 
 ## Wo legt sie ab?
 

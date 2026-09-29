@@ -59,10 +59,10 @@ groups:
     phone: +381 66 333 090
   - name: 'Víz: JKP „Beočin”, vízmű (Fabrika vode)'
     what: 'Vízellátási hibák és kimaradások. Ügyeletes mobil: [064 80 17 920](tel:+381648017920).'
-    phone: +381 21 871 869
+    phone: +381 21 2971 869
   - name: 'JKP „Beočin”: iroda'
     what: 'A község kommunális vállalata: víz, csatorna és kommunális szolgáltatások. Desanke Maksimović 52, Beočin.'
-    phone: +381 21 871 246
+    phone: +381 21 2971 246
 - id: health
   title: Orvosok és kórházak
   intro: A legközelebbi egészségház Beočinban van, kb. 4 km-re nyugatra. Kórházi ellátásért a Sremska Kamenica-i és újvidéki nagy klinikákra kell menni.
@@ -76,7 +76,7 @@ groups:
   - name: Dom zdravlja „Dr Dušan Savić Doda”, Beočin
     what: A község egészségháza, Rakovacot is beleértve. Kb. 4 km-re nyugatra.
     address: Svetosavska bb, 21300 Beočin
-    phone: +381 21 870055
+    phone: +381 21 2970 055
     coords:
     - 45.2074291
     - 19.7254747
@@ -158,7 +158,7 @@ groups:
   - name: Beočin község (Opštinska uprava)
     what: Rakovac Beočin községhez tartozik.
     address: Svetosavska 25, 21300 Beočin
-    phone: +381 21 870260
+    phone: +381 21 2970 260
     url: https://www.beocin.rs/
     coords:
     - 45.2062078

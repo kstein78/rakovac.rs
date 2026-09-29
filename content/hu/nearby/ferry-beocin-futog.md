@@ -29,7 +29,7 @@ A **skela** (komp) a Duna szerémségi partján fekvő Beočint köti össze a b
 
 ## Mennyibe kerül?
 
-A sajtó szerint: gyalog **70 dinár**, kerékpárral **100 dinár**, motorral **150 dinár**, autóval **300 dinár**, nagyobb járművekkel legfeljebb **1000 dinár** (2018–2022-es adatok).
+Egy személyautó **500 dinár** (2026). Gyalogosok, kerékpárok és nagyobb járművek esetén érdeklődjön a kompon: a sajtóban közölt régebbi árak (2018–2022) már nem érvényesek.
 
 ## Honnan indul?
 

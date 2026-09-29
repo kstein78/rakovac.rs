@@ -29,7 +29,7 @@ facts:
 
 ## Koliko košta?
 
-Prema pisanju štampe: **70 dinara** pešak, **100 dinara** sa biciklom, **150 dinara** sa motorom, **300 dinara** automobil i do **1.000 dinara** za veća vozila (podaci iz 2018–2022).
+Automobil košta **500 dinara** (2026). Za pešake, bicikle i veća vozila pitajte na skeli: starije cene objavljene u štampi (2018–2022) više ne važe.
 
 ## Odakle polazi?
 

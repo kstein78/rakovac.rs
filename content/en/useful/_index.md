@@ -59,10 +59,10 @@ groups:
     phone: +381 66 333 090
   - name: 'Water: JKP „Beočin“, water plant (Fabrika vode)'
     what: 'Faults and interruptions of the water supply. On-duty mobile: [064 80 17 920](tel:+381648017920).'
-    phone: +381 21 871 869
+    phone: +381 21 2971 869
   - name: 'JKP „Beočin“: office'
     what: 'The municipal utility company: water, sewage and communal services. Desanke Maksimović 52, Beočin.'
-    phone: +381 21 871 246
+    phone: +381 21 2971 246
 - id: health
   title: Doctors and hospitals
   intro: The nearest health centre is in Beočin, about 4 km west. For hospital care, the large clinics are in Sremska Kamenica and Novi Sad.
@@ -76,7 +76,7 @@ groups:
   - name: Dom zdravlja "Dr Dušan Savić Doda", Beočin
     what: Health centre for the municipality, including Rakovac. About 4 km west.
     address: Svetosavska bb, 21300 Beočin
-    phone: +381 21 870055
+    phone: +381 21 2970 055
     coords:
     - 45.2074291
     - 19.7254747
@@ -158,7 +158,7 @@ groups:
   - name: Municipality of Beočin (Opštinska uprava)
     what: Rakovac belongs to the municipality of Beočin.
     address: Svetosavska 25, 21300 Beočin
-    phone: +381 21 870260
+    phone: +381 21 2970 260
     url: https://www.beocin.rs/
     coords:
     - 45.2062078

@@ -988,13 +988,13 @@ danube-sunset-landing:
   src: img/danube-sunset-landing.jpg
   author: Konstantin Stein
   license: © all rights reserved
-  alt: "A red sunset over the Danube at the Beočin ferry landing"
+  alt: "The partial solar eclipse of 12 August 2026 setting over the Danube, seen from the Beočin ferry landing"
   temp: false
-  alt_ru: "Красный закат над Дунаем у причала парома в Беочине"
-  alt_sr: "Crveni zalazak sunca nad Dunavom kod pristaništa skele u Beočinu"
-  alt_cyr: "Црвени залазак сунца над Дунавом код пристаништа скеле у Беочину"
-  alt_de: "Roter Sonnenuntergang über der Donau an der Fähranlegestelle Beočin"
-  alt_hu: "Vörös naplemente a Duna fölött a beočini kompkikötőnél"
+  alt_ru: "Частное солнечное затмение 12 августа 2026 года на закате над Дунаем, вид с берега у причала парома в Беочине"
+  alt_sr: "Delimično pomračenje Sunca 12. avgusta 2026. na zalasku nad Dunavom, pogled sa obale kod pristaništa skele u Beočinu"
+  alt_cyr: "Делимично помрачење Сунца 12. августа 2026. на заласку над Дунавом, поглед са обале код пристаништа скеле у Беочину"
+  alt_de: "Die partielle Sonnenfinsternis vom 12. August 2026 beim Untergang über der Donau, gesehen vom Ufer an der Fähranlegestelle Beočin"
+  alt_hu: "A 2026. augusztus 12-i részleges napfogyatkozás naplementekor a Duna fölött, a beočini kompkikötő partjáról nézve"
 danube-sunset-houseboat:
   src: img/danube-sunset-houseboat.jpg
   author: Konstantin Stein
