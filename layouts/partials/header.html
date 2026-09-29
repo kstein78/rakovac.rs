@@ -28,14 +28,14 @@
       {{ range site.Data.nav.menu }}
       {{ $g := . }}
       {{ $active := false }}
-      {{ range .items }}{{ with site.GetPage .path }}{{ if or (eq $cur.Section .Section) (eq $cur.RelPermalink .RelPermalink) }}{{ $active = true }}{{ end }}{{ end }}{{ end }}
+      {{ range .items }}{{ with site.GetPage .path }}{{ if or (and .IsSection (eq $cur.Section .Section)) (eq $cur.RelPermalink .RelPermalink) }}{{ $active = true }}{{ end }}{{ end }}{{ end }}
       <li class="nav-group{{ if $active }} is-active{{ end }}">
         <button type="button" class="nav-group-btn" aria-expanded="false" aria-controls="nav-{{ .id }}">{{ i18n .label }}<svg viewBox="0 0 12 12" width="10" height="10" aria-hidden="true"><path d="M2 4l4 4 4-4" fill="none" stroke="currentColor" stroke-width="1.6"/></svg></button>
         <ul class="nav-panel" id="nav-{{ .id }}">
           {{ range .items }}
           {{ $it := . }}
           {{ with site.GetPage .path }}
-          <li><a href="{{ .RelPermalink }}{{ with $it.anchor }}#{{ . }}{{ end }}" {{ if and (not $it.anchor) (or (eq $cur.Section .Section) (eq $cur.RelPermalink .RelPermalink)) }}aria-current="page"{{ end }}>{{ with $it.label }}{{ i18n . }}{{ else }}{{ .LinkTitle }}{{ end }}</a></li>
+          <li><a href="{{ .RelPermalink }}{{ with $it.anchor }}#{{ . }}{{ end }}" {{ if and (not $it.anchor) (or (and .IsSection (eq $cur.Section .Section)) (eq $cur.RelPermalink .RelPermalink)) }}aria-current="page"{{ end }}>{{ with $it.label }}{{ i18n . }}{{ else }}{{ .LinkTitle }}{{ end }}</a></li>
           {{ end }}
           {{ end }}
         </ul>

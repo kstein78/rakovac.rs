@@ -27,7 +27,7 @@
 <section class="wrap sections">
   <h2 class="listing-title">{{ .Params.sections_title }}</h2>
   <div class="section-tiles">
-    {{ range site.Data.nav.menu }}{{ range .items }}{{ if not .anchor }}
+    {{ range site.Data.nav.menu }}{{ range .items }}{{ if and (not .anchor) (not .notile) }}
       {{ with site.GetPage .path }}{{ if not (in (slice "map" "about" "support" "author" "shops" "gallery") .Section) }}
       <a class="tile" href="{{ .RelPermalink }}">
         <span class="tile-title">{{ .LinkTitle }}</span>

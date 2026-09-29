@@ -1,6 +1,7 @@
 # Main menu: groups shown as drop-down lists in the header (and as columns in the footer).
 # "path" is the section folder under content/<lang>/; the link text is the page's linkTitle.
 # An item may point to an anchor on a page ("anchor") and then needs its own i18n "label".
+# A single page (not a section) can be listed too; "notile: true" keeps it off the home-page section tiles.
 # "direct" = also shown as a plain link next to the groups.
 menu:
   - id: explore
@@ -30,6 +31,7 @@ menu:
     items:
       - { path: useful }
       - { path: useful, anchor: bus, label: bus_title }
+      - { path: nearby/ferry-beocin-futog, notile: true }
       - { path: useful, anchor: weather, label: weather_title }
       - { path: useful, anchor: danube, label: danube_title }
       - { path: business }
