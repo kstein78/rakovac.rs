@@ -45,12 +45,13 @@ jobs:
             fi
           fi
       - name: Publish raw pages on branch bus-raw
+        env:
+          TOKEN: ${{ github.token }}
         run: |
-          mv bus-raw /tmp/bus-raw
-          git stash -q -u || true
-          git checkout -q --orphan bus-raw
-          git rm -rfq . >/dev/null
-          cp -r /tmp/bus-raw/. .
+          cd bus-raw
+          git init -q -b bus-raw
+          git config user.name "rakovac-bot"
+          git config user.email "actions@users.noreply.github.com"
           git add -A
           git commit -qm "Raw JGSP timetable pages $(date -u +%F)"
-          git push -qf origin bus-raw
+          git push -qf "https://x-access-token:${TOKEN}@github.com/${{ github.repository }}.git" bus-raw

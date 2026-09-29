@@ -39,9 +39,13 @@ def parse_departures(page):
     dirs = []
     for i, cell in enumerate(cells):
         deps = []
-        for hh, cls, mm, mark in re.findall(r"<b>(\d{1,2})</b><sup>.*?<span class='([^']*)'>(\d{2})<b>(.*?)</b></span>", cell, re.S):
-            deps.append({'t': f'{int(hh):02d}:{mm}', 'mark': clean(mark), 'low_floor': 'nisko' in cls.lower() or bool(cls.strip())})
+        # one hour can carry several minutes: <b>16</b><sup>...<span>00<b></b></span> <span>50<b>SR</b></span>...</sup>
+        for hh, sup in re.findall(r"<b>(\d{1,2})</b>\s*<sup>(.*?)</sup>", cell, re.S):
+            for cls, mm, mark in re.findall(r"<span class='([^']*)'>\s*(\d{2})\s*<b>(.*?)</b>\s*</span>", sup, re.S):
+                deps.append({'t': f'{int(hh):02d}:{mm}', 'mark': clean(mark), 'low_floor': bool(cls.strip())})
         dirs.append({'name': heads[i] if i < len(heads) else '', 'departures': deps})
+    if len(heads) != len(cells):
+        print('WARNING: headings/cells mismatch', len(heads), len(cells), title)
     comment = ''
     m = re.search(r'<!--komentar-->(.*?)</font>', page, re.S)
     if m:
