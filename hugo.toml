@@ -89,7 +89,7 @@ disableLanguages = []
   googleSiteVerification = ""   # Search Console HTML-tag code (not needed with DNS verification)
   bingSiteVerification = ""     # Bing Webmaster msvalidate.01 (not needed when imported from Search Console)
   yandexVerification = ""       # Yandex Webmaster
-  yandexMetrica = ""            # Yandex Metrica counter number; loaded only after the visitor allows statistics
+  yandexMetrica = "113164709"          # Yandex Metrica counter number; loaded only after the visitor allows statistics
 
 [taxonomies]
   # none used for now; categories live in front matter "category"
