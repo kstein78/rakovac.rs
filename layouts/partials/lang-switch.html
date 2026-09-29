@@ -1,0 +1,29 @@
+{{/* Language links SR EN RU DE HU. Serbian has two scripts: "sr" (Latin) and "cyr" (Cyrillic, generated from
+  the Latin text by scripts/sr_cyrl.py). The main list shows one SR link; on Serbian pages a Ћир / Lat switch
+  appears. The chosen script is remembered in the browser (site.js), so SR from other languages opens it. */}}
+{{ $cur := . }}
+{{ $lang := site.Language.Lang }}
+{{ $isSr := in (slice "sr" "cyr") $lang }}
+{{ if gt (len site.Languages) 1 }}
+<nav class="langs" aria-label="{{ i18n "language" }}">
+  {{ range site.Languages }}
+    {{ $l := .Lang }}
+    {{ if ne $l "cyr" }}
+    {{ $target := "" }}
+    {{ range $cur.AllTranslations }}{{ if eq .Language.Lang $l }}{{ $target = .RelPermalink }}{{ end }}{{ end }}
+    {{ if not $target }}{{ $target = printf "/%s/" $l | relURL }}{{ end }}
+    {{ $cyr := "" }}
+    {{ if eq $l "sr" }}{{ range $cur.AllTranslations }}{{ if eq .Language.Lang "cyr" }}{{ $cyr = .RelPermalink }}{{ end }}{{ end }}{{ end }}
+    <a href="{{ $target }}" lang="{{ cond (eq $l "sr") "sr-Latn" $l }}" {{ with $cyr }}data-cyrl="{{ . }}"{{ end }} {{ if or (eq $l $lang) (and (eq $l "sr") $isSr) }}aria-current="true"{{ end }}>{{ cond (eq $lang "cyr") (cond (eq $l "sr") "СР" (upper $l)) (upper $l) }}</a>
+    {{ end }}
+  {{ end }}
+</nav>
+{{ if $isSr }}
+{{ $lat := "" }}{{ $cyr := "" }}
+{{ range $cur.AllTranslations }}{{ if eq .Language.Lang "sr" }}{{ $lat = .RelPermalink }}{{ end }}{{ if eq .Language.Lang "cyr" }}{{ $cyr = .RelPermalink }}{{ end }}{{ end }}
+<nav class="script-switch" aria-label="Pismo / Писмо">
+  <a href="{{ $cyr | default ("/cyr/" | relURL) }}" lang="sr-Cyrl" data-script="cyrl" {{ if eq $lang "cyr" }}aria-current="true"{{ end }}>Ћир</a>
+  <a href="{{ $lat | default ("/sr/" | relURL) }}" lang="sr-Latn" data-script="latn" {{ if eq $lang "sr" }}aria-current="true"{{ end }}>Lat</a>
+</nav>
+{{ end }}
+{{ end }}

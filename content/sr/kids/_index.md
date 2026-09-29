@@ -9,4 +9,6 @@ photo: beli-majdan-17
 list_title: Počnite ovde
 ---
 
-Roditeljima: sve šetnje na ovim stranicama su kratke ili jasno označene kao duže. Šumske staze su strme i blatnjave posle kiše, pa ponesite dobru obuću, vodu i leti nešto protiv komaraca.
+Da li si znao? Ljudi su u Rakovcu živeli pre oko 7.000 godina, mnogo pre gradova i puteva. Pročitaj [njihovu priču]({{< relref "kids/story" >}}), a onda kreni u potragu za [pet blaga Rakovca]({{< relref "kids/quest" >}}).
+
+{{< note title="Za roditelje" >}}Sve šetnje na ovim stranicama su kratke ili jasno označene kao duže. Šumske staze su strme i blatnjave posle kiše i nisu za kolica, pa ponesite dobru obuću, vodu i leti nešto protiv komaraca. Posle šetnje u proleće i leto proverite da nema krpelja.{{< /note >}}

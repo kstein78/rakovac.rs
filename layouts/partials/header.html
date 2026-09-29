@@ -1,4 +1,5 @@
 {{ $cur := . }}
+{{ $lang := site.Language.Lang }}
 <header class="site-header">
   <div class="wrap header-row">
     <a class="brand" href="{{ site.Home.RelPermalink }}">
@@ -6,27 +7,31 @@
       <span class="brand-meta">{{ i18n "brand_meta" }} · 45.19° N 19.77° E</span>
     </a>
     <div class="header-tools">
-      {{ if gt (len site.Languages) 1 }}
-      <nav class="langs" aria-label="{{ i18n "language" }}">
-        {{ range site.Languages }}
-          {{ $l := .Lang }}
-          {{ $target := "" }}
-          {{ range $cur.AllTranslations }}{{ if eq .Language.Lang $l }}{{ $target = .RelPermalink }}{{ end }}{{ end }}
-          {{ if not $target }}{{ $target = printf "/%s/" $l | relURL }}{{ end }}
-          <a href="{{ $target }}" lang="{{ $l }}" {{ if eq $l site.Language.Lang }}aria-current="true"{{ end }}>{{ upper $l }}</a>
-        {{ end }}
-      </nav>
-      {{ end }}
+      {{ partial "lang-switch.html" $cur }}
       <button class="menu-toggle" type="button" aria-expanded="false" aria-controls="site-nav">{{ i18n "menu" }}</button>
     </div>
   </div>
   <nav id="site-nav" class="site-nav" aria-label="{{ i18n "aria_main" }}">
-    <ul class="wrap">
-      {{ range site.Data.nav.primary }}
-        {{ with site.GetPage .path }}
-        <li><a href="{{ .RelPermalink }}" {{ if or (eq $cur.Section .Section) (eq $cur.RelPermalink .RelPermalink) }}aria-current="page"{{ end }}>{{ .LinkTitle }}</a></li>
-        {{ end }}
+    <ul class="wrap nav-groups">
+      {{ range site.Data.nav.menu }}
+      {{ $g := . }}
+      {{ $active := false }}
+      {{ range .items }}{{ with site.GetPage .path }}{{ if or (eq $cur.Section .Section) (eq $cur.RelPermalink .RelPermalink) }}{{ $active = true }}{{ end }}{{ end }}{{ end }}
+      <li class="nav-group{{ if $active }} is-active{{ end }}">
+        <button type="button" class="nav-group-btn" aria-expanded="false" aria-controls="nav-{{ .id }}">{{ i18n .label }}<svg viewBox="0 0 12 12" width="10" height="10" aria-hidden="true"><path d="M2 4l4 4 4-4" fill="none" stroke="currentColor" stroke-width="1.6"/></svg></button>
+        <ul class="nav-panel" id="nav-{{ .id }}">
+          {{ range .items }}
+          {{ $it := . }}
+          {{ with site.GetPage .path }}
+          <li><a href="{{ .RelPermalink }}{{ with $it.anchor }}#{{ . }}{{ end }}" {{ if and (not $it.anchor) (or (eq $cur.Section .Section) (eq $cur.RelPermalink .RelPermalink)) }}aria-current="page"{{ end }}>{{ with $it.label }}{{ i18n . }}{{ else }}{{ .LinkTitle }}{{ end }}</a></li>
+          {{ end }}
+          {{ end }}
+        </ul>
+      </li>
       {{ end }}
+      {{ range site.Data.nav.direct }}{{ with site.GetPage .path }}
+      <li class="nav-direct"><a href="{{ .RelPermalink }}" {{ if eq $cur.Section .Section }}aria-current="page"{{ end }}>{{ .LinkTitle }}</a></li>
+      {{ end }}{{ end }}
     </ul>
   </nav>
 </header>

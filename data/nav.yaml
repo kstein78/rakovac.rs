@@ -1,26 +1,42 @@
-# Site navigation. "path" is the section folder under content/<lang>/,
-# "label" is the key in i18n/<lang>.yaml.
-primary:
-  - { path: history,    label: nav_history }
-  - { path: nature,     label: nav_nature }
-  - { path: routes,     label: nav_routes }
-  - { path: nearby,     label: nav_nearby }
-  - { path: monastery,  label: nav_monastery }
-  - { path: stay,       label: nav_stay }
-  - { path: eat-drink,  label: nav_eat }
-  - { path: people,     label: nav_people }
-  - { path: kids,       label: nav_kids }
-  - { path: useful,     label: nav_useful }
-  - { path: gallery,    label: nav_gallery }
-  - { path: map,        label: nav_map }
-secondary:
-  - { path: local-products, label: nav_products }
-  - { path: shops,          label: nav_shops }
-  - { path: business,       label: nav_business }
-  - { path: support,        label: nav_support }
-  - { path: fonts,          label: nav_fonts }
-  - { path: about,          label: nav_about }
-  - { path: author,         label: nav_author }
+# Main menu: groups shown as drop-down lists in the header (and as columns in the footer).
+# "path" is the section folder under content/<lang>/; the link text is the page's linkTitle.
+# An item may point to an anchor on a page ("anchor") and then needs its own i18n "label".
+# "direct" = also shown as a plain link next to the groups.
+menu:
+  - id: explore
+    label: nav_g_explore
+    items:
+      - { path: history }
+      - { path: nature }
+      - { path: monastery }
+      - { path: nearby }
+      - { path: people }
+      - { path: gallery }
+  - id: do
+    label: nav_g_do
+    items:
+      - { path: routes }
+      - { path: kids }
+      - { path: map }
+  - id: stay
+    label: nav_g_stay
+    items:
+      - { path: stay }
+      - { path: eat-drink }
+      - { path: local-products }
+      - { path: shops }
+  - id: info
+    label: nav_g_info
+    items:
+      - { path: useful }
+      - { path: useful, anchor: bus, label: bus_title }
+      - { path: business }
+      - { path: support }
+      - { path: fonts }
+      - { path: about }
+      - { path: author }
+direct:
+  - { path: map }
 
 # Map marker colours per category (front matter "category").
 categories:

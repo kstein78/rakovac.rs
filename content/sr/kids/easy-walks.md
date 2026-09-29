@@ -11,6 +11,8 @@ kids: true
 
 **10 minuta od manastira, lako.** Najbolja prva šetnja. Kratka, strma zemljana staza vodi od manastira do ogromne dvorane u steni koju drže kameni stubovi. Potražite na zidovima tragove alata kamenorezaca i popnite se stepenicama iznad dvorane da vidite šumu odozgo. Ali ne ulazite unutra: u galeriju se sme samo uz čuvara Nacionalnog parka, jer kamenje može da padne.
 
+{{< note type="warning" title="Ovde se držite za ruke" >}}Na strmoj stazi i na stepenicama iznad dvorane držite malu decu za ruku i ne prilazite ivici platoa. Kad je mokra, stena je klizava.{{< /note >}}
+
 Legenda kaže da u dubini živi pećinski čovek **Veliki Sremac Baća**. Niko ga još nije fotografisao. Možda ćete vi biti prvi?
 
 [Beli majdan: kako stići]({{< relref "nature/beli-majdan" >}})

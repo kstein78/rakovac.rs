@@ -204,3 +204,22 @@ One-time server setup: [deploy/SERVER-SETUP.md](deploy/SERVER-SETUP.md).
 period, working day / Saturday / Sunday) every Monday into `data/bus.yaml` and commits it when a departure changes.
 The raw pages are on the branch `bus-raw`. "SR" = the 78 goes through Stari Rakovac (and stops at the monastery).
 Shown on Useful info (`layouts/partials/bus-timetable.html`).
+
+## Serbian Cyrillic (/cyr/)
+
+The Cyrillic pages are **generated** from the Serbian Latin ones by `scripts/sr_cyrl.py` (content/sr -> content/cyr,
+i18n/sr.yaml -> i18n/cyr.yaml, photo captions alt_sr -> alt_cyr, tagline/description in hugo.toml). Never edit
+content/cyr by hand: edit the Latin page and run `python3 scripts/sr_cyrl.py` (the translate workflow, the CI build
+and the server build also run it). Foreign names, Roman numerals, URLs and domains stay in Latin; exceptions live in
+KEEP_WORDS / KEEP_PHRASES / OVERRIDES at the top of the script. The language key is `cyr` (not `sr-cyrl`: Hugo's
+i18n would then mix it up with `sr`), languageCode `sr-Cyrl`. Header: one SR link plus a Ћир / Lat switch on Serbian
+pages; the choice is remembered in the browser. Caddy sends `sr`/`sr-RS` browsers to /cyr/, `sr-Latn` and hr/bs to /sr/.
+
+## Menu
+
+`data/nav.yaml` → `menu`: four groups (drop-downs in the header, columns in the footer) and `direct` links (Map).
+
+## Editor notes and TEMP badges
+
+`showTodos` / `showPhotoBadges` are off on rakovac.rs and on in the GitHub Pages preview
+(https://kstein78.github.io/rakovac.rs/), where the open questions stay visible for the editor.

@@ -9,10 +9,9 @@
     {{ with .Params.kicker }}<p class="kicker">{{ . }}</p>{{ end }}
     <h1>{{ .Title }}</h1>
     {{ with .Params.lead }}<p class="lead">{{ . | markdownify }}</p>{{ end }}
-    {{ if or .Params.kids (eq .Params.status "unconfirmed") .Params.supporter }}
+    {{ if or .Params.kids .Params.supporter }}
     <p class="chips">
       {{ if .Params.kids }}<span class="chip chip-kids">{{ i18n "kids_friendly" }}</span>{{ end }}
-      {{ if eq .Params.status "unconfirmed" }}<span class="chip chip-muted">{{ i18n "unconfirmed" }}</span>{{ end }}
       {{ if .Params.supporter }}<span class="chip chip-partner">{{ i18n "partner" }}</span>{{ end }}
     </p>
     {{ end }}

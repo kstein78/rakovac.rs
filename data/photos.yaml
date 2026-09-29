@@ -19,6 +19,7 @@ monastery-2026-1:
   temp: true
   alt_ru: "Монастырь Раковац, июнь 2026"
   alt_sr: "Manastir Rakovac, jun 2026."
+  alt_cyr: "Манастир Раковац, јун 2026."
   alt_de: Kloster Rakovac, Juni 2026
   alt_hu: A rakovaci kolostor, 2026. június
 monastery-2026-2:
@@ -30,6 +31,7 @@ monastery-2026-2:
   temp: true
   alt_ru: "Храм и двор монастыря Раковац"
   alt_sr: "Crkva i porta manastira Rakovac"
+  alt_cyr: "Црква и порта манастира Раковац"
   alt_de: Kirche und Hof des Klosters Rakovac
   alt_hu: A rakovaci kolostor temploma és udvara
 monastery-belltower:
@@ -41,6 +43,7 @@ monastery-belltower:
   temp: true
   alt_ru: "Барочная колокольня монастыря Раковац"
   alt_sr: "Barokni zvonik manastira Rakovac"
+  alt_cyr: "Барокни звоник манастира Раковац"
   alt_de: Barocker Glockenturm des Klosters Rakovac
   alt_hu: A rakovaci kolostor barokk harangtornya
 monastery-konak:
@@ -52,6 +55,7 @@ monastery-konak:
   temp: true
   alt_ru: "Жилой корпус (конак) монастыря Раковац"
   alt_sr: "Konak manastira Rakovac"
+  alt_cyr: "Конак манастира Раковац"
   alt_de: Wohntrakt (Konak) des Klosters Rakovac
   alt_hu: A rakovaci kolostor lakószárnya (konak)
 monastery-iconostasis:
@@ -63,6 +67,7 @@ monastery-iconostasis:
   temp: true
   alt_ru: "Иконостас монастырского храма"
   alt_sr: "Ikonostas manastirske crkve"
+  alt_cyr: "Иконостас манастирске цркве"
   alt_de: Ikonostase der Klosterkirche
   alt_hu: A kolostortemplom ikonosztáza
 monastery-1885:
@@ -74,6 +79,7 @@ monastery-1885:
   temp: false
   alt_ru: "Монастырь Раковац в 1885 году"
   alt_sr: "Manastir Rakovac 1885. godine"
+  alt_cyr: "Манастир Раковац 1885. године"
   alt_de: Kloster Rakovac im Jahr 1885
   alt_hu: A rakovaci kolostor 1885-ben
 monastery-engraving:
@@ -85,6 +91,7 @@ monastery-engraving:
   temp: false
   alt_ru: "Гравюра XIX века «Griechisches Kloster Rakovatz» из серии дунайских видов"
   alt_sr: "Gravira iz 19. veka „Griechisches Kloster Rakovatz“ iz serije podunavskih prizora"
+  alt_cyr: "Гравира из 19. века „Griechisches Kloster Rakovatz“ из серије подунавских призора"
   alt_de: Stich aus dem 19. Jahrhundert „Griechisches Kloster Rakovatz“ aus einer Serie von Donauansichten
   alt_hu: 19. századi metszet („Griechisches Kloster Rakovatz“) egy dunai látképsorozatból
 beli-majdan-06:
@@ -96,6 +103,7 @@ beli-majdan-06:
   temp: true
   alt_ru: "Каменные столбы в зале каменоломни Бели-Майдан"
   alt_sr: "Kameni stubovi u dvorani kamenoloma Beli majdan"
+  alt_cyr: "Камени стубови у дворани каменолома Бели мајдан"
   alt_de: Steinpfeiler in der Halle des Steinbruchs Beli Majdan
   alt_hu: Kőpillérek a Beli Majdan kőfejtő csarnokában
 beli-majdan-17:
@@ -107,6 +115,7 @@ beli-majdan-17:
   temp: true
   alt_ru: "Бели-Майдан, старая каменоломня над монастырём"
   alt_sr: "Beli majdan, stari kamenolom iznad manastira"
+  alt_cyr: "Бели мајдан, стари каменолом изнад манастира"
   alt_de: Beli Majdan, der alte Steinbruch oberhalb des Klosters
   alt_hu: Beli Majdan, a régi kőfejtő a kolostor fölött
 beli-majdan-24:
@@ -118,6 +127,7 @@ beli-majdan-24:
   temp: true
   alt_ru: "Лес вокруг Бели-Майдана"
   alt_sr: "Šuma oko Belog majdana"
+  alt_cyr: "Шума око Белог мајдана"
   alt_de: Wald rund um Beli Majdan
   alt_hu: Erdő Beli Majdan körül
 dumbovac-waterfall:
@@ -129,6 +139,7 @@ dumbovac-waterfall:
   temp: true
   alt_ru: "Думбовачский водопад на ручье Думбовац"
   alt_sr: "Dumbovački vodopad na Dumbovačkom potoku"
+  alt_cyr: "Думбовачки водопад на Думбовачком потоку"
   alt_de: Dumbovac-Wasserfall am Dumbovac-Bach
   alt_hu: A Dumbovac-vízesés a Dumbovac-patakon
 street-manastirska:
@@ -140,6 +151,7 @@ street-manastirska:
   temp: true
   alt_ru: "Улица Манастирска в Раковце"
   alt_sr: "Manastirska ulica u Rakovcu"
+  alt_cyr: "Манастирска улица у Раковцу"
   alt_de: Die Manastirska-Straße in Rakovac
   alt_hu: A Manastirska utca Rakovacon
 village-2026:
@@ -151,6 +163,7 @@ village-2026:
   temp: true
   alt_ru: "Село Раковац, июнь 2026"
   alt_sr: "Selo Rakovac, jun 2026."
+  alt_cyr: "Село Раковац, јун 2026."
   alt_de: Das Dorf Rakovac, Juni 2026
   alt_hu: Rakovac falu, 2026. június
 gradina-2018:
@@ -162,6 +175,7 @@ gradina-2018:
   temp: true
   alt_ru: "Раскопанные стены на археологическом памятнике Градина"
   alt_sr: "Iskopani zidovi na arheološkom nalazištu Gradina"
+  alt_cyr: "Ископани зидови на археолошком налазишту Градина"
   alt_de: Freigelegte Mauern an der Fundstätte Gradina
   alt_hu: Feltárt falak a Gradina régészeti lelőhelyen
 village-entrance:
@@ -173,6 +187,7 @@ village-entrance:
   temp: true
   alt_ru: "Дорожный знак на въезде в Раковац"
   alt_sr: "Saobraćajni znak na ulazu u Rakovac"
+  alt_cyr: "Саобраћајни знак на улазу у Раковац"
   alt_de: Ortsschild am Eingang von Rakovac
   alt_hu: Helységnévtábla Rakovac bejáratánál
 strucica:
@@ -183,6 +198,7 @@ strucica:
   alt: "The Stručica memorial: three curved concrete pillars among the trees"
   alt_ru: "Мемориал «Стручица»: три изогнутых бетонных столба среди деревьев"
   alt_sr: "Spomenik Stručica: tri izvijena betonska stuba među drvećem"
+  alt_cyr: "Споменик Стручица: три извијена бетонска стуба међу дрвећем"
   alt_de: "Die Gedenkstätte Stručica: drei geschwungene Betonpfeiler zwischen den Bäumen"
   alt_hu: "A Stručica-emlékmű: három ívelt betonpillér a fák között"
 strucica-board:
@@ -193,6 +209,7 @@ strucica-board:
   alt: "Information board at the memorial about the battle of August 1942"
   alt_ru: "Информационный щит у мемориала о бое в августе 1942 года"
   alt_sr: "Informativna tabla kod spomenika o borbi u avgustu 1942."
+  alt_cyr: "Информативна табла код споменика о борби у августу 1942."
   alt_de: "Infotafel an der Gedenkstätte über den Kampf im August 1942"
   alt_hu: "Tájékoztató tábla az emlékműnél az 1942. augusztusi harcról"
 strucica-pillar:
@@ -203,6 +220,7 @@ strucica-pillar:
   alt: "The middle pillar with wreaths and the commander's plaque"
   alt_ru: "Центральный столб с венками и табличкой командира"
   alt_sr: "Srednji stub sa vencima i pločom komandanta"
+  alt_cyr: "Средњи стуб са венцима и плочом команданта"
   alt_de: "Der mittlere Pfeiler mit Kränzen und der Tafel des Kommandanten"
   alt_hu: "A középső pillér koszorúkkal és a parancsnok emléktáblájával"
 strucica-plaque-hunjadi:
@@ -213,6 +231,7 @@ strucica-plaque-hunjadi:
   alt: "Plaque: \"Zencel Hunjadi, courier Franja, 1942\""
   alt_ru: "Табличка: «Зенцел Хуньяди, курьер Франя, 1942»"
   alt_sr: "Ploča: „Zencel Hunjadi, kurir Franja, 1942“"
+  alt_cyr: "Плоча: „Зенцел Хуњади, курир Фрања, 1942“"
   alt_de: "Tafel: „Zencel Hunjadi, Kurier Franja, 1942“"
   alt_hu: "Tábla: „Zencel Hunjadi, Franja futár, 1942”"
 strucica-plaque-markovic:
@@ -223,6 +242,7 @@ strucica-plaque-markovic:
   alt: "Plaque: \"Commander Đorđe Marković Đilas, 1942\""
   alt_ru: "Табличка: «Командир Джордже Маркович Джилас, 1942»"
   alt_sr: "Ploča: „Komandant Đorđe Marković Đilas, 1942“"
+  alt_cyr: "Плоча: „Командант Ђорђе Марковић Ђилас, 1942“"
   alt_de: "Tafel: „Kommandant Đorđe Marković Đilas, 1942“"
   alt_hu: "Tábla: „Đorđe Marković Đilas parancsnok, 1942”"
 strucica-plaque-paunovic:
@@ -233,6 +253,7 @@ strucica-plaque-paunovic:
   alt: "Plaque: \"People's Hero Stanko Paunović Veljko, 1907–1942\""
   alt_ru: "Табличка: «Народный герой Станко Паунович Велько, 1907–1942»"
   alt_sr: "Ploča: „Narodni heroj Stanko Paunović Veljko, 1907–1942“"
+  alt_cyr: "Плоча: „Народни херој Станко Пауновић Вељко, 1907–1942“"
   alt_de: "Tafel: „Volksheld Stanko Paunović Veljko, 1907–1942“"
   alt_hu: "Tábla: „Stanko Paunović Veljko népi hős, 1907–1942”"
 kamenolom-memorial:
@@ -244,6 +265,7 @@ kamenolom-memorial:
   alt: "The Kamenolom memorial: the mosaic with Tito's portrait above the gallery entrance, and the wall of plaques with the names of the fallen"
   alt_ru: "Мемориал «Каменолом»: мозаика с портретом Тито над входом в штольню и стена с плитами, на которых имена погибших"
   alt_sr: "Spomen-obeležje Kamenolom: mozaik sa Titovim portretom iznad ulaza u galeriju i zid sa pločama sa imenima poginulih"
+  alt_cyr: "Спомен-обележје Каменолом: мозаик са Титовим портретом изнад улаза у галерију и зид са плочама са именима погинулих"
   alt_de: "Die Gedenkstätte Kamenolom: das Mosaik mit Titos Porträt über dem Stolleneingang und die Wand mit den Namenstafeln der Gefallenen"
   alt_hu: "A Kamenolom-emlékmű: a mozaik Tito arcképével a tárna bejárata fölött és a fal az elesettek nevét viselő táblákkal"
 kamenolom-plaques:
@@ -254,6 +276,7 @@ kamenolom-plaques:
   alt: "The Kamenolom memorial: plaques with the names of the fallen, with wreaths"
   alt_ru: "Мемориал «Каменолом»: плиты с именами погибших и венки"
   alt_sr: "Spomen-obeležje Kamenolom: ploče sa imenima poginulih i venci"
+  alt_cyr: "Спомен-обележје Каменолом: плоче са именима погинулих и венци"
   alt_de: "Die Gedenkstätte Kamenolom: Tafeln mit den Namen der Gefallenen und Kränze"
   alt_hu: "A Kamenolom-emlékmű: táblák az elesettek nevével és koszorúk"
 kamenolom-tito-mosaic:
@@ -264,6 +287,7 @@ kamenolom-tito-mosaic:
   alt: "Mosaic with Tito's portrait and the words \"Druže Tito, mi ti se kunemo\" above the gallery entrance"
   alt_ru: "Мозаика с портретом Тито и словами «Друже Тито, ми ти се кунемо» над входом в штольню"
   alt_sr: "Mozaik sa Titovim portretom i rečima „Druže Tito, mi ti se kunemo“ iznad ulaza u galeriju"
+  alt_cyr: "Мозаик са Титовим портретом и речима „Друже Тито, ми ти се кунемо“ изнад улаза у галерију"
   alt_de: "Mosaik mit Titos Porträt und den Worten „Druže Tito, mi ti se kunemo“ über dem Stolleneingang"
   alt_hu: "Mozaik Tito arcképével és a „Druže Tito, mi ti se kunemo” felirattal a tárna bejárata fölött"
 kamenolom-plaque-1961:
@@ -274,6 +298,7 @@ kamenolom-plaque-1961:
   alt: "The introductory plaque of the memorial, dated 1941–1961"
   alt_ru: "Вводная плита мемориала с датой 1941–1961"
   alt_sr: "Uvodna ploča spomen-obeležja sa datumom 1941–1961."
+  alt_cyr: "Уводна плоча спомен-обележја са датумом 1941–1961."
   alt_de: "Die Einleitungstafel der Gedenkstätte, datiert 1941–1961"
   alt_hu: "Az emlékmű bevezető táblája, 1941–1961 dátummal"
 forest-spring:
@@ -285,6 +310,7 @@ forest-spring:
   temp: true
   alt_ru: "Лесная тропа на Фрушка-Горе весной"
   alt_sr: "Šumska staza na Fruškoj gori u proleće"
+  alt_cyr: "Шумска стаза на Фрушкој гори у пролеће"
   alt_de: Waldweg auf der Fruška Gora im Frühling
   alt_hu: Erdei ösvény a Tarcal-hegységben tavasszal
 forest-autumn:
@@ -296,6 +322,7 @@ forest-autumn:
   temp: true
   alt_ru: "Лес на Фрушка-Горе осенью"
   alt_sr: "Fruškogorska šuma u jesen"
+  alt_cyr: "Фрушкогорска шума у јесен"
   alt_de: Wald auf der Fruška Gora im Herbst
   alt_hu: Erdő a Tarcal-hegységben ősszel
 forest-fog:
@@ -307,6 +334,7 @@ forest-fog:
   temp: true
   alt_ru: "Тропа на Фрушка-Горе в тумане"
   alt_sr: "Staza na Fruškoj gori u magli"
+  alt_cyr: "Стаза на Фрушкој гори у магли"
   alt_de: Wanderweg auf der Fruška Gora im Nebel
   alt_hu: Turistaút a Tarcal-hegységben ködben
 strazilovo:
@@ -318,6 +346,7 @@ strazilovo:
   temp: true
   alt_ru: "Зона отдыха Стражилово"
   alt_sr: "Izletište Stražilovo"
+  alt_cyr: "Излетиште Стражилово"
   alt_de: Rastplatz Stražilovo
   alt_hu: A stražilovói pihenőhely
 author-kosta:
@@ -328,6 +357,7 @@ author-kosta:
   alt: Konstantin (Kosta) Stein
   alt_ru: Константин (Коста) Штейн
   alt_sr: Konstantin (Kosta) Stein
+  alt_cyr: "Константин (Коста) Штајн"
   alt_de: Konstantin (Kosta) Stein
   alt_hu: Konstantin (Kosta) Stein
   temp: false
@@ -339,6 +369,7 @@ isposnica-inscription-1771:
   alt: Carved inscriptions at the hermitage, with the text of May 1771 naming Isaija, hieromonk of Rakovac
   alt_ru: Надписи на скале у испосницы, среди них надпись мая 1771 года с именем иеромонаха Исаии
   alt_sr: Natpisi na steni kod isposnice, među njima natpis iz maja 1771. sa imenom jeromonaha Isaije
+  alt_cyr: "Натписи на стени код испоснице, међу њима натпис из маја 1771. са именом јеромонаха Исаије"
   alt_de: Eingemeißelte Inschriften an der Einsiedelei, mit dem Text vom Mai 1771, der Isaija, Hieromönch von Rakovac, nennt
   alt_hu: Vésett feliratok a remetelaknál, köztük az 1771. májusi szöveg, amely Isaiját, a rakovaci hieromonachust említi
   temp: false
@@ -350,6 +381,7 @@ isposnica-inscription-1830:
   alt: An inscription of 1830 in its own carved niche, with a cross above
   alt_ru: Надпись 1830 года в отдельной высеченной нише, над ней крест
   alt_sr: Natpis iz 1830. u posebnoj uklesanoj niši, sa krstom iznad
+  alt_cyr: "Натпис из 1830. у посебној уклесаној ниши, са крстом изнад"
   alt_de: Eine Inschrift von 1830 in einer eigenen gemeißelten Nische, darüber ein Kreuz
   alt_hu: Egy 1830-as felirat saját vésett fülkében, fölötte kereszttel
   temp: false
@@ -361,6 +393,7 @@ isposnica-inscriptions-entrance:
   alt: Names and dates carved beside the entrance of the hermitage
   alt_ru: Имена и даты, вырезанные у входа в испосницу
   alt_sr: Imena i datumi urezani pored ulaza u isposnicu
+  alt_cyr: "Имена и датуми урезани поред улаза у испосницу"
   alt_de: Namen und Jahreszahlen, eingemeißelt neben dem Eingang der Einsiedelei
   alt_hu: Nevek és évszámok a remetelak bejárata mellett a sziklába vésve
   temp: false
@@ -372,6 +405,7 @@ isposnica-inscription-detail:
   alt: A 19th-century name carved in the soft limestone of the hermitage
   alt_ru: Имя XIX века, вырезанное в мягком известняке испосницы
   alt_sr: Ime iz 19. veka urezano u meki krečnjak isposnice
+  alt_cyr: "Име из 19. века урезано у меки кречњак испоснице"
   alt_de: Ein Name aus dem 19. Jahrhundert im weichen Kalkstein der Einsiedelei
   alt_hu: Egy 19. századi név a remetelak puha mészkövébe vésve
   temp: false
@@ -383,6 +417,7 @@ beli-majdan-entrance-sign:
   alt: Entrance to the Beli Majdan gallery with the national park's warning sign
   alt_ru: Вход в галерею Бели-Майдана с предупреждающей табличкой национального парка
   alt_sr: Ulaz u galeriju Belog majdana sa tablom upozorenja Nacionalnog parka
+  alt_cyr: "Улаз у галерију Белог мајдана са таблом упозорења Националног парка"
   alt_de: Eingang zum Stollen von Beli Majdan mit dem Warnschild des Nationalparks
   alt_hu: A Beli Majdan-i tárna bejárata a nemzeti park figyelmeztető táblájával
   temp: false
@@ -397,6 +432,7 @@ map-generalkarte-1910:
   alt: General map of Central Europe 1:200,000, sheet Mistrowitz (about 1910), showing Fruška Gora and Rakovac
   alt_ru: Генеральная карта Центральной Европы 1:200 000, лист «Mistrowitz» (около 1910 года), с Фрушка-Горой и Раковцем
   alt_sr: Generalna karta Srednje Evrope 1:200.000, list „Mistrowitz“ (oko 1910), sa Fruškom gorom i Rakovcem
+  alt_cyr: "Генерална карта Средње Европе 1:200.000, лист „Mistrowitz“ (око 1910), са Фрушком гором и Раковцем"
   alt_de: Generalkarte von Mitteleuropa 1:200.000, Blatt Mistrowitz (um 1910), mit der Fruška Gora und Rakovac
   alt_hu: Közép-Európa általános térképe 1:200 000, „Mistrowitz” lap (1910 körül), a Tarcal-hegységgel és Rakovaccal
   temp: false
@@ -411,6 +447,7 @@ map-spezialkarte-1915:
   alt: Special map of the Austro-Hungarian Monarchy 1:75,000, sheet Ilok und Ruma (1915), with Rakovac in its north-eastern corner
   alt_ru: Специальная карта Австро-Венгерской монархии 1:75 000, лист «Ilok und Ruma» (1915), Раковац в её северо-восточном углу
   alt_sr: Specijalna karta Austrougarske monarhije 1:75.000, list „Ilok und Ruma“ (1915), Rakovac u severoistočnom uglu
+  alt_cyr: "Специјална карта Аустроугарске монархије 1:75.000, лист „Ilok und Ruma“ (1915), Раковац у североисточном углу"
   alt_de: Spezialkarte der Österreichisch-Ungarischen Monarchie 1:75.000, Blatt Ilok und Ruma (1915), mit Rakovac in der Nordostecke
   alt_hu: Az Osztrák–Magyar Monarchia 1:75 000-es speciális térképe, Ilok und Ruma lap (1915), északkeleti sarkában Rakovaccal
   temp: false
@@ -424,6 +461,7 @@ vrdnicka-kula-stairs:
   alt: "Vrdnik Tower, the 18-metre keep of the medieval fortress, with its steel visitor staircase"
   alt_ru: "Врдничская башня — 18-метровый донжон средневековой крепости со стальной лестницей для посетителей"
   alt_sr: "Vrdnička kula, 18 metara visoka donžon kula srednjovekovnog utvrđenja, sa čeličnim stepeništem za posetioce"
+  alt_cyr: "Врдничка кула, 18 метара висока донжон кула средњовековног утврђења, са челичним степеништем за посетиоце"
   alt_de: "Die Vrdnik-Turm, der 18 Meter hohe Bergfried der mittelalterlichen Festung, mit Besuchertreppe aus Stahl"
   alt_hu: "A vrdniki torony, a középkori vár 18 méter magas lakótornya, acél látogatólépcsővel"
   temp: false
@@ -435,6 +473,7 @@ vrdnicka-kula-tower:
   alt: "The rounded side of Vrdnik Tower above dry grass and shrubs"
   alt_ru: "Скруглённая сторона Врдничской башни над сухой травой и кустарником"
   alt_sr: "Zaobljena strana Vrdničke kule iznad suve trave i žbunja"
+  alt_cyr: "Заобљена страна Врдничке куле изнад суве траве и жбуња"
   alt_de: "Die abgerundete Seite des Vrdnik-Turms über trockenem Gras und Gebüsch"
   alt_hu: "A vrdniki torony lekerekített oldala a száraz fű és bokrok fölött"
   temp: false
@@ -446,6 +485,7 @@ vrdnicka-kula-walls:
   alt: "Remains of the fortress walls at Vrdnik Tower"
   alt_ru: "Остатки крепостных стен у Врдничской башни"
   alt_sr: "Ostaci bedema kod Vrdničke kule"
+  alt_cyr: "Остаци бедема код Врдничке куле"
   alt_de: "Reste der Festungsmauern am Vrdnik-Turm"
   alt_hu: "A várfalak maradványai a vrdniki toronynál"
   temp: false
@@ -457,6 +497,7 @@ vrdnicka-kula-stairs-close:
   alt: "The steel staircase up to the viewing platform inside Vrdnik Tower"
   alt_ru: "Стальная лестница к смотровой площадке Врдничской башни"
   alt_sr: "Čelično stepenište do vidikovca u Vrdničkoj kuli"
+  alt_cyr: "Челично степениште до видиковца у Врдничкој кули"
   alt_de: "Die Stahltreppe zur Aussichtsplattform im Vrdnik-Turm"
   alt_hu: "Az acéllépcső a vrdniki torony kilátójához"
   temp: false
@@ -468,6 +509,7 @@ vrdnicka-kula-view:
   alt: "View from the tower hill over Vrdnik and the Fruške Terme resort towards the plain of Srem"
   alt_ru: "Вид с башенного холма на Врдник и курорт Fruške Terme в сторону сремской равнины"
   alt_sr: "Pogled sa brda kod kule na Vrdnik i kompleks Fruške Terme prema sremskoj ravnici"
+  alt_cyr: "Поглед са брда код куле на Врдник и комплекс Фрушке Терме према сремској равници"
   alt_de: "Blick vom Turmhügel über Vrdnik und das Resort Fruške Terme in die Ebene von Srem"
   alt_hu: "Kilátás a toronydombról Vrdnikre és a Fruške Terme üdülőre, a szerémségi síkság felé"
   temp: false
@@ -479,6 +521,7 @@ vrdnicka-kula-path:
   alt: "Forest path with wood chips on the way to Vrdnik Tower"
   alt_ru: "Лесная тропа, посыпанная щепой, по пути к Врдничской башне"
   alt_sr: "Šumska staza posuta iverjem na putu do Vrdničke kule"
+  alt_cyr: "Шумска стаза посута иверјем на путу до Врдничке куле"
   alt_de: "Mit Holzhackschnitzeln bestreuter Waldweg auf dem Weg zum Vrdnik-Turm"
   alt_hu: "Faforgáccsal borított erdei ösvény a vrdniki torony felé"
   temp: false
@@ -490,6 +533,7 @@ vrdnicka-kula-headframe:
   alt: "A steel mine headframe near the tower, a reminder of Vrdnik's coal-mining past"
   alt_ru: "Стальной шахтный копёр у башни — память о шахтёрском прошлом Врдника"
   alt_sr: "Čelični izvozni toranj kod kule, podsetnik na rudarsku prošlost Vrdnika"
+  alt_cyr: "Челични извозни торањ код куле, подсетник на рударску прошлост Врдника"
   alt_de: "Ein stählernes Fördergerüst beim Turm erinnert an Vrdniks Bergbauvergangenheit"
   alt_hu: "Acél aknatorony a torony közelében, Vrdnik bányászmúltjának emléke"
   temp: false
@@ -501,6 +545,7 @@ vrdnicka-kula-shelter:
   alt: "Wooden shelter with a table near Vrdnik Tower"
   alt_ru: "Деревянная беседка со столом у Врдничской башни"
   alt_sr: "Drvena nadstrešnica sa stolom kod Vrdničke kule"
+  alt_cyr: "Дрвена надстрешница са столом код Врдничке куле"
   alt_de: "Hölzerner Unterstand mit Tisch beim Vrdnik-Turm"
   alt_hu: "Fából készült esőbeálló asztallal a vrdniki torony közelében"
   temp: false
@@ -514,6 +559,7 @@ lookout-swing-autumn:
   temp: false
   alt_ru: "На качелях у смотровой над Нови-Раковцем поздней осенью, на горизонте Нови-Сад"
   alt_sr: "Na ljuljašci na vidikovcu iznad Novog Rakovca u kasnu jesen, na horizontu Novi Sad"
+  alt_cyr: "На љуљашци на видиковцу изнад Новог Раковца у касну јесен, на хоризонту Нови Сад"
   alt_de: "Auf der Schaukel am Aussichtspunkt über Novi Rakovac im Spätherbst, am Horizont Novi Sad"
   alt_hu: "Hintázás a Novi Rakovac feletti kilátónál késő ősszel, a láthatáron Újvidék"
 lookout-summer-fields:
@@ -524,6 +570,7 @@ lookout-summer-fields:
   temp: false
   alt_ru: "Летний вид с холмов над Раковцем: кукурузное поле, белые срезы карьеров и Дунайская равнина"
   alt_sr: "Letnji pogled sa brda iznad Rakovca: kukuruzište, beli useci kamenoloma i podunavska ravnica"
+  alt_cyr: "Летњи поглед са брда изнад Раковца: кукурузиште, бели усеци каменолома и подунавска равница"
   alt_de: "Sommerblick von den Hügeln über Rakovac: ein Maisfeld, weiße Steinbruchkanten und die Donauebene"
   alt_hu: "Nyári kilátás a Rakovac feletti dombokról: kukoricaföld, fehér kőbányafalak és a Duna menti síkság"
 lookout-slopes-novi-sad:
@@ -534,6 +581,7 @@ lookout-slopes-novi-sad:
   temp: false
   alt_ru: "Дома на лесистых склонах под смотровой, за ними Нови-Сад и арки моста Жежеля"
   alt_sr: "Kuće na šumovitim padinama ispod vidikovca, iza njih Novi Sad i lukovi Žeželjevog mosta"
+  alt_cyr: "Куће на шумовитим падинама испод видиковца, иза њих Нови Сад и лукови Жежељевог моста"
   alt_de: "Häuser an den bewaldeten Hängen unter dem Aussichtspunkt, dahinter Novi Sad und die Bögen der Žeželj-Brücke"
   alt_hu: "Házak a kilátó alatti erdős lejtőkön, mögöttük Újvidék és a Žeželj-híd ívei"
 lookout-swing-summer:
@@ -544,6 +592,7 @@ lookout-swing-summer:
   temp: false
   alt_ru: "Ребёнок на качелях у смотровой летом"
   alt_sr: "Dete na ljuljašci na vidikovcu leti"
+  alt_cyr: "Дете на љуљашци на видиковцу лети"
   alt_de: "Ein Kind auf der Schaukel am Aussichtspunkt im Sommer"
   alt_hu: "Gyerek a hintán a kilátónál nyáron"
 lookout-storm-novi-sad:
@@ -554,6 +603,7 @@ lookout-storm-novi-sad:
   temp: false
   alt_ru: "Грозовые тучи над Нови-Садом и Дунаем, вид с луга над Раковцем"
   alt_sr: "Olujni oblaci nad Novim Sadom i Dunavom, pogled sa livade iznad Rakovca"
+  alt_cyr: "Олујни облаци над Новим Садом и Дунавом, поглед са ливаде изнад Раковца"
   alt_de: "Gewitterwolken über Novi Sad und der Donau, gesehen von der Wiese über Rakovac"
   alt_hu: "Viharfelhők Újvidék és a Duna fölött a Rakovac feletti rétről nézve"
 lookout-rain-danube:
@@ -564,6 +614,7 @@ lookout-rain-danube:
   temp: false
   alt_ru: "Над Дунаем идёт дождь; собака в высокой траве на лугу"
   alt_sr: "Kiša nad Dunavom; pas u visokoj travi na livadi"
+  alt_cyr: "Киша над Дунавом; пас у високој трави на ливади"
   alt_de: "Regen zieht über die Donau; ein Hund im hohen Gras der Wiese"
   alt_hu: "Eső vonul a Duna fölött; kutya a rét magas füvében"
 lookout-grass-sky:
@@ -574,6 +625,7 @@ lookout-grass-sky:
   temp: false
   alt_ru: "Сухая трава и тяжёлое небо над долиной Дуная"
   alt_sr: "Suva trava i teško nebo nad dolinom Dunava"
+  alt_cyr: "Сува трава и тешко небо над долином Дунава"
   alt_de: "Trockenes Gras und schwerer Himmel über dem Donautal"
   alt_hu: "Száraz fű és nehéz ég a Duna völgye fölött"
 lookout-danube-bend:
@@ -584,6 +636,7 @@ lookout-danube-bend:
   temp: false
   alt_ru: "Вид с луга в конце осени: излучина Дуная и Нови-Сад"
   alt_sr: "Pogled sa livade u kasnu jesen: okuka Dunava i Novi Sad"
+  alt_cyr: "Поглед са ливаде у касну јесен: окука Дунава и Нови Сад"
   alt_de: "Blick von der Wiese im Spätherbst: die Donauschleife und Novi Sad"
   alt_hu: "Kilátás a rétről késő ősszel: a Duna kanyarulata és Újvidék"
 monastery-summer:
@@ -594,6 +647,7 @@ monastery-summer:
   temp: false
   alt_ru: "Монастырь Раковац летом: длинный жилой корпус (конак) и лужайка перед ним"
   alt_sr: "Manastir Rakovac leti: dugački konak i travnjak ispred njega"
+  alt_cyr: "Манастир Раковац лети: дугачки конак и травњак испред њега"
   alt_de: "Kloster Rakovac im Sommer: der lange Wohntrakt (Konak) und die Wiese davor"
   alt_hu: "A rakovaci kolostor nyáron: a hosszú lakószárny (konak) és az előtte lévő gyep"
 monastery-valley-winter:
@@ -604,6 +658,7 @@ monastery-valley-winter:
   temp: false
   alt_ru: "Монастырь Раковац в своей долине: вид с холмов в дымчатый зимний день"
   alt_sr: "Manastir Rakovac u svojoj dolini, pogled sa brda po maglovitom zimskom danu"
+  alt_cyr: "Манастир Раковац у својој долини, поглед са брда по магловитом зимском дану"
   alt_de: "Kloster Rakovac in seinem Tal, von den Hügeln aus an einem dunstigen Wintertag"
   alt_hu: "A rakovaci kolostor a völgyében, a dombokról nézve egy párás téli napon"
 monastery-roofs-winter:
@@ -614,6 +669,7 @@ monastery-roofs-winter:
   temp: false
   alt_ru: "Монастырь Раковац над крышами Стари-Раковца в зимнем свете"
   alt_sr: "Manastir Rakovac iznad krovova Starog Rakovca u zimskom svetlu"
+  alt_cyr: "Манастир Раковац изнад кровова Старог Раковца у зимском светлу"
   alt_de: "Kloster Rakovac über den Dächern von Stari Rakovac im Winterlicht"
   alt_hu: "A rakovaci kolostor Stari Rakovac háztetői fölött, téli fényben"
 monastery-mist:
@@ -624,6 +680,7 @@ monastery-mist:
   temp: false
   alt_ru: "Дымка в долине Стари-Раковца, в центре монастырь"
   alt_sr: "Izmaglica u dolini Starog Rakovca, u sredini manastir"
+  alt_cyr: "Измаглица у долини Старог Раковца, у средини манастир"
   alt_de: "Dunst im Tal von Stari Rakovac, in der Mitte das Kloster"
   alt_hu: "Pára Stari Rakovac völgyében, középen a kolostor"
 monastery-badnjak:
@@ -634,6 +691,7 @@ monastery-badnjak:
   temp: false
   alt_ru: "Бадни дан, 6 января: костёр-бадняк перед монастырём Раковац в канун православного Рождества"
   alt_sr: "Badnji dan, 6. januar: badnjak gori ispred manastira Rakovac uoči pravoslavnog Božića"
+  alt_cyr: "Бадњи дан, 6. јануар: бадњак гори испред манастира Раковац уочи православног Божића"
   alt_de: "Badnji dan, 6. Januar: das Badnjak-Feuer vor dem Kloster Rakovac am orthodoxen Heiligabend"
   alt_hu: "Badnji dan, január 6.: badnjak-tűz a rakovaci kolostor előtt az ortodox karácsony előestéjén"
 village-house-summer:
@@ -644,6 +702,7 @@ village-house-summer:
   temp: false
   alt_ru: "Дом среди деревьев Раковца летом"
   alt_sr: "Kuća među drvećem Rakovca leti"
+  alt_cyr: "Кућа међу дрвећем Раковца лети"
   alt_de: "Ein Haus zwischen den Bäumen von Rakovac im Sommer"
   alt_hu: "Ház Rakovac fái között nyáron"
 village-garden-snow:
@@ -654,6 +713,7 @@ village-garden-snow:
   temp: false
   alt_ru: "Глубокий снег в саду в Раковце"
   alt_sr: "Dubok sneg u jednom dvorištu u Rakovcu"
+  alt_cyr: "Дубок снег у једном дворишту у Раковцу"
   alt_de: "Tiefer Schnee in einem Garten in Rakovac"
   alt_hu: "Mély hó egy rakovaci kertben"
 village-snow-pillar:
@@ -664,6 +724,7 @@ village-snow-pillar:
   temp: false
   alt_ru: "Шапка снега на кирпичном столбе с крестом"
   alt_sr: "Kapa snega na stubu od opeke sa krstom"
+  alt_cyr: "Капа снега на стубу од опеке са крстом"
   alt_de: "Eine Schneehaube auf einem Ziegelpfeiler mit Kreuz"
   alt_hu: "Hósapka egy keresztes téglaoszlopon"
 village-snow-sun:
@@ -674,6 +735,7 @@ village-snow-sun:
   temp: false
   alt_ru: "Свежий снег на берёзах и елях, низкое солнце за облаками"
   alt_sr: "Svež sneg na brezama i jelama, nisko sunce iza oblaka"
+  alt_cyr: "Свеж снег на брезама и јелама, ниско сунце иза облака"
   alt_de: "Frischer Schnee auf Birken und Tannen, die tiefe Sonne hinter den Wolken"
   alt_hu: "Friss hó nyírfákon és fenyőkön, alacsonyan járó nap a felhők mögött"
 nature-frost-oak:
@@ -684,6 +746,7 @@ nature-frost-oak:
   temp: false
   alt_ru: "Иней на опавших дубовых листьях"
   alt_sr: "Inje na opalom hrastovom lišću"
+  alt_cyr: "Иње на опалом храстовом лишћу"
   alt_de: "Raureif auf abgefallenem Eichenlaub"
   alt_hu: "Zúzmara lehullott tölgyleveleken"
 nature-frost-grass:
@@ -694,6 +757,7 @@ nature-frost-grass:
   temp: false
   alt_ru: "Дубовые листья и трава в утреннем инее"
   alt_sr: "Hrastovo lišće i trava pod jutarnjim injem"
+  alt_cyr: "Храстово лишће и трава под јутарњим ињем"
   alt_de: "Eichenblätter und Gras im Morgenfrost"
   alt_hu: "Tölgylevelek és fű a reggeli dérben"
 
@@ -706,6 +770,7 @@ monastery-fence-summer:
   temp: false
   alt_ru: "Монастырь Раковац летом за белой оградой с коваными решётками"
   alt_sr: "Manastir Rakovac leti iza bele ograde sa kovanim rešetkama"
+  alt_cyr: "Манастир Раковац лети иза беле ограде са кованим решеткама"
   alt_de: "Kloster Rakovac im Sommer hinter seiner weißen Mauer mit schmiedeeisernen Gittern"
   alt_hu: "A rakovaci kolostor nyáron, fehér fala és kovácsoltvas rácsai mögött"
 monastery-road-winter:
@@ -716,6 +781,7 @@ monastery-road-winter:
   temp: false
   alt_ru: "Гравийная дорога над Стари-Раковцем на зимнем солнце, внизу в дымке долины монастырь"
   alt_sr: "Makadamski put iznad Starog Rakovca na zimskom suncu, dole u izmaglici doline manastir"
+  alt_cyr: "Макадамски пут изнад Старог Раковца на зимском сунцу, доле у измаглици долине манастир"
   alt_de: "Ein Schotterweg über Stari Rakovac in der Wintersonne, unten im dunstigen Tal das Kloster"
   alt_hu: "Kavicsos út Stari Rakovac fölött téli napsütésben, lent a párás völgyben a kolostor"
 monastery-lavender:
@@ -726,6 +792,7 @@ monastery-lavender:
   temp: false
   alt_ru: "Лаванда у монастыря"
   alt_sr: "Lavanda kod manastira"
+  alt_cyr: "Лаванда код манастира"
   alt_de: "Lavendel am Kloster"
   alt_hu: "Levendula a kolostornál"
 garden-quince:
@@ -736,6 +803,7 @@ garden-quince:
   temp: false
   alt_ru: "Цветущая японская айва в саду в Раковце"
   alt_sr: "Japanska dunja u cvetu u jednom rakovačkom dvorištu"
+  alt_cyr: "Јапанска дуња у цвету у једном раковачком дворишту"
   alt_de: "Blühende Japanische Quitte in einem Garten in Rakovac"
   alt_hu: "Virágzó japánbirs egy rakovaci kertben"
 garden-wisteria:
@@ -746,6 +814,7 @@ garden-wisteria:
   temp: false
   alt_ru: "Цветущая глициния в саду в Раковце"
   alt_sr: "Glicinija u cvetu u jednom rakovačkom dvorištu"
+  alt_cyr: "Глицинија у цвету у једном раковачком дворишту"
   alt_de: "Blühende Glyzinie in einem Garten in Rakovac"
   alt_hu: "Virágzó lilaakác egy rakovaci kertben"
 flower-snowdrops:
@@ -756,6 +825,7 @@ flower-snowdrops:
   temp: false
   alt_ru: "Подснежники в лесу ранней весной"
   alt_sr: "Visibabe u šumi u rano proleće"
+  alt_cyr: "Висибабе у шуми у рано пролеће"
   alt_de: "Schneeglöckchen im Wald im Vorfrühling"
   alt_hu: "Hóvirágok az erdőben kora tavasszal"
 flower-hellebore:
@@ -766,6 +836,7 @@ flower-hellebore:
   temp: false
   alt_ru: "Морозник и подснежники на лесной подстилке ранней весной"
   alt_sr: "Kukurek i visibabe na šumskom tlu u rano proleće"
+  alt_cyr: "Кукурек и висибабе на шумском тлу у рано пролеће"
   alt_de: "Nieswurz und Schneeglöckchen auf dem Waldboden im Vorfrühling"
   alt_hu: "Hunyor és hóvirág az erdő talaján kora tavasszal"
 flower-cornel:
@@ -776,6 +847,7 @@ flower-cornel:
   temp: false
   alt_ru: "Цветущий кизил, одна из первых примет весны"
   alt_sr: "Dren u cvetu, jedan od prvih znakova proleća"
+  alt_cyr: "Дрен у цвету, један од првих знакова пролећа"
   alt_de: "Blühende Kornelkirsche, eines der ersten Frühlingszeichen"
   alt_hu: "Virágzó húsos som, a tavasz egyik első jele"
 flower-pasque-bee:
@@ -786,6 +858,7 @@ flower-pasque-bee:
   temp: false
   alt_ru: "Сон-трава (прострел) с пчелой ранней весной"
   alt_sr: "Sasa (Pulsatilla) sa pčelom u rano proleće"
+  alt_cyr: "Саса (Пулсатилла) са пчелом у рано пролеће"
   alt_de: "Küchenschelle (Pulsatilla) mit einer Biene im Vorfrühling"
   alt_hu: "Kökörcsin (Pulsatilla) méhhel kora tavasszal"
 flower-poppies:
@@ -796,6 +869,7 @@ flower-poppies:
   temp: false
   alt_ru: "Дикие маки и их коробочки летом"
   alt_sr: "Divlje bulke i njihove čaure leti"
+  alt_cyr: "Дивље булке и њихове чауре лети"
   alt_de: "Wilder Mohn mit Samenkapseln im Sommer"
   alt_hu: "Vadpipacsok és magtokjaik nyáron"
 flower-dandelion-frost:
@@ -806,6 +880,7 @@ flower-dandelion-frost:
   temp: false
   alt_ru: "Одуванчик в утреннем инее"
   alt_sr: "Maslačak pod jutarnjim injem"
+  alt_cyr: "Маслачак под јутарњим ињем"
   alt_de: "Löwenzahn im Morgenfrost"
   alt_hu: "Pitypang a reggeli dérben"
 night-valley-stars:
@@ -816,6 +891,7 @@ night-valley-stars:
   temp: false
   alt_ru: "Ночное небо над долиной Раковца, внизу огни Стари-Раковца"
   alt_sr: "Noćno nebo nad dolinom Rakovca, dole svetla Starog Rakovca"
+  alt_cyr: "Ноћно небо над долином Раковца, доле светла Старог Раковца"
   alt_de: "Nachthimmel über dem Tal von Rakovac, unten die Lichter von Stari Rakovac"
   alt_hu: "Éjszakai égbolt a rakovaci völgy fölött, lent Stari Rakovac fényei"
 night-stars-branches:
@@ -826,6 +902,7 @@ night-stars-branches:
   temp: false
   alt_ru: "Звёзды сквозь голые ветви: ясная ночь в Раковце"
   alt_sr: "Zvezde kroz golo granje: vedra noć u Rakovcu"
+  alt_cyr: "Звезде кроз голо грање: ведра ноћ у Раковцу"
   alt_de: "Sterne zwischen kahlen Ästen: eine klare Nacht in Rakovac"
   alt_hu: "Csillagok a csupasz ágak között: tiszta éjszaka Rakovacon"
 night-moon:
@@ -836,6 +913,7 @@ night-moon:
   temp: false
   alt_ru: "Полная луна над Раковцем"
   alt_sr: "Pun mesec nad Rakovcem"
+  alt_cyr: "Пун месец над Раковцем"
   alt_de: "Vollmond über Rakovac"
   alt_hu: "Telihold Rakovac fölött"
 isposnica-entrance-child:
@@ -846,6 +924,7 @@ isposnica-entrance-child:
   temp: false
   alt_ru: "Маленькая гостья у входа в Испосницу, в известняковой скале, покрытой вырезанными именами"
   alt_sr: "Mala posetiteljka na ulazu u Isposnicu, u krečnjačkoj steni prekrivenoj urezanim imenima"
+  alt_cyr: "Мала посетитељка на улазу у Испосницу, у кречњачкој стени прекривеној урезаним именима"
   alt_de: "Eine kleine Besucherin am Eingang der Einsiedelei, im Kalkfels voller eingeritzter Namen"
   alt_hu: "Kis látogató a remetelak bejáratánál, a bevésett nevekkel borított mészkősziklában"
 isposnica-chapel-child:
@@ -856,6 +935,7 @@ isposnica-chapel-child:
   temp: false
   alt_ru: "Внутри Испосницы: маленькая пещерная часовня с иконами и лампадой"
   alt_sr: "U Isposnici: mala pećinska kapela sa ikonama i kandilom"
+  alt_cyr: "У Испосници: мала пећинска капела са иконама и кандилом"
   alt_de: "In der Einsiedelei: die kleine Höhlenkapelle mit Ikonen und einer Öllampe"
   alt_hu: "A remetelakban: a kis barlangkápolna ikonokkal és olajmécsessel"
 monastery-entrance:
@@ -866,5 +946,6 @@ monastery-entrance:
   temp: false
   alt_ru: "Дорожка к воротам монастыря между клумбами лаванды, скамейками и белыми каменными вазами"
   alt_sr: "Staza do manastirske kapije između leja lavande, klupa i belih kamenih žardinjera"
+  alt_cyr: "Стаза до манастирске капије између леја лаванде, клупа и белих камених жардињера"
   alt_de: "Der Weg zum Klostertor zwischen Lavendelbeeten, Bänken und weißen Steinvasen"
   alt_hu: "A kolostor kapujához vezető út levendulaágyások, padok és fehér kővázák között"

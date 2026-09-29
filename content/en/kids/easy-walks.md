@@ -11,6 +11,8 @@ kids: true
 
 **10 minutes from the monastery, easy.** The best first walk. A short, steep earth track leads from the monastery to a huge hall in the rock, held up by stone pillars. Look for the marks of the stone cutters' tools on the walls, and climb the steps above the hall for a view over the forest. Stay at the entrance, though: going inside is only allowed with a national park ranger, because stones can fall.
 
+{{< note type="warning" title="Hold hands here" >}}On the steep track and on the steps above the hall, hold small children by the hand and keep away from the edge of the platform. The rock is slippery when wet.{{< /note >}}
+
 A legend says a cave-man called **Veliki Sremac Baća** lives deep inside. Nobody has ever photographed him. Maybe you will be the first?
 
 [Beli Majdan: how to get there]({{< relref "nature/beli-majdan" >}})

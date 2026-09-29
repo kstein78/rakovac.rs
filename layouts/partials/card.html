@@ -4,7 +4,7 @@
   {{ $src := "" }}{{ with $ph }}{{ $src = .src }}{{ if not (hasPrefix $src "http") }}{{ $src = $src | relURL }}{{ end }}{{ end }}
   {{ $alt := "" }}{{ with $ph }}{{ $alt = index . (printf "alt_%s" site.Language.Lang) | default .alt }}{{ end }}
   {{ if $ph }}
-  <a class="card-img" href="{{ .RelPermalink }}" tabindex="-1" aria-hidden="true">{{ if site.Params.offlinePreview }}<div class="offline-img"><span>{{ $alt }}</span></div>{{ else }}<img src="{{ $src }}" alt="" loading="lazy" decoding="async">{{ end }}{{ if and $ph.temp site.Params.showPhotoBadges }}<span class="temp-badge">{{ i18n "photo_temp" }}</span>{{ end }}</a>
+  <a class="card-img" href="{{ .RelPermalink }}" tabindex="-1" aria-hidden="true">{{ if site.Params.offlinePreview }}<div class="offline-img"><span>{{ $alt }}</span></div>{{ else }}<img src="{{ $src }}" alt="{{ $alt }}" loading="lazy" decoding="async">{{ end }}{{ if and $ph.temp site.Params.showPhotoBadges }}<span class="temp-badge">{{ i18n "photo_temp" }}</span>{{ end }}</a>
   {{ else }}
   <a class="card-img card-img-empty cat-{{ .Params.category | default "none" }}" href="{{ .RelPermalink }}" tabindex="-1" aria-hidden="true"><span>{{ .Title }}</span>{{ if site.Params.showPhotoBadges }}<span class="temp-badge">{{ i18n "coming_soon" }}: {{ i18n "photo_by" }}</span>{{ end }}</a>
   {{ end }}
@@ -15,7 +15,6 @@
     <p class="card-meta">
       {{ with .Params.facts }}{{ with .distance }}<span>{{ . }}</span>{{ end }}{{ with .time }}<span>{{ . }}</span>{{ end }}{{ end }}
       {{ if .Params.kids }}<span class="chip chip-kids">{{ i18n "kids_friendly" }}</span>{{ end }}
-      {{ if eq .Params.status "unconfirmed" }}<span class="chip chip-muted">{{ i18n "unconfirmed" }}</span>{{ end }}
       {{ if .Params.supporter }}<span class="chip chip-partner">{{ i18n "partner" }}</span>{{ end }}
     </p>
   </div>

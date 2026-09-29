@@ -14,6 +14,9 @@ on:
       - 'i18n/en.yaml'
       - 'data/photos.yaml'
       - 'scripts/translate-glossary.yaml'
+      - 'content/sr/**'
+      - 'i18n/sr.yaml'
+      - 'scripts/sr_cyrl.py'
   workflow_dispatch:
     inputs:
       langs:
@@ -71,6 +74,9 @@ jobs:
       - name: Validate every translation
         run: python3 scripts/translate.py --check
 
+      - name: Serbian Cyrillic from the (new) Serbian Latin text
+        run: python3 scripts/sr_cyrl.py
+
       - name: Commit and deploy
         if: steps.key.outputs.ready == 'true'
         env:
@@ -78,7 +84,7 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add -A content i18n data .translations.json
+          git add -A content i18n data hugo.toml .translations.json
           if git diff --cached --quiet; then echo "Nothing new to translate."; exit 0; fi
           git commit -m "Auto-translate from English (${GITHUB_SHA::7})" -m "$(grep -E '^(ok|remove|done)' translate.log || true)"
           git pull --rebase origin main

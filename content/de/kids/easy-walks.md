@@ -11,6 +11,8 @@ kids: true
 
 **10 Minuten vom Kloster, leicht.** Der beste erste Spaziergang. Ein kurzer, steiler Erdweg führt vom Kloster zu einer riesigen Halle im Fels, die von Steinpfeilern getragen wird. Sucht an den Wänden nach den Spuren der Werkzeuge der Steinmetze und steigt die Stufen über der Halle hinauf, um über den Wald zu blicken. Bleibt aber am Eingang: Hineingehen darf man nur mit einem Ranger des Nationalparks, weil Steine herabfallen können.
 
+{{< note type="warning" title="Hier an die Hand nehmen" >}}Auf dem steilen Weg und auf den Stufen über der Halle kleine Kinder an die Hand nehmen und vom Rand der Plattform fernbleiben. Wenn er nass ist, ist der Fels rutschig.{{< /note >}}
+
 Eine Legende erzählt, dass tief drinnen ein Höhlenmensch namens **Veliki Sremac Baća** lebt. Niemand hat ihn je fotografiert. Vielleicht seid ihr die Ersten?
 
 [Beli Majdan: Anfahrt und Weg]({{< relref "nature/beli-majdan" >}})

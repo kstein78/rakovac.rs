@@ -24,7 +24,7 @@ for f in sorted(glob.glob(os.path.join(PUB, '*', '**', 'index.html'), recursive=
         continue                                   # alias redirect
     rel = os.path.relpath(f, PUB)
     lang = rel.split(os.sep)[0]
-    if lang not in ('sr', 'en', 'ru', 'de', 'hu'):
+    if lang not in ('sr', 'cyr', 'en', 'ru', 'de', 'hu'):
         continue
     pages[rel] = (lang, s)
 
@@ -40,7 +40,8 @@ for rel, (lang, s) in pages.items():
     else:
         if len(d) < 40: warnings.append(f'{rel}: short description ({len(d)}): {d}')
         if len(d) > 170: err(f'description too long ({len(d)})')
-        if lang == 'ru' and not re.search('[а-яё]', d, re.I): err(f'Russian page, description has no Cyrillic: {d[:60]}')
+        if lang in ('ru', 'cyr') and not re.search('[а-яёђћљњџј]', d, re.I): err(f'Cyrillic page, description has no Cyrillic: {d[:60]}')
+        if lang == 'cyr' and len(re.findall('[a-zčćšžđ]', d)) > len(d) // 3: err(f'Serbian Cyrillic page, description mostly Latin: {d[:60]}')
         descs[(lang, key)] = d
     c = re.search(r'<link rel=canonical href="?([^" >]+)', s)
     if not c or not c.group(1).startswith(SITE): err(f'canonical missing or not on {SITE}')
@@ -49,6 +50,8 @@ for rel, (lang, s) in pages.items():
         v = meta(s, 'property', p)
         if not v: err(f'no {p}')
         elif p == 'og:image' and not v.startswith('http'): err('og:image not absolute')
+        elif p == 'og:image' and v.startswith('https://rakovac.rs/') and not os.path.exists(os.path.join(PUB, v[len('https://rakovac.rs/'):].split('?')[0])):
+            err(f'og:image file missing: {v}')
     for m in re.findall(r'<script type="?application/ld\+json"?>(.*?)</script>', s, re.S):
         try: json.loads(m)
         except Exception as e: err(f'invalid JSON-LD: {e}')

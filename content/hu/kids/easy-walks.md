@@ -11,6 +11,8 @@ kids: true
 
 **10 percre a kolostortól, könnyű.** A legjobb első séta. Rövid, meredek földút vezet a kolostortól egy hatalmas sziklacsarnokhoz, amelyet kőoszlopok tartanak. A falakon a kőfaragók szerszámainak nyomait érdemes keresni, a csarnok feletti lépcsőkön felmászva pedig kilátás nyílik az erdőre. A bejáratnál azonban meg kell állni: belépni csak a nemzeti park őrével szabad, mert kövek hullhatnak le.
 
+{{< note type="warning" title="Itt fogják a gyerek kezét" >}}A meredek ösvényen és a csarnok feletti lépcsőkön fogják a kisgyerekek kezét, és ne menjenek a kilátó szélére. Nedves időben a szikla csúszós.{{< /note >}}
+
 A legenda szerint a mélyben egy barlanglakó él, a neve **Veliki Sremac Baća**. Még senki sem fényképezte le. Talán éppen egy fiatal felfedező lesz az első?
 
 [Beli Majdan: hogyan lehet odajutni]({{< relref "nature/beli-majdan" >}})

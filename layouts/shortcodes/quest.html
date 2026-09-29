@@ -1,0 +1,11 @@
+{{/* Treasure hunt: {{< quest >}} numbered markdown list {{< /quest >}}.
+  site.js turns every item into a tick box (saved in this browser), adds a drawing box for print, a print button
+  and a reset button. Without JS it is a plain numbered list. */}}
+<div class="quest" data-quest="{{ .Page.File.ContentBaseName }}" data-done="{{ i18n "quest_done" }}">
+  {{ .Inner | markdownify }}
+  <p class="quest-tools" hidden>
+    <button type="button" class="btn" data-quest-print>{{ i18n "quest_print" }}</button>
+    <button type="button" class="btn btn-quiet" data-quest-reset>{{ i18n "quest_reset" }}</button>
+    <span class="quest-count" aria-live="polite"></span>
+  </p>
+</div>

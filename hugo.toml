@@ -5,7 +5,7 @@ enableGitInfo = true   # page dates (sitemap lastmod, Article dateModified) come
 timeZone = "Europe/Belgrade"
 
 # --- Languages -------------------------------------------------------------
-# Five live languages: en (source), sr (Latin), ru, de, hu.
+# Five live languages: en (source), sr (Latin; cyr = the same text in Serbian Cyrillic, generated), ru, de, hu.
 # content/en is the source; the other languages are kept in sync by
 # scripts/translate.py (see README, "Automatic translation").
 # To switch a language off temporarily, list it in disableLanguages.
@@ -17,7 +17,7 @@ disableLanguages = []
   [languages.en]
     languageName = "English"
     languageCode = "en"
-    weight = 2
+    weight = 3
     contentDir = "content/en"
     [languages.en.params]
       tagline = "A village on the northern slope of Fruška Gora"
@@ -32,10 +32,20 @@ disableLanguages = []
       tagline = "Selo na severnoj padini Fruške gore"
       description = "Nezvanični portal za posetioce Rakovca na Fruškoj gori: priroda i šetnje, manastir, 7.000 godina istorije, smeštaj, domaća hrana i vino."
       ogLocale = "sr_RS"
+  [languages.cyr]
+    # Serbian in Cyrillic: generated from the Latin text by scripts/sr_cyrl.py (do not translate by hand).
+    languageName = "Српски"
+    languageCode = "sr-Cyrl"
+    weight = 2
+    contentDir = "content/cyr"
+    [languages.cyr.params]
+      tagline = "Село на северној падини Фрушке горе"
+      description = "Незванични портал за посетиоце Раковца на Фрушкој гори: природа и шетње, манастир, 7.000 година историје, смештај, домаћа храна и вино."
+      ogLocale = "sr_RS"
   [languages.ru]
     languageName = "Русский"
     languageCode = "ru"
-    weight = 3
+    weight = 4
     contentDir = "content/ru"
     [languages.ru.params]
       tagline = "Село на северном склоне Фрушка-Горы"
@@ -44,7 +54,7 @@ disableLanguages = []
   [languages.de]
     languageName = "Deutsch"
     languageCode = "de"
-    weight = 4
+    weight = 5
     contentDir = "content/de"
     [languages.de.params]
       tagline = "Ein Dorf am Nordhang der Fruška Gora"
@@ -53,7 +63,7 @@ disableLanguages = []
   [languages.hu]
     languageName = "Magyar"
     languageCode = "hu"
-    weight = 5
+    weight = 6
     contentDir = "content/hu"
     [languages.hu.params]
       tagline = "Falu a Tarcal-hegység északi lejtőjén"
@@ -65,9 +75,10 @@ disableLanguages = []
   # Village centre (Novi Rakovac) and the monastery, used by the maps.
   mapCenter = [45.1950, 19.7700]
   mapZoom = 14
-  # Draft helpers. Set both to false before the public launch.
-  showPhotoBadges = true   # yellow "TEMP PHOTO" badge on borrowed photos
-  showTodos = true         # yellow editor notes written with {{< todo >}}
+  # Draft helpers: off on rakovac.rs, on in the GitHub Pages preview (see .github/workflows/deploy.yml, job "pages"),
+  # so the editor sees open questions there while visitors see a clean site.
+  showPhotoBadges = false  # yellow "TEMP PHOTO" badge on borrowed photos
+  showTodos = false        # yellow editor notes written with {{< todo >}}
   contactEmail = "konstantin.stein@gmail.com"
   contactPhone = "+381638015320"          # used in tel:, WhatsApp, Viber, Telegram links
   contactPhoneDisplay = "+381 63 801 5320"

@@ -28,6 +28,13 @@ jobs:
           sudo dpkg -i hugo.deb
           hugo version
 
+      - name: Serbian Cyrillic from the Latin text (warns if the committed copy was out of date)
+        run: |
+          if ! python3 scripts/sr_cyrl.py --check; then
+            echo "::warning::Serbian Cyrillic files were out of date (run python3 scripts/sr_cyrl.py), regenerated for this build."
+            python3 scripts/sr_cyrl.py
+          fi
+
       - name: Build site
         run: hugo --gc --minify
 
@@ -104,9 +111,14 @@ jobs:
       - id: pages
         uses: actions/configure-pages@v6
 
+      - name: Serbian Cyrillic from the Latin text
+        run: python3 scripts/sr_cyrl.py
+
       - name: Build preview
         env:
           HUGO_PARAMS_NOINDEX: "true"
+          HUGO_PARAMS_SHOWTODOS: "true"
+          HUGO_PARAMS_SHOWPHOTOBADGES: "true"
         run: |
           hugo --gc --minify --baseURL "${{ steps.pages.outputs.base_url }}/"
           cp public/en/404.html public/404.html

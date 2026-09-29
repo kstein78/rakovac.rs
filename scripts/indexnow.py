@@ -10,7 +10,7 @@ import glob, json, os, re, subprocess, sys, urllib.request
 
 HOST = 'rakovac.rs'
 BASE = f'https://{HOST}'
-LANGS = ['sr', 'en', 'ru', 'de', 'hu']
+LANGS = ['sr', 'cyr', 'en', 'ru', 'de', 'hu']
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 
 
@@ -52,6 +52,8 @@ def all_urls():
 def main():
     files = changed(*sys.argv[1:3]) if len(sys.argv) >= 3 else []
     urls = set()
+    # Cyrillic pages are generated from the Latin ones: a Latin change also changes the Cyrillic page
+    files = files + [re.sub(r'^content/sr/', 'content/cyr/', f) for f in files if f.startswith('content/sr/')]
     if any(f.startswith(('layouts/', 'i18n/', 'assets/')) or f == 'hugo.toml' for f in files):
         urls.update(all_urls())
     for f in files:

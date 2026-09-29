@@ -27,6 +27,11 @@ if [ ! -x "$hugo" ]; then
   echo "installed Hugo $ver"
 fi
 
+# Serbian Cyrillic pages are generated from the Latin ones (normally already committed; this makes sure).
+if [ -f scripts/sr_cyrl.py ] && python3 -c "import yaml" 2>/dev/null; then
+  python3 scripts/sr_cyrl.py >/dev/null || echo "warning: scripts/sr_cyrl.py failed, building with the committed Cyrillic files" >&2
+fi
+
 out=$rel/$sha
 rm -rf "$out"
 "$hugo" --quiet --gc --minify --destination "$out"

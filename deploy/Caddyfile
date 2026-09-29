@@ -10,8 +10,12 @@
 
 	# "/" picks the visitor's language from the browser; everything else is a static file.
 	@home path /
+	# Serbian: "sr-Latn…" -> Latin (/sr/), plain "sr", "sr-RS", "sr-Cyrl" (Cyrillic by default) -> /cyr/;
+	# Croatian, Bosnian, Montenegrin -> Latin.
 	map {header.Accept-Language} {lang} {
-		~^(sr|hr|bs|sh|cnr|me)\b sr
+		~^sr-Latn sr
+		~^sr\b cyr
+		~^(hr|bs|sh|cnr|me)\b sr
 		~^(ru|uk|be)\b ru
 		~^de\b de
 		~^hu\b hu
@@ -44,11 +48,15 @@
 
 	handle_errors 404 {
 		@sr path /sr/*
+		@cyr path /cyr/*
 		@ru path /ru/*
 		@de path /de/*
 		@hu path /hu/*
 		handle @sr {
 			rewrite * /sr/404.html
+		}
+		handle @cyr {
+			rewrite * /cyr/404.html
 		}
 		handle @ru {
 			rewrite * /ru/404.html

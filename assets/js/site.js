@@ -16,6 +16,57 @@ document.addEventListener('DOMContentLoaded', function () {
       fig.replaceChildren(f);
     });
   });
+  // Grouped main menu: one drop-down open at a time; closes on outside click and Escape (desktop only;
+  // on phones the groups are always expanded inside the menu).
+  var groups = [].slice.call(document.querySelectorAll('.nav-group'));
+  function closeAll(except) { groups.forEach(function (g) { if (g !== except) { g.classList.remove('open'); g.querySelector('.nav-group-btn').setAttribute('aria-expanded', 'false'); } }); }
+  groups.forEach(function (g) {
+    var b = g.querySelector('.nav-group-btn');
+    b.addEventListener('click', function () {
+      var open = !g.classList.contains('open'); closeAll(g);
+      g.classList.toggle('open', open); b.setAttribute('aria-expanded', open ? 'true' : 'false');
+    });
+  });
+  document.addEventListener('click', function (e) { if (!e.target.closest('.nav-group')) closeAll(); });
+  document.addEventListener('keydown', function (e) {
+    if (e.key !== 'Escape') return;
+    var o = document.querySelector('.nav-group.open'); if (!o) return;
+    closeAll(); o.querySelector('.nav-group-btn').focus();
+  });
+  // Serbian script: remember Ćirilica / Latinica and send the SR link to the chosen script.
+  try {
+    var here = document.documentElement.lang;
+    if (here === 'sr-Cyrl') localStorage.setItem('sr-script', 'cyrl');
+    if (here === 'sr-Latn') localStorage.setItem('sr-script', 'latn');
+    if (localStorage.getItem('sr-script') === 'cyrl') {
+      document.querySelectorAll('.langs a[data-cyrl]').forEach(function (a) { a.href = a.getAttribute('data-cyrl'); });
+    }
+  } catch (e) {}
+  // Treasure hunt (shortcode quest): tick boxes saved in this browser, drawing boxes for print.
+  document.querySelectorAll('.quest').forEach(function (q) {
+    var key = 'quest-' + q.getAttribute('data-quest') + '-' + document.documentElement.lang;
+    var items = [].slice.call(q.querySelectorAll('ol > li'));
+    var tools = q.querySelector('.quest-tools'), count = q.querySelector('.quest-count');
+    var state = []; try { state = JSON.parse(localStorage.getItem(key) || '[]'); } catch (e) {}
+    function update() {
+      var n = items.filter(function (li) { return li.classList.contains('is-found'); }).length;
+      count.textContent = n === items.length ? q.getAttribute('data-done') : n + ' / ' + items.length;
+      try { localStorage.setItem(key, JSON.stringify(items.map(function (li) { return li.classList.contains('is-found'); }))); } catch (e) {}
+    }
+    items.forEach(function (li, i) {
+      var box = document.createElement('input'); box.type = 'checkbox'; box.className = 'quest-box';
+      box.setAttribute('aria-label', (i + 1) + '');
+      box.checked = !!state[i]; li.classList.toggle('is-found', box.checked);
+      box.addEventListener('change', function () { li.classList.toggle('is-found', box.checked); update(); });
+      li.insertBefore(box, li.firstChild);
+      var draw = document.createElement('span'); draw.className = 'quest-draw'; draw.setAttribute('aria-hidden', 'true'); li.appendChild(draw);
+    });
+    tools.hidden = false; update();
+    q.querySelector('[data-quest-print]').addEventListener('click', function () { window.print(); });
+    q.querySelector('[data-quest-reset]').addEventListener('click', function () {
+      q.querySelectorAll('.quest-box').forEach(function (b) { b.checked = false; b.parentNode.classList.remove('is-found'); }); update();
+    });
+  });
   // Old maps: load the full scan on request, centre it on the marked point, drag to pan with a mouse.
   document.querySelectorAll('.oldmap-load').forEach(function (btn) {
     btn.addEventListener('click', function () {
