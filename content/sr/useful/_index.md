@@ -151,7 +151,7 @@ groups:
     url: https://www.npfruskagora.co.rs/
 - id: community
   title: Lokalne grupe na internetu
-  intro: Ovde komšije dele vesti, traže pomoć i prodaju stvari. Znate još neku grupu Rakovca, Viber zajednicu ili stranicu? Pošaljite nam link [mejlom](mailto:konstantin.stein@gmail.com?subject=Rakovac%20groups), preko Vibera ili WhatsAppa (+381 63 801 5320) i dodaćemo ga.
+  intro: Ovde komšije dele vesti, traže pomoć i prodaju stvari. Znate još neku grupu Rakovca, Viber zajednicu ili stranicu? Pošaljite nam link [mejlom](mailto:konstantin.stein@gmail.com?subject=Rakovac%20groups), preko Vibera ili WhatsAppa ([+381 63 801 5320](tel:+381638015320)) i dodaćemo ga.
   items:
   - name: Раковчане-Односельчане :) — Telegram
     what: Zajednica Rakovčana koji govore ruski.

@@ -543,3 +543,4 @@ html.gal-open { overflow: hidden; }
   .quest ol > li { break-inside: avoid; border: 1px solid #999; background: #fff !important; }
   .quest-draw { display: block; height: 4.5cm; border: 1px dashed #999; border-radius: 6px; margin-top: .6rem; }
 }
+a[href^="tel:"] { white-space: nowrap; }

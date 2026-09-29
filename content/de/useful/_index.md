@@ -151,7 +151,7 @@ groups:
     url: https://www.npfruskagora.co.rs/
 - id: community
   title: Lokale Gruppen im Netz
-  intro: Hier teilen Nachbarn Neuigkeiten, bitten um Hilfe und verkaufen Dinge. Kennen Sie eine weitere Gruppe aus Rakovac, eine Viber-Community oder eine Seite? Schicken Sie uns den Link [per E-Mail](mailto:konstantin.stein@gmail.com?subject=Rakovac%20groups), über Viber oder WhatsApp (+381 63 801 5320), und wir nehmen ihn auf.
+  intro: Hier teilen Nachbarn Neuigkeiten, bitten um Hilfe und verkaufen Dinge. Kennen Sie eine weitere Gruppe aus Rakovac, eine Viber-Community oder eine Seite? Schicken Sie uns den Link [per E-Mail](mailto:konstantin.stein@gmail.com?subject=Rakovac%20groups), über Viber oder WhatsApp ([+381 63 801 5320](tel:+381638015320)), und wir nehmen ihn auf.
   items:
   - name: Раковчане-Односельчане :) — Telegram
     what: Russischsprachige Gemeinschaft von Rakovac.

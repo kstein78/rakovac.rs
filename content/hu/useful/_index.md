@@ -151,7 +151,7 @@ groups:
     url: https://www.npfruskagora.co.rs/
 - id: community
   title: Helyi csoportok az interneten
-  intro: Itt osztják meg a szomszédok a híreket, kérnek segítséget és adnak el dolgokat. Ismer még rakovaci csoportot, Viber-közösséget vagy oldalt? Küldje el a linket [e-mailben](mailto:konstantin.stein@gmail.com?subject=Rakovac%20groups), Viberen vagy WhatsAppon (+381 63 801 5320), és felvesszük.
+  intro: Itt osztják meg a szomszédok a híreket, kérnek segítséget és adnak el dolgokat. Ismer még rakovaci csoportot, Viber-közösséget vagy oldalt? Küldje el a linket [e-mailben](mailto:konstantin.stein@gmail.com?subject=Rakovac%20groups), Viberen vagy WhatsAppon ([+381 63 801 5320](tel:+381638015320)), és felvesszük.
   items:
   - name: Раковчане-Односельчане :) — Telegram
     what: Rakovac orosz nyelvű közössége.

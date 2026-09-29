@@ -26,6 +26,6 @@ Vrdnik központjában a régebbi **Termal** gyógyszálló fedett termálmedenc�
 
 ## Hol együnk: Konak Stari Orah
 
-Vrdnikben sok kis étterem van. Kosta kedvence a **Konak Stari Orah** (Fruškogorska 17, telefon: +381 22 465770): hagyományos szerb konyha füstölt specialitásokkal, kb. 100 férőhely, a kerthelyiséggel együtt. Aktuális térképes adatlapja szerint továbbra is nyitva van.
+Vrdnikben sok kis étterem van. Kosta kedvence a **Konak Stari Orah** (Fruškogorska 17, telefon: [+381 22 465770](tel:+38122465770)): hagyományos szerb konyha füstölt specialitásokkal, kb. 100 férőhely, a kerthelyiséggel együtt. Aktuális térképes adatlapja szerint továbbra is nyitva van.
 
 {{< todo >}}Mielőtt bármilyen összeget közzéteszünk, ellenőrizni a medencék árait és a napijegyek szabályait a Fruške Termében és a Termalban; megerősíteni, hogy a Stari Orah ebben a szezonban is nyitva van.{{< /todo >}}

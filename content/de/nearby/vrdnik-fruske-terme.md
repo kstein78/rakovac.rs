@@ -26,6 +26,6 @@ Im Zentrum von Vrdnik hat das ältere Kurhotel **Termal** Thermal-Innenbecken, d
 
 ## Essen gehen: Konak Stari Orah
 
-In Vrdnik gibt es viele kleine Restaurants. Kostas Favorit ist das **Konak Stari Orah** (Fruškogorska 17, Telefon +381 22 465770): traditionelle serbische Küche mit Geräuchertem als Spezialität, Platz für etwa 100 Gäste einschließlich Garten. Laut seinem aktuellen Karteneintrag ist es weiterhin geöffnet.
+In Vrdnik gibt es viele kleine Restaurants. Kostas Favorit ist das **Konak Stari Orah** (Fruškogorska 17, Telefon [+381 22 465770](tel:+38122465770)): traditionelle serbische Küche mit Geräuchertem als Spezialität, Platz für etwa 100 Gäste einschließlich Garten. Laut seinem aktuellen Karteneintrag ist es weiterhin geöffnet.
 
 {{< todo >}}Vor der Veröffentlichung von Zahlen die Eintrittspreise und Tageskarten-Regeln bei Fruške Terme und Termal prüfen; bestätigen, dass das Stari Orah in dieser Saison geöffnet ist.{{< /todo >}}

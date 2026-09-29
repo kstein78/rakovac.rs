@@ -26,6 +26,6 @@ U centru Vrdnika stariji banjski hotel **Termal** ima zatvorene termalne bazene,
 
 ## Gde jesti: Konak Stari orah
 
-Vrdnik ima mnogo malih restorana. Kostin omiljeni je **Konak Stari orah** (Fruškogorska 17, telefon +381 22 465770): tradicionalna srpska kuhinja sa suhomesnatim specijalitetima, oko 100 mesta uključujući baštu. Prema aktuelnim podacima sa mapa, restoran radi.
+Vrdnik ima mnogo malih restorana. Kostin omiljeni je **Konak Stari orah** (Fruškogorska 17, telefon [+381 22 465770](tel:+38122465770)): tradicionalna srpska kuhinja sa suhomesnatim specijalitetima, oko 100 mesta uključujući baštu. Prema aktuelnim podacima sa mapa, restoran radi.
 
 {{< todo >}}Proveriti cene i pravila dnevnih karata u Fruškim termama i Termalu pre objavljivanja iznosa; potvrditi da Stari orah radi ove sezone.{{< /todo >}}
