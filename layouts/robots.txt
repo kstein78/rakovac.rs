@@ -1,0 +1,32 @@
+{{- if site.Params.noindex -}}
+# Preview copy of rakovac.rs: not for search engines.
+User-agent: *
+Disallow: /
+{{- else -}}
+# rakovac.rs welcomes search engines and AI assistants: the more people find Rakovac, the better.
+User-agent: *
+Allow: /
+
+User-agent: GPTBot
+Allow: /
+
+User-agent: OAI-SearchBot
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: Claude-SearchBot
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
+User-agent: Applebot-Extended
+Allow: /
+
+Sitemap: {{ "sitemap.xml" | absURL }}
+{{- end }}

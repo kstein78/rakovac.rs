@@ -1,6 +1,7 @@
 baseURL = "https://rakovac.rs/"
 title = "Rakovac"
 enableRobotsTXT = true
+enableGitInfo = true   # page dates (sitemap lastmod, Article dateModified) come from the last git commit
 timeZone = "Europe/Belgrade"
 
 # --- Languages -------------------------------------------------------------
@@ -20,6 +21,8 @@ disableLanguages = []
     contentDir = "content/en"
     [languages.en.params]
       tagline = "A village on the northern slope of Fruška Gora"
+      description = "Unofficial visitor portal of Rakovac on Fruška Gora: nature and walks, the monastery, 7,000 years of history, places to stay, local food and wine."
+      ogLocale = "en_US"
   [languages.sr]
     languageName = "Srpski"
     languageCode = "sr-Latn"
@@ -27,6 +30,8 @@ disableLanguages = []
     contentDir = "content/sr"
     [languages.sr.params]
       tagline = "Selo na severnoj padini Fruške gore"
+      description = "Nezvanični portal za posetioce Rakovca na Fruškoj gori: priroda i šetnje, manastir, 7.000 godina istorije, smeštaj, domaća hrana i vino."
+      ogLocale = "sr_RS"
   [languages.ru]
     languageName = "Русский"
     languageCode = "ru"
@@ -34,6 +39,8 @@ disableLanguages = []
     contentDir = "content/ru"
     [languages.ru.params]
       tagline = "Село на северном склоне Фрушка-Горы"
+      description = "Неофициальный портал для гостей Раковца на Фрушка-Горе: природа и прогулки, монастырь, 7 000 лет истории, жильё, местная еда и вино."
+      ogLocale = "ru_RU"
   [languages.de]
     languageName = "Deutsch"
     languageCode = "de"
@@ -41,6 +48,8 @@ disableLanguages = []
     contentDir = "content/de"
     [languages.de.params]
       tagline = "Ein Dorf am Nordhang der Fruška Gora"
+      description = "Inoffizielles Besucherportal von Rakovac an der Fruška Gora: Natur und Wanderungen, das Kloster, 7.000 Jahre Geschichte, Unterkünfte, Essen und Wein aus der Region."
+      ogLocale = "de_DE"
   [languages.hu]
     languageName = "Magyar"
     languageCode = "hu"
@@ -48,10 +57,11 @@ disableLanguages = []
     contentDir = "content/hu"
     [languages.hu.params]
       tagline = "Falu a Tarcal-hegység északi lejtőjén"
+      description = "Rakovac nem hivatalos látogatói portálja a Tarcal-hegységben: természet és séták, a kolostor, 7000 év történelem, szállás, helyi ételek és bor."
+      ogLocale = "hu_HU"
 
 # --- Site-wide settings ----------------------------------------------------
 [params]
-  description = "Unofficial visitor portal of Rakovac: nature, walks, the monastery, history, places to stay, local food and wine."
   # Village centre (Novi Rakovac) and the monastery, used by the maps.
   mapCenter = [45.1950, 19.7700]
   mapZoom = 14
@@ -69,8 +79,16 @@ disableLanguages = []
 [markup.goldmark.renderer]
   unsafe = true
 
+[outputFormats.llms]
+  # /llms.txt: a short guide to the site for AI assistants (layouts/index.llms.txt), written once at the root
+  mediaType = "text/plain"
+  baseName = "llms"
+  isPlainText = true
+  notAlternative = true
+  root = true
+
 [outputs]
-  home = ["HTML", "RSS"]
+  home = ["HTML", "RSS", "llms"]
   section = ["HTML"]
 
 [sitemap]

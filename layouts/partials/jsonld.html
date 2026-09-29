@@ -1,8 +1,52 @@
-{{ if and .Params.coords (not .IsSection) }}
-{{ $type := "TouristAttraction" }}
-{{ if eq .Params.category "stay" }}{{ $type = "LodgingBusiness" }}{{ else if eq .Params.category "food" }}{{ $type = "FoodEstablishment" }}{{ else if in (slice "shops" "products" "business") .Params.category }}{{ $type = "LocalBusiness" }}{{ end }}
-{{ $d := dict "@context" "https://schema.org" "@type" $type "name" .Title "url" .Permalink "geo" (dict "@type" "GeoCoordinates" "latitude" (index .Params.coords 0) "longitude" (index .Params.coords 1)) }}
-{{ with .Params.address }}{{ $d = merge $d (dict "address" .) }}{{ end }}
-{{ with .Params.phone }}{{ $d = merge $d (dict "telephone" .) }}{{ end }}
-<script type="application/ld+json">{{ $d | jsonify | safeJS }}</script>
+{{/* Structured data (schema.org JSON-LD) in the page's language.
+  Home: WebSite + the village as a TouristDestination. Every other page: BreadcrumbList, plus
+  - a place (TouristAttraction / LandmarksOrHistoricalBuildings / PlaceOfWorship / LodgingBusiness / FoodEstablishment /
+    LocalBusiness) when it has coordinates,
+  - a Person for historical people (people section, group: historical),
+  - otherwise an Article for ordinary text pages.
+  Only facts already on the page go in (name, description, image, address, phone, coordinates). */}}
+{{ $lang := site.Language.Lang }}
+{{ $brand := i18n "brand_name" }}
+{{ $home := site.Home }}
+{{ $d := .Params.summary | default .Description | default .Params.lead | default .Params.tile | default .Summary | default site.Language.Params.description | markdownify | plainify | htmlUnescape | replaceRE `\s+` " " | strings.TrimSpace }}
+{{ $d = truncate 300 "…" $d }}
+{{ $author := dict "@type" "Person" "name" "Konstantin Stein" "url" site.Params.authorSite }}
+{{ $img := "" }}
+{{ with index site.Data.photos (.Params.photo | default .Params.portrait | default "") }}{{ $img = cond (hasPrefix .src "http") .src (.src | absURL) }}{{ end }}
+{{ $graph := slice }}
+{{ if .IsHome }}
+  {{ $graph = $graph | append (dict "@type" "WebSite" "@id" (printf "%s#website" $home.Permalink) "name" $brand "alternateName" (slice "Rakovac" "Раковац" "rakovac.rs") "url" $home.Permalink "inLanguage" site.Language.LanguageCode "description" site.Language.Params.description "publisher" $author) }}
+  {{ $graph = $graph | append (dict "@type" "TouristDestination" "@id" (printf "%s#village" $home.Permalink) "name" $brand "alternateName" (slice "Rakovac" "Раковац" "Stari Rakovac" "Novi Rakovac") "description" site.Language.Params.description "url" $home.Permalink "geo" (dict "@type" "GeoCoordinates" "latitude" (index site.Params.mapCenter 0) "longitude" (index site.Params.mapCenter 1)) "containedInPlace" (dict "@type" "Place" "name" "Fruška Gora, Beočin, Vojvodina, Serbia") "image" (printf "img/share/default-%s.jpg" $lang | absURL)) }}
+{{ else }}
+  {{ $items := slice (dict "@type" "ListItem" "position" 1 "name" $brand "item" $home.Permalink) }}
+  {{ $pos := 1 }}
+  {{ range .Ancestors.Reverse }}{{ if not .IsHome }}{{ $pos = add $pos 1 }}{{ $items = $items | append (dict "@type" "ListItem" "position" $pos "name" .LinkTitle "item" .Permalink) }}{{ end }}{{ end }}
+  {{ $items = $items | append (dict "@type" "ListItem" "position" (add $pos 1) "name" .Title "item" .Permalink) }}
+  {{ $graph = $graph | append (dict "@type" "BreadcrumbList" "itemListElement" $items) }}
+  {{ if .Params.coords }}
+    {{ $type := slice "TouristAttraction" }}
+    {{ $cat := .Params.category }}
+    {{ if eq .Section "monastery" }}{{ $type = slice "TouristAttraction" "PlaceOfWorship" }}
+    {{ else if eq $cat "heritage" }}{{ $type = slice "TouristAttraction" "LandmarksOrHistoricalBuildings" }}
+    {{ else if eq $cat "stay" }}{{ $type = slice "LodgingBusiness" }}
+    {{ else if eq $cat "food" }}{{ $type = slice "FoodEstablishment" }}
+    {{ else if in (slice "shops" "products" "business" "services") $cat }}{{ $type = slice "LocalBusiness" }}{{ end }}
+    {{ $p := dict "@type" $type "name" .Title "description" $d "url" .Permalink "geo" (dict "@type" "GeoCoordinates" "latitude" (index .Params.coords 0) "longitude" (index .Params.coords 1)) }}
+    {{ with .Params.address }}{{ $p = merge $p (dict "address" .) }}{{ end }}
+    {{ with .Params.phone }}{{ $p = merge $p (dict "telephone" .) }}{{ end }}
+    {{ with .Params.website }}{{ $p = merge $p (dict "sameAs" .) }}{{ end }}
+    {{ with $img }}{{ $p = merge $p (dict "image" .) }}{{ end }}
+    {{ $graph = $graph | append $p }}
+  {{ else if and (eq .Section "people") (eq .Params.group "historical") (not .IsSection) }}
+    {{ $p := dict "@type" "Person" "name" .Title "description" $d "url" .Permalink }}
+    {{ with $img }}{{ $p = merge $p (dict "image" .) }}{{ end }}
+    {{ $graph = $graph | append $p }}
+  {{ else if and .IsPage (not (in (slice "map" "fonts" "gallery") .Section)) }}
+    {{ $a := dict "@type" "Article" "headline" .Title "description" $d "inLanguage" site.Language.LanguageCode "mainEntityOfPage" .Permalink "author" $author "publisher" $author }}
+    {{ with $img }}{{ $a = merge $a (dict "image" .) }}{{ end }}
+    {{ if not .Lastmod.IsZero }}{{ $a = merge $a (dict "dateModified" (.Lastmod.Format "2006-01-02")) }}{{ end }}
+    {{ if not .Date.IsZero }}{{ $a = merge $a (dict "datePublished" (.Date.Format "2006-01-02")) }}{{ end }}
+    {{ $graph = $graph | append $a }}
+  {{ end }}
 {{ end }}
+<script type="application/ld+json">{{ dict "@context" "https://schema.org" "@graph" $graph | jsonify | safeJS }}</script>

@@ -17,11 +17,13 @@ groups:
     - 45.2101042
     - 19.7774459
   - name: 77-es busz (GSP Novi Sad)
-    what: Újvidékről Stari Rakovacig; megáll a kolostornál.
-    url: https://www.gspns.co.rs/
+    what: "Újvidékről (Novi Sad, MAS helyközi autóbusz-állomás, 13–14. kocsiállás) Stari Rakovacig; a kolostornál megáll. Naponta csak néhány járat: lásd a lenti menetrendet."
+    url: http://www.gspns.co.rs/red-voznje/prigradski
+    url_label: gsp_timetable
   - name: 78-as busz (GSP Novi Sad)
-    what: Újvidékről Beočin Selóig; Novi Rakovacon a fő kereszteződés közlekedési lámpájánál áll meg.
-    url: https://www.gspns.co.rs/
+    what: "Újvidékről Beočin Selóig a főúton, Novi Rakovacon át (megálló a főkereszteződés jelzőlámpájánál). Az SR jelzésű járatok Stari Rakovacon át közlekednek, és a kolostornál is megállnak, a többiek nem."
+    url: http://www.gspns.co.rs/red-voznje/prigradski
+    url_label: gsp_timetable
   - name: NIS Petrol, Beočin
     what: Benzinkút a Beočinba vezető úton.
     address: Novosadska bb, Beočin

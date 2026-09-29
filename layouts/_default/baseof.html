@@ -3,19 +3,7 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
-  {{ $title := cond .IsHome (printf "%s · %s" site.Title site.Params.tagline) (printf "%s · %s" .Title site.Title) }}
-  <title>{{ $title }}</title>
-  {{ $desc := .Params.summary | default .Description | default site.Params.description }}
-  <meta name="description" content="{{ $desc | plainify }}">
-  <link rel="canonical" href="{{ .Permalink }}">
-  {{ if site.Params.noindex }}<meta name="robots" content="noindex, nofollow">{{ end }}
-  {{ range .AllTranslations }}<link rel="alternate" hreflang="{{ .Language.LanguageCode | default .Language.Lang }}" href="{{ .Permalink }}">
-  {{ end }}
-  <meta property="og:title" content="{{ .Title }}">
-  <meta property="og:description" content="{{ $desc | plainify }}">
-  <meta property="og:url" content="{{ .Permalink }}">
-  <meta property="og:type" content="website">
-  {{ with (.Params.photo | default .Params.portrait) }}{{ with index site.Data.photos . }}<meta property="og:image" content="{{ if hasPrefix .src "http" }}{{ .src }}{{ else }}{{ .src | absURL }}{{ end }}">{{ end }}{{ end }}
+  {{ partial "seo.html" . }}
   <meta name="theme-color" content="#1f3a2e">
   <link rel="icon" href="{{ "favicon.ico" | relURL }}" sizes="48x48">
   <link rel="icon" href="{{ "favicon.svg" | relURL }}" type="image/svg+xml">

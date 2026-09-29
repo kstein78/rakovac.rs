@@ -3,7 +3,7 @@ title: Wanderwege ab Rakovac
 linkTitle: Wanderwege
 weight: 15
 kicker: Vier Wanderungen, von 10 Minuten bis zu einem ganzen Tag
-lead: Alle Routen hier beginnen am Kloster Rakovac in Stari Rakovac, wo Sie parken können und wo der Stadtbus 77 hält. Sie sind von der kürzesten zur längsten geordnet.
+lead: Alle Routen hier beginnen am Kloster Rakovac in Stari Rakovac, wo Sie parken können und wo der Bus 77 und die mit SR markierten Fahrten der Linie 78 halten. Sie sind von der kürzesten zur längsten geordnet.
 tile: Vier markierte Wanderungen ab dem Kloster, von 10 Minuten bis zu einem ganzen Tag
 photo: forest-fog
 hide_children: true
@@ -33,9 +33,9 @@ Kloster – Beli Majdan – Einsiedelei – der alte Steinbruch von Rakovac – 
 
 Stadt- und Vorortbusse von GSP Novi Sad fahren nach Rakovac:
 
-- **Linie 77** (Richtung Stari Rakovac) hält direkt am Kloster.
-- **Linie 78** (Richtung Beočin Selo) hält in Novi Rakovac an der Ampel an der Hauptkreuzung. Von dort sind es etwa 3 km zu Fuß auf der Asphaltstraße nach Süden bis zum Kloster.
+- **Linie 77** (Richtung Stari Rakovac) hält direkt am Kloster (Haltestelle „Stari Rakovac VII – manastir“).
+- **Linie 78** (Richtung Beočin Selo): Die mit **SR** markierten Fahrten führen durch Stari Rakovac und halten ebenfalls am Kloster. Die übrigen Fahrten bleiben auf der Hauptstraße und halten in Novi Rakovac; von der Ampel an der Hauptkreuzung sind es etwa 3 km zu Fuß auf der Asphaltstraße nach Süden bis zum Kloster.
 
-In Novi Sad halten beide Linien am Bulevar oslobođenja. Prüfen Sie vor der Fahrt die aktuellen Zeiten bei [GSP Novi Sad](https://www.gspns.co.rs/).
+In Novi Sad fahren beide Linien am Überlandbusbahnhof ab (MAS, Bussteige 13 und 14). Die Abfahrtszeiten beider Linien stehen im [Fahrplan]({{< relref "useful" >}}#bus).
 
-{{< todo >}}GPS-Tracks aller vier Routen aufzeichnen (z. B. mit Wikiloc oder Strava) und GPX-Dateien zum Herunterladen hinzufügen. Prüfen, ob die Liniennummern 77 und 78 im Fahrplan 2026/27 unverändert sind.{{< /todo >}}
+{{< todo >}}GPS-Tracks aller vier Routen aufzeichnen (z. B. mit Wikiloc oder Strava) und GPX-Dateien zum Herunterladen hinzufügen.{{< /todo >}}

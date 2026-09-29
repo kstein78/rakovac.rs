@@ -11,7 +11,7 @@ list_title: Látnivalók
 
 A Tarcal-hegység (Fruška gora) alacsony, magányosan álló hegység, amely a Pannon-síkságból emelkedik ki. Ez volt Szerbia első nemzeti parkja, legmagasabb pontja, a Crveni čot 538 m magas. A Rakovac feletti északi lejtőket lombhullató erdő borítja; lejjebb gyümölcsösök, szőlők és hétvégi házak találhatók.
 
-A legtöbb séta a Stari Rakovacban álló **Rakovaci kolostortól** indul, ahol le lehet tenni az autót, és ahol az Újvidékről (Novi Sad) érkező 77-es városi busz is megáll. Az ösvényeket fákra és oszlopokra festett jelzések jelölik. Némelyik meredek, eső után pedig sáros, ezért a jó cipő valóban sokat számít.
+A legtöbb séta a Stari Rakovacban álló **Rakovaci kolostortól** indul, ahol le lehet tenni az autót, és ahol a 77-es busz, valamint a 78-as járat SR jelzésű járatai is megállnak. Az ösvényeket fákra és oszlopokra festett jelzések jelölik. Némelyik meredek, eső után pedig sáros, ezért a jó cipő valóban sokat számít.
 
 {{< note title="Indulás előtt" >}}
 - A terület nemzeti park: a hivatalos pihenőhelyeken kívül tilos a sátrazás és a tűzrakás.

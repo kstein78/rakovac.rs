@@ -35,7 +35,7 @@ Hikers often mention a small opening in the ground nearby that breathes out warm
 
 ## How to get there
 
-1. Drive or take bus 77 to **Rakovac Monastery** in Stari Rakovac.
+1. Drive, or take bus 77 or a line 78 run marked SR, to **Rakovac Monastery** in Stari Rakovac.
 2. On the road next to the monastery, about 100 m from the gate, a sign reads **"Beli Majdan"**.
 3. Follow the steep earth track uphill. It takes about 5 to 10 minutes.
 

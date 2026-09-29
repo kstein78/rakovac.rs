@@ -27,7 +27,7 @@ sections_title: Rakovac entdecken
 
 **Mit dem Auto:** Rakovac liegt an der Regionalstraße von Novi Sad nach Beočin, 13 km vom Zentrum von Novi Sad und 4 km von Beočin entfernt. Von Belgrad sind es etwa 95 km. Zum Kloster und zu den Wanderwegen biegen Sie an der Hauptkreuzung in Novi Rakovac nach Süden ab und folgen der Straße etwa 3 km talaufwärts bis Stari Rakovac.
 
-**Mit dem Bus:** Die **Linie 77** von GSP Novi Sad fährt nach Stari Rakovac und hält am Kloster. Die **Linie 78** nach Beočin Selo hält an der Kreuzung in Novi Rakovac. Siehe [Nützliches]({{< relref "useful" >}}).
+**Mit dem Bus:** Die **Linie 77** von GSP Novi Sad fährt nach Stari Rakovac und hält am Kloster. Die **Linie 78** nach Beočin Selo hält an der Hauptstraße in Novi Rakovac; ihre mit **SR** markierten Fahrten führen durch Stari Rakovac und halten ebenfalls am Kloster. Fahrplan unter [Nützliches]({{< relref "useful" >}}#bus).
 
 ## Zwei Teile eines Dorfes
 

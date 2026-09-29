@@ -11,7 +11,7 @@ list_title: Šta posetiti
 
 Fruška gora je niska, usamljena planina koja se uzdiže iz Panonske nizije. Bila je prvi nacionalni park u Srbiji, a njen najviši vrh, Crveni čot, ima 538 m. Severne padine iznad Rakovca prekrivene su listopadnom šumom, a niže su voćnjaci, vinogradi i vikendice.
 
-Većina šetnji počinje kod **manastira Rakovac** u Starom Rakovcu, gde može da se ostavi automobil i gde staje gradski autobus 77 iz Novog Sada. Staze su obeležene markacijama na drveću i banderama. Neke su strme i blatnjave posle kiše, pa dobra obuća zaista pomaže.
+Većina šetnji počinje kod **manastira Rakovac** u Starom Rakovcu, gde može da se ostavi automobil i gde staju autobus 77 i polasci linije 78 označeni sa SR. Staze su obeležene markacijama na drveću i banderama. Neke su strme i blatnjave posle kiše, pa dobra obuća zaista pomaže.
 
 {{< note title="Pre polaska" >}}
 - Ovo je nacionalni park: kampovanje i loženje vatre zabranjeni su van zvaničnih izletišta.

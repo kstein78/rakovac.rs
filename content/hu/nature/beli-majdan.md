@@ -40,7 +40,7 @@ A túrázók gyakran említenek a közelben egy kis nyílást a földben, amelyb
 
 ## Hogyan juthat el ide
 
-1. Autóval vagy a 77-es busszal menjen a Stari Rakovacban álló **Rakovaci kolostorhoz**.
+1. Autóval, a 77-es busszal vagy a 78-as járat SR jelzésű járatával menjen a Stari Rakovacban álló **Rakovaci kolostorhoz**.
 2. A kolostor melletti úton, a kaputól kb. 100 m-re egy tábla áll: **„Beli Majdan”**.
 3. Kövesse a meredek földutat felfelé. Körülbelül 5–10 percig tart.
 

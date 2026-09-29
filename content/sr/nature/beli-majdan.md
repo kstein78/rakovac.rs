@@ -40,7 +40,7 @@ Planinari često pominju mali otvor u zemlji u blizini iz kog izlazi topao vazdu
 
 ## Kako stići
 
-1. Automobilom ili autobusom 77 do **manastira Rakovac** u Starom Rakovcu.
+1. Automobilom, autobusom 77 ili polaskom linije 78 označenim sa SR do **manastira Rakovac** u Starom Rakovcu.
 2. Na putu pored manastira, oko 100 m od kapije, nalazi se tabla **„Beli Majdan“**.
 3. Pratite strmu zemljanu stazu uzbrdo. Potrebno je 5 do 10 minuta.
 

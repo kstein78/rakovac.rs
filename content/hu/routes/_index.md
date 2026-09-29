@@ -3,7 +3,7 @@ title: Túraútvonalak Rakovacból
 linkTitle: Túrák
 weight: 15
 kicker: Négy séta 10 perctől egy egész napig
-lead: Minden itt szereplő útvonal a Stari Rakovacban álló Rakovaci kolostortól indul, ahol parkolni lehet, és ahol a 77-es városi busz is megáll. Az útvonalakat a legrövidebbtől a leghosszabbig soroljuk fel.
+lead: Minden itt szereplő útvonal a Stari Rakovacban álló Rakovaci kolostortól indul, ahol parkolni lehet, és ahol a 77-es busz, valamint a 78-as járat SR jelzésű járatai is megállnak. Az útvonalakat a legrövidebbtől a leghosszabbig soroljuk fel.
 tile: Négy jelzett séta a kolostortól, 10 perctől egy egész napig
 photo: forest-fog
 hide_children: true
@@ -33,9 +33,9 @@ Kolostor – Beli Majdan – remetelak – a régi rakovaci kőbánya – Mali �
 
 Rakovacot a GSP Novi Sad városi és elővárosi buszjáratai szolgálják ki:
 
-- A **77-es járat** (Stari Rakovac felé) közvetlenül a kolostor mellett áll meg.
-- A **78-as járat** (Beočin Selo felé) Novi Rakovacban, a főkereszteződés jelzőlámpájánál áll meg. Innen kb. 3 km gyalog az aszfaltúton dél felé a kolostorig.
+- A **77-es járat** (Stari Rakovac felé) közvetlenül a kolostor mellett áll meg („Stari Rakovac VII – manastir” megálló).
+- A **78-as járat** (Beočin Selo felé): az **SR** jelzésű járatok Stari Rakovacon át közlekednek, és a kolostornál is megállnak. A többi járat a főúton marad, és Novi Rakovacban áll meg; a főkereszteződés jelzőlámpájától kb. 3 km gyalog az aszfaltúton dél felé a kolostorig.
 
-Újvidéken (Novi Sad) mindkét járat a Bulevar oslobođenja sugárúton áll meg. Utazás előtt ellenőrizze az aktuális menetrendet a [GSP Novi Sad](https://www.gspns.co.rs/) oldalán.
+Újvidéken (Novi Sad) mindkét járat a helyközi autóbusz-állomásról indul (MAS, 13-as és 14-es kocsiállás). Mindkét járat indulási idejét a [menetrend]({{< relref "useful" >}}#bus) tartalmazza.
 
-{{< todo >}}Rögzíteni mind a négy útvonal GPS-nyomvonalát (pl. Wikiloc vagy Strava segítségével), és letölthető GPX-fájlokat hozzáadni. Ellenőrizni, hogy a 77-es és a 78-as járatszám a 2026/27-es menetrendben is változatlan-e.{{< /todo >}}
+{{< todo >}}Rögzíteni mind a négy útvonal GPS-nyomvonalát (pl. Wikiloc vagy Strava segítségével), és letölthető GPX-fájlokat hozzáadni.{{< /todo >}}

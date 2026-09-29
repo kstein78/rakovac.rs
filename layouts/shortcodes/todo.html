@@ -1,2 +1,2 @@
 {{/* Editor's note, visible only while params.showTodos = true */}}
-{{ if site.Params.showTodos }}<div class="todo" role="note"><strong>{{ i18n "todo" }}:</strong> {{ .Inner | markdownify }}</div>{{ end }}
+{{ if site.Params.showTodos }}<div class="todo" role="note" data-nosnippet><strong>{{ i18n "todo" }}:</strong> {{ .Inner | markdownify }}</div>{{ end }}

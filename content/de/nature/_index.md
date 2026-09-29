@@ -11,7 +11,7 @@ list_title: Sehenswertes
 
 Die Fruška Gora ist ein niedriges, einzeln stehendes Gebirge, das sich aus der Pannonischen Tiefebene erhebt. Sie war der erste Nationalpark Serbiens; ihr höchster Punkt, der Crveni čot, erreicht 538 m. Die Nordhänge oberhalb von Rakovac sind mit Laubwald bedeckt, weiter unten liegen Obstgärten, Weinberge und Wochenendhäuser.
 
-Die meisten Wanderungen beginnen am **Kloster Rakovac** in Stari Rakovac, wo man das Auto abstellen kann und wo der Stadtbus 77 aus Novi Sad hält. Die Wege sind mit aufgemalten Zeichen an Bäumen und Pfosten markiert. Manche sind steil und nach Regen schlammig, gutes Schuhwerk macht also einen echten Unterschied.
+Die meisten Wanderungen beginnen am **Kloster Rakovac** in Stari Rakovac, wo man das Auto abstellen kann und wo der Bus 77 und die mit SR markierten Fahrten der Linie 78 halten. Die Wege sind mit aufgemalten Zeichen an Bäumen und Pfosten markiert. Manche sind steil und nach Regen schlammig, gutes Schuhwerk macht also einen echten Unterschied.
 
 {{< note title="Bevor Sie losgehen" >}}
 - Das Gebiet ist ein Nationalpark: Zelten und offenes Feuer sind außerhalb der offiziellen Picknickplätze verboten.

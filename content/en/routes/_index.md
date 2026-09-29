@@ -3,7 +3,7 @@ title: "Walking routes from Rakovac"
 linkTitle: "Walking routes"
 weight: 15
 kicker: "Four walks, from 10 minutes to a full day"
-lead: "Every route here starts at Rakovac Monastery in Stari Rakovac, where you can park and where city bus 77 stops. They are listed from shortest to longest."
+lead: "Every route here starts at Rakovac Monastery in Stari Rakovac, where you can park and where bus 77 and the SR runs of line 78 stop. They are listed from shortest to longest."
 tile: "Four marked walks from the monastery, 10 minutes to a full day"
 photo: forest-fog
 hide_children: true
@@ -33,9 +33,9 @@ Monastery – Beli Majdan – Hermitage – the old Rakovac quarry – Mali and 
 
 City and suburban buses of GSP Novi Sad serve Rakovac:
 
-- **Line 77** (towards Stari Rakovac) stops right by the monastery.
-- **Line 78** (towards Beočin Selo) stops in Novi Rakovac at the traffic lights at the main crossroads. From there it is about 3 km on foot, south along the asphalt road, to the monastery.
+- **Line 77** (towards Stari Rakovac) stops right by the monastery (stop "Stari Rakovac VII – manastir").
+- **Line 78** (towards Beočin Selo): the runs marked **SR** go through Stari Rakovac and also stop at the monastery. The other runs stay on the main road and stop in Novi Rakovac; from the traffic lights at the main crossroads it is about 3 km on foot, south along the asphalt road, to the monastery.
 
-In Novi Sad both lines stop on Bulevar oslobođenja. Check current times with [GSP Novi Sad](https://www.gspns.co.rs/) before you travel.
+In Novi Sad both lines leave from the intercity bus station (MAS, platforms 13 and 14). Departure times of both lines are in the [timetable]({{< relref "useful" >}}#bus).
 
-{{< todo >}}Record GPS tracks of all four routes (e.g. with Wikiloc or Strava) and add downloadable GPX files. Check that line numbers 77 and 78 are unchanged for the 2026/27 timetable.{{< /todo >}}
+{{< todo >}}Record GPS tracks of all four routes (e.g. with Wikiloc or Strava) and add downloadable GPX files.{{< /todo >}}

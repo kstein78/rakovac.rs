@@ -27,7 +27,7 @@ sections_title: Istražite Rakovac
 
 **Automobilom:** Rakovac je na regionalnom putu Novi Sad – Beočin, 13 km od centra Novog Sada i 4 km od Beočina. Od Beograda je udaljen oko 95 km. Za manastir i staze, na glavnoj raskrsnici u Novom Rakovcu skrenite na jug i vozite oko 3 km uz dolinu do Starog Rakovca.
 
-**Autobusom:** **linija 77** GSP Novi Sad vozi do Starog Rakovca i staje kod manastira. **Linija 78** za Beočin Selo staje na raskrsnici u Novom Rakovcu. Više u rubrici [Korisne informacije]({{< relref "useful" >}}).
+**Autobusom:** **linija 77** GSP Novi Sad vozi do Starog Rakovca i staje kod manastira. **Linija 78** za Beočin Selo staje na glavnom putu u Novom Rakovcu, a njeni polasci označeni sa **SR** idu kroz Stari Rakovac i staju i kod manastira. Red vožnje je u rubrici [Korisne informacije]({{< relref "useful" >}}#bus).
 
 ## Jedno selo, dva dela
 

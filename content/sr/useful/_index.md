@@ -17,11 +17,13 @@ groups:
     - 45.2101042
     - 19.7774459
   - name: Autobus 77 (GSP Novi Sad)
-    what: Iz Novog Sada do Starog Rakovca; staje kod manastira.
-    url: https://www.gspns.co.rs/
+    what: "Iz Novog Sada (Međumesna autobuska stanica, peroni 13–14) do Starog Rakovca; staje kod manastira. Svega nekoliko polazaka dnevno: pogledajte red vožnje ispod."
+    url: http://www.gspns.co.rs/red-voznje/prigradski
+    url_label: gsp_timetable
   - name: Autobus 78 (GSP Novi Sad)
-    what: Iz Novog Sada do Beočin Sela; staje u Novom Rakovcu kod semafora na glavnoj raskrsnici.
-    url: https://www.gspns.co.rs/
+    what: "Iz Novog Sada do Beočin Sela, glavnim putem kroz Novi Rakovac (stajalište kod semafora na glavnoj raskrsnici). Polasci označeni sa SR idu kroz Stari Rakovac i staju i kod manastira, ostali ne."
+    url: http://www.gspns.co.rs/red-voznje/prigradski
+    url_label: gsp_timetable
   - name: NIS Petrol, Beočin
     what: Benzinska pumpa na ulazu u Beočin.
     address: Novosadska bb, Beočin

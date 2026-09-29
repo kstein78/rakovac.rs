@@ -488,3 +488,20 @@ html.gal-open { overflow: hidden; }
 .gal-viewer.gal-idle { cursor: none; }
 .gal-viewer.gal-idle .gal-btn, .gal-viewer.gal-idle .gal-tools, .gal-viewer.gal-idle .gal-cap { opacity: 0; }
 @media (max-width: 600px) { .gal-btn { width: 2.4rem; height: 3.6rem; } }
+
+/* Bus timetable on Useful info (layouts/partials/bus-timetable.html). */
+.bus-legend { list-style: none; padding: 0; margin: .5rem 0 1rem; display: grid; gap: .35rem; font-size: .92rem; }
+.bus-tag { display: inline-block; min-width: 2.2em; text-align: center; font-size: .72rem; font-weight: 600; line-height: 1; padding: .28em .45em; border-radius: 4px; vertical-align: .1em; white-space: nowrap; }
+.bus-77 { background: var(--accent); color: #fff; }
+.bus-78sr { background: var(--moss); color: #fff; }
+.bus-78 { background: var(--surface-2, var(--line)); color: var(--ink); border: 1px solid var(--line); }
+:root[data-theme="dark"] .bus-77, :root[data-theme="dark"] .bus-78sr { color: #101512; }
+@media (prefers-color-scheme: dark) { :root:not([data-theme="light"]) .bus-77, :root:not([data-theme="light"]) .bus-78sr { color: #101512; } }
+.bus-period { margin: 1.2rem 0 .6rem; }
+.bus-days { display: grid; grid-template-columns: repeat(auto-fit, minmax(260px, 1fr)); gap: 1rem; }
+.bus-day { background: var(--surface); border: 1px solid var(--line); border-radius: var(--radius); padding: .9rem 1rem 1rem; }
+.bus-day h3 { margin: 0 0 .6rem; font-size: 1.05rem; }
+.bus-cols { display: grid; grid-template-columns: 1fr 1fr; gap: .8rem; }
+.bus-dir { font-size: .8rem; color: var(--muted); margin: 0 0 .4rem; min-height: 2.4em; }
+.bus-times { list-style: none; padding: 0; margin: 0; display: grid; gap: .25rem; }
+.bus-times .num { font-variant-numeric: tabular-nums; font-weight: 600; }

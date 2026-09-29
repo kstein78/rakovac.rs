@@ -1,0 +1,40 @@
+{{/* Head tags for search engines and link previews, all in the page's own language.
+  Description: summary > description > lead > tile > first words of the text > the language's site description,
+  cut at a word near 160 characters. Image: 1200x630 card from static/img/share/ (scripts/share_images.py)
+  when there is one, otherwise the photo itself, otherwise the branded card of the language. */}}
+{{ $lang := site.Language.Lang }}
+{{ $brand := i18n "brand_name" }}
+{{ $sitedesc := site.Language.Params.description }}
+{{ $title := cond .IsHome (printf "%s · %s" $brand site.Language.Params.tagline) (printf "%s · %s" .Title $brand) }}
+{{ $d := "" }}
+{{ if .IsHome }}{{ $d = $sitedesc }}{{ else }}{{ $d = .Params.summary | default .Description | default .Params.lead | default .Params.tile | default .Summary }}{{ end }}
+{{ $d = $d | default $sitedesc | markdownify | plainify | htmlUnescape | replaceRE `\s+` " " | strings.TrimSpace }}
+{{ $d = truncate 160 "…" $d }}
+{{ $img := "" }}{{ $imgAlt := "" }}{{ $imgW := 0 }}{{ $imgH := 0 }}
+{{ $key := cond .IsHome "" (.Params.photo | default .Params.portrait | default "") }}
+{{ with and $key (index site.Data.photos $key) }}
+  {{ $imgAlt = index . (printf "alt_%s" $lang) | default .alt }}
+  {{ if hasPrefix .src "http" }}{{ $img = .src }}
+  {{ else }}
+    {{ $share := printf "img/share/%s" (path.Base .src) }}
+    {{ if fileExists (printf "static/%s" $share) }}{{ $img = $share | absURL }}{{ $imgW = 1200 }}{{ $imgH = 630 }}{{ else }}{{ $img = .src | absURL }}{{ end }}
+  {{ end }}
+{{ end }}
+{{ if not $img }}{{ $img = printf "img/share/default-%s.jpg" $lang | absURL }}{{ $imgW = 1200 }}{{ $imgH = 630 }}{{ $imgAlt = printf "%s · %s" $brand site.Language.Params.tagline }}{{ end }}
+<title>{{ $title }}</title>
+<meta name="description" content="{{ $d }}">
+<link rel="canonical" href="{{ .Permalink }}">
+{{ if site.Params.noindex }}<meta name="robots" content="noindex, nofollow">{{ else }}<meta name="robots" content="index, follow, max-image-preview:large">{{ end }}
+{{ range .AllTranslations }}<link rel="alternate" hreflang="{{ .Language.LanguageCode | default .Language.Lang }}" href="{{ .Permalink }}">
+{{ end }}{{ range .AllTranslations }}{{ if eq .Language.Lang "en" }}<link rel="alternate" hreflang="x-default" href="{{ .Permalink }}">{{ end }}{{ end }}
+<meta property="og:site_name" content="{{ $brand }}">
+<meta property="og:title" content="{{ cond .IsHome $title .Title }}">
+<meta property="og:description" content="{{ $d }}">
+<meta property="og:url" content="{{ .Permalink }}">
+<meta property="og:type" content="{{ cond (or .IsHome .IsSection) "website" "article" }}">
+<meta property="og:locale" content="{{ site.Language.Params.ogLocale }}">
+{{ range .Translations }}<meta property="og:locale:alternate" content="{{ .Language.Params.ogLocale }}">
+{{ end }}<meta property="og:image" content="{{ $img }}">
+{{ if $imgW }}<meta property="og:image:width" content="{{ $imgW }}"><meta property="og:image:height" content="{{ $imgH }}">{{ end }}
+{{ with $imgAlt }}<meta property="og:image:alt" content="{{ . }}">{{ end }}
+<meta name="twitter:card" content="summary_large_image">

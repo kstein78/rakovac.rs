@@ -1,0 +1,60 @@
+{{/* Bus timetable from data/bus.yaml (made weekly from the official gspns.co.rs timetable by scripts/bus_fetch.py).
+  Shows the period valid at build time and, if it differs, the next one. Lines: 77 (Stari Rakovac, monastery),
+  78 with mark SR (through Stari Rakovac, monastery) and plain 78 (main road through Novi Rakovac only). */}}
+{{ with site.Data.bus }}
+{{ $b := . }}
+{{ $today := now.Format "2006-01-02" }}
+{{ $cur := index $b.periods 0 }}
+{{ range $b.periods }}{{ if le .valid_from $today }}{{ $cur = . }}{{ end }}{{ end }}
+{{ $show := slice $cur }}
+{{/* the next period is shown only if a departure differs (the source URLs always differ by date) */}}
+{{ $sig := "" }}{{ range $k, $ls := $cur.days }}{{ range $ls }}{{ $sig = printf "%s|%s%s%s" $sig $k .label (jsonify .directions) }}{{ end }}{{ end }}
+{{ range $b.periods }}{{ if gt .valid_from $today }}
+  {{ $s2 := "" }}{{ range $k, $ls := .days }}{{ range $ls }}{{ $s2 = printf "%s|%s%s%s" $s2 $k .label (jsonify .directions) }}{{ end }}{{ end }}
+  {{ if ne $s2 $sig }}{{ $show = $show | append . }}{{ end }}
+{{ end }}{{ end }}
+<section class="wrap useful-group bus" id="bus">
+  <h2>{{ i18n "bus_title" }}</h2>
+  <p class="prose-width">{{ i18n "bus_intro" }}</p>
+  <ul class="bus-legend">
+    <li><span class="bus-tag bus-77">77</span> {{ i18n "bus_l77" }}</li>
+    <li><span class="bus-tag bus-78sr">78 SR</span> {{ i18n "bus_l78sr" }}</li>
+    <li><span class="bus-tag bus-78">78</span> {{ i18n "bus_l78" }}</li>
+  </ul>
+  {{ range $i, $p := $show }}
+  {{ $d := time.AsTime $p.valid_from }}
+  <p class="bus-period"><strong>{{ if $i }}{{ i18n "bus_new" }}{{ else }}{{ i18n "bus_valid" }}{{ end }} {{ $d.Format "02.01.2006" }}</strong></p>
+  <div class="bus-days">
+    {{ range slice "workday" "saturday" "sunday" }}
+    {{ $day := . }}
+    {{ $to := slice }}{{ $from := slice }}
+    {{ range index $p.days $day }}
+      {{ $no := index (split .label " ") 0 }}
+      {{ range .directions }}
+        {{ $dir := .dir }}
+        {{ range .departures }}
+          {{ $code := "77" }}{{ if eq $no "78" }}{{ $code = cond (eq .mark "SR") "78sr" "78" }}{{ end }}
+          {{ $x := dict "t" .t "code" $code }}
+          {{ if eq $dir "A" }}{{ $to = $to | append $x }}{{ else }}{{ $from = $from | append $x }}{{ end }}
+        {{ end }}
+      {{ end }}
+    {{ end }}
+    <div class="bus-day">
+      <h3>{{ i18n (printf "bus_%s" $day) }}</h3>
+      <div class="bus-cols">
+        {{ range slice (slice "bus_to" $to) (slice "bus_from" $from) }}
+        <div>
+          <p class="bus-dir">{{ i18n (index . 0) }}</p>
+          {{ with index . 1 }}
+          <ul class="bus-times">{{ range sort . "t" }}<li><span class="num">{{ .t }}</span> <span class="bus-tag bus-{{ .code }}">{{ if eq .code "78sr" }}78 SR{{ else }}{{ .code }}{{ end }}</span></li>{{ end }}</ul>
+          {{ else }}<p class="small muted">{{ i18n "bus_none" }}</p>{{ end }}
+        </div>
+        {{ end }}
+      </div>
+    </div>
+    {{ end }}
+  </div>
+  {{ end }}
+  <p class="small muted">{{ i18n "bus_checked" }} {{ (time.AsTime (substr $b.fetched 0 10)).Format "02.01.2006" }} · <a href="{{ $b.source }}" rel="noopener">{{ i18n "bus_source" }}</a></p>
+</section>
+{{ end }}

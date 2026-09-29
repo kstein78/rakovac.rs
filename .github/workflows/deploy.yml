@@ -31,6 +31,9 @@ jobs:
       - name: Build site
         run: hugo --gc --minify
 
+      - name: SEO check (descriptions in each language, canonical, hreflang, Open Graph, JSON-LD)
+        run: python3 scripts/seo_check.py public
+
       - uses: actions/upload-artifact@v7
         with:
           name: site
@@ -71,6 +74,10 @@ jobs:
           done
           echo "::error::after 10 minutes rakovac.rs still serves $live, not $GITHUB_SHA. On the server: journalctl -u rakovac-update"
           exit 1
+
+      - name: Tell search engines what changed (IndexNow: Bing, Yandex, Seznam)
+        continue-on-error: true
+        run: python3 scripts/indexnow.py "${{ github.event.before }}" "$GITHUB_SHA"
 
   # Preview on GitHub Pages: https://kstein78.github.io/rakovac.rs/
   # One-time: repo Settings -> Pages -> Build and deployment -> Source: "GitHub Actions".

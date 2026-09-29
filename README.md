@@ -184,3 +184,23 @@ One-time server setup: [deploy/SERVER-SETUP.md](deploy/SERVER-SETUP.md).
   shops, local-products and support pages. `static/downloads/rakovac-logo.zip` is the logo pack;
   `rakovac-fonts.zip` has everything, including a `Logo/` folder.
 - `aliases` in front matter are English-only: `translate.py` strips them before translating and rejects them in translations.
+
+## SEO and link previews
+
+- `layouts/partials/seo.html`: title, description (own language: summary > description > lead > tile > text >
+  the language's `description` in hugo.toml), canonical, hreflang + x-default, Open Graph, Twitter card.
+- Preview images 1200×630: `python3 scripts/share_images.py` crops every main photo into `static/img/share/`
+  and renders a branded card per language (`default-<lang>.jpg`). Run it after adding a page photo.
+- `layouts/partials/jsonld.html`: schema.org data (WebSite, village, places, people, articles, breadcrumbs).
+- `robots.txt` (search engines and AI crawlers welcome), `/llms.txt`, sitemaps with hreflang and git dates.
+- CI: `scripts/seo_check.py` fails the build if a page lacks a description in its own language, canonical,
+  hreflang, Open Graph or valid JSON-LD. After each deploy `scripts/indexnow.py` tells Bing/Yandex/Seznam
+  which pages changed (key file `static/<key>.txt`).
+- Editor notes and TEMP badges carry `data-nosnippet`, so they never show in search results.
+
+## Bus timetable
+
+`.github/workflows/bus.yml` reads the official GSP Novi Sad timetable (gspns.co.rs, lines 77 and 78, every
+period, working day / Saturday / Sunday) every Monday into `data/bus.yaml` and commits it when a departure changes.
+The raw pages are on the branch `bus-raw`. "SR" = the 78 goes through Stari Rakovac (and stops at the monastery).
+Shown on Useful info (`layouts/partials/bus-timetable.html`).

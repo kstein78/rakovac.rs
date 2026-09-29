@@ -27,7 +27,7 @@ sections_title: Explore Rakovac
 
 **By car:** Rakovac is on the regional road from Novi Sad to Beočin, 13 km from the centre of Novi Sad and 4 km from Beočin. From Belgrade it is about 95 km. For the monastery and the trails, turn south at the main crossroads in Novi Rakovac and follow the road about 3 km up the valley to Stari Rakovac.
 
-**By bus:** GSP Novi Sad **line 77** runs to Stari Rakovac and stops at the monastery. **Line 78** to Beočin Selo stops at the crossroads in Novi Rakovac. See [Useful info]({{< relref "useful" >}}).
+**By bus:** GSP Novi Sad **line 77** runs to Stari Rakovac and stops at the monastery. **Line 78** to Beočin Selo stops on the main road in Novi Rakovac; its runs marked **SR** go through Stari Rakovac and also stop at the monastery. Timetable in [Useful info]({{< relref "useful" >}}#bus).
 
 ## Two parts of one village
 

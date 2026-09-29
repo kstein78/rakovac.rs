@@ -1,0 +1,17 @@
+{{- /* Rendered for every language but written to the same root file, so it lists all languages itself. */ -}}
+# Rakovac (rakovac.rs)
+
+> Unofficial visitor portal of Rakovac (Serbian: Раковац), a village on the northern slope of Fruška Gora in
+> Vojvodina, Serbia, 13 km from Novi Sad, in Beočin municipality. Nature and walks, Rakovac Monastery, 7,000 years
+> of history (the Gradina / Dombó archaeological site), people, places to stay, local food and wine, bus timetable.
+> Made by Konstantin (Kosta) Stein, who lives in Rakovac. Available in Serbian (Latin), English, Russian, German and
+> Hungarian. Facts are checked against sources; unconfirmed details are marked on the pages.
+
+Contact: {{ site.Params.contactEmail }} · Photos: © Konstantin Stein unless credited otherwise.
+{{ range site.Sites }}
+## {{ .Language.LanguageName }} ({{ .Language.Lang }})
+
+- [{{ .Home.Title }}]({{ .Home.Permalink }}): {{ .Language.Params.description }}
+{{ range where .RegularPages "Section" "ne" "" }}{{ if not (in (slice "fonts") .Section) }}- [{{ .Title }}]({{ .Permalink }}){{ with .Params.summary | default .Params.lead }}: {{ . | plainify | truncate 140 "…" }}{{ end }}
+{{ end }}{{ end }}{{ range .Sections }}- [{{ .Title }}]({{ .Permalink }})
+{{ end }}{{ end }}

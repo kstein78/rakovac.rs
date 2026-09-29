@@ -17,11 +17,13 @@ groups:
     - 45.2101042
     - 19.7774459
   - name: Buslinie 77 (GSP Novi Sad)
-    what: Von Novi Sad nach Stari Rakovac; hält am Kloster.
-    url: https://www.gspns.co.rs/
+    what: "Von Novi Sad (Überlandbusbahnhof MAS, Bussteige 13–14) nach Stari Rakovac; hält am Kloster. Nur wenige Fahrten am Tag: siehe Fahrplan unten."
+    url: http://www.gspns.co.rs/red-voznje/prigradski
+    url_label: gsp_timetable
   - name: Buslinie 78 (GSP Novi Sad)
-    what: Von Novi Sad nach Beočin Selo; hält in Novi Rakovac an der Ampel an der Hauptkreuzung.
-    url: https://www.gspns.co.rs/
+    what: "Von Novi Sad nach Beočin Selo über die Hauptstraße durch Novi Rakovac (Halt an der Ampel an der Hauptkreuzung). Die mit SR markierten Fahrten führen durch Stari Rakovac und halten auch am Kloster, die übrigen nicht."
+    url: http://www.gspns.co.rs/red-voznje/prigradski
+    url_label: gsp_timetable
   - name: NIS Petrol, Beočin
     what: Tankstelle an der Einfahrt nach Beočin.
     address: Novosadska bb, Beočin

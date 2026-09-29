@@ -32,7 +32,7 @@ Die lange Geschichte des Klosters, von der Gründungslegende um Raka und den Hir
 - **Öffnungszeiten:** Das Gelände ist für Besucher von 7:00 bis 19:30 Uhr geöffnet (Tourismusorganisation Novi Sad).
 - **Gottesdienste:** Die sonntägliche Göttliche Liturgie beginnt um 8:00 Uhr.
 - **Kleidung und Verhalten:** Dies ist ein bewohntes Kloster, kein Museum. Erwartet wird zurückhaltende Kleidung, die Schultern und Knie bedeckt. Viele orthodoxe Klöster bitten Frauen außerdem, in der Kirche einen Rock und ein Kopftuch zu tragen. Schalten Sie Ihr Telefon stumm und fragen Sie, bevor Sie die Nonnen oder das Kircheninnere fotografieren.
-- **Anreise:** mit dem Auto über die Manastirska-Straße von Novi Rakovac aus oder mit dem Stadtbus 77, der am Kloster hält.
+- **Anreise:** mit dem Auto über die Manastirska-Straße von Novi Rakovac aus oder mit dem Bus von GSP Novi Sad: Am Kloster halten die Linie 77 und die mit SR markierten Fahrten der Linie 78 (durch Stari Rakovac). Siehe [Fahrplan]({{< relref "useful" >}}#bus).
 
 {{< todo >}}Bei der Schwesternschaft nachfragen: aktuelle Öffnungszeiten, Gottesdienstzeiten, ob im Inneren fotografiert werden darf und ob sie damit einverstanden sind, auf dieser Website vorgestellt zu werden.{{< /todo >}}
 

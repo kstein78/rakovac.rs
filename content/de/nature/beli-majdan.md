@@ -40,7 +40,7 @@ Wanderer erwähnen oft eine kleine Öffnung im Boden in der Nähe, aus der warme
 
 ## Anfahrt
 
-1. Fahren Sie mit dem Auto oder dem Bus 77 zum **Kloster Rakovac** in Stari Rakovac.
+1. Fahren Sie mit dem Auto, dem Bus 77 oder einer mit SR markierten Fahrt der Linie 78 zum **Kloster Rakovac** in Stari Rakovac.
 2. An der Straße neben dem Kloster, etwa 100 m vom Tor entfernt, steht ein Schild **„Beli Majdan“**.
 3. Folgen Sie dem steilen Erdpfad bergauf. Das dauert etwa 5 bis 10 Minuten.
 

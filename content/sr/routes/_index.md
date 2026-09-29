@@ -3,7 +3,7 @@ title: Pešačke staze iz Rakovca
 linkTitle: Pešačke staze
 weight: 15
 kicker: Četiri šetnje, od 10 minuta do celog dana
-lead: Sve staze ovde počinju kod manastira Rakovac u Starom Rakovcu, gde može da se parkira i gde staje gradski autobus 77. Poređane su od najkraće do najduže.
+lead: Sve staze ovde počinju kod manastira Rakovac u Starom Rakovcu, gde može da se parkira i gde staju autobus 77 i polasci linije 78 označeni sa SR. Poređane su od najkraće do najduže.
 tile: Četiri obeležene staze od manastira, od 10 minuta do celog dana
 photo: forest-fog
 hide_children: true
@@ -33,9 +33,9 @@ Manastir – Beli majdan – isposnica – stari rakovački kamenolom – Mali i
 
 Rakovac povezuju gradski i prigradski autobusi GSP Novi Sad:
 
-- **Linija 77** (za Stari Rakovac) staje odmah kod manastira.
-- **Linija 78** (za Beočin Selo) staje u Novom Rakovcu kod semafora na glavnoj raskrsnici. Odatle je oko 3 km pešice na jug, asfaltom, do manastira.
+- **Linija 77** (za Stari Rakovac) staje odmah kod manastira (stajalište „Stari Rakovac VII – manastir“).
+- **Linija 78** (za Beočin Selo): polasci označeni sa **SR** idu kroz Stari Rakovac i staju i kod manastira. Ostali polasci voze glavnim putem i staju u Novom Rakovcu; od semafora na glavnoj raskrsnici do manastira ima oko 3 km pešice na jug, asfaltom.
 
-U Novom Sadu obe linije staju na Bulevaru oslobođenja. Aktuelni red vožnje proverite na sajtu [GSP Novi Sad](https://www.gspns.co.rs/) pre polaska.
+U Novom Sadu obe linije polaze sa Međumesne autobuske stanice (MAS, peroni 13 i 14). Polasci obe linije su u [redu vožnje]({{< relref "useful" >}}#bus).
 
-{{< todo >}}Snimiti GPS tragove sve četiri staze (npr. Wikiloc ili Strava) i dodati GPX fajlove za preuzimanje. Proveriti da li su linije 77 i 78 nepromenjene u redu vožnje 2026/27.{{< /todo >}}
+{{< todo >}}Snimiti GPS tragove sve četiri staze (npr. Wikiloc ili Strava) i dodati GPX fajlove za preuzimanje.{{< /todo >}}
