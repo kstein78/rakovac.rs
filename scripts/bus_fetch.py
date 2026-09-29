@@ -1,49 +1,88 @@
 #!/usr/bin/env python3
-"""Fetch the official JGSP Novi Sad suburban timetable (gspns.co.rs) for the lines that serve Rakovac.
+"""Official JGSP Novi Sad suburban timetable (gspns.co.rs) for the bus lines that serve Rakovac -> data/bus.yaml.
 
-Runs in GitHub Actions (.github/workflows/bus.yml), because the site is not reachable from everywhere.
-Step 1 (discovery): saves the raw pages into bus-raw/ so the format can be checked.
-Step 2: parses the departures into data/bus.yaml (see parse())."""
-import os, re, sys, json, urllib.request, urllib.parse, html
+Runs in GitHub Actions (.github/workflows/bus.yml) every Monday: the GSP site is not reachable from everywhere.
+For every timetable period the site offers ("važi od"), every day type (working day, Saturday, Sunday,
+holiday) and every line whose number starts with 77 or 78, it reads the departures in both directions,
+with the letter marks after the minutes (e.g. "SR" = through Stari Rakovac) and the legend.
+The raw pages are kept in bus-raw/ (published on the branch bus-raw) so any value can be checked."""
+import os, re, sys, json, html, urllib.request, urllib.parse, datetime
 
 BASE = 'http://www.gspns.co.rs'
-LINES = ['77', '78']          # 78SR is not a separate line: departures of 78 marked "kroz Stari Rakovac"
-OUT = 'bus-raw'
-UA = {'User-Agent': 'rakovac.rs timetable bot (+https://rakovac.rs; contact konstantin.stein@gmail.com)'}
+PREFIXES = ('77', '78')
+DAYS = {'R': 'workday', 'S': 'saturday', 'N': 'sunday', 'P': 'holiday'}
+RAW = 'bus-raw'
+UA = {'User-Agent': 'rakovac.rs timetable bot (+https://rakovac.rs)'}
 
-def get(url):
+
+def get(path, params=None):
+    url = BASE + path + ('?' + urllib.parse.urlencode(params, doseq=True) if params else '')
     req = urllib.request.Request(url, headers=UA)
-    with urllib.request.urlopen(req, timeout=30) as r:
-        return r.read().decode('utf-8', 'replace')
+    with urllib.request.urlopen(req, timeout=40) as r:
+        return url, r.read().decode('utf-8', 'replace')
+
 
 def save(name, text):
-    os.makedirs(OUT, exist_ok=True)
-    open(os.path.join(OUT, name), 'w', encoding='utf-8').write(text)
+    os.makedirs(RAW, exist_ok=True)
+    open(os.path.join(RAW, name), 'w', encoding='utf-8').write(text)
+
+
+def clean(s):
+    return re.sub(r'\s+', ' ', html.unescape(re.sub(r'<[^>]+>', ' ', s))).strip()
+
+
+def parse_departures(page):
+    """Returns title, direction names, departures per direction and the footer comment."""
+    title = clean(re.search(r'class=table-title[^>]*>(.*?)</div>', page, re.S).group(1)) if 'table-title' in page else ''
+    heads = [clean(h) for h in re.findall(r'<th>(.*?)</th>', page, re.S)]
+    cells = re.findall(r'<!--smer [AB]-->\s*<td[^>]*>(.*?)</td>', page, re.S)
+    dirs = []
+    for i, cell in enumerate(cells):
+        deps = []
+        for hh, cls, mm, mark in re.findall(r"<b>(\d{1,2})</b><sup>.*?<span class='([^']*)'>(\d{2})<b>(.*?)</b></span>", cell, re.S):
+            deps.append({'t': f'{int(hh):02d}:{mm}', 'mark': clean(mark), 'low_floor': 'nisko' in cls.lower() or bool(cls.strip())})
+        dirs.append({'name': heads[i] if i < len(heads) else '', 'departures': deps})
+    comment = ''
+    m = re.search(r'<!--komentar-->(.*?)</font>', page, re.S)
+    if m:
+        comment = clean(m.group(1))
+    return title, dirs, comment
+
 
 def main():
-    log = {}
-    idx = get(BASE + '/red-voznje/prigradski')
+    out = {'source': BASE + '/red-voznje/prigradski', 'fetched': datetime.datetime.utcnow().strftime('%Y-%m-%dT%H:%MZ'), 'periods': []}
+    _, idx = get('/red-voznje/prigradski')
     save('index-prigradski.html', idx)
-    # the form lists validity dates (vaziod) and the lines with their values
-    dates = re.findall(r'<option[^>]*value="(\d{4}-\d{2}-\d{2})"', idx)
-    opts = re.findall(r'<option[^>]*value="([^"]+)"[^>]*>([^<]*)</option>', idx)
-    log['dates'] = dates
-    log['options'] = opts[:400]
-    vaziod = dates[0] if dates else ''
-    for line in LINES:
-        vals = [v for v, t in opts if re.match(rf'^\s*{line}\b', html.unescape(t)) or v.startswith(line)]
-        log.setdefault('line_values', {})[line] = vals
-        for v in vals or [line]:
-            for dan in ('R', 'S', 'N'):
-                q = urllib.parse.urlencode([('rv', 'rvp'), ('vaziod', vaziod), ('dan', dan), ('linija[]', v)])
-                url = f'{BASE}/red-voznje/ispis-polazaka?{q}'
-                try:
-                    save(f'line-{re.sub(r"[^0-9A-Za-z]+", "_", v)}-{dan}.html', get(url))
-                    log.setdefault('fetched', []).append(url)
-                except Exception as e:
-                    log.setdefault('errors', []).append(f'{url}: {e}')
-    save('log.json', json.dumps(log, ensure_ascii=False, indent=1))
-    print(json.dumps({k: (v if k != 'options' else len(v)) for k, v in log.items()}, ensure_ascii=False, indent=1))
+    periods = sorted(set(re.findall(r'<option value="(\d{4}-\d{2}-\d{2})"', idx)))
+    for vaziod in periods:
+        period = {'valid_from': vaziod, 'days': {}}
+        for dan, dname in DAYS.items():
+            _, lst = get('/red-voznje/lista-linija', {'rv': 'rvp', 'vaziod': vaziod, 'dan': dan})
+            save(f'lista-{vaziod}-{dan}.html', lst)
+            opts = re.findall(r'<option[^>]*value=[\'"]?([^\'" >]+)[\'"]?[^>]*>(.*?)</option>', lst, re.S)
+            lines = []
+            for val, text in opts:
+                label = clean(text)
+                if not label.startswith(PREFIXES):
+                    continue
+                url, page = get('/red-voznje/ispis-polazaka', {'rv': 'rvp', 'vaziod': vaziod, 'dan': dan, 'linija[]': val})
+                save(f'line-{vaziod}-{dan}-{re.sub(r"[^0-9A-Za-z]+", "_", val)}.html', page)
+                title, dirs, comment = parse_departures(page)
+                lines.append({'value': val, 'label': label, 'title': title, 'url': url, 'directions': dirs, 'comment': comment})
+            if lines:
+                period['days'][dname] = lines
+        out['periods'].append(period)
+    os.makedirs('data', exist_ok=True)
+    import yaml  # PyYAML is on the GitHub runner
+    header = ('# Generated by scripts/bus_fetch.py from the official JGSP Novi Sad timetable (do not edit by hand).\n'
+              '# mark "SR" = the departure runs through Stari Rakovac (legend on gspns.co.rs).\n')
+    open('data/bus.yaml', 'w', encoding='utf-8').write(header + yaml.safe_dump(out, allow_unicode=True, sort_keys=False, width=200))
+    save('bus.json', json.dumps(out, ensure_ascii=False, indent=1))
+    n = sum(len(l['directions']) for p in out['periods'] for d in p['days'].values() for l in d)
+    print('periods', periods, 'line/direction blocks', n)
+    if n == 0:
+        sys.exit('no departures parsed: check bus-raw/')
+
 
 if __name__ == '__main__':
     main()

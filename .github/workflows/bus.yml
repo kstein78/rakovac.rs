@@ -1,7 +1,9 @@
 name: Bus timetable
 
-# Fetches the official JGSP Novi Sad timetable for lines 77 and 78 (gspns.co.rs) and publishes
-# the raw pages on the branch "bus-raw". Runs when the script changes, every Monday, or by hand.
+# Reads the official JGSP Novi Sad timetable for lines 77 and 78 (gspns.co.rs) into data/bus.yaml
+# and commits it to main when it changed (the Hetzner server then rebuilds the site by itself).
+# The raw pages are published on the branch "bus-raw" for checking.
+# Runs every Monday, when the script changes, or by hand (Actions -> Bus timetable -> Run workflow).
 on:
   push:
     branches: [main]
@@ -13,21 +15,42 @@ on:
 permissions:
   contents: write
 
+concurrency:
+  group: bus-timetable
+  cancel-in-progress: false
+
 jobs:
   fetch:
     runs-on: ubuntu-24.04
     steps:
       - uses: actions/checkout@v7
-      - name: Fetch official timetable pages
+      - name: Fetch and parse the official timetable
         run: python3 scripts/bus_fetch.py
-      - name: Publish raw pages on branch bus-raw
+      - name: Commit data/bus.yaml if it changed
         run: |
           git config user.name "rakovac-bot"
           git config user.email "actions@users.noreply.github.com"
+          if git diff --quiet -- data/bus.yaml && git ls-files --error-unmatch data/bus.yaml >/dev/null 2>&1; then
+            echo "Timetable unchanged."
+          else
+            git add data/bus.yaml
+            # "fetched" changes every run: commit only if a departure changed
+            if git diff --cached -U0 -- data/bus.yaml | grep -E '^[+-] ' | grep -vq 'fetched:'; then
+              git commit -qm "Bus timetable: update from gspns.co.rs"
+              git pull -q --rebase origin main
+              git push -q origin HEAD:main
+            else
+              echo "Only the fetch time changed."
+              git reset -q
+            fi
+          fi
+      - name: Publish raw pages on branch bus-raw
+        run: |
           mv bus-raw /tmp/bus-raw
-          git checkout --orphan bus-raw
-          git rm -rfq .
+          git stash -q -u || true
+          git checkout -q --orphan bus-raw
+          git rm -rfq . >/dev/null
           cp -r /tmp/bus-raw/. .
           git add -A
           git commit -qm "Raw JGSP timetable pages $(date -u +%F)"
-          git push -f origin bus-raw
+          git push -qf origin bus-raw
