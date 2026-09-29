@@ -30,6 +30,7 @@ menu:
     items:
       - { path: useful }
       - { path: useful, anchor: bus, label: bus_title }
+      - { path: useful, anchor: weather, label: weather_title }
       - { path: business }
       - { path: support }
       - { path: fonts }

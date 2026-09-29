@@ -25,7 +25,7 @@ Wir zeichnen Interviews mit Bewohnern auf: Erinnerungen an das Dorf, das Kloster
 
 Diese Seite zeigt keine Werbung. Mit Ihrer Zustimmung (Hinweis beim ersten Besuch) zählen wir Besuche mit **Google Analytics 4** und **Yandex Metrica**: welche Seiten gelesen werden, aus welchem Land und mit welchem Gerätetyp, und wie Besucher die Seite gefunden haben. Beide Dienste setzen Cookies und erhalten diese Nutzungsdaten; wir sehen nur Summen, verkaufen nichts und nutzen nichts für Werbung. Solange Sie nicht auf „Erlauben“ drücken, wird Yandex Metrica gar nicht geladen und Google Analytics setzt keine Cookies (es erhält nur anonyme Signale ohne Kennungen). Ihre Wahl können Sie jederzeit über den Link „Cookie-Einstellungen“ unten auf jeder Seite ändern.
 
-Videos werden erst von YouTube geladen, wenn Sie auf Abspielen drücken. Die Karten laden Kartenkacheln von den Servern von OpenStreetMap.
+Videos werden erst von YouTube geladen, wenn Sie auf Abspielen drücken, und die Wettervorhersage erst von Windy.com, wenn Sie auf ihre Schaltfläche drücken. Die Karten laden Kartenkacheln von den Servern von OpenStreetMap.
 
 ## Lizenz
 

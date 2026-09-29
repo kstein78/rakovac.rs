@@ -1,0 +1,22 @@
+{{/* Weather forecast from Windy.com (free embed widget, Windy logo kept as their terms ask).
+  Privacy: nothing loads from Windy until the visitor presses the button (same idea as the YouTube videos);
+  without JS the button is a plain link to the same forecast on windy.com.
+  Point = the lookout above the village (45.1958, 19.7672), map centred a little south so Novi Sad and the Danube show. */}}
+{{ $wl := index (dict "sr" "sr" "cyr" "sr" "en" "en" "ru" "ru" "de" "de" "hu" "hu") site.Language.Lang | default "en" }}
+{{ $pt := "detailLat=45.1958&detailLon=19.7672" }}
+{{ $src := printf "https://embed.windy.com/embed.html?type=map&location=coordinates&metricRain=mm&metricTemp=%%C2%%B0C&metricWind=km%%2Fh&zoom=11&overlay=wind&product=ecmwf&level=surface&lat=45.17&lon=19.77&%s&detail=true&marker=true&message=true&lang=%s" $pt $wl }}
+{{ $link := "https://www.windy.com/45.1958/19.7672?45.17,19.77,11" }}
+<section class="wrap useful-group" id="weather">
+  <h2>{{ i18n "weather_title" }}</h2>
+  <p class="prose-width">{{ i18n "weather_intro" }}</p>
+  <figure class="windy" data-windy="{{ $src }}">
+    <a class="windy-consent" href="{{ $link }}" rel="noopener">
+      <span class="video-play" aria-hidden="true">
+        <svg viewBox="0 0 24 24" width="26" height="26"><path d="M3 8h11a3 3 0 1 0-3-3M3 12h15a3 3 0 1 1-3 3M3 16h8" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"/></svg>
+      </span>
+      <span class="video-title">{{ i18n "weather_show" }}</span>
+      <span class="video-note">{{ i18n "weather_consent" }}</span>
+    </a>
+  </figure>
+  <p class="small muted"><a href="{{ $link }}" rel="noopener">{{ i18n "weather_open" }}</a></p>
+</section>

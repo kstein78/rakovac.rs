@@ -25,7 +25,7 @@ We record interviews with residents: memories of the village, the monastery, the
 
 The site shows no advertising. With your permission (the banner on your first visit) we count visits with **Google Analytics 4** and **Yandex Metrica**: which pages are read, from which country and type of device, and how visitors found the site. Both services set cookies and receive this usage data; we see only totals, sell nothing and use nothing for ads. Until you press “Allow”, Yandex Metrica is not loaded at all and Google Analytics sets no cookies (it only receives anonymous signals without identifiers). You can change your choice at any time with the “Cookie settings” link at the bottom of every page.
 
-Videos are loaded from YouTube only after you press play. The maps load map tiles from OpenStreetMap servers.
+Videos are loaded from YouTube only after you press play, and the weather forecast from Windy.com only after you press its button. The maps load map tiles from OpenStreetMap servers.
 
 ## Licence
 

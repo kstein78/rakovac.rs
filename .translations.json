@@ -262,6 +262,11 @@
    "video_consent": "0c31eebbcf7bb8e0",
    "video_soon": "6bedea64eaa7d459",
    "walking_time": "2946fedd8f7044f1",
+   "weather_consent": "cd188db42b678260",
+   "weather_intro": "1ac1e6da2d0a2656",
+   "weather_open": "2f41c7ce259d6fb0",
+   "weather_show": "5d6eac244cc94b7a",
+   "weather_title": "90cd1e93b04ecc52",
    "website": "b5a229ac8becc603"
   },
   "hu": {
@@ -526,6 +531,11 @@
    "video_consent": "0c31eebbcf7bb8e0",
    "video_soon": "6bedea64eaa7d459",
    "walking_time": "2946fedd8f7044f1",
+   "weather_consent": "cd188db42b678260",
+   "weather_intro": "1ac1e6da2d0a2656",
+   "weather_open": "2f41c7ce259d6fb0",
+   "weather_show": "5d6eac244cc94b7a",
+   "weather_title": "90cd1e93b04ecc52",
    "website": "b5a229ac8becc603"
   },
   "ru": {
@@ -790,6 +800,11 @@
    "video_consent": "0c31eebbcf7bb8e0",
    "video_soon": "6bedea64eaa7d459",
    "walking_time": "2946fedd8f7044f1",
+   "weather_consent": "cd188db42b678260",
+   "weather_intro": "1ac1e6da2d0a2656",
+   "weather_open": "2f41c7ce259d6fb0",
+   "weather_show": "5d6eac244cc94b7a",
+   "weather_title": "90cd1e93b04ecc52",
    "website": "b5a229ac8becc603"
   },
   "sr": {
@@ -1054,13 +1069,18 @@
    "video_consent": "0c31eebbcf7bb8e0",
    "video_soon": "6bedea64eaa7d459",
    "walking_time": "2946fedd8f7044f1",
+   "weather_consent": "cd188db42b678260",
+   "weather_intro": "1ac1e6da2d0a2656",
+   "weather_open": "2f41c7ce259d6fb0",
+   "weather_show": "5d6eac244cc94b7a",
+   "weather_title": "90cd1e93b04ecc52",
    "website": "b5a229ac8becc603"
   }
  },
  "pages": {
   "de": {
    "_index.md": "cac010f1a4c4ba39",
-   "about/_index.md": "4e60fe520d7de82d",
+   "about/_index.md": "cd8111854f9b39e6",
    "author/_index.md": "e3589053cbf50b0f",
    "business/7pro8.md": "8a5aba97e8f81ac5",
    "business/_index.md": "8ba2a0829666b677",
@@ -1141,7 +1161,7 @@
   },
   "hu": {
    "_index.md": "cac010f1a4c4ba39",
-   "about/_index.md": "4e60fe520d7de82d",
+   "about/_index.md": "cd8111854f9b39e6",
    "author/_index.md": "e3589053cbf50b0f",
    "business/7pro8.md": "8a5aba97e8f81ac5",
    "business/_index.md": "8ba2a0829666b677",
@@ -1222,7 +1242,7 @@
   },
   "ru": {
    "_index.md": "cac010f1a4c4ba39",
-   "about/_index.md": "4e60fe520d7de82d",
+   "about/_index.md": "cd8111854f9b39e6",
    "author/_index.md": "e3589053cbf50b0f",
    "business/7pro8.md": "8a5aba97e8f81ac5",
    "business/_index.md": "8ba2a0829666b677",
@@ -1303,7 +1323,7 @@
   },
   "sr": {
    "_index.md": "cac010f1a4c4ba39",
-   "about/_index.md": "4e60fe520d7de82d",
+   "about/_index.md": "cd8111854f9b39e6",
    "author/_index.md": "e3589053cbf50b0f",
    "business/7pro8.md": "8a5aba97e8f81ac5",
    "business/_index.md": "8ba2a0829666b677",

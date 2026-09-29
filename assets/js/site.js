@@ -16,6 +16,19 @@ document.addEventListener('DOMContentLoaded', function () {
       fig.replaceChildren(f);
     });
   });
+  // Windy weather: the widget loads from windy.com only after the visitor presses the button (the button is a
+  // plain link to windy.com without JS).
+  document.querySelectorAll('.windy[data-windy] .windy-consent').forEach(function (a) {
+    a.addEventListener('click', function (e) {
+      e.preventDefault();
+      var fig = a.closest('.windy'), f = document.createElement('iframe');
+      f.src = fig.getAttribute('data-windy');
+      f.title = a.querySelector('.video-title').textContent;
+      f.loading = 'lazy';
+      fig.classList.add('is-on');
+      fig.replaceChildren(f);
+    });
+  });
   // Grouped main menu: one drop-down open at a time; closes on outside click and Escape (desktop only;
   // on phones the groups are always expanded inside the menu).
   var groups = [].slice.call(document.querySelectorAll('.nav-group'));

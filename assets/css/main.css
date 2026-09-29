@@ -313,6 +313,11 @@ p { margin: 0 0 1em; }
 .video-play { font-size: 1.6rem; width: 3.2rem; height: 3.2rem; display: grid; place-items: center; border-radius: 50%; background: var(--accent); color: #fff; }
 .video-title { font-family: var(--font-display); font-size: 1.15rem; font-weight: 400; }
 .video-note { font-size: .75rem; opacity: .8; max-width: 40ch; }
+.windy { margin: 0 0 .5rem; height: clamp(240px, 26vw, 320px); border-radius: var(--radius); overflow: hidden; background: var(--forest); }
+.windy.is-on { height: clamp(480px, 62vw, 600px); }
+.windy iframe { width: 100%; height: 100%; border: 0; display: block; }
+.windy-consent { width: 100%; height: 100%; display: flex; flex-direction: column; align-items: center; justify-content: center; gap: .5rem; text-align: center; padding: 1rem; color: var(--forest-ink); text-decoration: none; background: linear-gradient(160deg, #24473a, #13241c); }
+.windy-consent:hover .video-play, .windy-consent:focus-visible .video-play { filter: brightness(1.1); }
 
 /* Gallery */
 .gallery { display: grid; grid-template-columns: repeat(auto-fill, minmax(260px, 1fr)); gap: 1rem; padding-block: 1rem 2rem; }
