@@ -35,15 +35,19 @@ def parse_departures(page):
     """Returns title, direction names, departures per direction and the footer comment."""
     title = clean(re.search(r'class=table-title[^>]*>(.*?)</div>', page, re.S).group(1)) if 'table-title' in page else ''
     heads = [clean(h) for h in re.findall(r'<th>(.*?)</th>', page, re.S)]
-    cells = re.findall(r'<!--smer [AB]-->\s*<td[^>]*>(.*?)</td>', page, re.S)
+    heads = {re.search(r'\b([AB]):', h).group(1) if re.search(r'\b([AB]):', h) else str(k): h for k, h in enumerate(heads)}
+    cells = re.findall(r'<!--smer ([AB])-->\s*<td[^>]*>(.*?)</td>', page, re.S)
     dirs = []
-    for i, cell in enumerate(cells):
+    for letter, cell in cells:
         deps = []
-        # one hour can carry several minutes: <b>16</b><sup>...<span>00<b></b></span> <span>50<b>SR</b></span>...</sup>
-        for hh, sup in re.findall(r"<b>(\d{1,2})</b>\s*<sup>(.*?)</sup>", cell, re.S):
-            for cls, mm, mark in re.findall(r"<span class='([^']*)'>\s*(\d{2})\s*<b>(.*?)</b>\s*</span>", sup, re.S):
-                deps.append({'t': f'{int(hh):02d}:{mm}', 'mark': clean(mark), 'low_floor': bool(cls.strip())})
-        dirs.append({'name': heads[i] if i < len(heads) else '', 'departures': deps})
+        # one line per hour: <br/><b>16</b><sup>..<span>00<b></b></span>..</sup> <sup>..<span>50<b>SR</b></span>..</sup>
+        for seg in re.split(r'<br\s*/?>', cell):
+            hm = re.search(r'<b>(\d{1,2})</b>', seg)
+            if not hm:
+                continue
+            for cls, mm, mark in re.findall(r"<span class='([^']*)'>\s*(\d{2})\s*<b>(.*?)</b>\s*</span>", seg, re.S):
+                deps.append({'t': f'{int(hm.group(1)):02d}:{mm}', 'mark': clean(mark), 'low_floor': bool(cls.strip())})
+        dirs.append({'dir': letter, 'name': heads.get(letter, ''), 'departures': deps})
     if len(heads) != len(cells):
         print('WARNING: headings/cells mismatch', len(heads), len(cells), title)
     comment = ''
