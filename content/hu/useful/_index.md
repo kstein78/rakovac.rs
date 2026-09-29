@@ -20,22 +20,6 @@ groups:
     url_label: gsp_timetable
   - name: Beočin–Futak komp
     what: 'Át a Dunán Futakra és Bácskába, óránként, de indulás előtt telefonáljon: nem mindig jár. [Menetrend, árak és telefon](/hu/nearby/ferry-beocin-futog/).'
-- id: fuel
-  title: Üzemanyag
-  intro: 'Két benzinkút: az egyik magában Rakovacon, a másik Beočin bejáratánál.'
-  items:
-  - name: MOL BS DODO Rakovac (benzinkút)
-    what: Benzinkút közvetlenül Rakovacon, a főúton, Novi Rakovac keleti végén.
-    address: Fő út, 21299 Rakovac
-    coords:
-    - 45.2101042
-    - 19.7774459
-  - name: NIS Petrol, Beočin
-    what: Benzinkút a Beočinba vezető úton.
-    address: Novosadska bb, Beočin
-    coords:
-    - 45.208574
-    - 19.7322392
 - id: emergency
   title: Segélyhívó számok
   intro: Ezek a számok ingyenesen hívhatók. A **112** bármely mobiltelefonról működik.
@@ -63,6 +47,22 @@ groups:
   - name: 'JKP „Beočin”: iroda'
     what: 'A község kommunális vállalata: víz, csatorna és kommunális szolgáltatások. Desanke Maksimović 52, Beočin.'
     phone: +381 21 2971 246
+- id: fuel
+  title: Üzemanyag
+  intro: 'Két benzinkút: az egyik magában Rakovacon, a másik Beočin bejáratánál.'
+  items:
+  - name: MOL BS DODO Rakovac (benzinkút)
+    what: Benzinkút közvetlenül Rakovacon, a főúton, Novi Rakovac keleti végén.
+    address: Fő út, 21299 Rakovac
+    coords:
+    - 45.2101042
+    - 19.7774459
+  - name: NIS Petrol, Beočin
+    what: Benzinkút a Beočinba vezető úton.
+    address: Novosadska bb, Beočin
+    coords:
+    - 45.208574
+    - 19.7322392
 - id: health
   title: Orvosok és kórházak
   intro: A legközelebbi egészségház Beočinban van, kb. 4 km-re nyugatra. Kórházi ellátásért a Sremska Kamenica-i és újvidéki nagy klinikákra kell menni.

@@ -20,22 +20,6 @@ groups:
     url_label: gsp_timetable
   - name: Ferry Beočin – Futog
     what: 'Across the Danube to Futog and Bačka, every hour, but call before you go: it does not always run. [Timetable, prices and phone](/en/nearby/ferry-beocin-futog/).'
-- id: fuel
-  title: Fuel
-  intro: 'Two filling stations: one in Rakovac itself, one at the entrance to Beočin.'
-  items:
-  - name: MOL BS DODO Rakovac (filling station)
-    what: Petrol station right in Rakovac, on the main road at the eastern end of Novi Rakovac.
-    address: Main road, 21299 Rakovac
-    coords:
-    - 45.2101042
-    - 19.7774459
-  - name: NIS Petrol, Beočin
-    what: Filling station on the road into Beočin.
-    address: Novosadska bb, Beočin
-    coords:
-    - 45.208574
-    - 19.7322392
 - id: emergency
   title: Emergency numbers
   intro: Calls to these numbers are free. **112** works from any mobile phone.
@@ -63,6 +47,22 @@ groups:
   - name: 'JKP „Beočin“: office'
     what: 'The municipal utility company: water, sewage and communal services. Desanke Maksimović 52, Beočin.'
     phone: +381 21 2971 246
+- id: fuel
+  title: Fuel
+  intro: 'Two filling stations: one in Rakovac itself, one at the entrance to Beočin.'
+  items:
+  - name: MOL BS DODO Rakovac (filling station)
+    what: Petrol station right in Rakovac, on the main road at the eastern end of Novi Rakovac.
+    address: Main road, 21299 Rakovac
+    coords:
+    - 45.2101042
+    - 19.7774459
+  - name: NIS Petrol, Beočin
+    what: Filling station on the road into Beočin.
+    address: Novosadska bb, Beočin
+    coords:
+    - 45.208574
+    - 19.7322392
 - id: health
   title: Doctors and hospitals
   intro: The nearest health centre is in Beočin, about 4 km west. For hospital care, the large clinics are in Sremska Kamenica and Novi Sad.

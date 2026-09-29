@@ -20,22 +20,6 @@ groups:
     url_label: gsp_timetable
   - name: Skela Beočin – Futog
     what: 'Preko Dunava do Futoga i Bačke, svakog sata, ali pozovite pre polaska: ne radi uvek. [Red vožnje, cene i telefon](/sr/nearby/ferry-beocin-futog/).'
-- id: fuel
-  title: Gorivo
-  intro: 'Dve benzinske pumpe: jedna u samom Rakovcu, druga na ulazu u Beočin.'
-  items:
-  - name: MOL BS DODO Rakovac (benzinska pumpa)
-    what: Benzinska pumpa u samom Rakovcu, na glavnom putu u istočnom delu Novog Rakovca.
-    address: Glavni put, 21299 Rakovac
-    coords:
-    - 45.2101042
-    - 19.7774459
-  - name: NIS Petrol, Beočin
-    what: Benzinska pumpa na ulazu u Beočin.
-    address: Novosadska bb, Beočin
-    coords:
-    - 45.208574
-    - 19.7322392
 - id: emergency
   title: Brojevi za hitne slučajeve
   intro: Pozivi na ove brojeve su besplatni. **112** radi sa bilo kog mobilnog telefona.
@@ -63,6 +47,22 @@ groups:
   - name: 'JKP „Beočin“: uprava'
     what: 'Javno komunalno preduzeće: voda, kanalizacija i komunalne usluge. Desanke Maksimović 52, Beočin.'
     phone: +381 21 2971 246
+- id: fuel
+  title: Gorivo
+  intro: 'Dve benzinske pumpe: jedna u samom Rakovcu, druga na ulazu u Beočin.'
+  items:
+  - name: MOL BS DODO Rakovac (benzinska pumpa)
+    what: Benzinska pumpa u samom Rakovcu, na glavnom putu u istočnom delu Novog Rakovca.
+    address: Glavni put, 21299 Rakovac
+    coords:
+    - 45.2101042
+    - 19.7774459
+  - name: NIS Petrol, Beočin
+    what: Benzinska pumpa na ulazu u Beočin.
+    address: Novosadska bb, Beočin
+    coords:
+    - 45.208574
+    - 19.7322392
 - id: health
   title: Lekari i bolnice
   intro: Najbliži dom zdravlja je u Beočinu, oko 4 km zapadno. Za bolničko lečenje velike klinike su u Sremskoj Kamenici i Novom Sadu.

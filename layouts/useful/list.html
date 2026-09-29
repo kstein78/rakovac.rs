@@ -28,7 +28,9 @@
     {{ end }}
   </ul>
 </section>
-{{ if eq .id "transport" }}{{ partial "bus-timetable.html" $ }}{{ partial "weather.html" $ }}{{ partial "danube.html" $ }}{{ end }}
+{{ if eq .id "transport" }}{{ partial "bus-timetable.html" $ }}{{ end }}
 {{ end }}
+{{/* Weather and the Danube at the bottom; the header weather links here (#weather). */}}
+{{ partial "weather.html" . }}{{ partial "danube.html" . }}
 <section class="wrap">{{ partial "allpoints-map.html" (dict "class" "map-home") }}</section>
 {{ end }}
