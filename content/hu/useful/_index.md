@@ -10,20 +10,24 @@ groups:
   title: Odajutás és közlekedés
   intro: Rakovac az Újvidék (Novi Sad, 13 km) és Beočin (4 km) közötti regionális úton fekszik. Belgrádtól közúton körülbelül 95 km.
   items:
+  - name: 77-es busz (GSP Novi Sad)
+    what: 'Újvidékről (Novi Sad, MAS helyközi autóbusz-állomás, 13–14. kocsiállás) Stari Rakovacig; a kolostornál megáll. Naponta csak néhány járat: lásd a lenti menetrendet.'
+    url: http://www.gspns.co.rs/red-voznje/prigradski
+    url_label: gsp_timetable
+  - name: 78-as busz (GSP Novi Sad)
+    what: Újvidékről Beočin Selóig a főúton, Novi Rakovacon át (megálló a főkereszteződés jelzőlámpájánál). Az SR jelzésű járatok Stari Rakovacon át közlekednek, és a kolostornál is megállnak, a többiek nem.
+    url: http://www.gspns.co.rs/red-voznje/prigradski
+    url_label: gsp_timetable
+- id: fuel
+  title: Üzemanyag
+  intro: 'Két benzinkút: az egyik magában Rakovacon, a másik Beočin bejáratánál.'
+  items:
   - name: MOL BS DODO Rakovac (benzinkút)
     what: Benzinkút közvetlenül Rakovacon, a főúton, Novi Rakovac keleti végén.
     address: Fő út, 21299 Rakovac
     coords:
     - 45.2101042
     - 19.7774459
-  - name: 77-es busz (GSP Novi Sad)
-    what: "Újvidékről (Novi Sad, MAS helyközi autóbusz-állomás, 13–14. kocsiállás) Stari Rakovacig; a kolostornál megáll. Naponta csak néhány járat: lásd a lenti menetrendet."
-    url: http://www.gspns.co.rs/red-voznje/prigradski
-    url_label: gsp_timetable
-  - name: 78-as busz (GSP Novi Sad)
-    what: "Újvidékről Beočin Selóig a főúton, Novi Rakovacon át (megálló a főkereszteződés jelzőlámpájánál). Az SR jelzésű járatok Stari Rakovacon át közlekednek, és a kolostornál is megállnak, a többiek nem."
-    url: http://www.gspns.co.rs/red-voznje/prigradski
-    url_label: gsp_timetable
   - name: NIS Petrol, Beočin
     what: Benzinkút a Beočinba vezető úton.
     address: Novosadska bb, Beočin

@@ -10,20 +10,24 @@ groups:
   title: Getting here and around
   intro: Rakovac lies on the regional road between Novi Sad (13 km) and Beočin (4 km). From Belgrade it is about 95 km by road.
   items:
+  - name: Bus line 77 (GSP Novi Sad)
+    what: 'From Novi Sad (intercity bus station MAS, platforms 13–14) to Stari Rakovac; stops at the monastery. Only a few runs a day: see the timetable below.'
+    url: http://www.gspns.co.rs/red-voznje/prigradski
+    url_label: gsp_timetable
+  - name: Bus line 78 (GSP Novi Sad)
+    what: From Novi Sad to Beočin Selo along the main road through Novi Rakovac (stop at the traffic lights on the main crossroads). Runs marked SR go through Stari Rakovac and also stop at the monastery; the others do not.
+    url: http://www.gspns.co.rs/red-voznje/prigradski
+    url_label: gsp_timetable
+- id: fuel
+  title: Fuel
+  intro: 'Two filling stations: one in Rakovac itself, one at the entrance to Beočin.'
+  items:
   - name: MOL BS DODO Rakovac (filling station)
     what: Petrol station right in Rakovac, on the main road at the eastern end of Novi Rakovac.
     address: Main road, 21299 Rakovac
     coords:
     - 45.2101042
     - 19.7774459
-  - name: Bus line 77 (GSP Novi Sad)
-    what: "From Novi Sad (intercity bus station MAS, platforms 13–14) to Stari Rakovac; stops at the monastery. Only a few runs a day: see the timetable below."
-    url: http://www.gspns.co.rs/red-voznje/prigradski
-    url_label: gsp_timetable
-  - name: Bus line 78 (GSP Novi Sad)
-    what: "From Novi Sad to Beočin Selo along the main road through Novi Rakovac (stop at the traffic lights on the main crossroads). Runs marked SR go through Stari Rakovac and also stop at the monastery; the others do not."
-    url: http://www.gspns.co.rs/red-voznje/prigradski
-    url_label: gsp_timetable
   - name: NIS Petrol, Beočin
     what: Filling station on the road into Beočin.
     address: Novosadska bb, Beočin
