@@ -1,0 +1,33 @@
+name: Bus timetable
+
+# Fetches the official JGSP Novi Sad timetable for lines 77 and 78 (gspns.co.rs) and publishes
+# the raw pages on the branch "bus-raw". Runs when the script changes, every Monday, or by hand.
+on:
+  push:
+    branches: [main]
+    paths: [scripts/bus_fetch.py, .github/workflows/bus.yml]
+  schedule:
+    - cron: "17 3 * * 1"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  fetch:
+    runs-on: ubuntu-24.04
+    steps:
+      - uses: actions/checkout@v7
+      - name: Fetch official timetable pages
+        run: python3 scripts/bus_fetch.py
+      - name: Publish raw pages on branch bus-raw
+        run: |
+          git config user.name "rakovac-bot"
+          git config user.email "actions@users.noreply.github.com"
+          mv bus-raw /tmp/bus-raw
+          git checkout --orphan bus-raw
+          git rm -rfq .
+          cp -r /tmp/bus-raw/. .
+          git add -A
+          git commit -qm "Raw JGSP timetable pages $(date -u +%F)"
+          git push -f origin bus-raw
