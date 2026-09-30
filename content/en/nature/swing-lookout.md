@@ -17,3 +17,11 @@ To the north the view opens over the Danube and Novi Sad; on clear days you can 
 The swing hangs from a tree above a steep slope. Hold small children, and check the rope before you sit down.
 
 {{< todo >}}Describe the way up (from which street, on foot, how long), whether the meadow is private land, and whether people in the village have a name for the place.{{< /todo >}}
+
+## Fire on the slope
+
+Dry grass on these slopes burns easily. A neighbour, Peter Perlin, filmed this grass fire near the swing on the night of 7 to 8 February 2024.
+
+{{< localvideo src="video/lookout-fire.mp4" poster="img/lookout-fire-poster.jpg" title="Grass fire on the slope near the swing, at night" author="Peter Perlin" >}}
+
+The grass caught fire around 7 pm on 7 February; about 50 hectares of low vegetation above Beočin and Rakovac burned, and firefighters from Novi Sad worked into the night ([021.rs](https://www.021.rs/story/Novi-Sad/Hronika/366611/VIDEO-Pogledajte-kako-su-novosadski-vatrogasci-gasili-pozar-kod-Rakovca.html)). By the next morning, 8 February, the slopes around the swing were black and the ground was still hot in places. Please do not light fires or throw away cigarettes here, especially in dry weather. If you see smoke or flames, call the fire brigade on [193](tel:193).

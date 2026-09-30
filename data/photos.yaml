@@ -1142,3 +1142,80 @@ cheese-slice:
   alt_cyr: "Парче зрелог манастирског сира са ситним рупицама"
   alt_de: "Eine Scheibe des gereiften Klosterkäses mit kleinen Löchern"
   alt_hu: "Egy szelet érlelt kolostori sajt apró lyukakkal"
+perlin-danube-sun-road:
+  src: img/perlin-danube-sun-road.jpg
+  author: Peter Perlin
+  license: © all rights reserved, used with permission
+  alt: "The sun low over the Danube by the riverside road"
+  temp: false
+  alt_ru: "Низкое солнце над Дунаем у прибрежной дороги"
+  alt_sr: "Nisko sunce nad Dunavom kraj puta uz reku"
+  alt_cyr: "Ниско сунце над Дунавом крај пута уз реку"
+  alt_de: "Tiefe Sonne über der Donau an der Uferstraße"
+  alt_hu: "Alacsony nap a Duna felett a parti út mentén"
+perlin-poppies-view:
+  src: img/perlin-poppies-view.jpg
+  author: Peter Perlin
+  license: © all rights reserved, used with permission
+  alt: "Poppies in a wheat field on the slope, with the plain below"
+  temp: false
+  alt_ru: "Маки в пшеничном поле на склоне, внизу равнина"
+  alt_sr: "Bulke u žitu na padini, dole ravnica"
+  alt_cyr: "Булке у житу на падини, доле равница"
+  alt_de: "Mohn im Weizenfeld am Hang, unten die Ebene"
+  alt_hu: "Pipacsok a búzamezőn a lejtőn, lent a síkság"
+perlin-danube-glow:
+  src: img/perlin-danube-glow.jpg
+  author: Peter Perlin
+  license: © all rights reserved, used with permission
+  alt: "The Danube shining in the low sun, seen from the hills through branches"
+  temp: false
+  alt_ru: "Дунай блестит в низком солнце, вид с холмов сквозь ветви"
+  alt_sr: "Dunav se presijava na niskom suncu, pogled s brda kroz grane"
+  alt_cyr: "Дунав се пресијава на ниском сунцу, поглед с брда кроз гране"
+  alt_de: "Die Donau glänzt in der tiefen Sonne, Blick von den Hügeln durch Zweige"
+  alt_hu: "A Duna csillog az alacsony napfényben, a dombokról ágak között nézve"
+perlin-snow-tree:
+  src: img/perlin-snow-tree.jpg
+  author: Peter Perlin
+  license: © all rights reserved, used with permission
+  alt: "A lone tree and houses in heavy snow"
+  temp: false
+  alt_ru: "Одинокое дерево и дома под сильным снегом"
+  alt_sr: "Usamljeno drvo i kuće pod gustim snegom"
+  alt_cyr: "Усамљено дрво и куће под густим снегом"
+  alt_de: "Ein einzelner Baum und Häuser im dichten Schnee"
+  alt_hu: "Magányos fa és házak sűrű hóban"
+perlin-snow-lane:
+  src: img/perlin-snow-lane.jpg
+  author: Peter Perlin
+  license: © all rights reserved, used with permission
+  alt: "A snowy lane with tyre tracks during a snowfall"
+  temp: false
+  alt_ru: "Заснеженная дорога со следами шин во время снегопада"
+  alt_sr: "Zavejan put sa tragovima guma dok pada sneg"
+  alt_cyr: "Завејан пут са траговима гума док пада снег"
+  alt_de: "Ein verschneiter Weg mit Reifenspuren im Schneefall"
+  alt_hu: "Havas út keréknyomokkal havazás közben"
+perlin-poppies-wheat:
+  src: img/perlin-poppies-wheat.jpg
+  author: Peter Perlin
+  license: © all rights reserved, used with permission
+  alt: "Three poppies among green wheat"
+  temp: false
+  alt_ru: "Три мака среди зелёной пшеницы"
+  alt_sr: "Tri bulke u zelenom žitu"
+  alt_cyr: "Три булке у зеленом житу"
+  alt_de: "Drei Mohnblumen im grünen Weizen"
+  alt_hu: "Három pipacs a zöld búza között"
+perlin-snow-garden:
+  src: img/perlin-snow-garden.jpg
+  author: Peter Perlin
+  license: © all rights reserved, used with permission
+  alt: "A garden under fresh snow"
+  temp: false
+  alt_ru: "Сад под свежим снегом"
+  alt_sr: "Bašta pod svežim snegom"
+  alt_cyr: "Башта под свежим снегом"
+  alt_de: "Ein Garten unter frischem Schnee"
+  alt_hu: "Kert friss hó alatt"

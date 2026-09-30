@@ -17,3 +17,11 @@ Nach Norden öffnet sich der Blick über die Donau und Novi Sad; an klaren Tagen
 Die Schaukel hängt an einem Baum über einem steilen Hang. Halten Sie kleine Kinder fest und prüfen Sie das Seil, bevor Sie sich setzen.
 
 {{< todo >}}Den Weg hinauf beschreiben (von welcher Straße, zu Fuß, wie lange), klären, ob die Wiese Privatgrund ist und ob der Ort im Dorf einen Namen hat.{{< /todo >}}
+
+## Feuer am Hang
+
+Trockenes Gras an diesen Hängen brennt leicht. Ein Nachbar, Peter Perlin, hat diesen Grasbrand bei der Schaukel in der Nacht vom 7. auf den 8. Februar 2024 gefilmt.
+
+{{< localvideo src="video/lookout-fire.mp4" poster="img/lookout-fire-poster.jpg" title="Grasbrand am Hang bei der Schaukel, nachts" author="Peter Perlin" >}}
+
+Das Gras fing am 7. Februar gegen 19 Uhr Feuer; es brannten oberhalb von Beočin und Rakovac rund 50 Hektar niedriger Bewuchs, die Feuerwehr aus Novi Sad war bis spät in die Nacht im Einsatz ([021.rs](https://www.021.rs/story/Novi-Sad/Hronika/366611/VIDEO-Pogledajte-kako-su-novosadski-vatrogasci-gasili-pozar-kod-Rakovca.html)). Am nächsten Morgen, dem 8. Februar, waren die Hänge um die Schaukel schwarz und der Boden stellenweise noch heiß. Bitte hier kein Feuer machen und keine Zigaretten wegwerfen, besonders bei Trockenheit. Wenn Sie Rauch oder Flammen sehen, rufen Sie die Feuerwehr unter [193](tel:193).

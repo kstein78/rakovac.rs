@@ -1,0 +1,11 @@
+{{/* A video hosted on rakovac.rs itself (no third party):
+  {{< localvideo src="video/x.mp4" poster="img/x.jpg" title="…" author="Name" >}}
+  preload="none": nothing but the poster loads until the visitor presses play. */}}
+{{ $src := .Get "src" | relURL }}
+<figure class="video video-local">
+  <video controls preload="none" playsinline {{ with .Get "poster" }}poster="{{ . | relURL }}"{{ end }} aria-label="{{ .Get "title" }}">
+    <source src="{{ $src }}" type="video/mp4">
+    <a href="{{ $src }}">{{ .Get "title" }}</a>
+  </video>
+</figure>
+<p class="small muted video-cap">{{ .Get "title" }}. {{ with .Get "author" }}{{ i18n "video_by" }}: {{ . }}{{ end }}</p>

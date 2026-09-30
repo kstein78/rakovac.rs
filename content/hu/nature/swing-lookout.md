@@ -17,3 +17,11 @@ A helynek nincs táblája, ezért ezen az oldalon egyszerűen csak hintás kilá
 A hinta egy meredek lejtő fölötti fán lóg. A kisgyerekeket fogják, és ülés előtt ellenőrizzék a kötelet.
 
 {{< todo >}}Leírni az odavezető utat (melyik utcából, gyalog, mennyi idő), hogy a rét magánterület-e, és van-e a helynek neve a faluban.{{< /todo >}}
+
+## Tűz a lejtőn
+
+A száraz fű ezeken a lejtőkön könnyen meggyullad. Egy szomszéd, Peter Perlin 2024. február 7-ről 8-ra virradó éjjel vette fel ezt a fűtüzet a hinta közelében.
+
+{{< localvideo src="video/lookout-fire.mp4" poster="img/lookout-fire-poster.jpg" title="Fűtűz a lejtőn a hinta közelében, éjjel" author="Peter Perlin" >}}
+
+A fű február 7-én 19 óra körül gyulladt meg; mintegy 50 hektár alacsony növényzet égett le Beočin és Rakovac felett, az újvidéki tűzoltók késő éjszakáig dolgoztak ([021.rs](https://www.021.rs/story/Novi-Sad/Hronika/366611/VIDEO-Pogledajte-kako-su-novosadski-vatrogasci-gasili-pozar-kod-Rakovca.html)). Másnap reggel, február 8-án a hinta körüli lejtők feketék voltak, a föld helyenként még forró volt. Kérjük, ne rakjon itt tüzet és ne dobja el a cigarettacsikket, különösen száraz időben. Ha füstöt vagy lángot lát, hívja a tűzoltókat: [193](tel:193).

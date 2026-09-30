@@ -63,3 +63,10 @@
 - { photo: hunting-stand, season: autumn, theme: nature }
 - { photo: cheese-wheel, season: autumn, theme: monastery }
 - { photo: cheese-slice, season: autumn, theme: monastery }
+- { photo: perlin-danube-sun-road, theme: views }
+- { photo: perlin-poppies-view, season: spring, theme: nature }
+- { photo: perlin-danube-glow, theme: views }
+- { photo: perlin-snow-tree, season: winter, theme: village }
+- { photo: perlin-snow-lane, season: winter, theme: village }
+- { photo: perlin-poppies-wheat, season: spring, theme: nature }
+- { photo: perlin-snow-garden, season: winter, theme: village }

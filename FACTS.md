@@ -158,3 +158,6 @@ Kamenolom memorial, on site (Kosta's photos, 2026-09): introductory plaque text 
 | Ambulances often bring patients to Mišeluk, even from Novi Sad | C | Kosta, 2026-09-30 |
 | Wikidata: Rakovac, Beočin = Q908197 (enwiki "Rakovac, Beočin", srwiki "Раковац (Беочин)", dewiki, huwiki "Dombó (Szerbia)", shwiki); Rakovac Monastery = Q1905967 (en, sr, ru wiki). Q1006134 (suggested by Gemini) is an Austrian school, wrong | A | wikidata.org, 2026-09-30 |
 | English Wikipedia article "Rakovac, Beočin" links to rakovac.rs (1 of 4 external links) | A | en.wikipedia.org API, 2026-09-30 |
+| Grass fire near Rakovac 7 Feb 2024, from ~19:00, ~50 ha of low vegetation above Beočin and Rakovac (meadows in the Arsin part), Novi Sad firefighters into the night | B | 021.rs 7 Feb 2024; vreme.com 8 Feb 2024 |
+| Peter Perlin's night video of the grass fire on the slope near the swing = the fire of the night 7–8 Feb 2024 (Kosta photographed the burnt slopes the next morning, 8 Feb 2024, ground still hot in places) | B | Kosta 2026-09-30 + 021.rs 7 Feb 2024 |
+| Photos by Peter Perlin (7 on 2026-09-30) may be used with his full name, no link | A | Kosta, 2026-09-30 |
