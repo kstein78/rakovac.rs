@@ -14,7 +14,7 @@
   {{ $last = . }}
 {{ end }}
 {{ $runs = $runs | append (dict "from" $start "to" $last "v" $prev) }}
-<div><dt>{{ i18n "opening_hours" }}</dt><dd class="num">
+<div class="fb-wide"><dt>{{ i18n "opening_hours" }}</dt><dd class="num">
   {{ range $i, $r := $runs }}{{ if $i }}<br>{{ end }}{{ i18n (printf "wd_%s" $r.from) }}{{ if ne $r.from $r.to }}–{{ i18n (printf "wd_%s" $r.to) }}{{ end }} {{ with $r.v }}<span class="nw">{{ replace . "-" "–" }}</span>{{ else }}{{ i18n "closed" }}{{ end }}{{ end }}
   {{ with .asof }}{{ $t := time . }}<br><span class="small muted">{{ i18n "hours_posted" }}, {{ if in (slice "sr" "cyr") site.Language.Lang }}{{ $t.Format "2. 1. 2006." }}{{ else }}{{ time.Format ":date_long" $t }}{{ end }}</span>{{ end }}
 </dd></div>

@@ -5,7 +5,7 @@ weight: 10
 kicker: Nationalpark Fruška Gora
 lead: Rakovac liegt am Nordrand des Nationalparks Fruška Gora. Von der Straße am Kloster führen Waldwege in zwei Richtungen. Nach Osten, Richtung Ledinci, erreichen sie einen alten Steinbruch, der wie eine Höhle aussieht, und eine in den Fels gehauene Einsiedelei aus dem 18. Jahrhundert. Nach Westen, Richtung Dumbovo und Beočin, führen sie zu einem Wasserfall und zu Aussichtspunkten über der Donauebene.
 tile: Steinbruchhalle, Felseneinsiedelei, Wasserfall, Aussichtspunkte, Quellen
-photo: forest-spring
+photo: lookout-slopes-novi-sad
 list_title: Sehenswertes
 ---
 

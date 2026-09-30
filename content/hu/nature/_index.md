@@ -5,7 +5,7 @@ weight: 10
 kicker: Tarcal-hegységi Nemzeti Park
 lead: Rakovac a Tarcal-hegységi (Fruška gora) Nemzeti Park északi szélén fekszik. A kolostor melletti útról két irányba vezetnek erdei ösvények. Keletre, Ledinci felé egy barlangnak tűnő régi kőbányához és egy sziklába vájt 18. századi remetelakhoz érnek. Nyugatra, Dumbovo és Beočin felé egy vízeséshez és a Duna menti síkságra néző kilátópontokhoz vezetnek.
 tile: Kőbányacsarnok, sziklaremetelak, vízesés, kilátópontok, források
-photo: forest-spring
+photo: lookout-slopes-novi-sad
 list_title: Látnivalók
 ---
 
