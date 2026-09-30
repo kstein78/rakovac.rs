@@ -12,6 +12,7 @@ coords:
 - 19.774143
 altitude: 176
 category: heritage
+same_as: ["https://www.wikidata.org/wiki/Q1905967", "https://en.wikipedia.org/wiki/Rakovac_Monastery", "https://sr.wikipedia.org/wiki/%D0%9C%D0%B0%D0%BD%D0%B0%D1%81%D1%82%D0%B8%D1%80_%D0%A0%D0%B0%D0%BA%D0%BE%D0%B2%D0%B0%D1%86", "https://ru.wikipedia.org/wiki/%D0%9C%D0%BE%D0%BD%D0%B0%D1%81%D1%82%D1%8B%D1%80%D1%8C_%D0%A0%D0%B0%D0%BA%D0%BE%D0%B2%D0%B0%D1%86"]
 address: Manastirska 47, 21299 Rakovac
 phone: +381 21 6275 022
 status: unconfirmed

@@ -89,7 +89,9 @@ disableLanguages = []
   googleSiteVerification = ""   # Search Console HTML-tag code (not needed with DNS verification)
   bingSiteVerification = ""     # Bing Webmaster msvalidate.01 (not needed when imported from Search Console)
   yandexVerification = ""       # Yandex Webmaster
-  yandexMetrica = "113164709"          # Yandex Metrica counter number; loaded only after the visitor allows statistics
+  yandexMetrica = "113164709"
+  # The village in the knowledge graph (schema.org sameAs on the home page): Wikidata Q908197 and its Wikipedia articles.
+  villageSameAs = ["https://www.wikidata.org/wiki/Q908197", "https://en.wikipedia.org/wiki/Rakovac,_Beo%C4%8Din", "https://sr.wikipedia.org/wiki/%D0%A0%D0%B0%D0%BA%D0%BE%D0%B2%D0%B0%D1%86_(%D0%91%D0%B5%D0%BE%D1%87%D0%B8%D0%BD)", "https://de.wikipedia.org/wiki/Rakovac_(Beo%C4%8Din)", "https://hu.wikipedia.org/wiki/Domb%C3%B3_(Szerbia)", "https://sh.wikipedia.org/wiki/Rakovac_(Beo%C4%8Din)"]          # Yandex Metrica counter number; loaded only after the visitor allows statistics
 
 [taxonomies]
   # none used for now; categories live in front matter "category"

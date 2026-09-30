@@ -16,7 +16,7 @@
 {{ $graph := slice }}
 {{ if .IsHome }}
   {{ $graph = $graph | append (dict "@type" "WebSite" "@id" (printf "%s#website" $home.Permalink) "name" $brand "alternateName" (slice "Rakovac" "Раковац" "rakovac.rs") "url" $home.Permalink "inLanguage" site.Language.LanguageCode "description" site.Language.Params.description "publisher" $author) }}
-  {{ $graph = $graph | append (dict "@type" "TouristDestination" "@id" (printf "%s#village" $home.Permalink) "name" $brand "alternateName" (slice "Rakovac" "Раковац" "Stari Rakovac" "Novi Rakovac") "description" site.Language.Params.description "url" $home.Permalink "geo" (dict "@type" "GeoCoordinates" "latitude" (index site.Params.mapCenter 0) "longitude" (index site.Params.mapCenter 1)) "containedInPlace" (dict "@type" "Place" "name" "Fruška Gora, Beočin, Vojvodina, Serbia") "image" (printf "img/share/default-%s.jpg" $lang | absURL)) }}
+  {{ $graph = $graph | append (dict "@type" "TouristDestination" "@id" (printf "%s#village" $home.Permalink) "name" $brand "alternateName" (slice "Rakovac" "Раковац" "Stari Rakovac" "Novi Rakovac" "Dombó") "sameAs" site.Params.villageSameAs "description" site.Language.Params.description "url" $home.Permalink "geo" (dict "@type" "GeoCoordinates" "latitude" (index site.Params.mapCenter 0) "longitude" (index site.Params.mapCenter 1)) "containedInPlace" (dict "@type" "Place" "name" "Fruška Gora, Beočin, Vojvodina, Serbia") "image" (printf "img/share/default-%s.jpg" $lang | absURL)) }}
 {{ else }}
   {{ $items := slice (dict "@type" "ListItem" "position" 1 "name" $brand "item" $home.Permalink) }}
   {{ $pos := 1 }}
@@ -41,7 +41,8 @@
     {{ end }}
     {{ with .Params.address }}{{ $p = merge $p (dict "address" .) }}{{ end }}
     {{ with .Params.phone }}{{ $p = merge $p (dict "telephone" .) }}{{ end }}
-    {{ with .Params.website }}{{ $p = merge $p (dict "sameAs" .) }}{{ end }}
+    {{ $same := slice }}{{ with .Params.website }}{{ $same = $same | append . }}{{ end }}{{ with .Params.same_as }}{{ $same = $same | append . }}{{ end }}
+    {{ with $same }}{{ $p = merge $p (dict "sameAs" .) }}{{ end }}
     {{ with $img }}{{ $p = merge $p (dict "image" .) }}{{ end }}
     {{ $graph = $graph | append $p }}
   {{ else if and (eq .Section "people") (eq .Params.group "historical") (not .IsSection) }}

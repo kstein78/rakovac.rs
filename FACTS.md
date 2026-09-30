@@ -156,3 +156,5 @@ Kamenolom memorial, on site (Kosta's photos, 2026-09): introductory plaque text 
 | Hospital on Mišeluk ("Nova opšta bolnica u Novom Sadu" on Google Maps), 45.2264567, 19.8734435: former COVID hospital opened 2 Sep 2021, >600 beds (220 critical care) | A | mod.gov.rs 2 Sep 2021; Google Maps (link from Kosta) |
 | Mišeluk hospital used by UKCV since 2023: dialysis centre, radiology (2 CT), ophthalmology and ENT wards, rehabilitation day hospital | B | 021.rs 27 Jun 2023; mojnovisad.com 9 Oct 2023; 021.rs (rehabilitation) |
 | Ambulances often bring patients to Mišeluk, even from Novi Sad | C | Kosta, 2026-09-30 |
+| Wikidata: Rakovac, Beočin = Q908197 (enwiki "Rakovac, Beočin", srwiki "Раковац (Беочин)", dewiki, huwiki "Dombó (Szerbia)", shwiki); Rakovac Monastery = Q1905967 (en, sr, ru wiki). Q1006134 (suggested by Gemini) is an Austrian school, wrong | A | wikidata.org, 2026-09-30 |
+| English Wikipedia article "Rakovac, Beočin" links to rakovac.rs (1 of 4 external links) | A | en.wikipedia.org API, 2026-09-30 |
