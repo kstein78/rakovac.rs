@@ -3,6 +3,7 @@ title: Wine from Rakovac
 kicker: Imperator & Salaxia
 weight: 4
 category: products
+photo: winery-sign
 summary: Biodynamic wine made in Stari Rakovac, sold at the winery.
 ---
 

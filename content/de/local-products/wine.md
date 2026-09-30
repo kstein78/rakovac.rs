@@ -3,6 +3,7 @@ title: Wein aus Rakovac
 kicker: Imperator & Salaxia
 weight: 4
 category: products
+photo: winery-sign
 summary: Biodynamischer Wein aus Stari Rakovac, erhältlich auf dem Weingut.
 ---
 

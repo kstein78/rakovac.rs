@@ -3,6 +3,7 @@ title: Rakovaci bor
 kicker: Imperator & Salaxia
 weight: 4
 category: products
+photo: winery-sign
 summary: Stari Rakovacon készült biodinamikus bor, a borászatban kapható.
 ---
 

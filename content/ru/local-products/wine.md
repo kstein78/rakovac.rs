@@ -3,6 +3,7 @@ title: Вино из Раковца
 kicker: Imperator & Salaxia
 weight: 4
 category: products
+photo: winery-sign
 summary: Биодинамическое вино из Стари-Раковца, продаётся на винодельне.
 ---
 
