@@ -1063,3 +1063,48 @@ winery-sign:
   alt_cyr: "Дрвени путоказ поред пута: „Винарија Imperator & Salaxia“ и „Fig ресторан“, са стрелицом"
   alt_de: "Hölzerner Wegweiser an der Straße: „Vinarija Imperator & Salaxia“ und „Fig restoran“, mit Pfeil"
   alt_hu: "Fa útjelző tábla az út mentén: „Vinarija Imperator & Salaxia” és „Fig restoran”, nyíllal"
+monastery-church-hillside:
+  src: img/monastery-church-hillside.jpg
+  author: Konstantin Stein
+  license: © all rights reserved
+  alt: "The stone church of Rakovac Monastery with its baroque bell tower and the residential wings, seen from the hillside"
+  temp: false
+  alt_ru: "Каменная церковь монастыря Раковац с барочной колокольней и жилыми корпусами, вид со склона"
+  alt_sr: "Kamena crkva manastira Rakovac sa baroknim zvonikom i konacima, pogled sa padine"
+  alt_cyr: "Камена црква манастира Раковац са барокним звоником и конацима, поглед са падине"
+  alt_de: "Die Steinkirche des Klosters Rakovac mit barockem Glockenturm und Wohntrakten, vom Hang aus gesehen"
+  alt_hu: "A rakovaci kolostor kőtemploma barokk harangtoronnyal és a lakószárnyakkal, a domboldalról nézve"
+monastery-church-above:
+  src: img/monastery-church-above.jpg
+  position: "50% 15%"
+  author: Konstantin Stein
+  license: © all rights reserved
+  alt: "Rakovac Monastery from above: the church and bell tower in the courtyard of the konak with its arched windows, the wooded slopes of Fruška Gora behind"
+  temp: false
+  alt_ru: "Монастырь Раковац сверху: церковь и колокольня во дворе конака с арочными окнами, позади лесистые склоны Фрушка-Горы"
+  alt_sr: "Manastir Rakovac odozgo: crkva i zvonik u dvorištu konaka sa lučnim prozorima, iza šumoviti obronci Fruške gore"
+  alt_cyr: "Манастир Раковац одозго: црква и звоник у дворишту конака са лучним прозорима, иза шумовити обронци Фрушке горе"
+  alt_de: "Kloster Rakovac von oben: Kirche und Glockenturm im Hof des Konaks mit Bogenfenstern, dahinter die bewaldeten Hänge der Fruška Gora"
+  alt_hu: "A rakovaci kolostor felülről: a templom és a harangtorony az íves ablakú konak udvarán, mögöttük a Tarcal-hegység erdős lejtői"
+monastery-gate:
+  src: img/monastery-gate.jpg
+  author: Konstantin Stein
+  license: © all rights reserved
+  alt: "The wrought-iron gate of Rakovac Monastery, with the konak and the top of the bell tower behind it"
+  temp: false
+  alt_ru: "Кованые ворота монастыря Раковац, за ними конак и верх колокольни"
+  alt_sr: "Kovana kapija manastira Rakovac, iza nje konak i vrh zvonika"
+  alt_cyr: "Кована капија манастира Раковац, иза ње конак и врх звоника"
+  alt_de: "Das schmiedeeiserne Tor des Klosters Rakovac, dahinter der Konak und die Spitze des Glockenturms"
+  alt_hu: "A rakovaci kolostor kovácsoltvas kapuja, mögötte a konak és a harangtorony csúcsa"
+hunting-stand:
+  src: img/hunting-stand.jpg
+  author: Konstantin Stein
+  license: © all rights reserved
+  alt: "A wooden hunting stand on the hill above the monastery"
+  temp: false
+  alt_ru: "Деревянная охотничья вышка на холме над монастырём"
+  alt_sr: "Drvena lovačka čeka na brdu iznad manastira"
+  alt_cyr: "Дрвена ловачка чека на брду изнад манастира"
+  alt_de: "Ein hölzerner Hochsitz auf dem Hügel über dem Kloster"
+  alt_hu: "Fa magasles a kolostor feletti dombon"

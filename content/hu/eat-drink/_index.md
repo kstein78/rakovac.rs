@@ -4,8 +4,8 @@ linkTitle: Evés-ivás
 weight: 45
 kicker: Éttermek és bor
 lead: Szezonális étterem egy biodinamikus borászatban, étterem a kolostor melletti hegyi úton és erdei étterem Zmajevacon, magasan a falu fölött.
-tile: Fig, a Salaxia & Imperator borászat, Pećina, Zmajevac
-photo: monastery-2026-2
+tile: Fig, a Imperator & Salaxia borászat, Pećina, Zmajevac
+photo: fig-entrance
 list_title: Hol lehet enni és inni
 ---
 

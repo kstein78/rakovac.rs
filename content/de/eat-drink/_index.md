@@ -4,8 +4,8 @@ linkTitle: Essen & Trinken
 weight: 45
 kicker: Restaurants und Wein
 lead: Ein saisonales Restaurant in einem biodynamischen Weingut, ein Restaurant an der Bergstraße nahe dem Kloster und ein Waldrestaurant auf dem Zmajevac hoch über dem Dorf.
-tile: Fig, das Weingut Salaxia & Imperator, Pećina, Zmajevac
-photo: monastery-2026-2
+tile: Fig, das Weingut Imperator & Salaxia, Pećina, Zmajevac
+photo: fig-entrance
 list_title: Wo man essen und trinken kann
 ---
 

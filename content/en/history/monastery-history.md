@@ -4,7 +4,7 @@ kicker: "From a legend of 1498 to today"
 weight: 2
 category: heritage
 summary: "A hunter's vow, a scriptorium that copied Serbia's medieval law code, a baroque golden age, destruction in 1943 and a slow rebirth."
-photo: monastery-belltower
+photo: monastery-church-above
 ---
 
 ## Raka and the deer

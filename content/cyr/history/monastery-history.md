@@ -5,7 +5,7 @@ kicker: Од легенде из 1498. до данас
 weight: 2
 category: heritage
 summary: Завет ловца, скрипторијум који је преписао средњовековни српски законик, барокно златно доба, разарање 1943. и спора обнова.
-photo: monastery-belltower
+photo: monastery-church-above
 ---
 
 ## Рака и јелен

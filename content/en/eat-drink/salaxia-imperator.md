@@ -1,5 +1,5 @@
 ---
-title: Salaxia & Imperator Winery
+title: Imperator & Salaxia Winery
 kicker: Biodynamic wine · Stari Rakovac
 weight: 2
 category: food
@@ -16,7 +16,7 @@ website: https://imperator.rs/
 status: unconfirmed
 ---
 
-The winery was founded in **2009** in Stari Rakovac, below the monastery, building on Fruška Gora's centuries-old wine tradition. It works biodynamically and has held **Demeter** certification since 2022, which is why it presents itself as the first biodynamic winery in Serbia. It makes around twenty wines from indigenous and international grape varieties, under the labels **Salaxia** and **Imperator**. The roadside sign reads **Vinarija Imperator & Salaxia**; the winery and Fig share one address, Manastirska 35.
+The winery was founded in **2009** in Stari Rakovac, below the monastery, building on Fruška Gora's centuries-old wine tradition. It works biodynamically and has held **Demeter** certification since 2022, which is why it presents itself as the first biodynamic winery in Serbia. It makes around twenty wines from indigenous and international grape varieties, under the labels **Imperator** and **Salaxia**. The roadside sign reads **Vinarija Imperator & Salaxia**; the winery and Fig share one address, Manastirska 35.
 
 Visitors can book a tasting and buy wine at the winery. The winery's restaurant is [Fig]({{< relref "eat-drink/fig" >}}).
 

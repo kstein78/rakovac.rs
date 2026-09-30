@@ -1,5 +1,5 @@
 ---
-title: Vinarija Salaxia & Imperator
+title: Vinarija Imperator & Salaxia
 kicker: Biodinamičko vino · Stari Rakovac
 weight: 2
 category: food
@@ -16,7 +16,7 @@ website: https://imperator.rs/
 status: unconfirmed
 ---
 
-Vinarija je osnovana **2009.** u Starom Rakovcu, ispod manastira, oslanjajući se na vekovnu vinsku tradiciju Fruške gore. Radi po biodinamičkim principima i od 2022. ima sertifikat **Demeter**, zbog čega se predstavlja kao prva biodinamička vinarija u Srbiji. Proizvodi dvadesetak vina od autohtonih i međunarodnih sorti, pod etiketama **Salaxia** i **Imperator**. Na putokazu pored puta piše **Vinarija Imperator & Salaxia**; vinarija i Fig imaju istu adresu, Manastirska 35.
+Vinarija je osnovana **2009.** u Starom Rakovcu, ispod manastira, oslanjajući se na vekovnu vinsku tradiciju Fruške gore. Radi po biodinamičkim principima i od 2022. ima sertifikat **Demeter**, zbog čega se predstavlja kao prva biodinamička vinarija u Srbiji. Proizvodi dvadesetak vina od autohtonih i međunarodnih sorti, pod etiketama **Imperator** i **Salaxia**. Na putokazu pored puta piše **Vinarija Imperator & Salaxia**; vinarija i Fig imaju istu adresu, Manastirska 35.
 
 Posetioci mogu da zakažu degustaciju i kupe vino u vinariji. Restoran vinarije je [Fig]({{< relref "eat-drink/fig" >}}).
 

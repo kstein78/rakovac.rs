@@ -4,7 +4,7 @@ kicker: Od legende iz 1498. do danas
 weight: 2
 category: heritage
 summary: Zavet lovca, skriptorijum koji je prepisao srednjovekovni srpski zakonik, barokno zlatno doba, razaranje 1943. i spora obnova.
-photo: monastery-belltower
+photo: monastery-church-above
 ---
 
 ## Raka i jelen

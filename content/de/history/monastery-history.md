@@ -4,7 +4,7 @@ kicker: Von einer Legende aus dem Jahr 1498 bis heute
 weight: 2
 category: heritage
 summary: Das Gelübde eines Jägers, eine Schreibstube, die Serbiens mittelalterliches Gesetzbuch abschrieb, ein barockes Goldenes Zeitalter, die Zerstörung 1943 und eine langsame Wiedergeburt.
-photo: monastery-belltower
+photo: monastery-church-above
 ---
 
 ## Raka und der Hirsch

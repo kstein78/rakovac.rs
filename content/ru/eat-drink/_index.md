@@ -4,8 +4,8 @@ linkTitle: Еда и вино
 weight: 45
 kicker: Рестораны и вино
 lead: Сезонный ресторан при биодинамической винодельне, ресторан на горной дороге у монастыря и лесной ресторан на Змаевце высоко над селом.
-tile: Fig, винодельня Salaxia & Imperator, Pećina, Zmajevac
-photo: monastery-2026-2
+tile: Fig, винодельня Imperator & Salaxia, Pećina, Zmajevac
+photo: fig-entrance
 list_title: Где поесть и выпить
 ---
 

@@ -1,11 +1,11 @@
 ---
 title: Вино из Раковца
-kicker: Salaxia & Imperator
+kicker: Imperator & Salaxia
 weight: 4
 category: products
 summary: Биодинамическое вино из Стари-Раковца, продаётся на винодельне.
 ---
 
-Вино в Раковце делают на [винодельне Salaxia & Imperator]({{< relref "eat-drink/salaxia-imperator" >}}) под монастырём. Попробовать и купить его можно прямо там.
+Вино в Раковце делают на [винодельне Imperator & Salaxia]({{< relref "eat-drink/salaxia-imperator" >}}) под монастырём. Попробовать и купить его можно прямо там.
 
 {{< todo >}}Домашние производители вина и ракии: добавить сюда, когда они согласятся на размещение.{{< /todo >}}

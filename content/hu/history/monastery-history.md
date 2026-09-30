@@ -4,7 +4,7 @@ kicker: Az 1498-as legendától napjainkig
 weight: 2
 category: heritage
 summary: Egy vadász fogadalma, egy scriptorium, amely a középkori szerb törvénykönyvet másolta, barokk aranykor, pusztulás 1943-ban és lassú újjászületés.
-photo: monastery-belltower
+photo: monastery-church-above
 ---
 
 ## Raka és a szarvas

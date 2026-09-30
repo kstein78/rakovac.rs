@@ -1,5 +1,5 @@
 ---
-title: Salaxia & Imperator borászat
+title: Imperator & Salaxia borászat
 kicker: Biodinamikus bor · Stari Rakovac
 weight: 2
 category: food
@@ -16,7 +16,7 @@ website: https://imperator.rs/
 status: unconfirmed
 ---
 
-A borászatot **2009-ben** alapították Stari Rakovacon, a kolostor alatt, a Tarcal-hegység (Fruška gora) évszázados borkészítési hagyományára építve. Biodinamikus módszerrel dolgozik, és 2022 óta **Demeter** tanúsítvánnyal rendelkezik – ezért mutatkozik be Szerbia első biodinamikus borászataként. Körülbelül húszféle bort készít őshonos és nemzetközi szőlőfajtákból, **Salaxia** és **Imperator** címkével. Az út menti táblán **Vinarija Imperator & Salaxia** áll; a borászat és a Fig címe ugyanaz: Manastirska 35.
+A borászatot **2009-ben** alapították Stari Rakovacon, a kolostor alatt, a Tarcal-hegység (Fruška gora) évszázados borkészítési hagyományára építve. Biodinamikus módszerrel dolgozik, és 2022 óta **Demeter** tanúsítvánnyal rendelkezik – ezért mutatkozik be Szerbia első biodinamikus borászataként. Körülbelül húszféle bort készít őshonos és nemzetközi szőlőfajtákból, **Imperator** és **Salaxia** címkével. Az út menti táblán **Vinarija Imperator & Salaxia** áll; a borászat és a Fig címe ugyanaz: Manastirska 35.
 
 A látogatók kóstolót foglalhatnak és bort vásárolhatnak a borászatban. A borászat étterme a [Fig]({{< relref "eat-drink/fig" >}}).
 

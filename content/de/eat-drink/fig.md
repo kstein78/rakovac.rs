@@ -3,7 +3,7 @@ title: Restaurant Fig
 kicker: Saisonale Küche · im Weingut
 weight: 1
 category: food
-summary: Saisonale serbische Küche mit Zutaten aus Srem, serviert im Weingut Salaxia & Imperator unterhalb des Klosters.
+summary: Saisonale serbische Küche mit Zutaten aus Srem, serviert im Weingut Imperator & Salaxia unterhalb des Klosters.
 coords:
 - 45.1869683
 - 19.7724136
@@ -22,7 +22,7 @@ phone: +381 66 8651342
 status: unconfirmed
 ---
 
-Fig wurde im Sommer 2023 im Weingutskomplex **Salaxia & Imperator** eröffnet, wenige Gehminuten vom Kloster Rakovac entfernt. Die Küche leitet Chefkoch **Marko Aćimović**, der an der Kochschule ALMA in Italien ausgebildet wurde. Die Speisekarte wechselt mit den Jahreszeiten und beruht auf heimischen Erzeugnissen, bevorzugt aus Srem (Syrmien): lokale Käsesorten, Flussfisch und Gemüse, zubereitet mit italienischer Technik. Die Weine stammen vom benachbarten Weingut.
+Fig wurde im Sommer 2023 im Weingutskomplex **Imperator & Salaxia** eröffnet, wenige Gehminuten vom Kloster Rakovac entfernt. Die Küche leitet Chefkoch **Marko Aćimović**, der an der Kochschule ALMA in Italien ausgebildet wurde. Die Speisekarte wechselt mit den Jahreszeiten und beruht auf heimischen Erzeugnissen, bevorzugt aus Srem (Syrmien): lokale Käsesorten, Flussfisch und Gemüse, zubereitet mit italienischer Technik. Die Weine stammen vom benachbarten Weingut.
 
 Ein Essen hier lässt sich gut mit einer morgendlichen Wanderung nach Beli Majdan oder einem Besuch des Klosters verbinden.
 

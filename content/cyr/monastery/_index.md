@@ -8,6 +8,9 @@ lead: Жив православни манастир у подножју шум�
 tile: Посете, млеко и сир сестринства, филмска локација
 photo: monastery-fence-summer
 gallery:
+- monastery-church-above
+- monastery-church-hillside
+- monastery-gate
 - monastery-entrance
 - monastery-summer
 - monastery-mist

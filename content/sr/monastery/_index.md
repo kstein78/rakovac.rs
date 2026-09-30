@@ -6,7 +6,7 @@ kicker: Stari Rakovac
 lead: Živ pravoslavni manastir u podnožju šume, prvi put pomenut 1545–1546. godine, danas dom ženskog monaškog sestrinstva. Njegov barokni zvonik je znamenje Starog Rakovca.
 tile: Posete, mleko i sir sestrinstva, filmska lokacija
 photo: monastery-fence-summer
-gallery: [monastery-entrance, monastery-summer, monastery-mist, monastery-road-winter, monastery-valley-winter, monastery-roofs-winter, monastery-lavender, monastery-belltower, monastery-iconostasis]
+gallery: [monastery-church-above, monastery-church-hillside, monastery-gate, monastery-entrance, monastery-summer, monastery-mist, monastery-road-winter, monastery-valley-winter, monastery-roofs-winter, monastery-lavender, monastery-belltower, monastery-iconostasis]
 coords:
 - 45.184697
 - 19.774143

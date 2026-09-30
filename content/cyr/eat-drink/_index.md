@@ -5,8 +5,8 @@ linkTitle: Храна и вино
 weight: 45
 kicker: Ресторани и вино
 lead: Сезонски ресторан у биодинамичкој винарији, ресторан на планинском путу код манастира и шумски ресторан на Змајевцу, високо изнад села.
-tile: Fig, винарија Salaxia & Imperator, Пећина, Змајевац
-photo: monastery-2026-2
+tile: Fig, винарија Imperator & Salaxia, Пећина, Змајевац
+photo: fig-entrance
 list_title: Где јести и пити
 ---
 

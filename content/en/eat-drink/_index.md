@@ -4,8 +4,8 @@ linkTitle: Eat & drink
 weight: 45
 kicker: Restaurants and wine
 lead: A seasonal restaurant inside a biodynamic winery, a restaurant on the mountain road near the monastery, and a forest restaurant at Zmajevac high above the village.
-tile: Fig, the Salaxia & Imperator winery, Pećina, Zmajevac
-photo: monastery-2026-2
+tile: Fig, the Imperator & Salaxia winery, Pećina, Zmajevac
+photo: fig-entrance
 list_title: Where to eat and drink
 ---
 

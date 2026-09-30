@@ -57,3 +57,7 @@
 - { photo: isposnica-entrance-child, theme: monuments }
 - { photo: isposnica-chapel-child, theme: monuments }
 - { photo: fig-entrance, season: autumn, theme: village }
+- { photo: monastery-church-above, season: autumn, theme: monastery }
+- { photo: monastery-church-hillside, season: autumn, theme: monastery }
+- { photo: monastery-gate, season: autumn, theme: monastery }
+- { photo: hunting-stand, season: autumn, theme: nature }
