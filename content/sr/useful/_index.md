@@ -87,6 +87,12 @@ groups:
     coords:
     - 45.2237748
     - 19.8439077
+  - name: "Bolnica na Mišeluku (Nova opšta bolnica)"
+    what: "Najnovija velika bolnica kod Novog Sada: izgrađena tokom pandemije kovida i otvorena u septembru 2021. sa više od 600 kreveta. Od 2023. Univerzitetski klinički centar Vojvodine u njoj ima centar za dijalizu, radiologiju (CT) i bolnička odeljenja više klinika. Meštani Rakovca često viđaju kola hitne pomoći koja ovamo dovoze pacijente, čak i iz Novog Sada."
+    address: "Mišeluk, Petrovaradin"
+    coords:
+    - 45.2264567
+    - 19.8734435
   - name: Institut za kardiovaskularne bolesti Vojvodine
     what: Specijalizovana bolnica za bolesti srca i krvnih sudova.
     address: Put doktora Goldmana 4, 21204 Sremska Kamenica

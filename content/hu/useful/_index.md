@@ -87,6 +87,12 @@ groups:
     coords:
     - 45.2237748
     - 19.8439077
+  - name: "A mišeluki kórház (Nova opšta bolnica)"
+    what: "Újvidék környékének legújabb nagy kórháza: a koronavírus-járvány idején épült, és 2021 szeptemberében nyílt meg több mint 600 ággyal. 2023 óta a Vajdasági Egyetemi Klinikai Központ használja dialízisre, képalkotásra (CT) és több klinika fekvőbeteg-osztályára. Rakovacon gyakran látni, hogy mentők ide hoznak betegeket, még Újvidékről is."
+    address: "Mišeluk, Petrovaradin"
+    coords:
+    - 45.2264567
+    - 19.8734435
   - name: Vajdasági Szív- és Érrendszeri Betegségek Intézete
     what: Szív- és érbetegségekre szakosodott kórház.
     address: Put doktora Goldmana 4, 21204 Sremska Kamenica

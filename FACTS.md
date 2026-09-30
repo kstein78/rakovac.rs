@@ -151,3 +151,6 @@ Kamenolom memorial, on site (Kosta's photos, 2026-09): introductory plaque text 
 | Summer 2026 low Danube: Beočin–Futog ferry stopped for a while; Banoštor–Begeč ferry kept running, small capacity | C | Kosta, 2026-09-29 |
 | Ferry "Jole" Banoštor–Begeč: from 7:00 (Banoštor) to 17:00 (last from Begeč) | B | ozon.rs 1 Feb 2023 |
 | Ferry Beočin–Futog not running on Saturday 26 Sep 2026 (seen by a neighbour); site now says to call before going | C | neighbour via Kosta, 2026-09-29 |
+| Hospital on Mišeluk ("Nova opšta bolnica u Novom Sadu" on Google Maps), 45.2264567, 19.8734435: former COVID hospital opened 2 Sep 2021, >600 beds (220 critical care) | A | mod.gov.rs 2 Sep 2021; Google Maps (link from Kosta) |
+| Mišeluk hospital used by UKCV since 2023: dialysis centre, radiology (2 CT), ophthalmology and ENT wards, rehabilitation day hospital | B | 021.rs 27 Jun 2023; mojnovisad.com 9 Oct 2023; 021.rs (rehabilitation) |
+| Ambulances often bring patients to Mišeluk, even from Novi Sad | C | Kosta, 2026-09-30 |

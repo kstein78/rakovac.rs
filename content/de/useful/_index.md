@@ -87,6 +87,12 @@ groups:
     coords:
     - 45.2237748
     - 19.8439077
+  - name: "Krankenhaus auf dem Mišeluk (Nova opšta bolnica)"
+    what: "Das neueste große Krankenhaus bei Novi Sad: während der Corona-Pandemie gebaut und im September 2021 mit mehr als 600 Betten eröffnet. Seit 2023 nutzt es das Universitätsklinikum der Vojvodina für Dialyse, Bildgebung (CT) und die Stationen mehrerer Kliniken. In Rakovac sieht man oft Rettungswagen, die Patienten hierher bringen, sogar aus Novi Sad."
+    address: "Mišeluk, Petrovaradin"
+    coords:
+    - 45.2264567
+    - 19.8734435
   - name: Institut für Herz- und Gefäßerkrankungen der Vojvodina
     what: Fachkrankenhaus für Herz- und Gefäßerkrankungen.
     address: Put doktora Goldmana 4, 21204 Sremska Kamenica
