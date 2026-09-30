@@ -1,11 +1,16 @@
 #!/usr/bin/env python3
-"""Make 720-px thumbnails for every local photo listed in data/gallery.yaml (static/img/thumb/<file>).
+"""Make 720-px thumbnails for every local photo listed in data/gallery.yaml and data/albums.yaml (static/img/thumb/<file>).
 Run after adding photos: python3 scripts/gallery_thumbs.py"""
 import os, yaml
 from PIL import Image
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 photos = yaml.safe_load(open(os.path.join(ROOT, 'data', 'photos.yaml'), encoding='utf-8'))
-for item in yaml.safe_load(open(os.path.join(ROOT, 'data', 'gallery.yaml'), encoding='utf-8')):
+items = yaml.safe_load(open(os.path.join(ROOT, 'data', 'gallery.yaml'), encoding='utf-8'))
+albums = os.path.join(ROOT, 'data', 'albums.yaml')
+if os.path.exists(albums):
+    for album in (yaml.safe_load(open(albums, encoding='utf-8')) or {}).values():
+        items += album
+for item in items:
     src = photos[item['photo']]['src']
     if src.startswith('http'):
         continue

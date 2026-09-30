@@ -160,4 +160,6 @@ Kamenolom memorial, on site (Kosta's photos, 2026-09): introductory plaque text 
 | English Wikipedia article "Rakovac, Beočin" links to rakovac.rs (1 of 4 external links) | A | en.wikipedia.org API, 2026-09-30 |
 | Grass fire near Rakovac 7 Feb 2024, from ~19:00, ~50 ha of low vegetation above Beočin and Rakovac (meadows in the Arsin part), Novi Sad firefighters into the night | B | 021.rs 7 Feb 2024; vreme.com 8 Feb 2024 |
 | Peter Perlin's night video of the grass fire on the slope near the swing = the fire of the night 7–8 Feb 2024 (Kosta photographed the burnt slopes the next morning, 8 Feb 2024, ground still hot in places) | B | Kosta 2026-09-30 + 021.rs 7 Feb 2024 |
-| Photos by Peter Perlin (7 on 2026-09-30) may be used with his full name, no link | A | Kosta, 2026-09-30 |
+| Photos by Peter Perlin (7 of Rakovac + 3 of Novi Sad on 2026-09-30) may be used with his full name, no link | A | Kosta, 2026-09-30 |
+| Kosta's 4 photos of the burnt slopes, taken the morning after the fire, 8 Feb 2024, with his dog Ralf; ground still hot in places | A | Kosta, 2026-09-30 |
+| Novi Sad album photos: Žeželj Bridge in fog from the Petrovaradin bank; city centre with the Name of Mary Church; blossom on the Danube quay | B | Kosta (captions), church identified from the photo |

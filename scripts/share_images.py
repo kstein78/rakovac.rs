@@ -21,7 +21,7 @@ def used_photo_keys():
         head = open(f, encoding='utf-8').read().split('---')
         if len(head) < 3:
             continue
-        for k in re.findall(r'^(?:photo|portrait):\s*["\']?([\w-]+)', head[1], re.M):
+        for k in re.findall(r'^(?:photo|portrait|share_photo):\s*["\']?([\w-]+)', head[1], re.M):
             keys.add(k)
     return keys
 

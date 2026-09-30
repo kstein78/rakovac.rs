@@ -10,3 +10,5 @@ lead: "Današnji Rakovac, godišnje doba za godišnjim dobom. Pritisnite „Slaj
 Stare fotografije iz porodičnih albuma imaju svoje mesto: [foto-arhiv]({{< relref "history/photos" >}}).
 
 Vedrih noći, naročito zimi, nebo nad dolinom Rakovca je puno zvezda, a pun mesec izlazi iznad brda: pogledajte fotografije „Noćno nebo“.
+
+Novi Sad, grad preko Dunava, ima svoj album: [Novi Sad u fotografijama]({{< relref "gallery/novi-sad" >}}).

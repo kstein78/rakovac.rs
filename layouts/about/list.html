@@ -7,7 +7,7 @@
     <thead><tr><th>{{ i18n "photo_by" }}</th><th>{{ i18n "author" }}</th><th>{{ i18n "license" }}</th><th>{{ i18n "status" }}</th></tr></thead>
     <tbody>
     {{ range $k, $p := site.Data.photos }}
-      <tr><td><a href="{{ $p.page }}" rel="noopener">{{ index $p (printf "alt_%s" site.Language.Lang) | default $p.alt }}</a></td><td>{{ $p.author }}</td><td>{{ $p.license }}</td><td>{{ if $p.temp }}<span class="chip chip-temp">{{ i18n "photo_temp" }}</span>{{ else }}✓{{ end }}</td></tr>
+      <tr><td>{{ $alt := index $p (printf "alt_%s" site.Language.Lang) | default $p.alt }}{{ with $p.page }}<a href="{{ . }}" rel="noopener">{{ $alt }}</a>{{ else }}{{ with $p.src }}<a href="{{ if hasPrefix . "http" }}{{ . }}{{ else }}{{ . | relURL }}{{ end }}">{{ $alt }}</a>{{ else }}{{ $alt }}{{ end }}{{ end }}</td><td>{{ $p.author }}</td><td>{{ $p.license }}</td><td>{{ if $p.temp }}<span class="chip chip-temp">{{ i18n "photo_temp" }}</span>{{ else }}✓{{ end }}</td></tr>
     {{ end }}
     </tbody>
   </table>

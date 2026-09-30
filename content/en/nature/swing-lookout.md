@@ -24,4 +24,8 @@ Dry grass on these slopes burns easily. A neighbour, Peter Perlin, filmed this g
 
 {{< localvideo src="video/lookout-fire.mp4" poster="img/lookout-fire-poster.jpg" title="Grass fire on the slope near the swing, at night" author="Peter Perlin" >}}
 
-The grass caught fire around 7 pm on 7 February; about 50 hectares of low vegetation above Beočin and Rakovac burned, and firefighters from Novi Sad worked into the night ([021.rs](https://www.021.rs/story/Novi-Sad/Hronika/366611/VIDEO-Pogledajte-kako-su-novosadski-vatrogasci-gasili-pozar-kod-Rakovca.html)). By the next morning, 8 February, the slopes around the swing were black and the ground was still hot in places. Please do not light fires or throw away cigarettes here, especially in dry weather. If you see smoke or flames, call the fire brigade on [193](tel:193).
+The grass caught fire around 7 pm on 7 February; about 50 hectares of low vegetation above Beočin and Rakovac burned, and firefighters from Novi Sad worked into the night ([021.rs](https://www.021.rs/story/Novi-Sad/Hronika/366611/VIDEO-Pogledajte-kako-su-novosadski-vatrogasci-gasili-pozar-kod-Rakovca.html)). By the next morning, 8 February, the slopes around the swing were black and the ground was still hot in places.
+
+{{< photos "fire-2024-ralf fire-2024-slope fire-2024-village-view fire-2024-novi-sad-view" >}}
+
+Please do not light fires or throw away cigarettes here, especially in dry weather. If you see smoke or flames, call the fire brigade on [193](tel:193).

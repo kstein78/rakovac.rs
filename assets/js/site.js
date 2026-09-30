@@ -272,8 +272,8 @@ document.addEventListener('DOMContentLoaded', function () {
     start.hidden = false;
     start.addEventListener('click', function () { open(0, true); if (canFs) viewer.requestFullscreen().catch(function () {}); });
     var filters = root.querySelector('[data-gal-filters]');
-    filters.hidden = false;
-    filters.addEventListener('click', function (e) {
+    if (filters) filters.hidden = false;
+    if (filters) filters.addEventListener('click', function (e) {
       var b = e.target.closest('[data-val]'); if (!b) return;
       var g = b.parentNode;
       g.querySelectorAll('[data-val]').forEach(function (x) { x.classList.toggle('is-on', x === b); x.setAttribute('aria-pressed', x === b ? 'true' : 'false'); });

@@ -24,4 +24,8 @@ Trockenes Gras an diesen Hängen brennt leicht. Ein Nachbar, Peter Perlin, hat d
 
 {{< localvideo src="video/lookout-fire.mp4" poster="img/lookout-fire-poster.jpg" title="Grasbrand am Hang bei der Schaukel, nachts" author="Peter Perlin" >}}
 
-Das Gras fing am 7. Februar gegen 19 Uhr Feuer; es brannten oberhalb von Beočin und Rakovac rund 50 Hektar niedriger Bewuchs, die Feuerwehr aus Novi Sad war bis spät in die Nacht im Einsatz ([021.rs](https://www.021.rs/story/Novi-Sad/Hronika/366611/VIDEO-Pogledajte-kako-su-novosadski-vatrogasci-gasili-pozar-kod-Rakovca.html)). Am nächsten Morgen, dem 8. Februar, waren die Hänge um die Schaukel schwarz und der Boden stellenweise noch heiß. Bitte hier kein Feuer machen und keine Zigaretten wegwerfen, besonders bei Trockenheit. Wenn Sie Rauch oder Flammen sehen, rufen Sie die Feuerwehr unter [193](tel:193).
+Das Gras fing am 7. Februar gegen 19 Uhr Feuer; es brannten oberhalb von Beočin und Rakovac rund 50 Hektar niedriger Bewuchs, die Feuerwehr aus Novi Sad war bis spät in die Nacht im Einsatz ([021.rs](https://www.021.rs/story/Novi-Sad/Hronika/366611/VIDEO-Pogledajte-kako-su-novosadski-vatrogasci-gasili-pozar-kod-Rakovca.html)). Am nächsten Morgen, dem 8. Februar, waren die Hänge um die Schaukel schwarz und der Boden stellenweise noch heiß.
+
+{{< photos "fire-2024-ralf fire-2024-slope fire-2024-village-view fire-2024-novi-sad-view" >}}
+
+Bitte hier kein Feuer machen und keine Zigaretten wegwerfen, besonders bei Trockenheit. Wenn Sie Rauch oder Flammen sehen, rufen Sie die Feuerwehr unter [193](tel:193).

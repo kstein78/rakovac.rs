@@ -10,7 +10,7 @@
   </div>
   <figcaption>
     {{ with .caption }}<span class="cap">{{ . | markdownify }}</span>{{ end }}
-    <span class="credit">{{ i18n "photo_by" }}: <a href="{{ $p.page }}" rel="noopener">{{ $p.author }}</a>, {{ $p.license }}</span>
+    <span class="credit">{{ i18n "photo_by" }}: {{ with $p.page }}<a href="{{ . }}" rel="noopener">{{ $p.author }}</a>{{ else }}{{ $p.author }}{{ end }}, {{ $p.license }}</span>
   </figcaption>
 </figure>
 {{ else }}

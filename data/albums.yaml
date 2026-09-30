@@ -1,0 +1,6 @@
+# Photo albums inside the gallery section (content/<lang>/gallery/<page>.md, front matter album: <key>).
+# Each album is a list of photo keys from data/photos.yaml, shown in this order (layouts/gallery/single.html).
+novi-sad:
+  - { photo: novisad-zezelj-fog }
+  - { photo: novisad-centre-evening }
+  - { photo: novisad-quay-blossom }

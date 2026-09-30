@@ -1,0 +1,8 @@
+{{/* Photo album inside the gallery section (e.g. /gallery/novi-sad/): front matter "album" = key in data/albums.yaml,
+  a list of {photo} keys from data/photos.yaml. Same grid and viewer as the main gallery, without filters. */}}
+{{ define "main" }}
+{{ partial "page-head.html" . }}
+<div class="wrap gal-intro"><div class="prose">{{ .Content }}</div></div>
+{{ with index site.Data.albums .Params.album }}{{ partial "gallery-grid.html" (dict "items" . "page" $ "filters" false) }}{{ end }}
+{{ with .Parent }}<p class="wrap small"><a href="{{ .RelPermalink }}">← {{ .Title }}</a></p>{{ end }}
+{{ end }}

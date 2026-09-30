@@ -1,0 +1,2 @@
+{{/* A small grid of photos inside the text: {{< photos "key-1 key-2 key-3" >}} (keys from data/photos.yaml). */}}
+<div class="gallery gallery-inline">{{ range split (.Get 0) " " }}{{ with . }}{{ partial "photo.html" (dict "key" .) }}{{ end }}{{ end }}</div>

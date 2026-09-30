@@ -10,3 +10,5 @@ lead: "Rakovac today, season by season. Press Slideshow to watch the photos on t
 Old photos from family albums have their own place: the [photo archive]({{< relref "history/photos" >}}).
 
 On clear nights, above all in winter, the sky over the Rakovac valley is full of stars, and the full moon rises over the hills: see the "Night sky" photos.
+
+Novi Sad, the city across the Danube, has its own album: [Novi Sad in photos]({{< relref "gallery/novi-sad" >}}).

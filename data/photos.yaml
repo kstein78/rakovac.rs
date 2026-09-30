@@ -1219,3 +1219,80 @@ perlin-snow-garden:
   alt_cyr: "Башта под свежим снегом"
   alt_de: "Ein Garten unter frischem Schnee"
   alt_hu: "Kert friss hó alatt"
+novisad-quay-blossom:
+  src: img/novisad-quay-blossom.jpg
+  author: Peter Perlin
+  license: © all rights reserved, used with permission
+  alt: "Blossoming trees on the Danube quay in Novi Sad in spring, a white arch bridge in the distance"
+  temp: false
+  alt_ru: "Цветущие деревья на дунайской набережной Нови-Сада весной, вдали белая арка моста"
+  alt_sr: "Rascvetalo drveće na dunavskom keju u Novom Sadu u proleće, u daljini beli luk mosta"
+  alt_cyr: "Расцветало дрвеће на дунавском кеју у Новом Саду у пролеће, у даљини бели лук моста"
+  alt_de: "Blühende Bäume am Donaukai in Novi Sad im Frühling, in der Ferne ein weißer Brückenbogen"
+  alt_hu: "Virágzó fák az újvidéki Duna-parton tavasszal, a távolban egy fehér hídív"
+novisad-centre-evening:
+  src: img/novisad-centre-evening.jpg
+  author: Peter Perlin
+  license: © all rights reserved, used with permission
+  alt: "Evening in the centre of Novi Sad: festive lights and the spire of the Name of Mary Church at sunset"
+  temp: false
+  alt_ru: "Вечер в центре Нови-Сада: праздничные огни и шпиль церкви Имени Марии на закате"
+  alt_sr: "Veče u centru Novog Sada: praznična svetla i toranj crkve Imena Marijinog u zalazak sunca"
+  alt_cyr: "Вече у центру Новог Сада: празнична светла и торањ цркве Имена Маријиног у залазак сунца"
+  alt_de: "Abend im Zentrum von Novi Sad: Festbeleuchtung und der Turm der Kirche Mariä Namen im Sonnenuntergang"
+  alt_hu: "Este Újvidék központjában: ünnepi fények és a Mária neve templom tornya naplementekor"
+novisad-zezelj-fog:
+  src: img/novisad-zezelj-fog.jpg
+  author: Peter Perlin
+  license: © all rights reserved, used with permission
+  alt: "Žeželj Bridge in fog over the Danube, seen from the Petrovaradin bank"
+  temp: false
+  alt_ru: "Мост Жежеля в тумане над Дунаем, вид с петроварадинского берега"
+  alt_sr: "Žeželjev most u magli nad Dunavom, pogled s petrovaradinske obale"
+  alt_cyr: "Жежељев мост у магли над Дунавом, поглед с петроварадинске обале"
+  alt_de: "Die Žeželj-Brücke im Nebel über der Donau, vom Ufer in Petrovaradin aus"
+  alt_hu: "A Žeželj-híd ködben a Duna felett, a péterváradi partról"
+fire-2024-ralf:
+  src: img/fire-2024-ralf.jpg
+  author: Konstantin Stein
+  license: © all rights reserved
+  alt: "The burnt slope above the village the morning after the fire, 8 February 2024, with Ralf the dog on the path"
+  temp: false
+  alt_ru: "Выгоревший склон над деревней наутро после пожара, 8 февраля 2024 года; на тропинке пёс Ральф"
+  alt_sr: "Izgorela padina iznad sela jutro posle požara, 8. februara 2024; na stazi pas Ralf"
+  alt_cyr: "Изгорела падина изнад села јутро после пожара, 8. фебруара 2024; на стази пас Ралф"
+  alt_de: "Der verbrannte Hang über dem Dorf am Morgen nach dem Brand, 8. Februar 2024, auf dem Pfad Hund Ralf"
+  alt_hu: "A leégett lejtő a falu felett a tűz utáni reggelen, 2024. február 8.; az ösvényen Ralf kutya"
+fire-2024-slope:
+  src: img/fire-2024-slope.jpg
+  author: Konstantin Stein
+  license: © all rights reserved
+  alt: "Black, burnt grass on the hillside above Rakovac, 8 February 2024"
+  temp: false
+  alt_ru: "Чёрная выгоревшая трава на склоне над Раковцем, 8 февраля 2024 года"
+  alt_sr: "Crna, izgorela trava na padini iznad Rakovca, 8. februara 2024"
+  alt_cyr: "Црна, изгорела трава на падини изнад Раковца, 8. фебруара 2024"
+  alt_de: "Schwarzes, verbranntes Gras am Hang über Rakovac, 8. Februar 2024"
+  alt_hu: "Fekete, leégett fű a Rakovac feletti domboldalon, 2024. február 8."
+fire-2024-village-view:
+  src: img/fire-2024-village-view.jpg
+  author: Konstantin Stein
+  license: © all rights reserved
+  alt: "The burnt ridge above Rakovac on 8 February 2024, with the village, the Danube and Novi Sad beyond"
+  temp: false
+  alt_ru: "Выгоревший гребень над Раковцем 8 февраля 2024 года, за ним деревня, Дунай и Нови-Сад"
+  alt_sr: "Izgoreli greben iznad Rakovca 8. februara 2024, a iza njega selo, Dunav i Novi Sad"
+  alt_cyr: "Изгорели гребен изнад Раковца 8. фебруара 2024, а иза њега село, Дунав и Нови Сад"
+  alt_de: "Der verbrannte Kamm über Rakovac am 8. Februar 2024, dahinter das Dorf, die Donau und Novi Sad"
+  alt_hu: "A leégett gerinc Rakovac felett 2024. február 8-án, mögötte a falu, a Duna és Újvidék"
+fire-2024-novi-sad-view:
+  src: img/fire-2024-novi-sad-view.jpg
+  author: Konstantin Stein
+  license: © all rights reserved
+  alt: "The burnt hilltop above Rakovac on 8 February 2024, looking over the village towards Novi Sad"
+  temp: false
+  alt_ru: "Выгоревшая вершина холма над Раковцем 8 февраля 2024 года, вид через деревню на Нови-Сад"
+  alt_sr: "Izgoreli vrh brda iznad Rakovca 8. februara 2024, pogled preko sela ka Novom Sadu"
+  alt_cyr: "Изгорели врх брда изнад Раковца 8. фебруара 2024, поглед преко села ка Новом Саду"
+  alt_de: "Die verbrannte Hügelkuppe über Rakovac am 8. Februar 2024, Blick über das Dorf nach Novi Sad"
+  alt_hu: "A leégett dombtető Rakovac felett 2024. február 8-án, kilátás a falun át Újvidék felé"

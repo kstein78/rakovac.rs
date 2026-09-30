@@ -11,7 +11,7 @@
 {{ $d = $d | default $sitedesc | markdownify | plainify | htmlUnescape | replaceRE `\s+` " " | strings.TrimSpace }}
 {{ $d = truncate 160 "…" $d }}
 {{ $img := "" }}{{ $imgAlt := "" }}{{ $imgW := 0 }}{{ $imgH := 0 }}
-{{ $key := cond .IsHome "" (.Params.photo | default .Params.portrait | default "") }}
+{{ $key := cond .IsHome "" (.Params.photo | default .Params.portrait | default .Params.share_photo | default "") }}
 {{ with and $key (index site.Data.photos $key) }}
   {{ $imgAlt = index . (printf "alt_%s" $lang) | default .alt }}
   {{ if hasPrefix .src "http" }}{{ $img = .src }}
