@@ -11,4 +11,4 @@ list_title: Gde jesti i piti
 
 Fruška gora je vinski kraj još od rimskih vremena, a Rakovac leži na njenom severnom obodu. Radni dani se menjaju sa sezonom, pa proverite pre polaska i rezervišite unapred za vikend.
 
-Tražite med, sir ili rakiju za poneti? Pogledajte [Domaće proizvode]({{< relref "local-products" >}}).
+Tražite med, sir ili rakiju za poneti? Pogledajte [Domaće proizvode]({{< relref "local-products" >}}). Manastirski sir se poručuje unapred: [sir i mleko iz manastira Rakovac]({{< relref "local-products/monastery-dairy" >}}).

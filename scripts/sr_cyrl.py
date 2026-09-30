@@ -26,7 +26,7 @@ MONO = dict(zip('abvgdđežzijklmnoprstćufhcčšABVGDĐEŽZIJKLMNOPRSTĆUFHCČ�
 SERBIAN_LATIN = set(MONO) | set('Ǆǅǆ')
 KEEP_WORDS = {
     # foreign names, brands and abbreviations that Serbian Cyrillic texts also write in Latin
-    'Google', 'YouTube', 'Facebook', 'Instagram', 'Threads', 'Telegram', 'Viber', 'WhatsApp', 'WhatsAppa',
+    'Google', 'YouTube', 'Facebook', 'Instagram', 'Threads', 'Telegram', 'Viber', 'Viberu', 'Viberom', 'Vibera', 'WhatsApp', 'WhatsAppa',
     'OpenStreetMap', 'Wikiloc', 'Strava', 'GPX', 'GPS', 'QR', 'CSS', 'HTML', 'PDF', 'ZIP', 'SVG', 'PNG', 'MIT',
     'CC', 'BY', 'SA', 'OFL', 'Anthropic', 'Claude', 'Claude-om', 'Wikimedia', 'Commons', 'Booking', 'Windows',
     'Leaflet', 'Mistrowitz', 'Futtak', 'Neusatz', 'Forrest', 'Relax', 'Spa', 'Resort', 'Mövenpick', 'Salaxia',

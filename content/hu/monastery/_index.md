@@ -4,7 +4,7 @@ linkTitle: A kolostor
 weight: 20
 kicker: Manastir Rakovac · Stari Rakovac
 lead: Működő ortodox kolostor az erdő lábánál, amelyet először 1545–46-ban említenek, ma pedig apácaközösség otthona. Barokk harangtornya Stari Rakovac jellegzetes tájékozódási pontja.
-tile: Látogatás, a nővérek teje és sajtja, forgatási helyszín
+tile: "Látogatás, a kolostor sajtja és teje, forgatási helyszín"
 photo: monastery-fence-summer
 gallery: [monastery-church-above, monastery-church-hillside, monastery-gate, monastery-entrance, monastery-summer, monastery-mist, monastery-road-winter, monastery-valley-winter, monastery-roofs-winter, monastery-lavender, monastery-belltower, monastery-iconostasis]
 coords:
@@ -54,11 +54,9 @@ A kolostor hosszú történetét, Raka és a szarvas alapítási legendájától
 
 {{< todo >}}Megkérdezni a kolostort: minden évben ég-e a badnjak, hánykor kezdődik, és szívesen látják-e a látogatókat?{{< /todo >}}
 
-## Tej és sajt a nővérektől
+## Sajt és tej a kolostor gazdaságából
 
-A nővérek saját **tejet és sajtot** árulnak a látogatóknak és a szomszédoknak. A kolostor ilyen módon való támogatása keveset kóstál, és egy olyan közösségnek segít, amely az elmúlt harminc évet az újjáépítéssel töltötte.
-
-{{< todo >}}Megkérdezni az apácákat, mit árulnak (tejet, sajtot, mást?), mely napokon és milyen időpontokban, és szeretnék-e, hogy ez itt megjelenjen. Ha beleegyeznek, lefényképezni a termékeket.{{< /todo >}}
+A kolostor női kolostor, de a gazdaságot szerzetesek viszik: érlelt kemény sajtot és fiatal fehér sajtot készítenek, és friss tejet árulnak. A sajtot előre kell megrendelni telefonon vagy Viberen, a kemény sajtra hetekig is várni kell. Telefonszámok, várakozási idő és átvétel: [Sajt és tej a rakovaci kolostorból]({{< relref "local-products/monastery-dairy" >}}). Itt vásárolni egyszerű módja a kolostor támogatásának.
 
 ## Forgatási helyszín
 

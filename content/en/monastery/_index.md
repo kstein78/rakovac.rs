@@ -4,7 +4,7 @@ linkTitle: "The Monastery"
 weight: 20
 kicker: "Manastir Rakovac · Stari Rakovac"
 lead: "A living Orthodox monastery at the foot of the forest, first recorded in 1545–46 and home today to a community of nuns. Its baroque bell tower is the landmark of Stari Rakovac."
-tile: "Visiting, the sisterhood's milk and cheese, and a film location"
+tile: "Visiting, the monastery's cheese and milk, and a film location"
 photo: monastery-fence-summer
 gallery: [monastery-church-above, monastery-church-hillside, monastery-gate, monastery-entrance, monastery-summer, monastery-mist, monastery-road-winter, monastery-valley-winter, monastery-roofs-winter, monastery-lavender, monastery-belltower, monastery-iconostasis]
 coords: [45.184697, 19.774143]
@@ -50,11 +50,9 @@ On the evening of **6 January**, Badnji dan, the eve of Orthodox Christmas, the 
 
 {{< todo >}}Ask the monastery: does the badnjak burn every year, at what time does it start, and are visitors welcome?{{< /todo >}}
 
-## Milk and cheese from the sisterhood
+## Cheese and milk from the monastery farm
 
-The sisterhood sells its own **milk and cheese** to visitors and neighbours. Supporting the monastery this way costs little and helps a community that has spent the last thirty years rebuilding.
-
-{{< todo >}}Ask the nuns what they sell (milk, cheese, other?), on which days and at what times, and whether they want this listed. Take a photo of the products if they agree.{{< /todo >}}
+The monastery is a convent, but its farm is run by monks: they make a matured hard cheese and a young white cheese and sell fresh milk. Cheese has to be ordered ahead by phone or Viber, and the hard cheese can take weeks. Phones, waiting times and where to collect: [Cheese and milk from Rakovac Monastery]({{< relref "local-products/monastery-dairy" >}}). Buying here is a simple way to support the monastery.
 
 ## A film location
 

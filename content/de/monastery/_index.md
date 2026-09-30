@@ -4,7 +4,7 @@ linkTitle: Das Kloster
 weight: 20
 kicker: Manastir Rakovac · Stari Rakovac
 lead: Ein lebendiges orthodoxes Kloster am Waldrand, erstmals 1545–46 erwähnt und heute Heimat einer Gemeinschaft von Nonnen. Sein barocker Glockenturm ist das Wahrzeichen von Stari Rakovac.
-tile: Besuch, Milch und Käse der Schwesternschaft und ein Drehort
+tile: "Besuch, Käse und Milch vom Klosterhof und ein Drehort"
 photo: monastery-fence-summer
 gallery: [monastery-church-above, monastery-church-hillside, monastery-gate, monastery-entrance, monastery-summer, monastery-mist, monastery-road-winter, monastery-valley-winter, monastery-roofs-winter, monastery-lavender, monastery-belltower, monastery-iconostasis]
 coords:
@@ -54,11 +54,9 @@ Am Abend des **6. Januar**, am Badnji dan, dem orthodoxen Heiligabend, brennt vo
 
 {{< todo >}}Im Kloster fragen: Brennt der Badnjak jedes Jahr, wann beginnt es, und sind Besucher willkommen?{{< /todo >}}
 
-## Milch und Käse von der Schwesternschaft
+## Käse und Milch vom Klosterhof
 
-Die Schwesternschaft verkauft ihre eigene **Milch und ihren eigenen Käse** an Besucher und Nachbarn. Das Kloster auf diese Weise zu unterstützen, kostet wenig und hilft einer Gemeinschaft, die die letzten dreißig Jahre mit dem Wiederaufbau verbracht hat.
-
-{{< todo >}}Die Nonnen fragen, was sie verkaufen (Milch, Käse, sonst noch etwas?), an welchen Tagen und zu welchen Zeiten und ob sie hier aufgeführt werden möchten. Wenn sie einverstanden sind, die Produkte fotografieren.{{< /todo >}}
+Das Kloster ist ein Frauenkloster, den Hof führen aber Mönche: Sie machen einen gereiften Hartkäse und einen jungen weißen Käse und verkaufen frische Milch. Käse wird telefonisch oder über Viber vorbestellt, auf den Hartkäse wartet man oft wochenlang. Telefonnummern, Wartezeiten und Abholung: [Käse und Milch aus dem Kloster Rakovac]({{< relref "local-products/monastery-dairy" >}}). Hier einzukaufen ist eine einfache Art, das Kloster zu unterstützen.
 
 ## Ein Drehort
 

@@ -11,4 +11,4 @@ list_title: Where to eat and drink
 
 Fruška Gora has been wine country since Roman times, and Rakovac lies at the northern end of it. Opening days change with the season, so check before you drive out, and book ahead at weekends.
 
-Looking for honey, cheese or rakija to take home? See [Local products]({{< relref "local-products" >}}).
+Looking for honey, cheese or rakija to take home? See [Local products]({{< relref "local-products" >}}). The monastery's own cheese has to be ordered ahead: [cheese and milk from Rakovac Monastery]({{< relref "local-products/monastery-dairy" >}}).

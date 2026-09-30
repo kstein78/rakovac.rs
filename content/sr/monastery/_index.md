@@ -4,7 +4,7 @@ linkTitle: Manastir
 weight: 20
 kicker: Stari Rakovac
 lead: Živ pravoslavni manastir u podnožju šume, prvi put pomenut 1545–1546. godine, danas dom ženskog monaškog sestrinstva. Njegov barokni zvonik je znamenje Starog Rakovca.
-tile: Posete, mleko i sir sestrinstva, filmska lokacija
+tile: "Posete, manastirski sir i mleko, filmska lokacija"
 photo: monastery-fence-summer
 gallery: [monastery-church-above, monastery-church-hillside, monastery-gate, monastery-entrance, monastery-summer, monastery-mist, monastery-road-winter, monastery-valley-winter, monastery-roofs-winter, monastery-lavender, monastery-belltower, monastery-iconostasis]
 coords:
@@ -54,11 +54,9 @@ Uveče **6. januara**, na Badnji dan, uoči pravoslavnog Božića, ispred manast
 
 {{< todo >}}Pitati u manastiru: da li badnjak gori svake godine, u koliko sati počinje i da li su gosti dobrodošli?{{< /todo >}}
 
-## Mleko i sir od sestrinstva
+## Sir i mleko sa manastirskog imanja
 
-Sestrinstvo prodaje sopstveno **mleko i sir** posetiocima i komšijama. Ovakva podrška manastiru malo košta, a pomaže zajednici koja je poslednjih trideset godina posvećena obnovi.
-
-{{< todo >}}Pitati monahinje šta prodaju (mleko, sir, nešto drugo?), kojim danima i u koje vreme, i da li žele da to bude na sajtu. Ako se slože, fotografisati proizvode.{{< /todo >}}
+Manastir je ženski, ali imanjem se bave monasi: prave zreli tvrdi sir i mladi beli sir i prodaju sveže mleko. Sir se poručuje unapred telefonom ili preko Vibera, a na tvrdi se čeka i po nekoliko nedelja. Telefoni, rokovi i mesto preuzimanja: [Sir i mleko iz manastira Rakovac]({{< relref "local-products/monastery-dairy" >}}). Kupovina ovde je jednostavan način da se podrži manastir.
 
 ## Filmska lokacija
 

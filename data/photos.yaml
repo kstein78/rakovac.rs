@@ -1108,3 +1108,37 @@ hunting-stand:
   alt_cyr: "Дрвена ловачка чека на брду изнад манастира"
   alt_de: "Ein hölzerner Hochsitz auf dem Hügel über dem Kloster"
   alt_hu: "Fa magasles a kolostor feletti dombon"
+cheese-wheel:
+  src: img/cheese-wheel.jpg
+  position: "50% 45%"
+  author: Konstantin Stein
+  license: © all rights reserved
+  alt: "A whole wheel of Rakovac Monastery hard cheese in a box, labelled “Манастирски сир” (monastery cheese)"
+  temp: false
+  alt_ru: "Целая головка твёрдого сыра монастыря Раковац в коробке, с этикеткой «Манастирски сир»"
+  alt_sr: "Ceo kolut tvrdog sira manastira Rakovac u kutiji, sa etiketom „Манастирски сир“"
+  alt_cyr: "Цео колут тврдог сира манастира Раковац у кутији, са етикетом „Манастирски сир“"
+  alt_de: "Ein ganzer Laib Hartkäse des Klosters Rakovac in einer Schachtel, Etikett „Манастирски сир“ (Klosterkäse)"
+  alt_hu: "A rakovaci kolostor kemény sajtjának egész korongja dobozban, „Манастирски сир” (kolostori sajt) címkével"
+cheese-cut:
+  src: img/cheese-cut.jpg
+  author: Konstantin Stein
+  license: © all rights reserved
+  alt: "The monastery's hard cheese cut open, with a piece on a plate"
+  temp: false
+  alt_ru: "Разрезанная головка монастырского твёрдого сыра и кусок на тарелке"
+  alt_sr: "Načet manastirski tvrdi sir, komad na tanjiru"
+  alt_cyr: "Начет манастирски тврди сир, комад на тањиру"
+  alt_de: "Der angeschnittene Hartkäse des Klosters, ein Stück auf dem Teller"
+  alt_hu: "A kolostor megkezdett kemény sajtja, egy darab a tányéron"
+cheese-slice:
+  src: img/cheese-slice.jpg
+  author: Konstantin Stein
+  license: © all rights reserved
+  alt: "A slice of the monastery's matured cheese with small holes"
+  temp: false
+  alt_ru: "Ломоть выдержанного монастырского сыра с мелкими глазками"
+  alt_sr: "Parče zrelog manastirskog sira sa sitnim rupicama"
+  alt_cyr: "Парче зрелог манастирског сира са ситним рупицама"
+  alt_de: "Eine Scheibe des gereiften Klosterkäses mit kleinen Löchern"
+  alt_hu: "Egy szelet érlelt kolostori sajt apró lyukakkal"
