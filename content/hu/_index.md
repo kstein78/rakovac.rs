@@ -25,7 +25,7 @@ sections_title: Fedezze fel Rakovacot
 
 ## Hogyan juthat el ide
 
-**Autóval:** Rakovac az Újvidék–Beočin regionális út mentén fekszik, 13 km-re Újvidék központjától és 4 km-re Beočintól (Belcsény). Belgrádtól kb. 95 km. A kolostorhoz és az ösvényekhez Novi Rakovac főkereszteződésénél forduljon délre, és kövesse az utat kb. 3 km-en át felfelé a völgyben Stari Rakovacig.
+**Autóval:** Rakovac az Újvidék–Beočin regionális út mentén fekszik, 13 km-re Újvidék központjától és 4 km-re Beočintól (Belcsény). Belgrádtól kb. 95 km. A kolostorhoz és az ösvényekhez Novi Rakovac főkereszteződésénél forduljon délre, és kövesse az utat [kb. 3 km-en át felfelé a völgyben Stari Rakovacig](https://www.google.com/maps/dir/?api=1&destination=45.184697,19.774143).
 
 **Busszal:** a GSP Novi Sad **77-es járata** Stari Rakovacig közlekedik, és a kolostornál áll meg. A Beočin Selo felé tartó **78-as járat** a Novi Rakovac-i főúton áll meg; **SR** jelzésű járatai Stari Rakovacon át közlekednek, és a kolostornál is megállnak. Menetrend: [Hasznos tudnivalók]({{< relref "useful" >}}#bus).
 
