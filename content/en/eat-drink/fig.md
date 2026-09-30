@@ -7,7 +7,17 @@ summary: Seasonal Serbian cooking with ingredients from Srem, served in the Sala
 coords:
 - 45.1869683
 - 19.7724136
-address: Manastirska, 21299 Rakovac
+address: Manastirska 35, 21299 Rakovac
+photo: fig-entrance
+gallery: [winery-sign]
+schema: Restaurant
+opening:
+  mo: "12:00-21:00"
+  th: "12:00-22:00"
+  fr: "12:00-23:00"
+  sa: "12:00-23:00"
+  su: "12:00-21:00"
+opening_asof: 2026-08-05
 phone: +381 66 8651342
 status: unconfirmed
 ---
@@ -16,4 +26,4 @@ Fig opened in the summer of 2023 inside the **Salaxia & Imperator** winery compl
 
 A meal here combines well with a morning walk to Beli Majdan or a visit to the monastery.
 
-{{< todo >}}Ask Fig for current opening days, a photo of the terrace and permission to film a short feature. Candidate for a Supporter listing.{{< /todo >}}
+{{< todo >}}Ask Fig for a photo of the terrace and permission to film a short feature. Candidate for a Supporter listing.{{< /todo >}}

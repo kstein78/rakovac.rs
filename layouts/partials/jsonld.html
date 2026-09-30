@@ -31,7 +31,14 @@
     {{ else if eq $cat "stay" }}{{ $type = slice "LodgingBusiness" }}
     {{ else if eq $cat "food" }}{{ $type = slice "FoodEstablishment" }}
     {{ else if in (slice "shops" "products" "business" "services") $cat }}{{ $type = slice "LocalBusiness" }}{{ end }}
+    {{ with .Params.schema }}{{ $type = slice . }}{{ end }}
     {{ $p := dict "@type" $type "name" .Title "description" $d "url" .Permalink "geo" (dict "@type" "GeoCoordinates" "latitude" (index .Params.coords 0) "longitude" (index .Params.coords 1)) }}
+    {{ with .Params.opening }}
+      {{ $ohs := slice }}
+      {{ $names := dict "mo" "Monday" "tu" "Tuesday" "we" "Wednesday" "th" "Thursday" "fr" "Friday" "sa" "Saturday" "su" "Sunday" }}
+      {{ range $k, $v := . }}{{ with $v }}{{ $hm := split . "-" }}{{ $ohs = $ohs | append (dict "@type" "OpeningHoursSpecification" "dayOfWeek" (index $names $k) "opens" (index $hm 0) "closes" (index $hm 1)) }}{{ end }}{{ end }}
+      {{ $p = merge $p (dict "openingHoursSpecification" $ohs) }}
+    {{ end }}
     {{ with .Params.address }}{{ $p = merge $p (dict "address" .) }}{{ end }}
     {{ with .Params.phone }}{{ $p = merge $p (dict "telephone" .) }}{{ end }}
     {{ with .Params.website }}{{ $p = merge $p (dict "sameAs" .) }}{{ end }}

@@ -88,6 +88,8 @@ Kamenolom memorial, on site (Kosta's photos, 2026-09): introductory plaque text 
 | Claim | Level | Source |
 |---|---|---|
 | Fig opened ~June 2023, chef Marko Aćimović (ALMA), Srem produce, Italian technique | B | mojnovisad.com Jul 2023 |
+| Restoran Fig 2023 doo, Manastirska 35, Rakovac; hours from 5 Aug 2026: Mon 12–21, Tue–Wed closed, Thu 12–22, Fri–Sat 12–23, Sun 12–21 | A | notice at the entrance, photographed by Kosta 2026-09-30 |
+| Winery signposted as "Vinarija Imperator & Salaxia" together with "Fig restoran"; same address Manastirska 35 | A | roadside sign photographed by Kosta 2026-09-30; Kosta |
 | Winery founded 2009; first biodynamic in Serbia; Demeter since 2022; ~20 wines | A (2009) / B | vojvodina.travel; mojnovisad.com |
 | Invent: founded 1986; heater taps, cisterns, mixers, valves, siphons; Beočinski put 2 | B | invent.co.rs "O nama" |
 | Gorska ruža: 13th festival Oct 2023, 25 exhibitors | B | beocin.rs (15 Oct 2023) |

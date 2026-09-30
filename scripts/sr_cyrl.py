@@ -31,7 +31,7 @@ KEEP_WORDS = {
     'CC', 'BY', 'SA', 'OFL', 'Anthropic', 'Claude', 'Claude-om', 'Wikimedia', 'Commons', 'Booking', 'Windows',
     'Leaflet', 'Mistrowitz', 'Futtak', 'Neusatz', 'Forrest', 'Relax', 'Spa', 'Resort', 'Mövenpick', 'Salaxia',
     'Imperator', 'Demeter', 'Invent', 'SR', 'MAS', 'IPA', 'AMSS', 'Literata', 'Rakovac.rs', 'rakovac', 'rs',
-    'Machine', 'review', 'Black', 'Capital', 'Common', 'Design', 'Lat', 'Windy', 'ECMWF', 'GeoPortOst',
+    'Machine', 'review', 'Black', 'Capital', 'Common', 'Design', 'Lat', 'Windy', 'ECMWF', 'GeoPortOst', 'Fig',
 }
 KEEP_PHRASES = [
     'Abbas de Dombo', 'castellani de Dombo', 'Ilok und Ruma', 'zu Neusatz', 'Griechisches Kloster Rakovatz',

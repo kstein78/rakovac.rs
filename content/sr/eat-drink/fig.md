@@ -7,7 +7,17 @@ summary: Sezonska srpska kuhinja od namirnica iz Srema, u vinariji Salaxia & Imp
 coords:
 - 45.1869683
 - 19.7724136
-address: Manastirska, 21299 Rakovac
+address: Manastirska 35, 21299 Rakovac
+photo: fig-entrance
+gallery: [winery-sign]
+schema: Restaurant
+opening:
+  mo: "12:00-21:00"
+  th: "12:00-22:00"
+  fr: "12:00-23:00"
+  sa: "12:00-23:00"
+  su: "12:00-21:00"
+opening_asof: 2026-08-05
 phone: +381 66 8651342
 status: unconfirmed
 ---
@@ -16,4 +26,4 @@ Fig je otvoren u leto 2023. u kompleksu vinarije **Salaxia & Imperator**, nekoli
 
 Obrok ovde se lepo uklapa sa jutarnjom šetnjom do Belog majdana ili posetom manastiru.
 
-{{< todo >}}Zatražiti od Fig-a aktuelne radne dane, fotografiju terase i dozvolu za kratak prilog. Kandidat za „Podržavaoca“.{{< /todo >}}
+{{< todo >}}Zatražiti od Fig-a fotografiju terase i dozvolu za kratak prilog. Kandidat za „Podržavaoca“.{{< /todo >}}

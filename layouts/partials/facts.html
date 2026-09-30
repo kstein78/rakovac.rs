@@ -1,6 +1,6 @@
 {{/* Fact box: coordinates, altitude, address, phone, website, walking data. */}}
 {{ $p := .Params }}
-{{ if or $p.coords $p.address $p.phone $p.website $p.facts }}
+{{ if or $p.coords $p.address $p.phone $p.website $p.facts $p.opening }}
 <aside class="factbox" aria-label="{{ i18n "aria_facts" }}">
   <dl>
     {{ with $p.facts }}
@@ -9,6 +9,7 @@
       {{ with .difficulty }}<div><dt>{{ i18n "difficulty" }}</dt><dd>{{ . }}</dd></div>{{ end }}
       {{ with .parking }}<div><dt>{{ i18n "parking" }}</dt><dd>{{ . | markdownify }}</dd></div>{{ end }}
     {{ end }}
+    {{ with $p.opening }}{{ partial "opening-hours.html" (dict "o" . "asof" $p.opening_asof) }}{{ end }}
     {{ with $p.address }}<div><dt>{{ i18n "address" }}</dt><dd>{{ . }}</dd></div>{{ end }}
     {{ with $p.phone }}<div><dt>{{ i18n "phone" }}</dt><dd><a href="tel:{{ replace . " " "" }}">{{ . }}</a></dd></div>{{ end }}
     {{ with $p.website }}<div><dt>{{ i18n "website" }}</dt><dd><a href="{{ . }}" rel="noopener">{{ replaceRE "^https?://(www\\.)?" "" . | strings.TrimSuffix "/" }}</a></dd></div>{{ end }}

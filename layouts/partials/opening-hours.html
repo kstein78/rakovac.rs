@@ -1,0 +1,20 @@
+{{/* Opening hours in the fact box. Front matter (same in every language):
+     opening: { mo: "12:00-21:00", th: "12:00-22:00", … }   days left out = closed
+     opening_asof: 2026-08-05                               date of the source (e.g. the notice at the door)
+   Consecutive days with the same hours are joined ("Fri–Sat"). Day names come from i18n (wd_mo …). */}}
+{{ $o := .o }}
+{{ $days := slice "mo" "tu" "we" "th" "fr" "sa" "su" }}
+{{ $runs := slice }}{{ $start := "" }}{{ $prev := "-" }}{{ $last := "" }}
+{{ range $days }}
+  {{ $v := index $o . | default "" }}
+  {{ if ne $v $prev }}
+    {{ if $start }}{{ $runs = $runs | append (dict "from" $start "to" $last "v" $prev) }}{{ end }}
+    {{ $start = . }}{{ $prev = $v }}
+  {{ end }}
+  {{ $last = . }}
+{{ end }}
+{{ $runs = $runs | append (dict "from" $start "to" $last "v" $prev) }}
+<div><dt>{{ i18n "opening_hours" }}</dt><dd class="num">
+  {{ range $i, $r := $runs }}{{ if $i }}<br>{{ end }}{{ i18n (printf "wd_%s" $r.from) }}{{ if ne $r.from $r.to }}–{{ i18n (printf "wd_%s" $r.to) }}{{ end }} {{ with $r.v }}<span class="nw">{{ replace . "-" "–" }}</span>{{ else }}{{ i18n "closed" }}{{ end }}{{ end }}
+  {{ with .asof }}{{ $t := time . }}<br><span class="small muted">{{ i18n "hours_posted" }}, {{ if in (slice "sr" "cyr") site.Language.Lang }}{{ $t.Format "2. 1. 2006." }}{{ else }}{{ time.Format ":date_long" $t }}{{ end }}</span>{{ end }}
+</dd></div>

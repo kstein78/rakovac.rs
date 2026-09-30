@@ -7,13 +7,16 @@ summary: Ein 2009 gegründetes Familienweingut, das als erstes biodynamisches We
 coords:
 - 45.1870107
 - 19.7724034
-address: Manastirska bb, 21299 Rakovac
+address: Manastirska 35, 21299 Rakovac
+photo: winery-sign
+gallery: [fig-entrance]
+schema: Winery
 phone: +381 66 8651342
 website: https://imperator.rs/
 status: unconfirmed
 ---
 
-Das Weingut wurde **2009** in Stari Rakovac unterhalb des Klosters gegründet und knüpft an die jahrhundertealte Weinbautradition der Fruška Gora an. Es arbeitet biodynamisch und ist seit 2022 **Demeter**-zertifiziert, weshalb es sich als erstes biodynamisches Weingut Serbiens präsentiert. Es erzeugt rund zwanzig Weine aus autochthonen und internationalen Rebsorten unter den Etiketten **Salaxia** und **Imperator**.
+Das Weingut wurde **2009** in Stari Rakovac unterhalb des Klosters gegründet und knüpft an die jahrhundertealte Weinbautradition der Fruška Gora an. Es arbeitet biodynamisch und ist seit 2022 **Demeter**-zertifiziert, weshalb es sich als erstes biodynamisches Weingut Serbiens präsentiert. Es erzeugt rund zwanzig Weine aus autochthonen und internationalen Rebsorten unter den Etiketten **Salaxia** und **Imperator**. Auf dem Wegweiser an der Straße steht **Vinarija Imperator & Salaxia**; Weingut und Fig haben dieselbe Adresse, Manastirska 35.
 
 Besucher können eine Verkostung buchen und Wein direkt auf dem Weingut kaufen. Das Restaurant des Weinguts ist das [Fig]({{< relref "eat-drink/fig" >}}).
 

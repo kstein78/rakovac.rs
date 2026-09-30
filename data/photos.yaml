@@ -1039,3 +1039,27 @@ danube-sunset-calm:
   alt_cyr: "Тихо вече на Дунаву код Беочина"
   alt_de: "Ein ruhiger Abend an der Donau bei Beočin"
   alt_hu: "Csendes este a Dunán Beočin közelében"
+fig-entrance:
+  src: img/fig-entrance.jpg
+  position: "50% 62%"
+  author: Konstantin Stein
+  license: © all rights reserved
+  alt: "Entrance to Fig restaurant and the Imperator & Salaxia winery: a pink gabled house covered in Virginia creeper, with wine barrels by the doors"
+  temp: false
+  alt_ru: "Вход в ресторан Fig и винодельню Imperator & Salaxia: розовый дом с фронтоном, увитый девичьим виноградом, у дверей винные бочки"
+  alt_sr: "Ulaz u restoran Fig i vinariju Imperator & Salaxia: ružičasta kuća sa zabatom obrasla divljom lozom, vinska burad kod vrata"
+  alt_cyr: "Улаз у ресторан Fig и винарију Imperator & Salaxia: ружичаста кућа са забатом обрасла дивљом лозом, винска бурад код врата"
+  alt_de: "Eingang zum Restaurant Fig und zum Weingut Imperator & Salaxia: ein rosa Giebelhaus voller wildem Wein, Weinfässer vor den Türen"
+  alt_hu: "A Fig étterem és az Imperator & Salaxia borászat bejárata: vadszőlővel befutott rózsaszín oromzatos ház, az ajtók előtt boroshordók"
+winery-sign:
+  src: img/winery-sign.jpg
+  position: "50% 32%"
+  author: Konstantin Stein
+  license: © all rights reserved
+  alt: "Wooden roadside sign: “Vinarija Imperator & Salaxia” and “Fig restoran”, with an arrow"
+  temp: false
+  alt_ru: "Деревянный указатель у дороги: «Vinarija Imperator & Salaxia» и «Fig restoran», со стрелкой"
+  alt_sr: "Drveni putokaz pored puta: „Vinarija Imperator & Salaxia“ i „Fig restoran“, sa strelicom"
+  alt_cyr: "Дрвени путоказ поред пута: „Винарија Imperator & Salaxia“ и „Fig ресторан“, са стрелицом"
+  alt_de: "Hölzerner Wegweiser an der Straße: „Vinarija Imperator & Salaxia“ und „Fig restoran“, mit Pfeil"
+  alt_hu: "Fa útjelző tábla az út mentén: „Vinarija Imperator & Salaxia” és „Fig restoran”, nyíllal"
