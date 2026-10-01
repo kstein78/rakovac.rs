@@ -37,7 +37,7 @@ From the walls you look across the river to the whole of Novi Sad, and down onto
 
 ## The clock tower
 
-The best-known landmark of the fortress is its white clock tower. Its hands are the other way round: the big hand shows the hours and the small hand the minutes, so that fishermen on the Danube could read the hour from far away.
+The best-known landmark of the fortress is its white clock tower. Its hands are the other way round: the big hand shows the hours and the small hand the minutes, so that fishermen on the Danube could read the hour from far away. The supercell storms of 19 and 21 July 2023 badly damaged the tower. Restoration began on 14 October 2024 ([021.rs](https://www.021.rs/novi-sad/vesti/390341/pocela-obnova-tornja-sa-satom-na-petrovaradinskoj-tvrdjavi-ostecen-u-supercelijskim-olujama)). The original gilded top with the apple, the compass points and the weather vane went to the City Museum of Novi Sad, and a gilded replica now stands in its place; at the end of May 2025 the works were nearly finished ([021.rs](https://www.021.rs/novi-sad/vesti/410925/obnova-tornja-sa-satom-na-tvrdjavi-pri-kraju-originalni-vrh-u-muzeju-na-toranj-postavljena-replika)).
 
 {{< photo key="petrovaradin-clock-tower-bench" >}}
 

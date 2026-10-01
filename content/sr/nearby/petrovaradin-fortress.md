@@ -37,7 +37,7 @@ Sa zidina se preko reke vidi ceo Novi Sad, a dole leže crveni krovovi Donjeg gr
 
 ## Sahat-kula
 
-Najpoznatiji znak tvrđave je bela sahat-kula. Kazaljke na njenom satu su obrnute: velika pokazuje sate, a mala minute, kako bi ribari na Dunavu izdaleka videli koliko je sati.
+Najpoznatiji znak tvrđave je bela sahat-kula. Kazaljke na njenom satu su obrnute: velika pokazuje sate, a mala minute, kako bi ribari na Dunavu izdaleka videli koliko je sati. Superćelijske oluje 19. i 21. jula 2023. teško su oštetile kulu. Obnova je počela 14. oktobra 2024. ([021.rs](https://www.021.rs/novi-sad/vesti/390341/pocela-obnova-tornja-sa-satom-na-petrovaradinskoj-tvrdjavi-ostecen-u-supercelijskim-olujama)). Originalni pozlaćeni vrh s jabukom, stranama sveta i vetrokazom predat je Muzeju grada Novog Sada, a na kuli sada stoji njegova pozlaćena replika; krajem maja 2025. radovi su bili pri kraju ([021.rs](https://www.021.rs/novi-sad/vesti/410925/obnova-tornja-sa-satom-na-tvrdjavi-pri-kraju-originalni-vrh-u-muzeju-na-toranj-postavljena-replika)).
 
 {{< photo key="petrovaradin-clock-tower-bench" >}}
 

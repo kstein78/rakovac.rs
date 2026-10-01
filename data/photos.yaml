@@ -1433,13 +1433,13 @@ petrovaradin-sunset-walls:
   src: img/petrovaradin-sunset-walls.jpg
   author: Konstantin Stein
   license: © all rights reserved
-  alt: "The fortress walls after sunset, with the clock tower in scaffolding and the Žeželj Bridge in the distance"
+  alt: "The fortress walls after sunset, with the clock tower in scaffolding during its 2024–2025 restoration and the Žeželj Bridge in the distance"
   temp: false
-  alt_ru: "Стены крепости после заката, часовая башня в строительных лесах, вдали мост Жежеля"
-  alt_sr: "Zidine tvrđave posle zalaska sunca, sahat-kula pod skelom, u daljini Žeželjev most"
-  alt_cyr: "Зидине тврђаве после заласка сунца, сахат-кула под скелом, у даљини Жежељев мост"
-  alt_de: "Die Festungsmauern nach Sonnenuntergang, der Uhrturm eingerüstet, in der Ferne die Žeželj-Brücke"
-  alt_hu: "A vár falai naplemente után, az óratorony állványok között, a távolban a Žeželj-híd"
+  alt_ru: "Стены крепости после заката, часовая башня в лесах во время реставрации 2024–2025 годов, вдали мост Жежеля"
+  alt_sr: "Zidine tvrđave posle zalaska sunca, sahat-kula pod skelom tokom obnove 2024–2025, u daljini Žeželjev most"
+  alt_cyr: "Зидине тврђаве после заласка сунца, сахат-кула под скелом током обнове 2024–2025, у даљини Жежељев мост"
+  alt_de: "Die Festungsmauern nach Sonnenuntergang, der Uhrturm während der Restaurierung 2024–2025 eingerüstet, in der Ferne die Žeželj-Brücke"
+  alt_hu: "A vár falai naplemente után, az óratorony a 2024–2025-ös helyreállítás alatt állványok között, a távolban a Žeželj-híd"
 petrovaradin-barge-sunset:
   src: img/petrovaradin-barge-sunset.jpg
   author: Konstantin Stein

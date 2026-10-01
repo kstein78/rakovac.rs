@@ -37,7 +37,7 @@ Von den Mauern blickt man über den Fluss auf ganz Novi Sad und hinunter auf die
 
 ## Der Uhrturm
 
-Das bekannteste Wahrzeichen der Festung ist der weiße Uhrturm. Seine Zeiger sind vertauscht: Der große zeigt die Stunden, der kleine die Minuten, damit die Fischer auf der Donau die Stunde schon von Weitem ablesen konnten.
+Das bekannteste Wahrzeichen der Festung ist der weiße Uhrturm. Seine Zeiger sind vertauscht: Der große zeigt die Stunden, der kleine die Minuten, damit die Fischer auf der Donau die Stunde schon von Weitem ablesen konnten. Die Superzellengewitter vom 19. und 21. Juli 2023 beschädigten den Turm schwer. Die Restaurierung begann am 14. Oktober 2024 ([021.rs](https://www.021.rs/novi-sad/vesti/390341/pocela-obnova-tornja-sa-satom-na-petrovaradinskoj-tvrdjavi-ostecen-u-supercelijskim-olujama)). Die originale vergoldete Spitze mit Apfel, Himmelsrichtungen und Wetterfahne kam ins Stadtmuseum Novi Sad, an ihrer Stelle steht nun eine vergoldete Nachbildung; Ende Mai 2025 waren die Arbeiten fast abgeschlossen ([021.rs](https://www.021.rs/novi-sad/vesti/410925/obnova-tornja-sa-satom-na-tvrdjavi-pri-kraju-originalni-vrh-u-muzeju-na-toranj-postavljena-replika)).
 
 {{< photo key="petrovaradin-clock-tower-bench" >}}
 

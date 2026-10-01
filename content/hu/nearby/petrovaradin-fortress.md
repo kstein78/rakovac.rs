@@ -37,7 +37,7 @@ A falakról a folyón át egész Újvidékre látni, lent pedig Pétervárad Als
 
 ## Az óratorony
 
-Az erőd legismertebb jelképe a fehér óratorony. Mutatói fordítottak: a nagymutató az órát, a kismutató a percet mutatja, hogy a dunai halászok messziről is leolvashassák, hány óra van.
+Az erőd legismertebb jelképe a fehér óratorony. Mutatói fordítottak: a nagymutató az órát, a kismutató a percet mutatja, hogy a dunai halászok messziről is leolvashassák, hány óra van. A 2023. július 19-i és 21-i szupercellás viharok súlyosan megrongálták a tornyot. A helyreállítás 2024. október 14-én kezdődött ([021.rs](https://www.021.rs/novi-sad/vesti/390341/pocela-obnova-tornja-sa-satom-na-petrovaradinskoj-tvrdjavi-ostecen-u-supercelijskim-olujama)). Az almás, égtájas, szélkakasos eredeti aranyozott csúcsdísz az Újvidéki Városi Múzeumba került, helyén ma aranyozott másolata áll; 2025 május végén a munkák a befejezéshez közeledtek ([021.rs](https://www.021.rs/novi-sad/vesti/410925/obnova-tornja-sa-satom-na-tvrdjavi-pri-kraju-originalni-vrh-u-muzeju-na-toranj-postavljena-replika)).
 
 {{< photo key="petrovaradin-clock-tower-bench" >}}
 
