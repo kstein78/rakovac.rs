@@ -11,4 +11,4 @@ A családi albumok régi fotóinak külön helyük van: a [fotóarchívum]({{< r
 
 Tiszta éjszakákon, főleg télen, a rakovaci völgy fölötti ég tele van csillagokkal, a telihold pedig a dombok fölött kel fel: lásd az „Éjszakai égbolt” fotókat.
 
-Újvidéknek, a Duna túlpartján fekvő városnak saját albuma van: [Újvidék képekben]({{< relref "gallery/novi-sad" >}}).
+Újvidéknek, a Duna túlpartján fekvő városnak saját albuma van: [Újvidék képekben]({{< relref "gallery/novi-sad" >}}). A péterváradi várnak is saját albuma van: [Péterváradi vár képekben]({{< relref "gallery/petrovaradin" >}}).

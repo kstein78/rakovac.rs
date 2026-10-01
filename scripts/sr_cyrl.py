@@ -32,11 +32,13 @@ KEEP_WORDS = {
     'Leaflet', 'Mistrowitz', 'Futtak', 'Neusatz', 'Forrest', 'Relax', 'Spa', 'Resort', 'Mövenpick', 'Salaxia',
     'Imperator', 'Demeter', 'Invent', 'SR', 'MAS', 'IPA', 'AMSS', 'Literata', 'Rakovac.rs', 'rakovac', 'rs',
     'Machine', 'review', 'Black', 'Capital', 'Common', 'Design', 'Lat', 'Windy', 'ECMWF', 'GeoPortOst', 'Fig', 'Salaxia',
+    'Cusum', 'MGM', 'B92', 'Luftika', 'EXIT',
 }
 KEEP_PHRASES = [
     'Abbas de Dombo', 'castellani de Dombo', 'Ilok und Ruma', 'zu Neusatz', 'Griechisches Kloster Rakovatz',
     'Donau-Ansichten', 'Uj-Futtak', 'O-Futtak', 'Mövenpick Resort & Spa', 'rakovac.rs', 'Rakovac Capital',
     'Rakovac Common', 'Claude Design', 'Fig Restaurant', 'Imperator & Salaxia', 'Robin Hood', 'Open-Meteo', 'SIL Open Font License',
+    'B92', 'Charles Eugène de Croÿ', 'Lawrence Schiller', 'Visit Distrikt', 'Kelly\'s Heroes',
 ]
 # Foreign names with an established Serbian Cyrillic spelling (not letter by letter).
 OVERRIDES = {'Stein': 'Штајн', 'Steina': 'Штајна', 'Steinom': 'Штајном', 'Steinu': 'Штајну'}

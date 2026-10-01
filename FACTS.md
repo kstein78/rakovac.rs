@@ -163,3 +163,16 @@ Kamenolom memorial, on site (Kosta's photos, 2026-09): introductory plaque text 
 | Photos by Peter Perlin (7 of Rakovac + 3 of Novi Sad on 2026-09-30) may be used with his full name, no link | A | Kosta, 2026-09-30 |
 | Kosta's 4 photos of the burnt slopes, taken the morning after the fire, 8 Feb 2024, with his dog Ralf; ground still hot in places | A | Kosta, 2026-09-30 |
 | Novi Sad album photos: Žeželj Bridge in fog from the Petrovaradin bank; city centre with the Name of Mary Church; blossom on the Danube quay | B | Kosta (captions), church identified from the photo |
+| Petrovaradin Fortress: cornerstone 18 Oct 1692 (Charles Eugène de Croÿ), built until 1780; engineers Keyserfeld, Marsigli, Wamberg; Palaeolithic finds 19,000–15,000 BC; Roman Cusum; Bélakút walls 1247–1252; fell to Ottomans 1526; Austrians 1687; siege 1694 (23 days); battle 5 Aug 1716; last military role 1848; listed 1991; coords 45.2525, 19.8625 | B | en.wikipedia.org/wiki/Petrovaradin_Fortress |
+| Clock tower hands reversed (big = hours, small = minutes) for fishermen on the Danube | B | Wikipedia |
+| Underground military galleries ~16 km, 4 levels, built 1765–1783, engineer Major Schröder, loopholes with vents | B | museumns.rs (City Museum of Novi Sad); phone (021) 6433-145 |
+| Three underground wells still work, best known Carski bunar | B | novosti.rs |
+| Joseph II drank from Carski bunar (guides' tradition); Kosta remembers a plaque for an Austro-Hungarian emperor's visit — check plaque | C | aktivniodmor.net; Kosta |
+| Railway tunnel under the fortress 1883, 341 m, engineer Karl Bauman; later military store, mushrooms; empty today | B | luftika.rs |
+| Franz Joseph railway bridge opened 11 Nov 1883; blown up Apr 1941 by Royal Yugoslav Army, rebuilt by Germans, blown up 22 Oct 1944 by retreating Germans; piers remain; one painted as Yellow Submarine for EXIT 2022 | B | visitdistrikt.rs; Wikipedia Transport in Novi Sad |
+| City plan: tunnel to become exhibition space | B | 021.rs |
+| Varadin Bridge: old bridge destroyed 1 Apr 1999 (NATO), new one built 2000 on old piers | B | Wikipedia Varadin Bridge |
+| EXIT at the fortress from 2001; June 2025 organisers said 2025 edition last in Serbia | B | Wikipedia; Mixmag 13 Jun 2025 |
+| Kelly's Heroes 1969: filmed at Beočin castle and Vrdnik mine; Eastwood visited Novi Sad and rested at Petrovaradin, photographed by Lawrence Schiller (Profimedia, copyrighted — not usable) | B | b92.net; telegraf.rs; 24sedam.rs |
+| Petrovaradin Fortress is 17–20 min by car from Rakovac | A | Kosta, 2026-10-01 |
+| Kosta's 11 fortress photos (2 near-duplicates not used) | A | Kosta, 2026-10-01 |

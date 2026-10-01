@@ -1296,3 +1296,103 @@ fire-2024-novi-sad-view:
   alt_cyr: "Изгорели врх брда изнад Раковца 8. фебруара 2024, поглед преко села ка Новом Саду"
   alt_de: "Die verbrannte Hügelkuppe über Rakovac am 8. Februar 2024, Blick über das Dorf nach Novi Sad"
   alt_hu: "A leégett dombtető Rakovac felett 2024. február 8-án, kilátás a falun át Újvidék felé"
+petrovaradin-view-varadin-bridge:
+  src: img/petrovaradin-view-varadin-bridge.jpg
+  author: Konstantin Stein
+  license: © all rights reserved
+  alt: "View from Petrovaradin Fortress over the Danube and the Varadin Bridge to the centre of Novi Sad"
+  temp: false
+  alt_ru: "Вид с Петроварадинской крепости на Дунай, Варадинский мост и центр Нови-Сада"
+  alt_sr: "Pogled s Petrovaradinske tvrđave na Dunav, Varadinski most i centar Novog Sada"
+  alt_cyr: "Поглед с Петроварадинске тврђаве на Дунав, Варадински мост и центар Новог Сада"
+  alt_de: "Blick von der Festung Petrovaradin über die Donau und die Varadin-Brücke auf das Zentrum von Novi Sad"
+  alt_hu: "Kilátás a péterváradi várból a Dunára, a Varadin hídra és Újvidék belvárosára"
+petrovaradin-clock-tower-bench:
+  src: img/petrovaradin-clock-tower-bench.jpg
+  author: Konstantin Stein
+  license: © all rights reserved
+  alt: "The clock tower of Petrovaradin Fortress, with visitors resting on a bench"
+  temp: false
+  alt_ru: "Часовая башня Петроварадинской крепости, на скамейке отдыхают посетители"
+  alt_sr: "Sahat-kula Petrovaradinske tvrđave, posetioci se odmaraju na klupi"
+  alt_cyr: "Сахат-кула Петроварадинске тврђаве, посетиоци се одмарају на клупи"
+  alt_de: "Der Uhrturm der Festung Petrovaradin, Besucher ruhen auf einer Bank"
+  alt_hu: "A péterváradi vár óratornya, a padon látogatók pihennek"
+petrovaradin-clock-tower:
+  src: img/petrovaradin-clock-tower.jpg
+  author: Konstantin Stein
+  license: © all rights reserved
+  alt: "The clock tower of Petrovaradin Fortress, with the arches of the Žeželj Bridge behind it"
+  temp: false
+  alt_ru: "Часовая башня Петроварадинской крепости, за ней арки моста Жежеля"
+  alt_sr: "Sahat-kula Petrovaradinske tvrđave, iza nje lukovi Žeželjevog mosta"
+  alt_cyr: "Сахат-кула Петроварадинске тврђаве, иза ње лукови Жежељевог моста"
+  alt_de: "Der Uhrturm der Festung Petrovaradin, dahinter die Bögen der Žeželj-Brücke"
+  alt_hu: "A péterváradi vár óratornya, mögötte a Žeželj-híd ívei"
+petrovaradin-lower-town-zezelj:
+  src: img/petrovaradin-lower-town-zezelj.jpg
+  author: Konstantin Stein
+  license: © all rights reserved
+  alt: "The red roofs of the Lower Town of Petrovaradin seen from the fortress, with the Žeželj Bridge over the Danube beyond"
+  temp: false
+  alt_ru: "Красные крыши Нижнего города Петроварадина с крепости, дальше мост Жежеля через Дунай"
+  alt_sr: "Crveni krovovi Donjeg grada Petrovaradina s tvrđave, a dalje Žeželjev most preko Dunava"
+  alt_cyr: "Црвени кровови Доњег града Петроварадина с тврђаве, а даље Жежељев мост преко Дунава"
+  alt_de: "Die roten Dächer der Unterstadt von Petrovaradin von der Festung aus, dahinter die Žeželj-Brücke über die Donau"
+  alt_hu: "Pétervárad Alsóvárosának piros tetői a várból, mögöttük a Žeželj-híd a Duna felett"
+petrovaradin-lower-town-church:
+  src: img/petrovaradin-lower-town-church.jpg
+  author: Konstantin Stein
+  license: © all rights reserved
+  alt: "The Lower Town of Petrovaradin from the fortress walls: red roofs and a church tower"
+  temp: false
+  alt_ru: "Нижний город Петроварадина со стен крепости: красные крыши и колокольня церкви"
+  alt_sr: "Donji grad Petrovaradina sa zidina tvrđave: crveni krovovi i crkveni toranj"
+  alt_cyr: "Доњи град Петроварадина са зидина тврђаве: црвени кровови и црквени торањ"
+  alt_de: "Die Unterstadt von Petrovaradin von den Festungsmauern: rote Dächer und ein Kirchturm"
+  alt_hu: "Pétervárad Alsóvárosa a vár faláról: piros tetők és egy templomtorony"
+petrovaradin-fortress-storm-light:
+  src: img/petrovaradin-fortress-storm-light.jpg
+  author: Konstantin Stein
+  license: © all rights reserved
+  alt: "Petrovaradin Fortress lit by the low sun under a storm sky, seen across the Danube from Novi Sad"
+  temp: false
+  position: "50% 62%"
+  alt_ru: "Петроварадинская крепость в лучах низкого солнца под грозовым небом, вид через Дунай из Нови-Сада"
+  alt_sr: "Petrovaradinska tvrđava obasjana niskim suncem pod olujnim nebom, pogled preko Dunava iz Novog Sada"
+  alt_cyr: "Петроварадинска тврђава обасјана ниским сунцем под олујним небом, поглед преко Дунава из Новог Сада"
+  alt_de: "Die Festung Petrovaradin im Licht der tiefen Sonne unter Gewitterhimmel, Blick über die Donau aus Novi Sad"
+  alt_hu: "A péterváradi vár az alacsony nap fényében viharos ég alatt, kilátás a Dunán át Újvidékről"
+petrovaradin-fortress-beach-storm:
+  src: img/petrovaradin-fortress-beach-storm.jpg
+  author: Konstantin Stein
+  license: © all rights reserved
+  alt: "Storm clouds over Petrovaradin Fortress, seen from a sandy beach on the Novi Sad bank of the Danube"
+  temp: false
+  alt_ru: "Грозовые тучи над Петроварадинской крепостью, вид с песчаного пляжа на новисадском берегу Дуная"
+  alt_sr: "Olujni oblaci nad Petrovaradinskom tvrđavom, pogled sa peščane plaže na novosadskoj obali Dunava"
+  alt_cyr: "Олујни облаци над Петроварадинском тврђавом, поглед са пешчане плаже на новосадској обали Дунава"
+  alt_de: "Gewitterwolken über der Festung Petrovaradin, gesehen von einem Sandstrand am Ufer von Novi Sad"
+  alt_hu: "Viharfelhők a péterváradi vár felett, egy újvidéki homokos Duna-partról nézve"
+petrovaradin-fortress-clouds:
+  src: img/petrovaradin-fortress-clouds.jpg
+  author: Konstantin Stein
+  license: © all rights reserved
+  alt: "Petrovaradin Fortress on its rock above the Danube on a cloudy evening"
+  temp: false
+  alt_ru: "Петроварадинская крепость на скале над Дунаем облачным вечером"
+  alt_sr: "Petrovaradinska tvrđava na steni iznad Dunava u oblačno veče"
+  alt_cyr: "Петроварадинска тврђава на стени изнад Дунава у облачно вече"
+  alt_de: "Die Festung Petrovaradin auf ihrem Felsen über der Donau an einem bewölkten Abend"
+  alt_hu: "A péterváradi vár a sziklán a Duna felett egy felhős estén"
+petrovaradin-danube-rain:
+  src: img/petrovaradin-danube-rain.jpg
+  author: Konstantin Stein
+  license: © all rights reserved
+  alt: "A rain shower moving over the Danube near Novi Sad, seen from a sandy beach"
+  temp: false
+  alt_ru: "Дождевой заряд идёт над Дунаем у Нови-Сада, вид с песчаного пляжа"
+  alt_sr: "Pljusak prelazi preko Dunava kod Novog Sada, pogled sa peščane plaže"
+  alt_cyr: "Пљусак прелази преко Дунава код Новог Сада, поглед са пешчане плаже"
+  alt_de: "Ein Regenschauer zieht bei Novi Sad über die Donau, gesehen von einem Sandstrand"
+  alt_hu: "Zápor vonul át a Dunán Újvidék közelében, homokos partról nézve"

@@ -11,4 +11,4 @@ Old photos from family albums have their own place: the [photo archive]({{< relr
 
 On clear nights, above all in winter, the sky over the Rakovac valley is full of stars, and the full moon rises over the hills: see the "Night sky" photos.
 
-Novi Sad, the city across the Danube, has its own album: [Novi Sad in photos]({{< relref "gallery/novi-sad" >}}).
+Novi Sad, the city across the Danube, has its own album: [Novi Sad in photos]({{< relref "gallery/novi-sad" >}}). Petrovaradin Fortress has its own album too: [Petrovaradin Fortress in photos]({{< relref "gallery/petrovaradin" >}}).

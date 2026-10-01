@@ -11,4 +11,4 @@ Stare fotografije iz porodičnih albuma imaju svoje mesto: [foto-arhiv]({{< relr
 
 Vedrih noći, naročito zimi, nebo nad dolinom Rakovca je puno zvezda, a pun mesec izlazi iznad brda: pogledajte fotografije „Noćno nebo“.
 
-Novi Sad, grad preko Dunava, ima svoj album: [Novi Sad u fotografijama]({{< relref "gallery/novi-sad" >}}).
+Novi Sad, grad preko Dunava, ima svoj album: [Novi Sad u fotografijama]({{< relref "gallery/novi-sad" >}}). Svoj album ima i Petrovaradinska tvrđava: [Petrovaradinska tvrđava u fotografijama]({{< relref "gallery/petrovaradin" >}}).
