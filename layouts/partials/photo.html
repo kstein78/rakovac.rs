@@ -10,7 +10,7 @@
   </div>
   <figcaption>
     {{ with .caption }}<span class="cap">{{ . | markdownify }}</span>{{ end }}
-    <span class="credit">{{ i18n "photo_by" }}: {{ with $p.page }}<a href="{{ . }}" rel="noopener">{{ $p.author }}</a>{{ else }}{{ $p.author }}{{ end }}, {{ $p.license }}</span>
+    <span class="credit">{{ i18n "photo_by" }}: {{ with $p.page }}<a href="{{ . }}" rel="noopener">{{ (index $p (printf "author_%s" site.Language.Lang) | default $p.author) }}</a>{{ else }}{{ (index $p (printf "author_%s" site.Language.Lang) | default $p.author) }}{{ end }}, {{ $p.license }}</span>
   </figcaption>
 </figure>
 {{ else }}

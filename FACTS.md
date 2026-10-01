@@ -180,3 +180,5 @@ Kamenolom memorial, on site (Kosta's photos, 2026-09): introductory plaque text 
 | Kosta's 20 more fortress photos (various years/seasons), 17 used, 3 near-duplicates skipped; one shows the EXIT banner and the yellow submarine on the old bridge pier; clock tower seen in scaffolding on two | A | Kosta, 2026-10-01 |
 | Clock tower damaged by supercell storms 19 and 21 Jul 2023; restoration started 14 Oct 2024 (Ornament-Investinženjering consortium, ~8.9 M RSD, 150 working days); original gilded top to City Museum, gilded replica installed; 27 May 2025 works "nearly finished, at most ten days" | B | 021.rs 15 Oct 2024, 5 Jun 2024, 27 May 2025; n1info.rs 15 Apr 2024 |
 | Kosta's photos of the tower in scaffolding = 2024–2025 restoration (he remembered autumn 2025–summer 2026; sources say Oct 2024–Jun 2025) | B | inference from dates above |
+| Author portrait on Petrovaradin Fortress walls, photo by Ilia Kulikovskii (Илья Куликовский), recent; credit by name | A | Kosta, 2026-10-01 |
+| Kosta's 5 photos of Mövenpick Resort & Spa Fruške Terme (pool, kids' splash area, winter snowman, lavender, slide) | A | Kosta, 2026-10-01 |

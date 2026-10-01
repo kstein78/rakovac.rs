@@ -10,6 +10,12 @@ coords:
 address: 'Fruške Terme: Staza zdravlja 39, 22408 Vrdnik'
 website: https://frusketerme.com/
 kids: true
+photo: vrdnik-terme-pool
+gallery:
+- vrdnik-terme-slide
+- vrdnik-terme-splash
+- vrdnik-terme-lavender
+- vrdnik-terme-snow
 ---
 
 **Врдник** — курортный посёлок на южных склонах Фрушка-Горы. Из Раковца дорога поднимается мимо монастыря на Змаевац и спускается по другую сторону горы: около 12 минут на машине. Над посёлком стоит средневековая [Врдничская башня]({{< relref "nearby/vrdnicka-kula" >}}).

@@ -10,6 +10,12 @@ coords:
 address: 'Fruške Terme: Staza zdravlja 39, 22408 Vrdnik'
 website: https://frusketerme.com/
 kids: true
+photo: vrdnik-terme-pool
+gallery:
+- vrdnik-terme-slide
+- vrdnik-terme-splash
+- vrdnik-terme-lavender
+- vrdnik-terme-snow
 ---
 
 **Vrdnik** fürdőfalu a Tarcal-hegység (Fruška gora) déli lejtőin. Rakovacból az út a kolostor mellett kapaszkodik fel Zmajevacig, majd a túloldalon ereszkedik le: autóval kb. 12 perc. A falu fölött áll a középkori [vrdniki torony]({{< relref "nearby/vrdnicka-kula" >}}).

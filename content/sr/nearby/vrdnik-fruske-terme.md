@@ -10,6 +10,12 @@ coords:
 address: 'Fruške terme: Staza zdravlja 39, 22408 Vrdnik'
 website: https://frusketerme.com/
 kids: true
+photo: vrdnik-terme-pool
+gallery:
+- vrdnik-terme-slide
+- vrdnik-terme-splash
+- vrdnik-terme-lavender
+- vrdnik-terme-snow
 ---
 
 **Vrdnik** je banjsko mesto na južnim padinama Fruške gore. Iz Rakovca put se penje pored manastira do Zmajevca i spušta na drugu stranu: oko 12 minuta automobilom. Iznad mesta stoji srednjovekovna [Vrdnička kula]({{< relref "nearby/vrdnicka-kula" >}}).

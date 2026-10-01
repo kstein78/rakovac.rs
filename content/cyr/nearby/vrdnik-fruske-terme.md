@@ -11,6 +11,12 @@ coords:
 address: 'Фрушке терме: Стаза здравља 39, 22408 Врдник'
 website: https://frusketerme.com/
 kids: true
+photo: vrdnik-terme-pool
+gallery:
+- vrdnik-terme-slide
+- vrdnik-terme-splash
+- vrdnik-terme-lavender
+- vrdnik-terme-snow
 ---
 
 **Врдник** је бањско место на јужним падинама Фрушке горе. Из Раковца пут се пење поред манастира до Змајевца и спушта на другу страну: око 12 минута аутомобилом. Изнад места стоји средњовековна [Врдничка кула]({{< relref "nearby/vrdnicka-kula" >}}).

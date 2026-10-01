@@ -10,6 +10,12 @@ coords:
 address: 'Fruške Terme: Staza zdravlja 39, 22408 Vrdnik'
 website: https://frusketerme.com/
 kids: true
+photo: vrdnik-terme-pool
+gallery:
+- vrdnik-terme-slide
+- vrdnik-terme-splash
+- vrdnik-terme-lavender
+- vrdnik-terme-snow
 ---
 
 **Vrdnik** is a spa village on the southern slopes of Fruška Gora. From Rakovac the road climbs past the monastery to Zmajevac and drops down the other side: about 12 minutes by car. Above the village stands the medieval [Vrdnik Tower]({{< relref "nearby/vrdnicka-kula" >}}).

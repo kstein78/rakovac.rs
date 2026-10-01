@@ -350,16 +350,16 @@ strazilovo:
   alt_de: Rastplatz Stražilovo
   alt_hu: A stražilovói pihenőhely
 author-kosta:
-  src: img/author-kosta.jpg
-  page: https://stein-1.com
-  author: Konstantin Stein (private archive)
-  license: © all rights reserved
-  alt: Konstantin (Kosta) Stein
-  alt_ru: Константин (Коста) Штейн
-  alt_sr: Konstantin (Kosta) Stein
-  alt_cyr: "Константин (Коста) Штајн"
-  alt_de: Konstantin (Kosta) Stein
-  alt_hu: Konstantin (Kosta) Stein
+  src: img/author-kosta-petrovaradin.jpg
+  author: Ilia Kulikovskii
+  author_ru: Илья Куликовский
+  license: © all rights reserved, used with permission
+  alt: "Konstantin (Kosta) Stein on the walls of Petrovaradin Fortress"
+  alt_ru: "Константин (Коста) Штейн на стенах Петроварадинской крепости"
+  alt_sr: "Konstantin (Kosta) Stein na zidinama Petrovaradinske tvrđave"
+  alt_cyr: "Константин (Коста) Штајн на зидинама Петроварадинске тврђаве"
+  alt_de: "Konstantin (Kosta) Stein auf den Mauern der Festung Petrovaradin"
+  alt_hu: "Konstantin (Kosta) Stein a péterváradi vár falain"
   temp: false
 isposnica-inscription-1771:
   src: img/isposnica-inscription-1771.jpg
@@ -1583,3 +1583,58 @@ petrovaradin-passage-stairs:
   alt_cyr: "Засвођени циглени пролаз са степеницама кроз зидине тврђаве"
   alt_de: "Ein gewölbter Ziegeldurchgang mit Treppe durch die Festungsmauern"
   alt_hu: "Boltíves téglaátjáró lépcsővel a várfalakon át"
+vrdnik-terme-pool:
+  src: img/vrdnik-terme-pool.jpg
+  author: Konstantin Stein
+  license: © all rights reserved
+  alt: "An outdoor thermal pool at Mövenpick Resort & Spa Fruške Terme, with the hotel behind it"
+  temp: false
+  alt_ru: "Открытый термальный бассейн Mövenpick Resort & Spa Fruške Terme, за ним отель"
+  alt_sr: "Spoljni termalni bazen u Mövenpick Resort & Spa Fruške Terme, iza njega hotel"
+  alt_cyr: "Спољни термални базен у Mövenpick Resort & Spa Фрушке Терме, иза њега хотел"
+  alt_de: "Ein Thermal-Außenbecken des Mövenpick Resort & Spa Fruške Terme, dahinter das Hotel"
+  alt_hu: "A Mövenpick Resort & Spa Fruške Terme egyik szabadtéri termálmedencéje, mögötte a szálloda"
+vrdnik-terme-splash:
+  src: img/vrdnik-terme-splash.jpg
+  author: Konstantin Stein
+  license: © all rights reserved
+  alt: "A rainbow spray tunnel in the children's water play area at Fruške Terme"
+  temp: false
+  alt_ru: "Радужный тоннель с брызгами в детской водной зоне Fruške Terme"
+  alt_sr: "Duga od prskalica u dečjoj vodenoj zoni Fruških terma"
+  alt_cyr: "Дуга од прскалица у дечјој воденој зони Фрушких терма"
+  alt_de: "Ein Regenbogen-Sprühtunnel im Kinder-Wasserspielbereich der Fruške Terme"
+  alt_hu: "Szivárványos vízpermet-alagút a Fruške Terme gyerek vízi játszóterén"
+vrdnik-terme-snow:
+  src: img/vrdnik-terme-snow.jpg
+  author: Konstantin Stein
+  license: © all rights reserved
+  alt: "A child with a snowman in front of the Fruške Terme resort in winter"
+  temp: false
+  alt_ru: "Ребёнок со снеговиком перед курортом Fruške Terme зимой"
+  alt_sr: "Dete sa sneškom ispred kompleksa Fruške terme zimi"
+  alt_cyr: "Дете са снешком испред комплекса Фрушке терме зими"
+  alt_de: "Ein Kind mit Schneemann vor dem Resort Fruške Terme im Winter"
+  alt_hu: "Gyerek hóemberrel a Fruške Terme üdülő előtt télen"
+vrdnik-terme-lavender:
+  src: img/vrdnik-terme-lavender.jpg
+  author: Konstantin Stein
+  license: © all rights reserved
+  alt: "Lavender in bloom on the terrace of the Fruške Terme resort"
+  temp: false
+  alt_ru: "Цветущая лаванда на террасе курорта Fruške Terme"
+  alt_sr: "Lavanda u cvetu na terasi kompleksa Fruške terme"
+  alt_cyr: "Лаванда у цвету на тераси комплекса Фрушке терме"
+  alt_de: "Blühender Lavendel auf der Terrasse des Resorts Fruške Terme"
+  alt_hu: "Virágzó levendula a Fruške Terme üdülő teraszán"
+vrdnik-terme-slide:
+  src: img/vrdnik-terme-slide.jpg
+  author: Konstantin Stein
+  license: © all rights reserved
+  alt: "The top of a red water slide at Fruške Terme, with the outdoor pools and the forest beyond"
+  temp: false
+  alt_ru: "Верх красной водной горки Fruške Terme, дальше открытые бассейны и лес"
+  alt_sr: "Vrh crvenog tobogana u Fruškim termama, dalje spoljni bazeni i šuma"
+  alt_cyr: "Врх црвеног тобогана у Фрушким термама, даље спољни базени и шума"
+  alt_de: "Der Start einer roten Wasserrutsche der Fruške Terme, dahinter die Außenbecken und der Wald"
+  alt_hu: "Egy piros vízicsúszda teteje a Fruške Termében, mögötte a szabadtéri medencék és az erdő"

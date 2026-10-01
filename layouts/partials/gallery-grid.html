@@ -33,7 +33,7 @@
     {{ end }}
     {{ $alt := index $p (printf "alt_%s" $lang) | default $p.alt }}
     <li class="gal-item" data-season="{{ .season }}" data-theme="{{ .theme }}">
-      <a href="{{ $full }}" data-credit="{{ i18n "photo_by" }}: {{ $p.author }}, {{ $p.license }}"><img src="{{ $thumb }}" alt="{{ $alt }}" loading="lazy" decoding="async"></a>
+      <a href="{{ $full }}" data-credit="{{ i18n "photo_by" }}: {{ (index $p (printf "author_%s" site.Language.Lang) | default $p.author) }}, {{ $p.license }}"><img src="{{ $thumb }}" alt="{{ $alt }}" loading="lazy" decoding="async"></a>
     </li>
     {{ end }}
     {{ end }}
