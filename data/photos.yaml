@@ -1396,3 +1396,190 @@ petrovaradin-danube-rain:
   alt_cyr: "Пљусак прелази преко Дунава код Новог Сада, поглед са пешчане плаже"
   alt_de: "Ein Regenschauer zieht bei Novi Sad über die Donau, gesehen von einem Sandstrand"
   alt_hu: "Zápor vonul át a Dunán Újvidék közelében, homokos partról nézve"
+petrovaradin-danube-liberty-bridge:
+  src: img/petrovaradin-danube-liberty-bridge.jpg
+  author: Konstantin Stein
+  license: © all rights reserved
+  alt: "Dusk over the Danube upstream from the fortress walls, with the Liberty Bridge and the hills of Fruška Gora"
+  temp: false
+  alt_ru: "Сумерки над Дунаем вверх по течению со стен крепости, вдали мост Свободы и холмы Фрушка-Горы"
+  alt_sr: "Sumrak nad Dunavom uzvodno sa zidina tvrđave, u daljini Most slobode i brda Fruške gore"
+  alt_cyr: "Сумрак над Дунавом узводно са зидина тврђаве, у даљини Мост слободе и брда Фрушке горе"
+  alt_de: "Abenddämmerung über der Donau flussaufwärts von den Festungsmauern, in der Ferne die Freiheitsbrücke und die Hügel der Fruška Gora"
+  alt_hu: "Alkonyat a Duna felett a vár falairól a folyásiránnyal szemben, a távolban a Szabadság híd és a Fruška Gora dombjai"
+petrovaradin-sunset-varadin-bridge:
+  src: img/petrovaradin-sunset-varadin-bridge.jpg
+  author: Konstantin Stein
+  license: © all rights reserved
+  alt: "Sunset over Novi Sad and the Varadin Bridge, seen from the fortress"
+  temp: false
+  alt_ru: "Закат над Нови-Садом и Варадинским мостом, вид с крепости"
+  alt_sr: "Zalazak sunca nad Novim Sadom i Varadinskim mostom, pogled s tvrđave"
+  alt_cyr: "Залазак сунца над Новим Садом и Варадинским мостом, поглед с тврђаве"
+  alt_de: "Sonnenuntergang über Novi Sad und der Varadin-Brücke, von der Festung aus gesehen"
+  alt_hu: "Naplemente Újvidék és a Varadin híd felett a várból nézve"
+petrovaradin-sunset-locks:
+  src: img/petrovaradin-sunset-locks.jpg
+  author: Konstantin Stein
+  license: © all rights reserved
+  alt: "Love locks on the railing of a fortress viewpoint at sunset, above the Lower Town and the Danube"
+  temp: false
+  alt_ru: "Замки влюблённых на перилах смотровой площадки крепости на закате, внизу Нижний город и Дунай"
+  alt_sr: "Katanci ljubavi na ogradi vidikovca na tvrđavi u zalazak sunca, ispod Donji grad i Dunav"
+  alt_cyr: "Катанци љубави на огради видиковца на тврђави у залазак сунца, испод Доњи град и Дунав"
+  alt_de: "Liebesschlösser am Geländer eines Aussichtspunkts der Festung bei Sonnenuntergang, unten die Unterstadt und die Donau"
+  alt_hu: "Szerelemlakatok a vár egyik kilátójának korlátján naplementekor, lent az Alsóváros és a Duna"
+petrovaradin-sunset-walls:
+  src: img/petrovaradin-sunset-walls.jpg
+  author: Konstantin Stein
+  license: © all rights reserved
+  alt: "The fortress walls after sunset, with the clock tower in scaffolding and the Žeželj Bridge in the distance"
+  temp: false
+  alt_ru: "Стены крепости после заката, часовая башня в строительных лесах, вдали мост Жежеля"
+  alt_sr: "Zidine tvrđave posle zalaska sunca, sahat-kula pod skelom, u daljini Žeželjev most"
+  alt_cyr: "Зидине тврђаве после заласка сунца, сахат-кула под скелом, у даљини Жежељев мост"
+  alt_de: "Die Festungsmauern nach Sonnenuntergang, der Uhrturm eingerüstet, in der Ferne die Žeželj-Brücke"
+  alt_hu: "A vár falai naplemente után, az óratorony állványok között, a távolban a Žeželj-híd"
+petrovaradin-barge-sunset:
+  src: img/petrovaradin-barge-sunset.jpg
+  author: Konstantin Stein
+  license: © all rights reserved
+  alt: "A long barge passing under the Varadin Bridge at sunset, seen from the fortress"
+  temp: false
+  alt_ru: "Длинная баржа проходит под Варадинским мостом на закате, вид с крепости"
+  alt_sr: "Dugačka barža prolazi ispod Varadinskog mosta u zalazak sunca, pogled s tvrđave"
+  alt_cyr: "Дугачка баржа пролази испод Варадинског моста у залазак сунца, поглед с тврђаве"
+  alt_de: "Ein langer Schubverband fährt bei Sonnenuntergang unter der Varadin-Brücke hindurch, von der Festung aus gesehen"
+  alt_hu: "Hosszú uszály halad át a Varadin híd alatt naplementekor, a várból nézve"
+petrovaradin-fortress-golden-quay:
+  src: img/petrovaradin-fortress-golden-quay.jpg
+  author: Konstantin Stein
+  license: © all rights reserved
+  alt: "The fortress in golden evening light, seen from the Novi Sad quay past a floating restaurant"
+  temp: false
+  alt_ru: "Крепость в золотом вечернем свете с новисадской набережной, на переднем плане плавучий ресторан"
+  alt_sr: "Tvrđava u zlatnom večernjem svetlu s novosadskog keja, u prvom planu splav-restoran"
+  alt_cyr: "Тврђава у златном вечерњем светлу с новосадског кеја, у првом плану сплав-ресторан"
+  alt_de: "Die Festung im goldenen Abendlicht vom Kai in Novi Sad aus, vorne ein schwimmendes Restaurant"
+  alt_hu: "A vár arany esti fényben az újvidéki rakpartról, előtérben egy úszó vendéglő"
+petrovaradin-casemates-yard:
+  src: img/petrovaradin-casemates-yard.jpg
+  author: Konstantin Stein
+  license: © all rights reserved
+  alt: "A quiet yard in front of old casemates in the fortress walls, in autumn"
+  temp: false
+  alt_ru: "Тихий двор перед старыми казематами в стенах крепости, осень"
+  alt_sr: "Mirno dvorište ispred starih kazamata u zidinama tvrđave, u jesen"
+  alt_cyr: "Мирно двориште испред старих казамата у зидинама тврђаве, у јесен"
+  alt_de: "Ein stiller Hof vor alten Kasematten in den Festungsmauern, im Herbst"
+  alt_hu: "Csendes udvar a várfalak régi kazamatái előtt, ősszel"
+petrovaradin-casemate-window:
+  src: img/petrovaradin-casemate-window.jpg
+  author: Konstantin Stein
+  license: © all rights reserved
+  alt: "A barred window with a wooden shutter in an old casemate wall"
+  temp: false
+  alt_ru: "Окно с решёткой и деревянной ставней в стене старого каземата"
+  alt_sr: "Prozor s rešetkom i drvenim kapkom u zidu starog kazamata"
+  alt_cyr: "Прозор с решетком и дрвеним капком у зиду старог казамата"
+  alt_de: "Ein vergittertes Fenster mit Holzladen in der Mauer einer alten Kasematte"
+  alt_hu: "Rácsos ablak fa spalettával egy régi kazamata falában"
+petrovaradin-casemate-door:
+  src: img/petrovaradin-casemate-door.jpg
+  author: Konstantin Stein
+  license: © all rights reserved
+  alt: "A casemate in the fortress walls: a wooden door with a wreath and small barred windows"
+  temp: false
+  alt_ru: "Каземат в стенах крепости: деревянная дверь с венком и маленькие окна с решётками"
+  alt_sr: "Kazamat u zidinama tvrđave: drvena vrata s vencem i mali prozori s rešetkama"
+  alt_cyr: "Казамат у зидинама тврђаве: дрвена врата с венцем и мали прозори с решеткама"
+  alt_de: "Eine Kasematte in den Festungsmauern: Holztür mit Kranz und kleine vergitterte Fenster"
+  alt_hu: "Kazamata a várfalakban: koszorús fa ajtó és kis rácsos ablakok"
+petrovaradin-path-walls:
+  src: img/petrovaradin-path-walls.jpg
+  author: Konstantin Stein
+  license: © all rights reserved
+  alt: "A path along the fortress walls in autumn, past an arched opening in the brickwork"
+  temp: false
+  alt_ru: "Тропа вдоль стен крепости осенью, мимо арочного проёма в кирпичной кладке"
+  alt_sr: "Staza duž zidina tvrđave u jesen, pored lučnog otvora u ciglenom zidu"
+  alt_cyr: "Стаза дуж зидина тврђаве у јесен, поред лучног отвора у цигленом зиду"
+  alt_de: "Ein Weg an den Festungsmauern im Herbst, vorbei an einer gewölbten Öffnung im Mauerwerk"
+  alt_hu: "Ösvény a várfalak mentén ősszel, egy boltíves nyílás mellett a téglafalban"
+petrovaradin-sunrays-novi-sad:
+  src: img/petrovaradin-sunrays-novi-sad.jpg
+  author: Konstantin Stein
+  license: © all rights reserved
+  alt: "Rays of the evening sun breaking through clouds over Novi Sad and the Danube, seen from the fortress"
+  temp: false
+  alt_ru: "Лучи вечернего солнца пробиваются сквозь облака над Нови-Садом и Дунаем, вид с крепости"
+  alt_sr: "Zraci večernjeg sunca probijaju se kroz oblake nad Novim Sadom i Dunavom, pogled s tvrđave"
+  alt_cyr: "Зраци вечерњег сунца пробијају се кроз облаке над Новим Садом и Дунавом, поглед с тврђаве"
+  alt_de: "Strahlen der Abendsonne brechen durch die Wolken über Novi Sad und der Donau, von der Festung aus"
+  alt_hu: "Az esti nap sugarai áttörnek a felhőkön Újvidék és a Duna felett, a várból nézve"
+petrovaradin-spring-evening:
+  src: img/petrovaradin-spring-evening.jpg
+  author: Konstantin Stein
+  license: © all rights reserved
+  alt: "A spring evening on the fortress slopes, above the Lower Town, the Varadin Bridge and the Žeželj Bridge"
+  temp: false
+  alt_ru: "Весенний вечер на склонах крепости, над Нижним городом, Варадинским мостом и мостом Жежеля"
+  alt_sr: "Prolećno veče na padinama tvrđave, iznad Donjeg grada, Varadinskog i Žeželjevog mosta"
+  alt_cyr: "Пролећно вече на падинама тврђаве, изнад Доњег града, Варадинског и Жежељевог моста"
+  alt_de: "Ein Frühlingsabend an den Hängen der Festung, über der Unterstadt, der Varadin- und der Žeželj-Brücke"
+  alt_hu: "Tavaszi este a vár lejtőin, az Alsóváros, a Varadin híd és a Žeželj-híd felett"
+petrovaradin-exit-submarine:
+  src: img/petrovaradin-exit-submarine.jpg
+  author: Konstantin Stein
+  license: © all rights reserved
+  alt: "The fortress with an EXIT Festival banner, and the yellow submarine painted on a pier of the old railway bridge"
+  temp: false
+  alt_ru: "Крепость с баннером EXIT Festival и жёлтая подводная лодка на опоре старого железнодорожного моста"
+  alt_sr: "Tvrđava s transparentom EXIT Festivala i žuta podmornica na stubu starog železničkog mosta"
+  alt_cyr: "Тврђава с транспарентом EXIT Фестивала и жута подморница на стубу старог железничког моста"
+  alt_de: "Die Festung mit einem Banner des EXIT Festivals und das gelbe U-Boot auf einem Pfeiler der alten Eisenbahnbrücke"
+  alt_hu: "A vár az EXIT fesztivál molinójával, és a sárga tengeralattjáró a régi vasúti híd egyik pillérén"
+petrovaradin-fortress-night:
+  src: img/petrovaradin-fortress-night.jpg
+  author: Konstantin Stein
+  license: © all rights reserved
+  alt: "The fortress lit up at night, seen from the Varadin Bridge"
+  temp: false
+  alt_ru: "Крепость в ночной подсветке, вид с Варадинского моста"
+  alt_sr: "Osvetljena tvrđava noću, pogled s Varadinskog mosta"
+  alt_cyr: "Осветљена тврђава ноћу, поглед с Варадинског моста"
+  alt_de: "Die beleuchtete Festung bei Nacht, von der Varadin-Brücke aus gesehen"
+  alt_hu: "A kivilágított vár éjjel, a Varadin hídról nézve"
+petrovaradin-lower-town-street:
+  src: img/petrovaradin-lower-town-street.jpg
+  author: Konstantin Stein
+  license: © all rights reserved
+  alt: "A street in the Lower Town of Petrovaradin at dusk, with the lit clock tower above"
+  temp: false
+  alt_ru: "Улица Нижнего города Петроварадина в сумерках, над ней подсвеченная часовая башня"
+  alt_sr: "Ulica u Donjem gradu Petrovaradina u sumrak, iznad nje osvetljena sahat-kula"
+  alt_cyr: "Улица у Доњем граду Петроварадина у сумрак, изнад ње осветљена сахат-кула"
+  alt_de: "Eine Gasse der Unterstadt von Petrovaradin in der Dämmerung, darüber der beleuchtete Uhrturm"
+  alt_hu: "Utca Pétervárad Alsóvárosában alkonyatkor, fölötte a kivilágított óratorony"
+petrovaradin-autumn-steps:
+  src: img/petrovaradin-autumn-steps.jpg
+  author: Konstantin Stein
+  license: © all rights reserved
+  alt: "Stone steps and autumn leaves below the clock tower on an evening in late autumn"
+  temp: false
+  alt_ru: "Каменная лестница и осенние листья под часовой башней поздней осенью вечером"
+  alt_sr: "Kamene stepenice i jesenje lišće ispod sahat-kule u kasnu jesen uveče"
+  alt_cyr: "Камене степенице и јесење лишће испод сахат-куле у касну јесен увече"
+  alt_de: "Steinstufen und Herbstlaub unterhalb des Uhrturms an einem Spätherbstabend"
+  alt_hu: "Kőlépcső és őszi levelek az óratorony alatt egy késő őszi estén"
+petrovaradin-passage-stairs:
+  src: img/petrovaradin-passage-stairs.jpg
+  author: Konstantin Stein
+  license: © all rights reserved
+  alt: "A vaulted brick passage with stairs leading up through the fortress walls"
+  temp: false
+  alt_ru: "Сводчатый кирпичный проход с лестницей сквозь стены крепости"
+  alt_sr: "Zasvođeni cigleni prolaz sa stepenicama kroz zidine tvrđave"
+  alt_cyr: "Засвођени циглени пролаз са степеницама кроз зидине тврђаве"
+  alt_de: "Ein gewölbter Ziegeldurchgang mit Treppe durch die Festungsmauern"
+  alt_hu: "Boltíves téglaátjáró lépcsővel a várfalakon át"

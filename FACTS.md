@@ -176,3 +176,5 @@ Kamenolom memorial, on site (Kosta's photos, 2026-09): introductory plaque text 
 | Kelly's Heroes 1969: filmed at Beočin castle and Vrdnik mine; Eastwood visited Novi Sad and rested at Petrovaradin, photographed by Lawrence Schiller (Profimedia, copyrighted — not usable) | B | b92.net; telegraf.rs; 24sedam.rs |
 | Petrovaradin Fortress is 17–20 min by car from Rakovac | A | Kosta, 2026-10-01 |
 | Kosta's 11 fortress photos (2 near-duplicates not used) | A | Kosta, 2026-10-01 |
+| Official name "Upper and Lower Petrovaradin Fortress with Podgrađe" | B | Wikipedia |
+| Kosta's 20 more fortress photos (various years/seasons), 17 used, 3 near-duplicates skipped; one shows the EXIT banner and the yellow submarine on the old bridge pier; clock tower seen in scaffolding on two | A | Kosta, 2026-10-01 |

@@ -13,10 +13,12 @@ facts:
   distance: 17–20 minutes by car from Rakovac
 photo: petrovaradin-fortress-storm-light
 gallery:
+- petrovaradin-sunset-varadin-bridge
+- petrovaradin-fortress-night
+- petrovaradin-spring-evening
 - petrovaradin-view-varadin-bridge
 - petrovaradin-clock-tower
-- petrovaradin-lower-town-zezelj
-- petrovaradin-fortress-clouds
+- petrovaradin-fortress-golden-quay
 ---
 
 **Petrovaradin Fortress** (Petrovaradinska tvrđava) stands on a rock on the right bank of the Danube, in Petrovaradin, directly opposite the centre of Novi Sad. Because of its size and position it has long been called the "Gibraltar on the Danube". From Rakovac it is 17–20 minutes by car. In 1991 it was listed as a spatial cultural-historical unit of great importance of the Republic of Serbia.
@@ -49,11 +51,19 @@ Go into the galleries only with a guide: without one the tunnels are easy to get
 
 {{< todo >}}Add Kosta's photos from the underground: the spring and the stone plaque in honour of an emperor's visit (check the name and year on the plaque).{{< /todo >}}
 
+## The Lower Town and the casemates
+
+Below the fortress, between the rock and the Danube, lies the Lower Town, the old Podgrađe. It is protected together with the fortress: the official name of the monument is "Upper and Lower Petrovaradin Fortress with Podgrađe" ([Wikipedia](https://en.wikipedia.org/wiki/Petrovaradin_Fortress)). Along the walls stand casemates, and vaulted passages and steps lead up through the slopes.
+
+{{< photos "petrovaradin-lower-town-street petrovaradin-passage-stairs petrovaradin-casemate-door petrovaradin-path-walls" >}}
+
 ## The railway tunnel and the lost bridge
 
 In 1883 a railway tunnel 341 m long was cut through the rock under the fortress, for the new line from Zemun through Petrovaradin and Novi Sad to Subotica ([Luftika](https://luftika.rs/prica-o-zeleznickom-tunelu-ispod-petrovaradinske-tvrdave/)). From the tunnel the trains ran straight onto the Franz Joseph Bridge, a steel railway bridge over the Danube opened on 11 November 1883.
 
 The bridge did not survive the Second World War. In April 1941 the Royal Yugoslav Army blew it up to slow the German advance; the Germans rebuilt it, and on 22 October 1944, retreating, they destroyed it again. It was never rebuilt. Its piers still stand in the Danube below the fortress; for EXIT 2022 one of them was painted as a yellow submarine ([Visit Distrikt](https://visitdistrikt.rs/2021/02/03/simboli-poraza-pobeda-i-nade-novosadski-mostovi-na-dunavu/), [Wikipedia](https://en.wikipedia.org/wiki/Transport_in_Novi_Sad)).
+
+{{< photo key="petrovaradin-exit-submarine" >}}
 
 Without its bridge the tunnel lost its purpose. It has since served as a military store and for growing mushrooms; today it stands empty, and the city's plan for Petrovaradin foresees turning it into an exhibition space about the history of the fortress ([021.rs](https://www.021.rs/novi-sad/vesti/304744/plan-za-petrovaradin-obnova-tunela-ispod-tvrdjave-lift-novi-most-i-jos-mnogo-toga)).
 

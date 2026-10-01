@@ -13,10 +13,12 @@ facts:
   distance: 17–20 минут на машине от Раковца
 photo: petrovaradin-fortress-storm-light
 gallery:
+- petrovaradin-sunset-varadin-bridge
+- petrovaradin-fortress-night
+- petrovaradin-spring-evening
 - petrovaradin-view-varadin-bridge
 - petrovaradin-clock-tower
-- petrovaradin-lower-town-zezelj
-- petrovaradin-fortress-clouds
+- petrovaradin-fortress-golden-quay
 ---
 
 **Петроварадинская крепость** (Petrovaradinska tvrđava) стоит на скале на правом берегу Дуная, в Петроварадине, прямо напротив центра Нови-Сада. За размеры и положение её давно называют «Гибралтаром на Дунае». От Раковца до неё 17–20 минут на машине. С 1991 года крепость охраняется как пространственная культурно-историческая единица большого значения Республики Сербия.
@@ -49,11 +51,19 @@ gallery:
 
 {{< todo >}}Добавить фото Кости из подземелья: источник и каменная табличка в честь визита императора (проверить имя и год на табличке).{{< /todo >}}
 
+## Нижний город и казематы
+
+Под крепостью, между скалой и Дунаем, лежит Нижний город, старый посад Подградже. Он охраняется вместе с крепостью: официальное название памятника — «Верхняя и Нижняя Петроварадинская крепость с Подграджем» ([Wikipedia](https://en.wikipedia.org/wiki/Petrovaradin_Fortress)). Вдоль стен стоят казематы, по склонам наверх ведут сводчатые проходы и лестницы.
+
+{{< photos "petrovaradin-lower-town-street petrovaradin-passage-stairs petrovaradin-casemate-door petrovaradin-path-walls" >}}
+
 ## Железнодорожный тоннель и пропавший мост
 
 В 1883 году сквозь скалу под крепостью пробили железнодорожный тоннель длиной 341 м для новой линии из Земуна через Петроварадин и Нови-Сад в Суботицу ([Luftika](https://luftika.rs/prica-o-zeleznickom-tunelu-ispod-petrovaradinske-tvrdave/)). Из тоннеля поезда выходили прямо на мост Франца Иосифа, стальной железнодорожный мост через Дунай, открытый 11 ноября 1883 года.
 
 Вторую мировую войну мост не пережил. В апреле 1941 года его взорвала королевская югославская армия, чтобы задержать наступление немцев; немцы мост восстановили, а 22 октября 1944 года при отступлении взорвали снова. Больше его не отстраивали. Его опоры до сих пор стоят в Дунае под крепостью; к фестивалю EXIT 2022 одну из них раскрасили под жёлтую подводную лодку ([Visit Distrikt](https://visitdistrikt.rs/2021/02/03/simboli-poraza-pobeda-i-nade-novosadski-mostovi-na-dunavu/), [Wikipedia](https://en.wikipedia.org/wiki/Transport_in_Novi_Sad)).
+
+{{< photo key="petrovaradin-exit-submarine" >}}
 
 Без моста тоннель потерял смысл. Он служил военным складом, в нём выращивали грибы; сейчас он пустует, а городской план для Петроварадина предусматривает сделать в нём выставочное пространство об истории крепости ([021.rs](https://www.021.rs/novi-sad/vesti/304744/plan-za-petrovaradin-obnova-tunela-ispod-tvrdjave-lift-novi-most-i-jos-mnogo-toga)).
 

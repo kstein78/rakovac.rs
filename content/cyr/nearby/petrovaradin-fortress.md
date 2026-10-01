@@ -15,10 +15,12 @@ facts:
   distance: 17–20 минута колима од Раковца
 photo: petrovaradin-fortress-storm-light
 gallery:
+- petrovaradin-sunset-varadin-bridge
+- petrovaradin-fortress-night
+- petrovaradin-spring-evening
 - petrovaradin-view-varadin-bridge
 - petrovaradin-clock-tower
-- petrovaradin-lower-town-zezelj
-- petrovaradin-fortress-clouds
+- petrovaradin-fortress-golden-quay
 ---
 
 **Петроварадинска тврђава** стоји на стени на десној обали Дунава, у Петроварадину, тачно наспрам центра Новог Сада. Због величине и положаја одавно је зову „Гибралтар на Дунаву”. Од Раковца је 17–20 минута колима. Од 1991. године заштићена је као просторна културно-историјска целина од великог значаја Републике Србије.
@@ -51,11 +53,19 @@ gallery:
 
 {{< todo >}}Додати Костине фотографије из подземља: извор и камену плочу у част цареве посете (проверити име и годину на плочи).{{< /todo >}}
 
+## Доњи град и казамати
+
+Испод тврђаве, између стене и Дунава, лежи Доњи град, старо Подграђе. Заштићен је заједно с тврђавом: званични назив споменика је „Горња и Доња Петроварадинска тврђава с Подграђем” ([Wikipedia](https://en.wikipedia.org/wiki/Petrovaradin_Fortress)). Дуж зидина стоје казамати, а засвођени пролази и степенице воде уз падине.
+
+{{< photos "petrovaradin-lower-town-street petrovaradin-passage-stairs petrovaradin-casemate-door petrovaradin-path-walls" >}}
+
 ## Железнички тунел и нестали мост
 
 Године 1883. кроз стену испод тврђаве пробијен је железнички тунел дуг 341 м, за нову пругу од Земуна преко Петроварадина и Новог Сада до Суботице ([Luftika](https://luftika.rs/prica-o-zeleznickom-tunelu-ispod-petrovaradinske-tvrdave/)). Из тунела су возови излазили право на мост Фрање Јосифа, челични железнички мост преко Дунава отворен 11. новембра 1883.
 
 Мост није преживео Други светски рат. У априлу 1941. срушила га је Југословенска краљевска војска да успори немачко напредовање; Немци су га обновили, а 22. октобра 1944, повлачећи се, поново га срушили. Никада није обновљен. Његови стубови и данас стоје у Дунаву испод тврђаве; за EXIT 2022. један од њих осликан је као жута подморница ([Visit Distrikt](https://visitdistrikt.rs/2021/02/03/simboli-poraza-pobeda-i-nade-novosadski-mostovi-na-dunavu/), [Wikipedia](https://en.wikipedia.org/wiki/Transport_in_Novi_Sad)).
+
+{{< photo key="petrovaradin-exit-submarine" >}}
 
 Без моста тунел је изгубио сврху. Служио је као војно складиште и за узгој печурака; данас је празан, а градски план за Петроварадин предвиђа да се у њему направи изложбени простор о историји тврђаве ([021.rs](https://www.021.rs/novi-sad/vesti/304744/plan-za-petrovaradin-obnova-tunela-ispod-tvrdjave-lift-novi-most-i-jos-mnogo-toga)).
 

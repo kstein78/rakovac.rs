@@ -13,10 +13,12 @@ facts:
   distance: 17–20 perc autóval Rakovactól
 photo: petrovaradin-fortress-storm-light
 gallery:
+- petrovaradin-sunset-varadin-bridge
+- petrovaradin-fortress-night
+- petrovaradin-spring-evening
 - petrovaradin-view-varadin-bridge
 - petrovaradin-clock-tower
-- petrovaradin-lower-town-zezelj
-- petrovaradin-fortress-clouds
+- petrovaradin-fortress-golden-quay
 ---
 
 A **péterváradi vár** (Petrovaradinska tvrđava) a Duna jobb partján, egy sziklán áll Péterváradon, pontosan Újvidék belvárosával szemben. Mérete és fekvése miatt régóta a „Duna Gibraltárjának” nevezik. Rakovactól 17–20 perc autóval. 1991 óta a Szerb Köztársaság nagy jelentőségű térbeli kulturális-történeti egységeként védett.
@@ -49,11 +51,19 @@ A folyosókba csak idegenvezetővel menjen: nélküle könnyű eltévedni, és v
 
 {{< todo >}}Kosta fotói a föld alól: a forrás és a császári látogatás emlékére állított kőtábla (a táblán lévő név és év ellenőrzése).{{< /todo >}}
 
+## Az Alsóváros és a kazamaták
+
+Az erőd alatt, a szikla és a Duna között fekszik az Alsóváros, a régi Podgrađe. Az erőddel együtt védett: a műemlék hivatalos neve „Felső és Alsó Péterváradi vár a Podgrađéval” ([Wikipedia](https://en.wikipedia.org/wiki/Petrovaradin_Fortress)). A falak mentén kazamaták állnak, boltíves átjárók és lépcsők vezetnek fel a lejtőkön.
+
+{{< photos "petrovaradin-lower-town-street petrovaradin-passage-stairs petrovaradin-casemate-door petrovaradin-path-walls" >}}
+
 ## A vasúti alagút és az eltűnt híd
 
 1883-ban az erőd alatt 341 m hosszú vasúti alagutat vágtak a sziklába a Zimonyból Péterváradon és Újvidéken át Szabadkára vezető új vonal számára ([Luftika](https://luftika.rs/prica-o-zeleznickom-tunelu-ispod-petrovaradinske-tvrdave/)). Az alagútból a vonatok egyenesen a Ferenc József hídra futottak ki, egy acél vasúti hídra a Duna felett, amelyet 1883. november 11-én adtak át.
 
 A híd nem élte túl a második világháborút. 1941 áprilisában a Jugoszláv Királyi Hadsereg felrobbantotta, hogy lassítsa a német előrenyomulást; a németek helyreállították, majd 1944. október 22-én, visszavonulásuk közben újra felrobbantották. Soha többé nem építették újjá. Pillérei ma is állnak a Dunában az erőd alatt; a 2022-es EXIT-re az egyiket sárga tengeralattjárónak festették ki ([Visit Distrikt](https://visitdistrikt.rs/2021/02/03/simboli-poraza-pobeda-i-nade-novosadski-mostovi-na-dunavu/), [Wikipedia](https://en.wikipedia.org/wiki/Transport_in_Novi_Sad)).
+
+{{< photo key="petrovaradin-exit-submarine" >}}
 
 Híd nélkül az alagút értelmét vesztette. Volt katonai raktár és gombatermesztő hely; ma üresen áll, a város Péterváradra vonatkozó terve pedig az erőd történetét bemutató kiállítóteret szán neki ([021.rs](https://www.021.rs/novi-sad/vesti/304744/plan-za-petrovaradin-obnova-tunela-ispod-tvrdjave-lift-novi-most-i-jos-mnogo-toga)).
 

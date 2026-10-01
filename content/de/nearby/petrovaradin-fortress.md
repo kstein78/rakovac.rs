@@ -13,10 +13,12 @@ facts:
   distance: 17–20 Minuten mit dem Auto von Rakovac
 photo: petrovaradin-fortress-storm-light
 gallery:
+- petrovaradin-sunset-varadin-bridge
+- petrovaradin-fortress-night
+- petrovaradin-spring-evening
 - petrovaradin-view-varadin-bridge
 - petrovaradin-clock-tower
-- petrovaradin-lower-town-zezelj
-- petrovaradin-fortress-clouds
+- petrovaradin-fortress-golden-quay
 ---
 
 Die **Festung Petrovaradin** (Petrovaradinska tvrđava, früher deutsch Peterwardein) steht auf einem Felsen am rechten Donauufer in Petrovaradin, direkt gegenüber dem Zentrum von Novi Sad. Wegen ihrer Größe und Lage nennt man sie seit Langem das „Gibraltar an der Donau“. Von Rakovac sind es 17–20 Minuten mit dem Auto. Seit 1991 steht sie als räumliche kulturhistorische Einheit von großer Bedeutung der Republik Serbien unter Schutz.
@@ -49,11 +51,19 @@ Gehen Sie nur mit einem Führer in die Gänge: Ohne Führer verirrt man sich lei
 
 {{< todo >}}Kostas Fotos aus dem Untergrund ergänzen: die Quelle und die Steintafel zum Besuch eines Kaisers (Namen und Jahr auf der Tafel prüfen).{{< /todo >}}
 
+## Die Unterstadt und die Kasematten
+
+Unterhalb der Festung, zwischen Fels und Donau, liegt die Unterstadt, das alte Podgrađe. Sie steht zusammen mit der Festung unter Schutz: Der offizielle Name des Denkmals lautet „Obere und Untere Festung Petrovaradin mit Podgrađe“ ([Wikipedia](https://en.wikipedia.org/wiki/Petrovaradin_Fortress)). An den Mauern stehen Kasematten, gewölbte Durchgänge und Treppen führen die Hänge hinauf.
+
+{{< photos "petrovaradin-lower-town-street petrovaradin-passage-stairs petrovaradin-casemate-door petrovaradin-path-walls" >}}
+
 ## Der Eisenbahntunnel und die verschwundene Brücke
 
 1883 wurde unter der Festung ein 341 m langer Eisenbahntunnel durch den Fels geschlagen, für die neue Strecke von Zemun über Petrovaradin und Novi Sad nach Subotica ([Luftika](https://luftika.rs/prica-o-zeleznickom-tunelu-ispod-petrovaradinske-tvrdave/)). Aus dem Tunnel fuhren die Züge direkt auf die Franz-Joseph-Brücke, eine stählerne Eisenbahnbrücke über die Donau, eröffnet am 11. November 1883.
 
 Den Zweiten Weltkrieg überstand die Brücke nicht. Im April 1941 sprengte sie die königlich-jugoslawische Armee, um den deutschen Vormarsch aufzuhalten; die Deutschen bauten sie wieder auf und sprengten sie am 22. Oktober 1944 auf dem Rückzug erneut. Wiederaufgebaut wurde sie nie. Ihre Pfeiler stehen bis heute in der Donau unterhalb der Festung; zum EXIT 2022 wurde einer von ihnen als gelbes U-Boot bemalt ([Visit Distrikt](https://visitdistrikt.rs/2021/02/03/simboli-poraza-pobeda-i-nade-novosadski-mostovi-na-dunavu/), [Wikipedia](https://en.wikipedia.org/wiki/Transport_in_Novi_Sad)).
+
+{{< photo key="petrovaradin-exit-submarine" >}}
 
 Ohne Brücke verlor der Tunnel seinen Zweck. Er diente als Militärlager und zur Pilzzucht; heute steht er leer, und der städtische Plan für Petrovaradin sieht vor, darin einen Ausstellungsraum zur Geschichte der Festung einzurichten ([021.rs](https://www.021.rs/novi-sad/vesti/304744/plan-za-petrovaradin-obnova-tunela-ispod-tvrdjave-lift-novi-most-i-jos-mnogo-toga)).
 
