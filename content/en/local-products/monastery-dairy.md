@@ -14,7 +14,7 @@ gallery: [cheese-cut, cheese-slice]
 status: unconfirmed
 ---
 
-Rakovac Monastery is a convent, but its farm, with the cows, the milk and the cheese, is run by **monks**. They make two kinds of cheese and sell fresh milk.
+Rakovac is a men's monastery, and its **monks** also keep the farm, with the cows, the milk and the cheese. They make two kinds of cheese and sell fresh milk.
 
 - **Hard cheese** (*manastirski sir*): a matured cheese with small holes. It takes a long time to mature and there is a queue of orders, so expect to wait **3 weeks to 1½ months**.
 - **Young cheese**: white and lightly salted, like a fresh rennet cheese. New batches come a couple of times a week, so it is quick to get.

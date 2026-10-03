@@ -37,6 +37,6 @@ Tokom Drugog svetskog rata, pre više od 80 godina, na Fruškoj gori su se vodil
 
 ## Rakovac danas
 
-Posle rata ljudi su sagradili novo selo niže u dolini, **Novi Rakovac**. Monahinje su obnovile manastir. Danas ovde živi oko 2.000 ljudi.
+Posle rata ljudi su sagradili novo selo niže u dolini, **Novi Rakovac**. Monahinje su obnovile manastir, a danas u njemu žive monasi. Danas ovde živi oko 2.000 ljudi.
 
 {{< todo >}}Ilustracije: naručiti jednostavne crteže (Raka i jelen, rimsko podno grejanje, monah prepisivač) ili zamoliti lokalnu školu da ih nacrta.{{< /todo >}}

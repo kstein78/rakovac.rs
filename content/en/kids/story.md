@@ -37,6 +37,6 @@ During the Second World War, more than 80 years ago, there was fighting on Fruš
 
 ## Rakovac today
 
-After the war people built a new village further down the valley, **Novi Rakovac**. The nuns rebuilt the monastery. Today about 2,000 people live here.
+After the war people built a new village further down the valley, **Novi Rakovac**. Nuns rebuilt the monastery, and today monks live there. Today about 2,000 people live here.
 
 {{< todo >}}Illustrations: commission simple drawings (Raka and the deer, the Roman floor heating, the monk scribe) or ask the local school to draw them.{{< /todo >}}

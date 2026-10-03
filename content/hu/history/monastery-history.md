@@ -29,6 +29,6 @@ Az első világháborúban a kolostort kifosztották. A második világháborúb
 
 ## Újjászületés
 
-A templomot az 1990-es években nagyrészt újjáépítették, a lakóépületeken pedig 2003-ban kezdődtek meg a munkálatok adományok segítségével. A kolostort 1990-ben kiemelkedő jelentőségű kulturális műemlékké nyilvánították. 1990 és 2020 között Gavrila Bedov igumenia vezette.
+A templomot az 1990-es években nagyrészt újjáépítették, a lakóépületeken pedig 2003-ban kezdődtek meg a munkálatok adományok segítségével. A kolostort 1990-ben kiemelkedő jelentőségű kulturális műemlékké nyilvánították. 1990 és 2020 között Gavrila Bedov igumenia vezette. Ma férfikolostor, apátja Evgenije (Pilipović) hieromonachus ([radiossr.net, 2023](https://radiossr.net/?p=78532)).
 
 [A kolostor meglátogatása ma →]({{< relref "monastery" >}})

@@ -57,7 +57,7 @@ Business contact data (addresses, phones, coordinates) come from Google Maps lis
 | Claim | Level | Source |
 |---|---|---|
 | Legend 1498, Raka Milošević, written 1704; first records 1545–46; frescoes 16th c.; tower 1735; iconostasis Vasa Ostojić 1763; refectory Amvrosije Janković 1768; konak 1771; protected 1990 | B | en.wikipedia "Rakovac Monastery" |
-| Sisterhood (hegumeness) | B | discoversrem.com 2021; sr.wiki (Gavrila Bedov 1990–2020) |
+| Today a men's monastery; abbot (iguman) Hieromonk Evgenije (Pilipović). Convent 1990–2020 under Hegumeness Gavrila (Bedov) | B | reader report 2026-10-03 via Kosta; radiossr.net 14–15 Nov 2023 ("јеромонах Евгеније, игуман древне раковачке светиње"); sr.wikipedia (article on the monastery and on Iguman Evgenije (Pilipović)); older pages (eparhijasremska.rs 2023, discoversrem) still say sisterhood — outdated |
 | Phone 021/6275-022 | B | discoversrem.com 2021 (old) |
 | Open 7:00–19:30; Odigitrija returned 2007; St Petka relic particles in St Basil chapel | B | novisad.travel 2024 |
 | Liturgy 8:00 | B | 021.rs Jan 2026 |
@@ -67,7 +67,7 @@ Business contact data (addresses, phones, coordinates) come from Google Maps lis
 | WWII: printing press found, church & tower mined 1943; WWI looting | B | sr.wikipedia "Manastir Rakovac" |
 | Vićentije Jovanović bones in chapel wall 1893 | B | sr.wikipedia |
 | Silvestar travelogue; Silvester Popović choir stalls 1749 now Banoštor | B | sr.wikipedia; sremskamitrovica.rs |
-| Monastery farm (cows, milk, cheese) run by monks, though the monastery is a convent; hard matured cheese (wait 3 weeks–1.5 months, queue) and young white lightly salted rennet-type cheese (batches a couple of times a week); raw whole milk | C | Kosta, 2026-09-30 (customer) |
+| Monastery farm (cows, milk, cheese) run by monks, the monastery is a men's monastery; hard matured cheese (wait 3 weeks–1.5 months, queue) and young white lightly salted rennet-type cheese (batches a couple of times a week); raw whole milk | C | Kosta, 2026-09-30 (customer) |
 | Orders: Otac Emilijan +381 65 956 9959 (cheese, milk; Viber), Viber group "Манастирски сир"; milk also Otac Sava +381 65 276 7965 (Viber); call daytime only (services morning and evening) | C | Kosta, 2026-09-30 |
 | Cheese sold in a small grey one-storey pavilion right of the monastery (facing it from the car park), playground behind, bus stop to Novi Sad next to it; milk there or at the farm gate (chain-link gate past the monastery wall on the road up the left side; cowshed dark brown) | C | Kosta, 2026-09-30 |
 | "Služba" (2024) shot at Rakovac Monastery, Šepetkovski, Trivalić | B | telegraf.rs 24 Apr 2024 |

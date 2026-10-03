@@ -14,7 +14,7 @@ gallery: [cheese-cut, cheese-slice]
 status: unconfirmed
 ---
 
-A rakovaci kolostor női kolostor, de a gazdaságot – a teheneket, a tejet és a sajtot – **szerzetesek** viszik. Kétféle sajtot készítenek, és friss tejet árulnak.
+Rakovac férfikolostor, és a gazdaságot – a teheneket, a tejet és a sajtot – maguk a **szerzetesek** viszik. Kétféle sajtot készítenek, és friss tejet árulnak.
 
 - **Kemény sajt** (*manastirski sir*): apró lyukacsos, érlelt sajt. Sokáig érik, és sorban kell rá várni, ezért számítson **3 héttől másfél hónapig** tartó várakozásra.
 - **Fiatal sajt**: fehér, enyhén sózott, a friss oltós sajthoz hasonló. Hetente néhányszor készül új adag, így gyorsan hozzá lehet jutni.

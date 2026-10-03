@@ -14,7 +14,7 @@ gallery: [cheese-cut, cheese-slice]
 status: unconfirmed
 ---
 
-Das Kloster Rakovac ist ein Frauenkloster, doch den Hof mit den Kühen, der Milch und dem Käse führen **Mönche**. Sie machen zwei Käsesorten und verkaufen frische Milch.
+Rakovac ist ein Männerkloster, und den Hof mit den Kühen, der Milch und dem Käse führen die **Mönche** selbst. Sie machen zwei Käsesorten und verkaufen frische Milch.
 
 - **Hartkäse** (*manastirski sir*): ein gereifter Käse mit kleinen Löchern. Er reift lange und es gibt eine Warteliste, rechnen Sie also mit **3 Wochen bis anderthalb Monaten**.
 - **Junger Käse**: weiß und mild gesalzen, ähnlich einem frischen Labkäse. Neue Chargen gibt es ein paarmal pro Woche, er ist also schnell zu bekommen.

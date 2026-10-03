@@ -29,6 +29,6 @@ U Prvom svetskom ratu manastir je opljačkan. U Drugom, pošto je u njemu otkriv
 
 ## Obnova
 
-Crkva je većim delom obnovljena tokom devedesetih, a 2003. je, zahvaljujući donacijama, počela obnova konaka. Manastir je 1990. proglašen spomenikom kulture od izuzetnog značaja. Od 1990. do 2020. njime je upravljala igumanija Gavrila Bedov.
+Crkva je većim delom obnovljena tokom devedesetih, a 2003. je, zahvaljujući donacijama, počela obnova konaka. Manastir je 1990. proglašen spomenikom kulture od izuzetnog značaja. Od 1990. do 2020. njime je upravljala igumanija Gavrila Bedov. Danas je to muški manastir, a iguman je jeromonah Evgenije (Pilipović) ([radiossr.net, 2023](https://radiossr.net/?p=78532)).
 
 [Poseta manastiru danas →]({{< relref "monastery" >}})

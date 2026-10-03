@@ -14,7 +14,7 @@ gallery: [cheese-cut, cheese-slice]
 status: unconfirmed
 ---
 
-Manastir Rakovac je ženski manastir, ali imanjem, kravama, mlekom i sirom bave se **monasi**. Prave dve vrste sira i prodaju sveže mleko.
+Rakovac je muški manastir, a imanjem, kravama, mlekom i sirom bave se sami **monasi**. Prave dve vrste sira i prodaju sveže mleko.
 
 - **Tvrdi sir** (*manastirski sir*): zreli sir sa sitnim rupicama. Dugo zri i na njega se čeka u redu, pa računajte na **3 nedelje do mesec i po dana**.
 - **Mladi sir**: beo i blago slan, nalik svežem siru sa sirištem. Nove ture su par puta nedeljno, pa se brzo dobija.

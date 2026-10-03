@@ -3,7 +3,7 @@ title: "Rakovac Monastery"
 linkTitle: "The Monastery"
 weight: 20
 kicker: "Manastir Rakovac · Stari Rakovac"
-lead: "A living Orthodox monastery at the foot of the forest, first recorded in 1545–46 and home today to a community of nuns. Its baroque bell tower is the landmark of Stari Rakovac."
+lead: "A living Orthodox monastery at the foot of the forest, first recorded in 1545–46 and home today to a community of monks. Its baroque bell tower is the landmark of Stari Rakovac."
 tile: "Visiting, the monastery's cheese and milk, and a film location"
 photo: monastery-fence-summer
 gallery: [monastery-church-above, monastery-church-hillside, monastery-gate, monastery-entrance, monastery-summer, monastery-mist, monastery-road-winter, monastery-valley-winter, monastery-roofs-winter, monastery-lavender, monastery-belltower, monastery-iconostasis]
@@ -20,7 +20,7 @@ videos:
   - { id: "", title: "Film sets at the monastery: what was shot here" }
 ---
 
-Rakovac Monastery belongs to the Eparchy of Srem of the Serbian Orthodox Church. Its church is dedicated to the holy healers **Cosmas and Damian**. It is one of the sixteen historic monasteries of Fruška Gora and has been protected since 1990 as a **Monument of Culture of Exceptional Importance**. The monastery is home to a women's monastic community, a sisterhood led by a hegumeness.
+Rakovac Monastery belongs to the Eparchy of Srem of the Serbian Orthodox Church. Its church is dedicated to the holy healers **Cosmas and Damian**. It is one of the sixteen historic monasteries of Fruška Gora and has been protected since 1990 as a **Monument of Culture of Exceptional Importance**. Today it is a men's monastery: its abbot is Hieromonk Evgenije (Pilipović) ([radiossr.net, 2023](https://radiossr.net/?p=78532), [Wikipedia](https://sr.wikipedia.org/wiki/%D0%9C%D0%B0%D0%BD%D0%B0%D1%81%D1%82%D0%B8%D1%80_%D0%A0%D0%B0%D0%BA%D0%BE%D0%B2%D0%B0%D1%86)). From 1990 to 2020 it was a convent, led by Hegumeness Gavrila (Bedov).
 
 The long story of the monastery, from the founding legend of Raka and the deer to the destruction of 1943 and the rebuilding after 1990, is told on the [history page]({{< relref "history/monastery-history" >}}).
 
@@ -28,10 +28,10 @@ The long story of the monastery, from the founding legend of Raka and the deer t
 
 - **Opening hours:** the grounds are open to visitors from 7:00 to 19:30 (Novi Sad Tourist Organisation).
 - **Services:** the Sunday Divine Liturgy starts at 8:00.
-- **Dress and behaviour:** this is a working monastery, not a museum. Modest dress is expected, with shoulders and knees covered. Many Orthodox monasteries also ask women to wear a skirt and a headscarf in church. Keep phones silent, and ask before photographing the nuns or the church interior.
+- **Dress and behaviour:** this is a working monastery, not a museum. Modest dress is expected, with shoulders and knees covered. Many Orthodox monasteries also ask women to wear a skirt and a headscarf in church. Keep phones silent, and ask before photographing the monks or the church interior.
 - **Getting there:** by car along Manastirska street from Novi Rakovac, or by GSP Novi Sad bus: line 77 and the line 78 runs marked SR (through Stari Rakovac) stop at the monastery. See the [timetable]({{< relref "useful" >}}#bus).
 
-{{< todo >}}Ask the sisterhood: current opening hours, liturgy times, whether photography is allowed inside, and whether they agree to be featured on this site.{{< /todo >}}
+{{< todo >}}Ask the brotherhood: current opening hours, liturgy times, whether photography is allowed inside, and whether they agree to be featured on this site.{{< /todo >}}
 
 ## What to look for
 
@@ -53,7 +53,7 @@ On the evening of **6 January**, Badnji dan, the eve of Orthodox Christmas, the 
 
 ## Cheese and milk from the monastery farm
 
-The monastery is a convent, but its farm is run by monks: they make a matured hard cheese and a young white cheese and sell fresh milk. Cheese has to be ordered ahead by phone or Viber, and the hard cheese can take weeks. Phones, waiting times and where to collect: [Cheese and milk from Rakovac Monastery]({{< relref "local-products/monastery-dairy" >}}). Buying here is a simple way to support the monastery.
+The monks also keep the monastery's farm: they make a matured hard cheese and a young white cheese and sell fresh milk. Cheese has to be ordered ahead by phone or Viber, and the hard cheese can take weeks. Phones, waiting times and where to collect: [Cheese and milk from Rakovac Monastery]({{< relref "local-products/monastery-dairy" >}}). Buying here is a simple way to support the monastery.
 
 ## A film location
 

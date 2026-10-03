@@ -3,7 +3,7 @@ title: Manastir Rakovac
 linkTitle: Manastir
 weight: 20
 kicker: Stari Rakovac
-lead: Živ pravoslavni manastir u podnožju šume, prvi put pomenut 1545–1546. godine, danas dom ženskog monaškog sestrinstva. Njegov barokni zvonik je znamenje Starog Rakovca.
+lead: Živ pravoslavni manastir u podnožju šume, prvi put pomenut 1545–1546. godine, danas dom muškog monaškog bratstva. Njegov barokni zvonik je znamenje Starog Rakovca.
 tile: "Posete, manastirski sir i mleko, filmska lokacija"
 photo: monastery-fence-summer
 gallery: [monastery-church-above, monastery-church-hillside, monastery-gate, monastery-entrance, monastery-summer, monastery-mist, monastery-road-winter, monastery-valley-winter, monastery-roofs-winter, monastery-lavender, monastery-belltower, monastery-iconostasis]
@@ -24,7 +24,7 @@ videos:
   title: 'Filmovi kod manastira: šta je ovde snimano'
 ---
 
-Manastir Rakovac pripada Eparhiji sremskoj Srpske pravoslavne crkve. Njegova crkva posvećena je svetim vračima **Kozmi i Damjanu**. Jedan je od šesnaest istorijskih fruškogorskih manastira i od 1990. godine zaštićen je kao **spomenik kulture od izuzetnog značaja**. U manastiru živi žensko monaško sestrinstvo na čelu sa igumanijom.
+Manastir Rakovac pripada Eparhiji sremskoj Srpske pravoslavne crkve. Njegova crkva posvećena je svetim vračima **Kozmi i Damjanu**. Jedan je od šesnaest istorijskih fruškogorskih manastira i od 1990. godine zaštićen je kao **spomenik kulture od izuzetnog značaja**. Danas je to muški manastir: njegov iguman je jeromonah Evgenije (Pilipović) ([radiossr.net, 2023](https://radiossr.net/?p=78532), [Wikipedia](https://sr.wikipedia.org/wiki/%D0%9C%D0%B0%D0%BD%D0%B0%D1%81%D1%82%D0%B8%D1%80_%D0%A0%D0%B0%D0%BA%D0%BE%D0%B2%D0%B0%D1%86)). Od 1990. do 2020. bio je ženski, a upravljala je igumanija Gavrila (Bedov).
 
 Duga istorija manastira, od legende o Raki i jelenu do razaranja 1943. i obnove posle 1990, ispričana je na [stranici o istoriji]({{< relref "history/monastery-history" >}}).
 
@@ -32,10 +32,10 @@ Duga istorija manastira, od legende o Raki i jelenu do razaranja 1943. i obnove 
 
 - **Radno vreme:** manastirska porta otvorena je za posetioce od 7:00 do 19:30 (prema Turističkoj organizaciji Novog Sada).
 - **Bogosluženja:** nedeljna Sveta liturgija počinje u 8:00.
-- **Odeća i ponašanje:** ovo je živi manastir, a ne muzej. Očekuje se pristojna odeća, pokrivenih ramena i kolena. Mnogi pravoslavni manastiri mole žene da u crkvi nose suknju i maramu. Utišajte telefone i pitajte pre nego što fotografišete monahinje ili unutrašnjost crkve.
+- **Odeća i ponašanje:** ovo je živi manastir, a ne muzej. Očekuje se pristojna odeća, pokrivenih ramena i kolena. Mnogi pravoslavni manastiri mole žene da u crkvi nose suknju i maramu. Utišajte telefone i pitajte pre nego što fotografišete monahe ili unutrašnjost crkve.
 - **Kako stići:** automobilom Manastirskom ulicom iz Novog Rakovca ili autobusom GSP Novi Sad: kod manastira staju linija 77 i polasci linije 78 označeni sa SR (kroz Stari Rakovac). Pogledajte [red vožnje]({{< relref "useful" >}}#bus).
 
-{{< todo >}}Pitati sestrinstvo: aktuelno radno vreme, raspored bogosluženja, da li je dozvoljeno fotografisanje unutra i da li se slažu da manastir bude na ovom sajtu.{{< /todo >}}
+{{< todo >}}Pitati bratstvo: aktuelno radno vreme, raspored bogosluženja, da li je dozvoljeno fotografisanje unutra i da li se slažu da manastir bude na ovom sajtu.{{< /todo >}}
 
 ## Šta pogledati
 
@@ -57,7 +57,7 @@ Uveče **6. januara**, na Badnji dan, uoči pravoslavnog Božića, ispred manast
 
 ## Sir i mleko sa manastirskog imanja
 
-Manastir je ženski, ali imanjem se bave monasi: prave zreli tvrdi sir i mladi beli sir i prodaju sveže mleko. Sir se poručuje unapred telefonom ili preko Vibera, a na tvrdi se čeka i po nekoliko nedelja. Telefoni, rokovi i mesto preuzimanja: [Sir i mleko iz manastira Rakovac]({{< relref "local-products/monastery-dairy" >}}). Kupovina ovde je jednostavan način da se podrži manastir.
+Monasi se bave i manastirskim imanjem: prave zreli tvrdi sir i mladi beli sir i prodaju sveže mleko. Sir se poručuje unapred telefonom ili preko Vibera, a na tvrdi se čeka i po nekoliko nedelja. Telefoni, rokovi i mesto preuzimanja: [Sir i mleko iz manastira Rakovac]({{< relref "local-products/monastery-dairy" >}}). Kupovina ovde je jednostavan način da se podrži manastir.
 
 ## Filmska lokacija
 

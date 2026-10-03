@@ -37,6 +37,6 @@ Im Zweiten Weltkrieg, vor mehr als 80 Jahren, wurde auf der Fruška Gora gekämp
 
 ## Rakovac heute
 
-Nach dem Krieg bauten die Menschen weiter unten im Tal ein neues Dorf, **Novi Rakovac**. Die Nonnen bauten das Kloster wieder auf. Heute leben hier etwa 2.000 Menschen.
+Nach dem Krieg bauten die Menschen weiter unten im Tal ein neues Dorf, **Novi Rakovac**. Nonnen bauten das Kloster wieder auf, und heute leben dort Mönche. Heute leben hier etwa 2.000 Menschen.
 
 {{< todo >}}Illustrationen: einfache Zeichnungen in Auftrag geben (Raka und der Hirsch, die römische Fußbodenheizung, der schreibende Mönch) oder die örtliche Schule bitten, sie zu zeichnen.{{< /todo >}}

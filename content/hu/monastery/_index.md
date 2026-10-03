@@ -3,7 +3,7 @@ title: Rakovaci kolostor
 linkTitle: A kolostor
 weight: 20
 kicker: Manastir Rakovac · Stari Rakovac
-lead: Működő ortodox kolostor az erdő lábánál, amelyet először 1545–46-ban említenek, ma pedig apácaközösség otthona. Barokk harangtornya Stari Rakovac jellegzetes tájékozódási pontja.
+lead: Működő ortodox kolostor az erdő lábánál, amelyet először 1545–46-ban említenek, ma pedig szerzetesközösség otthona. Barokk harangtornya Stari Rakovac jellegzetes tájékozódási pontja.
 tile: "Látogatás, a kolostor sajtja és teje, forgatási helyszín"
 photo: monastery-fence-summer
 gallery: [monastery-church-above, monastery-church-hillside, monastery-gate, monastery-entrance, monastery-summer, monastery-mist, monastery-road-winter, monastery-valley-winter, monastery-roofs-winter, monastery-lavender, monastery-belltower, monastery-iconostasis]
@@ -24,7 +24,7 @@ videos:
   title: 'Forgatások a kolostornál: mit vettek fel itt'
 ---
 
-A Rakovaci kolostor a Szerb Ortodox Egyház Szerémi Egyházmegyéjéhez tartozik. Temploma **Kozma és Damján** szent orvosoknak van szentelve. A Tarcal-hegység (Fruška gora) tizenhat történelmi kolostorának egyike, és 1990 óta **kiemelkedő jelentőségű kulturális műemlékként** védett. A kolostorban női szerzetesközösség él: egy igumenia által vezetett nővérközösség.
+A Rakovaci kolostor a Szerb Ortodox Egyház Szerémi Egyházmegyéjéhez tartozik. Temploma **Kozma és Damján** szent orvosoknak van szentelve. A Tarcal-hegység (Fruška gora) tizenhat történelmi kolostorának egyike, és 1990 óta **kiemelkedő jelentőségű kulturális műemlékként** védett. Ma férfikolostor: apátja Evgenije (Pilipović) hieromonachus ([radiossr.net, 2023](https://radiossr.net/?p=78532), [Wikipedia](https://sr.wikipedia.org/wiki/%D0%9C%D0%B0%D0%BD%D0%B0%D1%81%D1%82%D0%B8%D1%80_%D0%A0%D0%B0%D0%BA%D0%BE%D0%B2%D0%B0%D1%86)). 1990 és 2020 között női kolostor volt, Gavrila (Bedov) igumenia vezetésével.
 
 A kolostor hosszú történetét, Raka és a szarvas alapítási legendájától az 1943-as pusztuláson át az 1990 utáni újjáépítésig, a [történeti oldal]({{< relref "history/monastery-history" >}}) mutatja be.
 
@@ -32,10 +32,10 @@ A kolostor hosszú történetét, Raka és a szarvas alapítási legendájától
 
 - **Nyitvatartás:** a kolostor területe 7:00 és 19:30 között látogatható (Újvidéki Turisztikai Szervezet).
 - **Istentiszteletek:** a vasárnapi Szent Liturgia 8:00-kor kezdődik.
-- **Öltözet és viselkedés:** ez működő kolostor, nem múzeum. Szerény öltözet elvárt, a vállat és a térdet takarni kell. Sok ortodox kolostor arra is kéri a nőket, hogy a templomban szoknyát és fejkendőt viseljenek. A telefont le kell némítani, az apácák vagy a templombelső fényképezése előtt pedig engedélyt kell kérni.
+- **Öltözet és viselkedés:** ez működő kolostor, nem múzeum. Szerény öltözet elvárt, a vállat és a térdet takarni kell. Sok ortodox kolostor arra is kéri a nőket, hogy a templomban szoknyát és fejkendőt viseljenek. A telefont le kell némítani, a szerzetesek vagy a templombelső fényképezése előtt pedig engedélyt kell kérni.
 - **Megközelítés:** autóval Novi Rakovacból a Manastirska utcán, vagy a GSP Novi Sad buszával: a kolostornál a 77-es járat és a 78-as járat SR jelzésű (Stari Rakovacon át közlekedő) járatai állnak meg. Lásd a [menetrendet]({{< relref "useful" >}}#bus).
 
-{{< todo >}}Megkérdezni a nővéreket: aktuális nyitvatartás, liturgiai időpontok, szabad-e odabent fényképezni, és hozzájárulnak-e, hogy szerepeljenek ezen az oldalon.{{< /todo >}}
+{{< todo >}}Megkérdezni a szerzeteseket: aktuális nyitvatartás, liturgiai időpontok, szabad-e odabent fényképezni, és hozzájárulnak-e, hogy szerepeljenek ezen az oldalon.{{< /todo >}}
 
 ## Mire érdemes figyelni
 
@@ -57,7 +57,7 @@ A kolostor hosszú történetét, Raka és a szarvas alapítási legendájától
 
 ## Sajt és tej a kolostor gazdaságából
 
-A kolostor női kolostor, de a gazdaságot szerzetesek viszik: érlelt kemény sajtot és fiatal fehér sajtot készítenek, és friss tejet árulnak. A sajtot előre kell megrendelni telefonon vagy Viberen, a kemény sajtra hetekig is várni kell. Telefonszámok, várakozási idő és átvétel: [Sajt és tej a rakovaci kolostorból]({{< relref "local-products/monastery-dairy" >}}). Itt vásárolni egyszerű módja a kolostor támogatásának.
+A szerzetesek a kolostor gazdaságát is viszik: érlelt kemény sajtot és fiatal fehér sajtot készítenek, és friss tejet árulnak. A sajtot előre kell megrendelni telefonon vagy Viberen, a kemény sajtra hetekig is várni kell. Telefonszámok, várakozási idő és átvétel: [Sajt és tej a rakovaci kolostorból]({{< relref "local-products/monastery-dairy" >}}). Itt vásárolni egyszerű módja a kolostor támogatásának.
 
 ## Forgatási helyszín
 

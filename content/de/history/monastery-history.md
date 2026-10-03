@@ -29,6 +29,6 @@ Im Ersten Weltkrieg wurde das Kloster geplündert. Im Zweiten Weltkrieg wurden K
 
 ## Wiedergeburt
 
-Die Kirche wurde in den 1990er-Jahren weitgehend wieder aufgebaut, und 2003 begannen mit Hilfe von Spenden die Arbeiten an den Wohngebäuden. 1990 wurde das Kloster zum Kulturdenkmal von außerordentlicher Bedeutung erklärt. Von 1990 bis 2020 wurde es von Äbtissin Gavrila Bedov geleitet.
+Die Kirche wurde in den 1990er-Jahren weitgehend wieder aufgebaut, und 2003 begannen mit Hilfe von Spenden die Arbeiten an den Wohngebäuden. 1990 wurde das Kloster zum Kulturdenkmal von außerordentlicher Bedeutung erklärt. Von 1990 bis 2020 wurde es von Äbtissin Gavrila Bedov geleitet. Heute ist es ein Männerkloster, Abt ist Hieromonach Evgenije (Pilipović) ([radiossr.net, 2023](https://radiossr.net/?p=78532)).
 
 [Das Kloster heute besuchen →]({{< relref "monastery" >}})

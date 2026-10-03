@@ -37,6 +37,6 @@ A második világháborúban, több mint 80 évvel ezelőtt, harcok folytak a Ta
 
 ## Rakovac ma
 
-A háború után az emberek új falut építettek lejjebb a völgyben: **Novi Rakovacot**. Az apácák újjáépítették a kolostort. Ma körülbelül 2000 ember él itt.
+A háború után az emberek új falut építettek lejjebb a völgyben: **Novi Rakovacot**. Apácák építették újjá a kolostort, ma pedig szerzetesek élnek benne. Ma körülbelül 2000 ember él itt.
 
 {{< todo >}}Illusztrációk: egyszerű rajzokat rendelni (Raka és a szarvas, a római padlófűtés, a másoló szerzetes), vagy megkérni a helyi iskolát, hogy rajzolják meg őket.{{< /todo >}}

@@ -29,6 +29,6 @@ The monastery was looted in the First World War. In the Second World War, after 
 
 ## Rebirth
 
-The church was largely rebuilt in the 1990s, and work on the residential buildings began in 2003 with the help of donations. The monastery was declared a Monument of Culture of Exceptional Importance in 1990. From 1990 to 2020 it was led by Hegumeness Gavrila Bedov.
+The church was largely rebuilt in the 1990s, and work on the residential buildings began in 2003 with the help of donations. The monastery was declared a Monument of Culture of Exceptional Importance in 1990. From 1990 to 2020 it was led by Hegumeness Gavrila Bedov. Today it is a men's monastery, with Hieromonk Evgenije (Pilipović) as its abbot ([radiossr.net, 2023](https://radiossr.net/?p=78532)).
 
 [Visiting the monastery today →]({{< relref "monastery" >}})

@@ -3,7 +3,7 @@ title: Kloster Rakovac
 linkTitle: Das Kloster
 weight: 20
 kicker: Manastir Rakovac · Stari Rakovac
-lead: Ein lebendiges orthodoxes Kloster am Waldrand, erstmals 1545–46 erwähnt und heute Heimat einer Gemeinschaft von Nonnen. Sein barocker Glockenturm ist das Wahrzeichen von Stari Rakovac.
+lead: Ein lebendiges orthodoxes Kloster am Waldrand, erstmals 1545–46 erwähnt und heute Heimat einer Gemeinschaft von Mönchen. Sein barocker Glockenturm ist das Wahrzeichen von Stari Rakovac.
 tile: "Besuch, Käse und Milch vom Klosterhof und ein Drehort"
 photo: monastery-fence-summer
 gallery: [monastery-church-above, monastery-church-hillside, monastery-gate, monastery-entrance, monastery-summer, monastery-mist, monastery-road-winter, monastery-valley-winter, monastery-roofs-winter, monastery-lavender, monastery-belltower, monastery-iconostasis]
@@ -24,7 +24,7 @@ videos:
   title: 'Dreharbeiten am Kloster: was hier gefilmt wurde'
 ---
 
-Das Kloster Rakovac gehört zur Eparchie Srem der Serbisch-Orthodoxen Kirche. Seine Kirche ist den heiligen Ärzten **Kosmas und Damian** geweiht. Es ist eines der sechzehn historischen Klöster der Fruška Gora und steht seit 1990 als **Kulturdenkmal von außerordentlicher Bedeutung** unter Schutz. Im Kloster lebt eine weibliche Ordensgemeinschaft, eine Schwesternschaft unter der Leitung einer Äbtissin.
+Das Kloster Rakovac gehört zur Eparchie Srem der Serbisch-Orthodoxen Kirche. Seine Kirche ist den heiligen Ärzten **Kosmas und Damian** geweiht. Es ist eines der sechzehn historischen Klöster der Fruška Gora und steht seit 1990 als **Kulturdenkmal von außerordentlicher Bedeutung** unter Schutz. Heute ist es ein Männerkloster: Abt ist Hieromonach Evgenije (Pilipović) ([radiossr.net, 2023](https://radiossr.net/?p=78532), [Wikipedia](https://sr.wikipedia.org/wiki/%D0%9C%D0%B0%D0%BD%D0%B0%D1%81%D1%82%D0%B8%D1%80_%D0%A0%D0%B0%D0%BA%D0%BE%D0%B2%D0%B0%D1%86)). Von 1990 bis 2020 war es ein Frauenkloster unter Äbtissin Gavrila (Bedov).
 
 Die lange Geschichte des Klosters, von der Gründungslegende um Raka und den Hirsch bis zur Zerstörung 1943 und zum Wiederaufbau nach 1990, erzählt die [Geschichtsseite]({{< relref "history/monastery-history" >}}).
 
@@ -32,10 +32,10 @@ Die lange Geschichte des Klosters, von der Gründungslegende um Raka und den Hir
 
 - **Öffnungszeiten:** Das Gelände ist für Besucher von 7:00 bis 19:30 Uhr geöffnet (Tourismusorganisation Novi Sad).
 - **Gottesdienste:** Die sonntägliche Göttliche Liturgie beginnt um 8:00 Uhr.
-- **Kleidung und Verhalten:** Dies ist ein bewohntes Kloster, kein Museum. Erwartet wird zurückhaltende Kleidung, die Schultern und Knie bedeckt. Viele orthodoxe Klöster bitten Frauen außerdem, in der Kirche einen Rock und ein Kopftuch zu tragen. Schalten Sie Ihr Telefon stumm und fragen Sie, bevor Sie die Nonnen oder das Kircheninnere fotografieren.
+- **Kleidung und Verhalten:** Dies ist ein bewohntes Kloster, kein Museum. Erwartet wird zurückhaltende Kleidung, die Schultern und Knie bedeckt. Viele orthodoxe Klöster bitten Frauen außerdem, in der Kirche einen Rock und ein Kopftuch zu tragen. Schalten Sie Ihr Telefon stumm und fragen Sie, bevor Sie die Mönche oder das Kircheninnere fotografieren.
 - **Anreise:** mit dem Auto über die Manastirska-Straße von Novi Rakovac aus oder mit dem Bus von GSP Novi Sad: Am Kloster halten die Linie 77 und die mit SR markierten Fahrten der Linie 78 (durch Stari Rakovac). Siehe [Fahrplan]({{< relref "useful" >}}#bus).
 
-{{< todo >}}Bei der Schwesternschaft nachfragen: aktuelle Öffnungszeiten, Gottesdienstzeiten, ob im Inneren fotografiert werden darf und ob sie damit einverstanden sind, auf dieser Website vorgestellt zu werden.{{< /todo >}}
+{{< todo >}}Bei der Bruderschaft nachfragen: aktuelle Öffnungszeiten, Gottesdienstzeiten, ob im Inneren fotografiert werden darf und ob sie damit einverstanden sind, auf dieser Website vorgestellt zu werden.{{< /todo >}}
 
 ## Sehenswert
 
@@ -57,7 +57,7 @@ Am Abend des **6. Januar**, am Badnji dan, dem orthodoxen Heiligabend, brennt vo
 
 ## Käse und Milch vom Klosterhof
 
-Das Kloster ist ein Frauenkloster, den Hof führen aber Mönche: Sie machen einen gereiften Hartkäse und einen jungen weißen Käse und verkaufen frische Milch. Käse wird telefonisch oder über Viber vorbestellt, auf den Hartkäse wartet man oft wochenlang. Telefonnummern, Wartezeiten und Abholung: [Käse und Milch aus dem Kloster Rakovac]({{< relref "local-products/monastery-dairy" >}}). Hier einzukaufen ist eine einfache Art, das Kloster zu unterstützen.
+Die Mönche führen auch den Klosterhof: Sie machen einen gereiften Hartkäse und einen jungen weißen Käse und verkaufen frische Milch. Käse wird telefonisch oder über Viber vorbestellt, auf den Hartkäse wartet man oft wochenlang. Telefonnummern, Wartezeiten und Abholung: [Käse und Milch aus dem Kloster Rakovac]({{< relref "local-products/monastery-dairy" >}}). Hier einzukaufen ist eine einfache Art, das Kloster zu unterstützen.
 
 ## Ein Drehort
 
