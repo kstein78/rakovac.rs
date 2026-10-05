@@ -1,0 +1,397 @@
+{
+ "source": "http://www.gspns.co.rs/red-voznje/prigradski",
+ "fetched": "2026-10-05T10:30Z",
+ "periods": [
+  {
+   "valid_from": "2026-10-01",
+   "days": {
+    "workday": [
+     {
+      "value": "77",
+      "label": "77 STARI RAKOVAC",
+      "title": "Линија : 77 STARI RAKOVAC",
+      "url": "http://www.gspns.co.rs/red-voznje/ispis-polazaka?rv=rvp&vaziod=2026-10-01&dan=R&linija%5B%5D=77",
+      "directions": [
+       {
+        "dir": "A",
+        "name": "Смер A: Polasci za STARI RAKOVAC",
+        "departures": [
+         {
+          "t": "11:45",
+          "mark": "",
+          "low_floor": false
+         },
+         {
+          "t": "14:45",
+          "mark": "",
+          "low_floor": false
+         }
+        ]
+       },
+       {
+        "dir": "B",
+        "name": "Смер B: Polasci iz STARI RAKOVAC",
+        "departures": [
+         {
+          "t": "05:20",
+          "mark": "",
+          "low_floor": false
+         },
+         {
+          "t": "06:25",
+          "mark": "",
+          "low_floor": false
+         },
+         {
+          "t": "12:30",
+          "mark": "",
+          "low_floor": false
+         },
+         {
+          "t": "15:25",
+          "mark": "",
+          "low_floor": false
+         },
+         {
+          "t": "17:05",
+          "mark": "",
+          "low_floor": false
+         }
+        ]
+       }
+      ],
+      "comment": ""
+     },
+     {
+      "value": "78.",
+      "label": "78 BEOČIN SELO",
+      "title": "Линија : 78 BEOČIN SELO",
+      "url": "http://www.gspns.co.rs/red-voznje/ispis-polazaka?rv=rvp&vaziod=2026-10-01&dan=R&linija%5B%5D=78.",
+      "directions": [
+       {
+        "dir": "A",
+        "name": "Смер A: Polasci za BEOČIN SELO",
+        "departures": [
+         {
+          "t": "10:35",
+          "mark": "SR",
+          "low_floor": false
+         },
+         {
+          "t": "12:10",
+          "mark": "SR",
+          "low_floor": false
+         },
+         {
+          "t": "14:20",
+          "mark": "",
+          "low_floor": false
+         },
+         {
+          "t": "15:10",
+          "mark": "",
+          "low_floor": false
+         },
+         {
+          "t": "16:00",
+          "mark": "SR",
+          "low_floor": false
+         },
+         {
+          "t": "17:00",
+          "mark": "SR",
+          "low_floor": false
+         },
+         {
+          "t": "18:30",
+          "mark": "SR",
+          "low_floor": false
+         },
+         {
+          "t": "19:40",
+          "mark": "SR",
+          "low_floor": false
+         }
+        ]
+       },
+       {
+        "dir": "B",
+        "name": "Смер B: Polasci iz BEOČIN SELO",
+        "departures": [
+         {
+          "t": "04:35",
+          "mark": "SR",
+          "low_floor": false
+         },
+         {
+          "t": "06:10",
+          "mark": "SR",
+          "low_floor": false
+         },
+         {
+          "t": "11:30",
+          "mark": "",
+          "low_floor": false
+         },
+         {
+          "t": "13:05",
+          "mark": "SR",
+          "low_floor": false
+         },
+         {
+          "t": "15:10",
+          "mark": "",
+          "low_floor": false
+         },
+         {
+          "t": "16:00",
+          "mark": "",
+          "low_floor": false
+         },
+         {
+          "t": "16:50",
+          "mark": "SR",
+          "low_floor": false
+         },
+         {
+          "t": "17:55",
+          "mark": "",
+          "low_floor": false
+         },
+         {
+          "t": "19:30",
+          "mark": "",
+          "low_floor": false
+         },
+         {
+          "t": "20:40",
+          "mark": "",
+          "low_floor": false
+         }
+        ]
+       }
+      ],
+      "comment": "SR=KROZ STARI RAKOVAC"
+     }
+    ],
+    "saturday": [
+     {
+      "value": "77",
+      "label": "77 STARI RAKOVAC",
+      "title": "Линија : 77 STARI RAKOVAC",
+      "url": "http://www.gspns.co.rs/red-voznje/ispis-polazaka?rv=rvp&vaziod=2026-10-01&dan=S&linija%5B%5D=77",
+      "directions": [
+       {
+        "dir": "A",
+        "name": "Смер A: Polasci za STARI RAKOVAC",
+        "departures": [
+         {
+          "t": "07:00",
+          "mark": "",
+          "low_floor": false
+         },
+         {
+          "t": "19:20",
+          "mark": "",
+          "low_floor": false
+         }
+        ]
+       },
+       {
+        "dir": "B",
+        "name": "Смер B: Polasci iz STARI RAKOVAC",
+        "departures": [
+         {
+          "t": "07:40",
+          "mark": "",
+          "low_floor": false
+         },
+         {
+          "t": "15:15",
+          "mark": "",
+          "low_floor": false
+         },
+         {
+          "t": "20:00",
+          "mark": "",
+          "low_floor": false
+         }
+        ]
+       }
+      ],
+      "comment": ""
+     },
+     {
+      "value": "78.",
+      "label": "78 BEOČIN SELO",
+      "title": "Линија : 78 BEOČIN SELO",
+      "url": "http://www.gspns.co.rs/red-voznje/ispis-polazaka?rv=rvp&vaziod=2026-10-01&dan=S&linija%5B%5D=78.",
+      "directions": [
+       {
+        "dir": "A",
+        "name": "Смер A: Polasci za BEOČIN SELO",
+        "departures": [
+         {
+          "t": "08:20",
+          "mark": "",
+          "low_floor": false
+         },
+         {
+          "t": "14:10",
+          "mark": "",
+          "low_floor": false
+         },
+         {
+          "t": "17:00",
+          "mark": "SR",
+          "low_floor": false
+         },
+         {
+          "t": "18:00",
+          "mark": "",
+          "low_floor": false
+         }
+        ]
+       },
+       {
+        "dir": "B",
+        "name": "Смер B: Polasci iz BEOČIN SELO",
+        "departures": [
+         {
+          "t": "06:40",
+          "mark": "",
+          "low_floor": false
+         },
+         {
+          "t": "09:10",
+          "mark": "",
+          "low_floor": false
+         },
+         {
+          "t": "10:40",
+          "mark": "",
+          "low_floor": false
+         },
+         {
+          "t": "15:00",
+          "mark": "SR",
+          "low_floor": false
+         },
+         {
+          "t": "17:55",
+          "mark": "",
+          "low_floor": false
+         },
+         {
+          "t": "18:50",
+          "mark": "",
+          "low_floor": false
+         },
+         {
+          "t": "19:40",
+          "mark": "",
+          "low_floor": false
+         }
+        ]
+       }
+      ],
+      "comment": "SR=KROZ STARI RAKOVAC"
+     }
+    ],
+    "sunday": [
+     {
+      "value": "77",
+      "label": "77 STARI RAKOVAC",
+      "title": "Линија : 77 STARI RAKOVAC",
+      "url": "http://www.gspns.co.rs/red-voznje/ispis-polazaka?rv=rvp&vaziod=2026-10-01&dan=N&linija%5B%5D=77",
+      "directions": [
+       {
+        "dir": "B",
+        "name": "Смер B: Polasci iz STARI RAKOVAC",
+        "departures": [
+         {
+          "t": "04:45",
+          "mark": "",
+          "low_floor": false
+         },
+         {
+          "t": "11:55",
+          "mark": "",
+          "low_floor": false
+         },
+         {
+          "t": "15:15",
+          "mark": "",
+          "low_floor": false
+         },
+         {
+          "t": "19:05",
+          "mark": "",
+          "low_floor": false
+         }
+        ]
+       }
+      ],
+      "comment": ""
+     },
+     {
+      "value": "78.",
+      "label": "78 BEOČIN SELO",
+      "title": "Линија : 78 BEOČIN SELO",
+      "url": "http://www.gspns.co.rs/red-voznje/ispis-polazaka?rv=rvp&vaziod=2026-10-01&dan=N&linija%5B%5D=78.",
+      "directions": [
+       {
+        "dir": "A",
+        "name": "Смер A: Polasci za BEOČIN SELO",
+        "departures": [
+         {
+          "t": "08:20",
+          "mark": "",
+          "low_floor": false
+         },
+         {
+          "t": "14:10",
+          "mark": "",
+          "low_floor": false
+         },
+         {
+          "t": "18:00",
+          "mark": "",
+          "low_floor": false
+         }
+        ]
+       },
+       {
+        "dir": "B",
+        "name": "Смер B: Polasci iz BEOČIN SELO",
+        "departures": [
+         {
+          "t": "06:40",
+          "mark": "",
+          "low_floor": false
+         },
+         {
+          "t": "09:10",
+          "mark": "",
+          "low_floor": false
+         },
+         {
+          "t": "15:00",
+          "mark": "SR",
+          "low_floor": false
+         },
+         {
+          "t": "18:50",
+          "mark": "SR",
+          "low_floor": false
+         }
+        ]
+       }
+      ],
+      "comment": "SR=KROZ STARI RAKOVAC"
+     }
+    ]
+   }
+  }
+ ]
+}
