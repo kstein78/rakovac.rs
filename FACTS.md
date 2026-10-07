@@ -182,3 +182,4 @@ Kamenolom memorial, on site (Kosta's photos, 2026-09): introductory plaque text 
 | Kosta's photos of the tower in scaffolding = 2024–2025 restoration (he remembered autumn 2025–summer 2026; sources say Oct 2024–Jun 2025) | B | inference from dates above |
 | Author portrait on Petrovaradin Fortress walls, photo by Ilia Kulikovskii (Илья Куликовский), recent; credit by name | A | Kosta, 2026-10-01 |
 | Kosta's 5 photos of Mövenpick Resort & Spa Fruške Terme (pool, kids' splash area, winter snowman, lavender, slide) | A | Kosta, 2026-10-01 |
+| Gorska ruža chairwoman: Tanja Ajeti; association + Kosta guests of an RTV programme, recorded Oct 2026, to air Nov 2026; 4 photos by Kosta | A | Kosta, 2026-10-07 |

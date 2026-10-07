@@ -1638,3 +1638,47 @@ vrdnik-terme-slide:
   alt_cyr: "Врх црвеног тобогана у Фрушким термама, даље спољни базени и шума"
   alt_de: "Der Start einer roten Wasserrutsche der Fruške Terme, dahinter die Außenbecken und der Wald"
   alt_hu: "Egy piros vízicsúszda teteje a Fruške Termében, mögötte a szabadtéri medencék és az erdő"
+gorska-ruza-rtv-table:
+  src: img/gorska-ruza-rtv-table.jpg
+  author: Konstantin Stein
+  license: © all rights reserved
+  alt: "Home-made pies and cakes of the \"Gorska ruža\" women's association on a cross-stitched cloth in the RTV studio"
+  temp: false
+  alt_ru: "Домашние пироги и торты общества «Горска ружа» на вышитой крестиком скатерти в студии RTV"
+  alt_sr: "Domaće pite i kolači Udruženja žena „Gorska ruža” na vezenom stolnjaku u studiju RTV-a"
+  alt_cyr: "Домаће пите и колачи Удружења жена „Горска ружа” на везеном столњаку у студију РТВ-а"
+  alt_de: "Hausgemachte Pitas und Kuchen des Frauenvereins „Gorska ruža“ auf einem kreuzgestickten Tuch im RTV-Studio"
+  alt_hu: "A „Gorska ruža” nőegylet házi pitéi és süteményei keresztszemes terítőn az RTV stúdiójában"
+gorska-ruza-rtv-crafts:
+  src: img/gorska-ruza-rtv-crafts.jpg
+  author: Konstantin Stein
+  license: © all rights reserved
+  alt: "Embroidery, paintings and handicrafts of \"Gorska ruža\" displayed in the RTV studio"
+  temp: false
+  alt_ru: "Вышивка, картины и рукоделие общества «Горска ружа» в студии RTV"
+  alt_sr: "Vez, slike i rukotvorine Udruženja „Gorska ruža” u studiju RTV-a"
+  alt_cyr: "Вез, слике и рукотворине Удружења „Горска ружа” у студију РТВ-а"
+  alt_de: "Stickereien, Bilder und Handarbeiten von „Gorska ruža“ im RTV-Studio"
+  alt_hu: "A „Gorska ruža” hímzései, festményei és kézműves tárgyai az RTV stúdiójában"
+gorska-ruza-rtv-group:
+  src: img/gorska-ruza-rtv-group.jpg
+  author: Konstantin Stein
+  license: © all rights reserved
+  alt: "Members of \"Gorska ruža\" and guests with the presenter in the RTV studio"
+  temp: false
+  alt_ru: "Участницы «Горской ружи» и гости с ведущей в студии RTV"
+  alt_sr: "Članice „Gorske ruže” i gosti sa voditeljkom u studiju RTV-a"
+  alt_cyr: "Чланице „Горске руже” и гости са водитељком у студију РТВ-а"
+  alt_de: "Mitglieder von „Gorska ruža“ und Gäste mit der Moderatorin im RTV-Studio"
+  alt_hu: "A „Gorska ruža” tagjai és vendégek a műsorvezetővel az RTV stúdiójában"
+gorska-ruza-rtv-dolls:
+  src: img/gorska-ruza-rtv-dolls.jpg
+  author: Konstantin Stein
+  license: © all rights reserved
+  alt: "Old dolls, souvenirs from Rakovac and handmade gifts on the \"Gorska ruža\" stand"
+  temp: false
+  alt_ru: "Старые куклы, сувениры из Раковца и подарки ручной работы на стенде «Горской ружи»"
+  alt_sr: "Stare lutke, suveniri iz Rakovca i ručno rađeni pokloni na štandu „Gorske ruže”"
+  alt_cyr: "Старе лутке, сувенири из Раковца и ручно рађени поклони на штанду „Горске руже”"
+  alt_de: "Alte Puppen, Souvenirs aus Rakovac und handgemachte Geschenke am Stand von „Gorska ruža“"
+  alt_hu: "Régi babák, rakovaci emléktárgyak és kézzel készült ajándékok a „Gorska ruža” standján"
