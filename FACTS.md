@@ -183,3 +183,4 @@ Kamenolom memorial, on site (Kosta's photos, 2026-09): introductory plaque text 
 | Author portrait on Petrovaradin Fortress walls, photo by Ilia Kulikovskii (Илья Куликовский), recent; credit by name | A | Kosta, 2026-10-01 |
 | Kosta's 5 photos of Mövenpick Resort & Spa Fruške Terme (pool, kids' splash area, winter snowman, lavender, slide) | A | Kosta, 2026-10-01 |
 | Gorska ruža chairwoman: Tanja Ajeti; association + Kosta guests of an RTV programme, recorded Oct 2026, to air Nov 2026; 4 photos by Kosta | A | Kosta, 2026-10-07 |
+| Gorska ruža RTV group photo: taken by a musician on Tanja Ajeti's phone, on her behalf; credited to the association (Tanja Ajeti) | A | Kosta, 2026-10-07 |
