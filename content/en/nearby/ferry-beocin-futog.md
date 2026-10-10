@@ -14,9 +14,9 @@ facts:
   time: "10 to 15 minutes across"
 ---
 
-{{< note type="warning" title="Call before you go" >}}The ferry does not always run: a neighbour found it **not running on Saturday, 26 September 2026**. Before a trip that depends on it, call [064 28 13 481](tel:+381642813481) to check that it is running today. If it is not, the smaller ferry Banoštor – Begeč (see below) or the road through Novi Sad remain.{{< /note >}}
+{{< note type="warning" title="Call before you go" >}}The ferry is **running again in October 2026**: the riverbed at the landing was dug out to remove a sandbank (see below). At low water it can still stop, as it did on Saturday, 26 September 2026. Before a trip that depends on it, call the ferry on [064 28 13 481](tel:+381642813481). If it is not running, the smaller ferry Banoštor – Begeč (see below) or the road through Novi Sad remain.{{< /note >}}
 
-The **skela** (ferry) links Beočin on the Srem bank of the Danube with Futog on the Bačka bank. A tug pushes a flat pontoon that takes cars, vans, bicycles and people on foot. A family business from Banoštor has run it since 2003.
+The **skela** (ferry) links Beočin on the Srem bank of the Danube with Futog on the Bačka bank. A tug pushes a flat pontoon that takes cars, vans, bicycles and people on foot. A family business from Banoštor has run it since 2003; the operator is the carrier **"Neptun"** (Prevoznička radnja "Neptun").
 
 ## When does the ferry run?
 
@@ -41,12 +41,20 @@ In Beočin the ferry leaves from the landing on **Put ka skeli**, on the Danube 
 
 In summer 2026, when the Danube fell very low, the Beočin ferry stopped for a while. The smaller ferry **Jole** between **Banoštor** (Srem, upstream from Beočin) and **Begeč** (Bačka) kept running even at the lowest water, but it takes only a few vehicles. It was reported to run from 7:00 (first departure from Banoštor) to 17:00 (last departure from Begeč), as of 2023.
 
+In October 2026 the riverbed at the landing was dug out to remove the sandbank, and the ferry started running again (report from a neighbour in Beočin).
+
+{{< photo key="ferry-landing-dredged" >}}
+
 ## Contact
 
-Phone number published for the ferry: [064 28 13 481](tel:+381642813481).
+Carrier **"Neptun"** (Prevoznička radnja "Neptun"), from its business card:
+
+- **Ferry:** [064 28 13 481](tel:+381642813481)
+- **Nikola:** [063 58 61 94](tel:+38163586194)
+- **Živko:** [062 448 360](tel:+38162448360)
 
 ## Why take it
 
 From Rakovac and Beočin it is the shortest way to Futog and western Bačka; without it you drive round through Novi Sad, about 25 km more. The crossing is also a small trip of its own: swans on the water, Fruška Gora behind you, and in the evening the landing is one of the best places to watch the sun go down over the Danube.
 
-{{< todo >}}Confirm the phone number, current prices and the first and last departures in summer and winter (a photo of the board at the landing would do).{{< /todo >}}
+{{< todo >}}Confirm current prices and the first and last departures in summer and winter (a photo of the board at the landing would do).{{< /todo >}}

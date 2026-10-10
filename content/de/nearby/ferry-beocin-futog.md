@@ -14,9 +14,9 @@ facts:
   time: "10 bis 15 Minuten Überfahrt"
 ---
 
-{{< note type="warning" title="Vorher anrufen" >}}Die Fähre fährt nicht immer: Ein Nachbar fand sie **am Samstag, 26. September 2026, außer Betrieb** vor. Vor einer Fahrt, die von ihr abhängt, rufen Sie [064 28 13 481](tel:+381642813481) an und fragen, ob sie heute fährt. Wenn nicht, bleiben die kleinere Fähre Banoštor – Begeč (siehe unten) oder die Straße über Novi Sad.{{< /note >}}
+{{< note type="warning" title="Vorher anrufen" >}}Die Fähre **fährt seit Oktober 2026 wieder**: An der Anlegestelle wurde das Flussbett ausgebaggert, um eine Sandbank zu entfernen (siehe unten). Bei Niedrigwasser kann sie trotzdem stillstehen, wie am Samstag, 26. September 2026. Vor einer Fahrt, die von ihr abhängt, rufen Sie [064 28 13 481](tel:+381642813481) an und fragen, ob sie heute fährt. Wenn nicht, bleiben die kleinere Fähre Banoštor – Begeč (siehe unten) oder die Straße über Novi Sad.{{< /note >}}
 
-Die **Skela** (Fähre) verbindet Beočin am syrmischen Donauufer mit Futog am Ufer der Batschka. Ein Schlepper schiebt einen flachen Ponton, der Autos, Kleinbusse, Radfahrer und Fußgänger mitnimmt. Seit 2003 betreibt ein Familienunternehmen aus Banoštor die Fähre.
+Die **Skela** (Fähre) verbindet Beočin am syrmischen Donauufer mit Futog am Ufer der Batschka. Ein Schlepper schiebt einen flachen Ponton, der Autos, Kleinbusse, Radfahrer und Fußgänger mitnimmt. Seit 2003 betreibt ein Familienunternehmen aus Banoštor die Fähre; Betreiber ist das Fuhrunternehmen **„Neptun“** (Prevoznička radnja „Neptun“).
 
 ## Wann fährt die Fähre?
 
@@ -41,12 +41,20 @@ In Beočin legt die Fähre an der Anlegestelle in der Straße **Put ka skeli** a
 
 Im Sommer 2026, als die Donau sehr tief fiel, stand die Fähre Beočin – Futog eine Zeit lang still. Die kleinere Fähre **Jole** zwischen **Banoštor** (Syrmien, flussaufwärts von Beočin) und **Begeč** (Batschka) fuhr auch beim niedrigsten Wasserstand weiter, nimmt aber nur wenige Fahrzeuge mit. Laut Angaben von 2023 fährt sie von 7:00 Uhr (erste Abfahrt ab Banoštor) bis 17:00 Uhr (letzte Abfahrt ab Begeč).
 
+Im Oktober 2026 wurde das Flussbett an der Anlegestelle ausgebaggert, um die Sandbank zu entfernen, und die Fähre fährt wieder (Bericht einer Nachbarin aus Beočin).
+
+{{< photo key="ferry-landing-dredged" >}}
+
 ## Kontakt
 
-Für die Fähre veröffentlichte Telefonnummer: [064 28 13 481](tel:+381642813481).
+Fuhrunternehmen **„Neptun“** (Prevoznička radnja „Neptun“), laut Visitenkarte:
+
+- **Fähre:** [064 28 13 481](tel:+381642813481)
+- **Nikola:** [063 58 61 94](tel:+38163586194)
+- **Živko:** [062 448 360](tel:+38162448360)
 
 ## Warum mit der Fähre
 
 Von Rakovac und Beočin ist sie der kürzeste Weg nach Futog und in die westliche Batschka; ohne Fähre fährt man über Novi Sad, etwa 25 km mehr. Die Überfahrt ist zugleich ein kleiner Ausflug: Schwäne auf dem Wasser, die Fruška Gora im Rücken, und abends ist die Anlegestelle einer der schönsten Orte, um die Sonne über der Donau untergehen zu sehen.
 
-{{< todo >}}Telefonnummer, aktuelle Preise sowie erste und letzte Abfahrt im Sommer und Winter bestätigen (ein Foto der Tafel an der Anlegestelle genügt).{{< /todo >}}
+{{< todo >}}Aktuelle Preise sowie erste und letzte Abfahrt im Sommer und Winter bestätigen (ein Foto der Tafel an der Anlegestelle genügt).{{< /todo >}}

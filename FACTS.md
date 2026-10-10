@@ -145,7 +145,7 @@ Kamenolom memorial, on site (Kosta's photos, 2026-09): introductory plaque text 
 | JKP „Beočin“: Desanke Maksimović 52; uprava 021 871 246, Fabrika vode 021 871 869, radionica 021 871 320; on-duty 064 80 17 920 | B | beocin.rs JKP page + service notice (dates unknown). Kosta: Beočin landline prefix may have changed, to confirm |
 | Ferry Beočin–Futog: Beočin on the hour, Futog at half past; 10–15 min; summer ~6:30–20:15, winter 7:00–16:30; closed 1 Jan + Orthodox Christmas; since 2003, Mihajlović family (Banoštor) | B | mojnovisad.com 16 Dec 2017; 021.rs 24 Aug 2020; mitrovica.info 12 Oct 2022; futog.rs (modified 2026-04-27) |
 | Ferry prices: 70 pedestrian (2020/2022), 100 bicycle, 150 motorcycle (2018), 300 car, up to 1,000 larger | B | same sources; to confirm on site |
-| Ferry phone 064 28 13 481 | C | mojnovisad.com 2017 only; to confirm (Kosta) |
+| Ferry phone 064 28 13 481 ("Skela"); carrier Prevoznička radnja "Neptun"; Nikola 063 58 61 94, Živko 062 448 360 | A | operator's business card via a Beočin neighbour (Kosta), 2026-10-10 |
 | Ferry landing Beočin: Put ka skeli 1, 45.2275493, 19.7135925; Futog side 45.2349728, 19.7118786 | B | Google Places |
 | Ferry car price 500 dinars (2026); pedestrians possibly free, to confirm | C | Kosta, 2026-09-29 |
 | Beočin landlines renumbered 871-xxx → 2971-xxx (JKP Beočin 021 2971 246, Fabrika vode 021 2971 869) | C | Kosta's phone contacts, 2026-09-29. Applied the same pattern to Dom zdravlja 870055 → 2970 055 and Opština 870260 → 2970 260 (supported by beocin.rs 30 Apr 2024 listing Hitna pomoć as 021 2970124); to confirm |
@@ -184,3 +184,4 @@ Kamenolom memorial, on site (Kosta's photos, 2026-09): introductory plaque text 
 | Kosta's 5 photos of Mövenpick Resort & Spa Fruške Terme (pool, kids' splash area, winter snowman, lavender, slide) | A | Kosta, 2026-10-01 |
 | Gorska ruža chairwoman: Tanja Ajeti; association + Kosta guests of an RTV programme, recorded Oct 2026, to air Nov 2026; 4 photos by Kosta | A | Kosta, 2026-10-07 |
 | Gorska ruža RTV group photo: taken by a musician on Tanja Ajeti's phone, on her behalf; credited to the association (Tanja Ajeti) | A | Kosta, 2026-10-07 |
+| Oct 2026: riverbed at the ferry landing dug out to remove the sandbank; ferry running again; photo by Marija Burova-Medvedeva, used with permission | B | Beočin neighbour via Kosta, 2026-10-10 |

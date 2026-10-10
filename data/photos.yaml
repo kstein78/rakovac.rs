@@ -1687,3 +1687,16 @@ gorska-ruza-rtv-dolls:
   alt_cyr: "Старе лутке, сувенири из Раковца и ручно рађени поклони на штанду „Горске руже”"
   alt_de: "Alte Puppen, Souvenirs aus Rakovac und handgemachte Geschenke am Stand von „Gorska ruža“"
   alt_hu: "Régi babák, rakovaci emléktárgyak és kézzel készült ajándékok a „Gorska ruža” standján"
+ferry-landing-dredged:
+  src: img/ferry-landing-dredged.jpg
+  author: Marija Burova-Medvedeva
+  author_ru: Мария Бурова-Медведева
+  author_cyr: Марија Бурова-Медведева
+  license: © all rights reserved, used with permission
+  alt: "The ferry landing in October 2026: heaps of sand dug out of the riverbed beside the ramp, so the ferry can reach the bank again"
+  temp: false
+  alt_ru: "Причал парома в октябре 2026 года: рядом со съездом кучи песка, вынутого со дна, чтобы паром снова мог подойти к берегу"
+  alt_sr: "Pristanište skele u oktobru 2026: pored rampe gomile peska izvađenog sa dna, da bi skela ponovo mogla da pristane"
+  alt_cyr: "Пристаниште скеле у октобру 2026: поред рампе гомиле песка извађеног са дна, да би скела поново могла да пристане"
+  alt_de: "Die Fähranlegestelle im Oktober 2026: neben der Rampe Haufen von Sand, der aus dem Flussbett gebaggert wurde, damit die Fähre wieder anlegen kann"
+  alt_hu: "A komp kikötője 2026 októberében: a rámpa mellett a mederből kikotort homokkupacok, hogy a komp ismét kiköthessen"

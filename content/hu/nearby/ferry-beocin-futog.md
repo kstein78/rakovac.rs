@@ -14,9 +14,9 @@ facts:
   time: "Az átkelés 10–15 perc"
 ---
 
-{{< note type="warning" title="Indulás előtt telefonáljon" >}}A komp nem mindig jár: egy szomszéd **2026. szeptember 26-án, szombaton nem működő kompot** talált. Ha az útja a komptól függ, hívja a [064 28 13 481](tel:+381642813481) számot, és kérdezze meg, jár-e aznap. Ha nem, marad a kisebb Banoštor – Begeč komp (lásd lent) vagy az Újvidéken át vezető út.{{< /note >}}
+{{< note type="warning" title="Indulás előtt telefonáljon" >}}A komp **2026 októberétől ismét jár**: a kikötőnél kikotorták a medret, hogy eltüntessék a zátonyt (lásd lent). Alacsony vízállásnál azonban továbbra is leállhat, mint 2026. szeptember 26-án, szombaton. Ha az útja a komptól függ, hívja a [064 28 13 481](tel:+381642813481) számot, és kérdezze meg, jár-e aznap. Ha nem, marad a kisebb Banoštor – Begeč komp (lásd lent) vagy az Újvidéken át vezető út.{{< /note >}}
 
-A **skela** (komp) a Duna szerémségi partján fekvő Beočint köti össze a bácskai parton fekvő Futakkal (Futog). Egy vontatóhajó tol egy lapos pontont, amely autókat, kisbuszokat, kerékpárosokat és gyalogosokat szállít. 2003 óta egy banoštori családi vállalkozás üzemelteti.
+A **skela** (komp) a Duna szerémségi partján fekvő Beočint köti össze a bácskai parton fekvő Futakkal (Futog). Egy vontatóhajó tol egy lapos pontont, amely autókat, kisbuszokat, kerékpárosokat és gyalogosokat szállít. 2003 óta egy banoštori családi vállalkozás üzemelteti; a fuvarozó a **„Neptun”** (Prevoznička radnja „Neptun”).
 
 ## Mikor jár a komp?
 
@@ -41,12 +41,20 @@ Beočinban a komp a **Put ka skeli** utcai kikötőből indul a Duna-parton, Rak
 
 2026 nyarán, amikor a Duna nagyon alacsonyra apadt, a Beočin–Futak komp egy ideig nem járt. A kisebb **Jole** komp **Banoštor** (Szerémség, Beočintól feljebb) és **Begecs** (Bácska) között a legalacsonyabb vízállásnál is közlekedett, de csak néhány járművet visz. A 2023-as adatok szerint 7:00-tól (első indulás Banoštorból) 17:00-ig (utolsó indulás Begecsről) jár.
 
+2026 októberében a kikötőnél kikotorták a medret, hogy eltüntessék a zátonyt, és a komp ismét jár (egy beočini szomszéd beszámolója szerint).
+
+{{< photo key="ferry-landing-dredged" >}}
+
 ## Kapcsolat
 
-A komp közzétett telefonszáma: [064 28 13 481](tel:+381642813481).
+A **„Neptun”** fuvarozó (Prevoznička radnja „Neptun”) névjegykártyája szerint:
+
+- **Komp:** [064 28 13 481](tel:+381642813481)
+- **Nikola:** [063 58 61 94](tel:+38163586194)
+- **Živko:** [062 448 360](tel:+38162448360)
 
 ## Miért érdemes komppal menni
 
 Rakovacról és Beočinból ez a legrövidebb út Futakra és Nyugat-Bácskába; nélküle Újvidéken át kell kerülni, mintegy 25 km-rel többet. Az átkelés maga is egy kis kirándulás: hattyúk a vízen, a hátunk mögött a Tarcal-hegység, este pedig a kikötő az egyik legszebb hely, ahol a Duna fölött lemenő napot nézhetjük.
 
-{{< todo >}}Ellenőrizni a telefonszámot, a jelenlegi árakat, valamint az első és utolsó járatot nyáron és télen (elég egy fotó a kikötői tábláról).{{< /todo >}}
+{{< todo >}}Ellenőrizni a jelenlegi árakat, valamint az első és utolsó járatot nyáron és télen (elég egy fotó a kikötői tábláról).{{< /todo >}}
