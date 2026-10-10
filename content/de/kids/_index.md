@@ -4,7 +4,7 @@ linkTitle: Für Kinder
 weight: 38
 kicker: Für junge Entdecker von 7 bis 12 Jahren
 lead: Ein Steinbruch, der wie eine Höhle aussieht, eine Mönchszelle im Fels, ein Wasserfall im Wald und ein Dorf, dessen Geschichte siebentausend Jahre zurückreicht.
-tile: Die Geschichte von Rakovac einfach erzählt, Spielplätze und leichte Spaziergänge
+tile: Die Geschichte von Rakovac einfach erzählt, Spielplätze, leichte Spaziergänge und Baden
 photo: beli-majdan-17
 list_title: Hier anfangen
 ---

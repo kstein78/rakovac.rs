@@ -4,7 +4,7 @@ linkTitle: Gyerekeknek
 weight: 38
 kicker: Fiatal felfedezőknek 7 és 12 év között
 lead: Egy kőbánya, amely barlangnak látszik, egy szerzetes cellája a sziklában, egy vízesés az erdőben, és egy falu, amelynek története hétezer évvel ezelőtt kezdődik.
-tile: Rakovac története egyszerűen elmesélve, játszóterek és könnyű séták
+tile: Rakovac története egyszerűen elmesélve, játszóterek, könnyű séták és fürdőhelyek
 photo: beli-majdan-17
 list_title: Kezdje itt
 ---

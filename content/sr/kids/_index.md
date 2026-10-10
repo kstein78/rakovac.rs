@@ -4,7 +4,7 @@ linkTitle: Za decu
 weight: 38
 kicker: Za male istraživače od 7 do 12 godina
 lead: Kamenolom koji liči na pećinu, monaška ćelija u steni, vodopad u šumi i selo čija priča počinje pre sedam hiljada godina.
-tile: Priča o Rakovcu jednostavnim rečima, igrališta i lake šetnje
+tile: Priča o Rakovcu jednostavnim rečima, igrališta, lake šetnje i gde se kupati
 photo: beli-majdan-17
 list_title: Počnite ovde
 ---

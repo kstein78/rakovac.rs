@@ -4,7 +4,7 @@ linkTitle: For kids
 weight: 38
 kicker: For young explorers aged 7 to 12
 lead: A quarry that looks like a cave, a monk's cell in a rock, a waterfall in the forest, and a village with a story that goes back seven thousand years.
-tile: The story of Rakovac told simply, playgrounds and easy walks
+tile: The story of Rakovac told simply, playgrounds, easy walks and where to swim
 photo: beli-majdan-17
 list_title: Start here
 ---
