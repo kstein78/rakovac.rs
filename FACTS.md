@@ -186,3 +186,9 @@ Kamenolom memorial, on site (Kosta's photos, 2026-09): introductory plaque text 
 | Gorska ruža RTV group photo: taken by a musician on Tanja Ajeti's phone, on her behalf; credited to the association (Tanja Ajeti) | A | Kosta, 2026-10-07 |
 | Oct 2026: riverbed at the ferry landing dug out to remove the sandbank; ferry running again; photo by Marija Burova-Medvedeva, used with permission | B | Beočin neighbour via Kosta, 2026-10-10 |
 | Ferry prices 2026: pedestrian 100 dinars, bicycle 150 dinars (car 500) | B | Marija Burova-Medvedeva (Beočin) via Kosta, 2026-10-10 |
+| Lake Bešenovo (Beli kamen): near Bešenovački Prnjavor, Sremska Mitrovica municipality; former marl quarry of the Beočin cement works; aquifer breached, pit flooded | B | kurir.rs 19 Jun 2024; 021.rs 12 Aug 2023 |
+| Lake Bešenovo: water rising from the 1980s; coords 45.104149, 19.713207, 181 m | B | fruskac.net |
+| Lake Bešenovo: quarry production stopped 1996; land sold by the cement company (Lafarge) to a private owner in 2016 | B | 021.rs 2 Jun 2016 |
+| Lake Bešenovo depth: ~15 m (021.rs 2023) vs >50 m (Kurir 2024, Fruškać) — conflicting, page gives range | C | as cited |
+| Lake Bešenovo: no lifeguards, little shade, past drownings (2023–2024 press); parking fills on weekends | B | kurir.rs 2024; 021.rs 2023; nova.rs 3 Jul 2023 |
+| Lake Bešenovo: ~25 min by car from Stari Rakovac; most "touristy" lake; 2026 lounge area with sun loungers and bars; hard parking in summer heat; dusty access; gently sloping shallow spots, fine for small children (unlike Ledinci) | A | Kosta, 2026-10-10 |

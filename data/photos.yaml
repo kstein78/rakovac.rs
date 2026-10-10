@@ -1700,3 +1700,69 @@ ferry-landing-dredged:
   alt_cyr: "Пристаниште скеле у октобру 2026: поред рампе гомиле песка извађеног са дна, да би скела поново могла да пристане"
   alt_de: "Die Fähranlegestelle im Oktober 2026: neben der Rampe Haufen von Sand, der aus dem Flussbett gebaggert wurde, damit die Fähre wieder anlegen kann"
   alt_hu: "A komp kikötője 2026 októberében: a rámpa mellett a mederből kikotort homokkupacok, hogy a komp ismét kiköthessen"
+besenovo-lake-golden:
+  src: img/besenovo-lake-golden.jpg
+  author: Konstantin Stein
+  license: © all rights reserved
+  alt: "Lake Bešenovo at sunset: the old quarry walls glowing gold and mirrored in still water"
+  temp: false
+  alt_ru: "Бешеновачское озеро на закате: стены старого карьера горят золотом и отражаются в неподвижной воде"
+  alt_sr: "Bešenovačko jezero u zalazak sunca: zidovi starog kopa sijaju zlatno i ogledaju se u mirnoj vodi"
+  alt_cyr: "Бешеновачко језеро у залазак сунца: зидови старог копа сијају златно и огледају се у мирној води"
+  alt_de: "Der Bešenovo-See bei Sonnenuntergang: Die alten Steinbruchwände leuchten golden und spiegeln sich im stillen Wasser"
+  alt_hu: "A bešenovói tó naplementekor: a régi bánya falai aranyosan izzanak és tükröződnek a mozdulatlan vízben"
+besenovo-lake-golden-walls:
+  src: img/besenovo-lake-golden-walls.jpg
+  author: Konstantin Stein
+  license: © all rights reserved
+  alt: "Evening light on the terraced marl walls of Lake Bešenovo"
+  temp: false
+  alt_ru: "Вечерний свет на террасах мергелевых стен Бешеновачского озера"
+  alt_sr: "Večernje svetlo na terasastim zidovima od laporca oko Bešenovačkog jezera"
+  alt_cyr: "Вечерње светло на терасастим зидовима од лапорца око Бешеновачког језера"
+  alt_de: "Abendlicht auf den terrassierten Mergelwänden des Bešenovo-Sees"
+  alt_hu: "Esti fény a bešenovói tó teraszos márgafalain"
+besenovo-lake-panorama:
+  src: img/besenovo-lake-panorama.jpg
+  author: Konstantin Stein
+  license: © all rights reserved
+  alt: "Panorama of Lake Bešenovo on a grey autumn day, with the wide sandy shore at low water"
+  temp: false
+  alt_ru: "Панорама Бешеновачского озера в пасмурный осенний день, широкий песчаный берег при низкой воде"
+  alt_sr: "Panorama Bešenovačkog jezera u sivom jesenjem danu, sa širokom peščanom obalom pri niskom vodostaju"
+  alt_cyr: "Панорама Бешеновачког језера у сивом јесењем дану, са широком пешчаном обалом при ниском водостају"
+  alt_de: "Panorama des Bešenovo-Sees an einem grauen Herbsttag, mit breitem Sandufer bei Niedrigwasser"
+  alt_hu: "A bešenovói tó panorámája egy szürke őszi napon, alacsony vízállásnál széles homokos parttal"
+besenovo-lake-autumn-cliff:
+  src: img/besenovo-lake-autumn-cliff.jpg
+  author: Konstantin Stein
+  license: © all rights reserved
+  alt: "Green water and the steep quarry wall of Lake Bešenovo in autumn"
+  temp: false
+  alt_ru: "Зелёная вода и крутая стена карьера Бешеновачского озера осенью"
+  alt_sr: "Zelena voda i strmi zid kopa Bešenovačkog jezera u jesen"
+  alt_cyr: "Зелена вода и стрми зид копа Бешеновачког језера у јесен"
+  alt_de: "Grünes Wasser und die steile Steinbruchwand des Bešenovo-Sees im Herbst"
+  alt_hu: "Zöld víz és a bánya meredek fala a bešenovói tónál ősszel"
+besenovo-lake-autumn:
+  src: img/besenovo-lake-autumn.jpg
+  author: Konstantin Stein
+  license: © all rights reserved
+  alt: "Lake Bešenovo under an overcast autumn sky, the far shore wooded"
+  temp: false
+  alt_ru: "Бешеновачское озеро под пасмурным осенним небом, дальний берег в лесу"
+  alt_sr: "Bešenovačko jezero pod oblačnim jesenjim nebom, daleka obala pod šumom"
+  alt_cyr: "Бешеновачко језеро под облачним јесењим небом, далека обала под шумом"
+  alt_de: "Der Bešenovo-See unter bewölktem Herbsthimmel, das ferne Ufer bewaldet"
+  alt_hu: "A bešenovói tó borús őszi ég alatt, a túlpart erdős"
+besenovo-lake-summer:
+  src: img/besenovo-lake-summer.jpg
+  author: Konstantin Stein
+  license: © all rights reserved
+  alt: "A hot summer day at Lake Bešenovo: families bathing in the shallow water by the shore"
+  temp: false
+  alt_ru: "Жаркий летний день на Бешеновачском озере: семьи купаются на мелководье у берега"
+  alt_sr: "Vreo letnji dan na Bešenovačkom jezeru: porodice se kupaju u plićaku uz obalu"
+  alt_cyr: "Врео летњи дан на Бешеновачком језеру: породице се купају у плићаку уз обалу"
+  alt_de: "Ein heißer Sommertag am Bešenovo-See: Familien baden im flachen Wasser am Ufer"
+  alt_hu: "Forró nyári nap a bešenovói tónál: családok fürdenek a part menti sekély vízben"

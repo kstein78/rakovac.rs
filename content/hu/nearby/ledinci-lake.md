@@ -15,4 +15,6 @@ Stari Ledinci fölött, az erdőben rejtőzik a **Ledinci-tó**, egy türkizkék
 
 Egy apró részlet a történelem kedvelőinek: a területet birtokló vállalat neve **Kamenolom Rakovac**, azaz „Rakovaci kőbánya”. 1929–1955 közötti iratait a Vajdasági Levéltár őrzi.
 
+Fürdéshez, főleg kisgyerekkel, inkább a [Bešenovói-tóhoz]({{< relref "nearby/besenovo-lake" >}}) menjen: ott a part mentén sekély, lankás részek vannak.
+
 {{< todo >}}Minden szezon előtt újra ellenőrizni a látogathatóságot. Ha megnyílik egy legális kilátópont, útleírást adni hozzá.{{< /todo >}}

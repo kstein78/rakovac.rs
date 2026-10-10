@@ -15,4 +15,6 @@ Hidden in the forest above Stari Ledinci lies **Lake Ledinci**, a turquoise lake
 
 A small detail for history lovers: the company that owns the site is called **Kamenolom Rakovac**, the "Rakovac quarry". Its records from 1929–1955 are kept at the Archive of Vojvodina.
 
+For swimming, especially with small children, go to [Lake Bešenovo]({{< relref "nearby/besenovo-lake" >}}) instead: it has shallow, gently sloping places along the shore.
+
 {{< todo >}}Recheck the access status before each season. If a legal viewpoint opens, add directions.{{< /todo >}}

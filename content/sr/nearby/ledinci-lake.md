@@ -15,4 +15,6 @@ U šumi iznad Starih Ledinaca skriveno je **Ledinačko jezero**, tirkizno jezero
 
 Detalj za ljubitelje istorije: firma kojoj pripada ovo mesto zove se **Kamenolom Rakovac**. Njena dokumentacija iz 1929–1955. čuva se u Arhivu Vojvodine.
 
+Za kupanje, naročito sa malom decom, bolje je otići na [Bešenovačko jezero]({{< relref "nearby/besenovo-lake" >}}): tamo duž obale ima blagih, plitkih delova.
+
 {{< todo >}}Pre svake sezone ponovo proveriti status pristupa. Ako se otvori legalni vidikovac, dodati uputstvo.{{< /todo >}}

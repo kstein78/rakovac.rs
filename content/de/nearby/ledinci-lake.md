@@ -15,4 +15,6 @@ Versteckt im Wald oberhalb von Stari Ledinci liegt der **Ledinci-See**, ein tür
 
 Ein kleines Detail für Geschichtsinteressierte: Das Unternehmen, dem das Gelände gehört, heißt **Kamenolom Rakovac**, der „Steinbruch Rakovac“. Seine Akten aus den Jahren 1929–1955 werden im Archiv der Vojvodina aufbewahrt.
 
+Zum Baden, besonders mit kleinen Kindern, fahren Sie besser zum [Bešenovo-See]({{< relref "nearby/besenovo-lake" >}}): Dort gibt es am Ufer flache, sanft abfallende Stellen.
+
 {{< todo >}}Den Zugangsstatus vor jeder Saison erneut prüfen. Falls ein legaler Aussichtspunkt eröffnet wird, eine Wegbeschreibung ergänzen.{{< /todo >}}
