@@ -2,7 +2,7 @@
 title: "Where to swim with children"
 kicker: "Summer days by the water"
 weight: 4
-summary: "A shallow beach at Lake Bešenovo, the children's water play area at Fruške Terme, and which lake is not for children."
+summary: "A shallow beach at Lake Bešenovo, the children's pools at Fruške Terme, and which lake is not for children."
 photo: besenovo-lake-summer
 kids: true
 ---
@@ -15,7 +15,7 @@ In Rakovac itself there is no place to swim, but two good options are less than 
 
 ## Fruške Terme in Vrdnik: warm pools all year
 
-**About 12 minutes by car.** The thermal resort has indoor and outdoor pools with warm water and a **children's water play area** with sprays, a rainbow tunnel and a slide. It works in winter too. [More about Vrdnik and Fruške Terme]({{< relref "nearby/vrdnik-fruske-terme" >}}).
+**About 12 minutes by car.** The thermal resort has indoor and outdoor pools with warm water. **Indoors** there is a children's area with two small pools and a slide, open all year. **Outdoors**, in summer, there is a children's water play area with sprays, a rainbow tunnel and a slide; it is closed in winter. [More about Vrdnik and Fruške Terme]({{< relref "nearby/vrdnik-fruske-terme" >}}).
 
 {{< photo key="vrdnik-terme-splash" >}}
 

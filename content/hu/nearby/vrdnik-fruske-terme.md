@@ -22,7 +22,7 @@ gallery:
 
 ## Fruške Terme
 
-A legnagyobb látványosság a **Fruške Terme** termálüdülő (ma Mövenpick Resort & Spa Fruške Terme néven működik). A szálloda 2018–2020-ban, a kültéri medencék 2021–2022-ben épültek. **12 medence** van, fedett és szabadtéri, összesen kb. 2500 m² vízfelülettel és 28–33 °C-os vízzel, köztük egy panorámamedence és egy üvegfalú medence. Az üdülőt kb. 500 szállóvendégre és 800 napi látogatóra tervezték.
+A legnagyobb látványosság a **Fruške Terme** termálüdülő (ma Mövenpick Resort & Spa Fruške Terme néven működik). A szálloda 2018–2020-ban, a kültéri medencék 2021–2022-ben épültek. **12 medence** van, fedett és szabadtéri, összesen kb. 2500 m² vízfelülettel és 28–33 °C-os vízzel, köztük egy panorámamedence és egy üvegfalú medence. Az üdülőt kb. 500 szállóvendégre és 800 napi látogatóra tervezték. Gyerekeknek bent egy két medencés, csúszdás rész áll rendelkezésre egész évben, nyáron pedig kint egy permetezős, csúszdás vízi játszótér is (télen zárva).
 
 Kosta tippje: szerinte ez Szerbia legjobb termál- és wellnessszállodája.
 

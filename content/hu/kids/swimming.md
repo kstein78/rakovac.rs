@@ -2,7 +2,7 @@
 title: "Hol fürödjünk gyerekkel"
 kicker: "Nyári napok a víz mellett"
 weight: 4
-summary: "Sekély strand a Bešenovói-tónál, gyerek vízi játszótér a Fruške Termében, és melyik tó nem gyerekeknek való."
+summary: "Sekély strand a Bešenovói-tónál, gyerekmedencék a Fruške Termében, és melyik tó nem gyerekeknek való."
 photo: besenovo-lake-summer
 kids: true
 ---
@@ -15,7 +15,7 @@ Magában Rakovacban nincs hol fürödni, de két jó hely is kevesebb mint fél�
 
 ## Fruške Terme, Vrdnik: meleg medencék egész évben
 
-**Kb. 12 perc autóval.** A termálfürdőben fedett és szabadtéri meleg vizes medencék, valamint **gyerek vízi játszótér** van permetezőkkel, szivárványalagúttal és csúszdával. Télen is nyitva. [Bővebben Vrdnikről és a Fruške Terméről]({{< relref "nearby/vrdnik-fruske-terme" >}}).
+**Kb. 12 perc autóval.** A termálfürdőben fedett és szabadtéri meleg vizes medencék vannak. **Bent**, a fedett uszodában gyerekrész működik két medencével és csúszdával, egész évben. **Kint** nyáron gyerek vízi játszótér van permetezőkkel, szivárványalagúttal és csúszdával; télen zárva tart. [Bővebben Vrdnikről és a Fruške Terméről]({{< relref "nearby/vrdnik-fruske-terme" >}}).
 
 {{< photo key="vrdnik-terme-splash" >}}
 

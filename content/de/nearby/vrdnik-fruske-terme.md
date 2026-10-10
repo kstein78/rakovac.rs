@@ -22,7 +22,7 @@ gallery:
 
 ## Fruške Terme
 
-Das Thermalresort **Fruške Terme** (heute betrieben als Mövenpick Resort & Spa Fruške Terme) ist die größte Attraktion. Das Hotel wurde 2018–2020 gebaut, die Außenbecken 2021–2022. Es gibt **12 Becken**, innen und außen, mit etwa 2.500 m² Wasserfläche bei 28–33 °C, darunter ein Panoramabecken und ein Becken mit Glaswänden. Das Resort ist für etwa 500 Übernachtungsgäste und 800 Tagesbesucher ausgelegt.
+Das Thermalresort **Fruške Terme** (heute betrieben als Mövenpick Resort & Spa Fruške Terme) ist die größte Attraktion. Das Hotel wurde 2018–2020 gebaut, die Außenbecken 2021–2022. Es gibt **12 Becken**, innen und außen, mit etwa 2.500 m² Wasserfläche bei 28–33 °C, darunter ein Panoramabecken und ein Becken mit Glaswänden. Das Resort ist für etwa 500 Übernachtungsgäste und 800 Tagesbesucher ausgelegt. Für Kinder gibt es drinnen einen Bereich mit zwei Becken und einer Rutsche, das ganze Jahr geöffnet, und im Sommer draußen einen Wasserspielplatz mit Sprühdüsen und Rutsche (im Winter geschlossen).
 
 Kostas Tipp: Seiner Meinung nach ist es das beste Thermalhotel Serbiens.
 

@@ -2,7 +2,7 @@
 title: "Baden mit Kindern"
 kicker: "Sommertage am Wasser"
 weight: 4
-summary: "Ein flacher Strand am Bešenovo-See, der Kinder-Wasserspielbereich der Fruške Terme und welcher See nichts für Kinder ist."
+summary: "Ein flacher Strand am Bešenovo-See, die Kinderbecken der Fruške Terme und welcher See nichts für Kinder ist."
 photo: besenovo-lake-summer
 kids: true
 ---
@@ -15,7 +15,7 @@ In Rakovac selbst kann man nicht baden, aber zwei gute Orte liegen weniger als e
 
 ## Fruške Terme in Vrdnik: warme Becken das ganze Jahr
 
-**Etwa 12 Minuten mit dem Auto.** Das Thermalresort hat Innen- und Außenbecken mit warmem Wasser und einen **Kinder-Wasserspielbereich** mit Sprühdüsen, Regenbogentunnel und Rutsche. Auch im Winter geöffnet. [Mehr zu Vrdnik und Fruške Terme]({{< relref "nearby/vrdnik-fruske-terme" >}}).
+**Etwa 12 Minuten mit dem Auto.** Das Thermalresort hat Innen- und Außenbecken mit warmem Wasser. **Drinnen**, in der Schwimmhalle, gibt es einen Kinderbereich mit zwei Becken und einer Rutsche, das ganze Jahr geöffnet. **Draußen** ist im Sommer ein Kinder-Wasserspielbereich mit Sprühdüsen, Regenbogentunnel und Rutsche offen; im Winter ist er geschlossen. [Mehr zu Vrdnik und Fruške Terme]({{< relref "nearby/vrdnik-fruske-terme" >}}).
 
 {{< photo key="vrdnik-terme-splash" >}}
 

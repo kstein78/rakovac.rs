@@ -22,7 +22,7 @@ gallery:
 
 ## Fruške Terme
 
-The **Fruške Terme** thermal resort (today run as Mövenpick Resort & Spa Fruške Terme) is the biggest attraction. The hotel was built in 2018–2020 and the outdoor pools in 2021–2022. There are **12 pools**, indoor and outdoor, with about 2,500 m² of water at 28–33 °C, including a panoramic pool and a glass-walled pool. The resort is designed for about 500 overnight guests and 800 day visitors.
+The **Fruške Terme** thermal resort (today run as Mövenpick Resort & Spa Fruške Terme) is the biggest attraction. The hotel was built in 2018–2020 and the outdoor pools in 2021–2022. There are **12 pools**, indoor and outdoor, with about 2,500 m² of water at 28–33 °C, including a panoramic pool and a glass-walled pool. The resort is designed for about 500 overnight guests and 800 day visitors. For children there is an indoor area with two pools and a slide, open all year, and in summer an outdoor water play area with sprays and a slide (closed in winter).
 
 Kosta's tip: in his view it is the best thermal spa hotel in Serbia.
 

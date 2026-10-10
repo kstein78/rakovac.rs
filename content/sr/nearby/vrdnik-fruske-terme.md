@@ -22,7 +22,7 @@ gallery:
 
 ## Fruške terme
 
-Najveća atrakcija je termalni kompleks **Fruške terme** (danas posluje kao Mövenpick Resort & Spa Fruške Terme). Hotel je izgrađen 2018–2020, a otvoreni bazeni 2021–2022. Ima **12 bazena**, zatvorenih i otvorenih, sa oko 2.500 m² vodene površine i vodom od 28 do 33 °C, među njima panoramski i stakleni bazen. Kompleks je predviđen za oko 500 gostiju sa noćenjem i 800 dnevnih posetilaca.
+Najveća atrakcija je termalni kompleks **Fruške terme** (danas posluje kao Mövenpick Resort & Spa Fruške Terme). Hotel je izgrađen 2018–2020, a otvoreni bazeni 2021–2022. Ima **12 bazena**, zatvorenih i otvorenih, sa oko 2.500 m² vodene površine i vodom od 28 do 33 °C, među njima panoramski i stakleni bazen. Kompleks je predviđen za oko 500 gostiju sa noćenjem i 800 dnevnih posetilaca. Za decu postoji unutrašnja zona sa dva bazena i toboganom, otvorena cele godine, a leti i spoljna vodena igraonica sa prskalicama i toboganom (zimi zatvorena).
 
 Kostin savet: po njegovom mišljenju, ovo je najbolji termalni spa hotel u Srbiji.
 

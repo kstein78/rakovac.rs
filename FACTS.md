@@ -192,3 +192,4 @@ Kamenolom memorial, on site (Kosta's photos, 2026-09): introductory plaque text 
 | Lake Bešenovo depth: ~15 m (021.rs 2023) vs >50 m (Kurir 2024, Fruškać) — conflicting, page gives range | C | as cited |
 | Lake Bešenovo: no lifeguards, little shade, past drownings (2023–2024 press); parking fills on weekends | B | kurir.rs 2024; 021.rs 2023; nova.rs 3 Jul 2023 |
 | Lake Bešenovo: ~25 min by car from Stari Rakovac; most "touristy" lake; 2026 lounge area with sun loungers and bars; hard parking in summer heat; dusty access; gently sloping shallow spots, fine for small children (unlike Ledinci) | A | Kosta, 2026-10-10 |
+| Fruške Terme kids: indoor children's area with two pools and a slide (all year); outdoor splash area closed in winter | A | Kosta, 2026-10-10 |
