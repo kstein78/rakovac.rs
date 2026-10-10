@@ -31,7 +31,13 @@ A **skela** (komp) a Duna szerémségi partján fekvő Beočint köti össze a b
 
 ## Mennyibe kerül?
 
-Egy személyautó **500 dinár** (2026). Gyalogosok, kerékpárok és nagyobb járművek esetén érdeklődjön a kompon: a sajtóban közölt régebbi árak (2018–2022) már nem érvényesek.
+Árak 2026-ban:
+
+- **Személyautó:** 500 dinár
+- **Kerékpár:** 150 dinár
+- **Gyalogos:** 100 dinár
+
+Motorkerékpár és nagyobb jármű esetén érdeklődjön a kompon: a sajtóban közölt régebbi árak (2018–2022) már nem érvényesek.
 
 ## Honnan indul?
 
@@ -57,4 +63,4 @@ A **„Neptun”** fuvarozó (Prevoznička radnja „Neptun”) névjegykártyá
 
 Rakovacról és Beočinból ez a legrövidebb út Futakra és Nyugat-Bácskába; nélküle Újvidéken át kell kerülni, mintegy 25 km-rel többet. Az átkelés maga is egy kis kirándulás: hattyúk a vízen, a hátunk mögött a Tarcal-hegység, este pedig a kikötő az egyik legszebb hely, ahol a Duna fölött lemenő napot nézhetjük.
 
-{{< todo >}}Ellenőrizni a jelenlegi árakat, valamint az első és utolsó járatot nyáron és télen (elég egy fotó a kikötői tábláról).{{< /todo >}}
+{{< todo >}}Ellenőrizni a motorkerékpárok és nagyobb járművek árát, valamint az első és utolsó járatot nyáron és télen (elég egy fotó a kikötői tábláról).{{< /todo >}}

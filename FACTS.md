@@ -185,3 +185,4 @@ Kamenolom memorial, on site (Kosta's photos, 2026-09): introductory plaque text 
 | Gorska ruža chairwoman: Tanja Ajeti; association + Kosta guests of an RTV programme, recorded Oct 2026, to air Nov 2026; 4 photos by Kosta | A | Kosta, 2026-10-07 |
 | Gorska ruža RTV group photo: taken by a musician on Tanja Ajeti's phone, on her behalf; credited to the association (Tanja Ajeti) | A | Kosta, 2026-10-07 |
 | Oct 2026: riverbed at the ferry landing dug out to remove the sandbank; ferry running again; photo by Marija Burova-Medvedeva, used with permission | B | Beočin neighbour via Kosta, 2026-10-10 |
+| Ferry prices 2026: pedestrian 100 dinars, bicycle 150 dinars (car 500) | B | Marija Burova-Medvedeva (Beočin) via Kosta, 2026-10-10 |

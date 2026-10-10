@@ -31,7 +31,13 @@ Die **Skela** (Fähre) verbindet Beočin am syrmischen Donauufer mit Futog am Uf
 
 ## Was kostet die Überfahrt?
 
-Ein Auto kostet **500 Dinar** (2026). Für Fußgänger, Fahrräder und größere Fahrzeuge fragen Sie an Bord: Die älteren Preise aus der Presse (2018–2022) gelten nicht mehr.
+Preise 2026:
+
+- **Auto:** 500 Dinar
+- **Fahrrad:** 150 Dinar
+- **Fußgänger:** 100 Dinar
+
+Für Motorräder und größere Fahrzeuge fragen Sie an Bord: Die älteren Preise aus der Presse (2018–2022) gelten nicht mehr.
 
 ## Wo legt sie ab?
 
@@ -57,4 +63,4 @@ Fuhrunternehmen **„Neptun“** (Prevoznička radnja „Neptun“), laut Visite
 
 Von Rakovac und Beočin ist sie der kürzeste Weg nach Futog und in die westliche Batschka; ohne Fähre fährt man über Novi Sad, etwa 25 km mehr. Die Überfahrt ist zugleich ein kleiner Ausflug: Schwäne auf dem Wasser, die Fruška Gora im Rücken, und abends ist die Anlegestelle einer der schönsten Orte, um die Sonne über der Donau untergehen zu sehen.
 
-{{< todo >}}Aktuelle Preise sowie erste und letzte Abfahrt im Sommer und Winter bestätigen (ein Foto der Tafel an der Anlegestelle genügt).{{< /todo >}}
+{{< todo >}}Preise für Motorräder und größere Fahrzeuge sowie erste und letzte Abfahrt im Sommer und Winter bestätigen (ein Foto der Tafel an der Anlegestelle genügt).{{< /todo >}}

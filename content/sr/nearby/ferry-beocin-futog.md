@@ -31,7 +31,13 @@ facts:
 
 ## Koliko košta?
 
-Automobil košta **500 dinara** (2026). Za pešake, bicikle i veća vozila pitajte na skeli: starije cene objavljene u štampi (2018–2022) više ne važe.
+Cene u 2026:
+
+- **Automobil:** 500 dinara
+- **Bicikl:** 150 dinara
+- **Pešak:** 100 dinara
+
+Za motocikle i veća vozila pitajte na skeli: starije cene objavljene u štampi (2018–2022) više ne važe.
 
 ## Odakle polazi?
 
@@ -57,4 +63,4 @@ Prevoznička radnja **„Neptun”**, prema vizitkarti:
 
 Iz Rakovca i Beočina to je najkraći put do Futoga i zapadne Bačke; bez nje se ide okolo preko Novog Sada, oko 25 km više. Prelaz je i mali izlet: labudovi na vodi, Fruška gora iza leđa, a uveče je pristanište jedno od najlepših mesta za zalazak sunca nad Dunavom.
 
-{{< todo >}}Proveriti aktuelne cene i prvi i poslednji polazak leti i zimi (dovoljna je fotografija table na pristaništu).{{< /todo >}}
+{{< todo >}}Proveriti cene za motocikle i veća vozila, kao i prvi i poslednji polazak leti i zimi (dovoljna je fotografija table na pristaništu).{{< /todo >}}

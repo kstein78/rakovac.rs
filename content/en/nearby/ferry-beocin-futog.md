@@ -31,7 +31,13 @@ The **skela** (ferry) links Beočin on the Srem bank of the Danube with Futog on
 
 ## How much does it cost?
 
-A car costs **500 dinars** (2026). For people on foot, bicycles and larger vehicles, ask on board: the older prices published in the press (2018–2022) are out of date.
+Prices in 2026:
+
+- **Car:** 500 dinars
+- **Bicycle:** 150 dinars
+- **On foot:** 100 dinars
+
+For motorcycles and larger vehicles, ask on board: the older prices published in the press (2018–2022) are out of date.
 
 ## Where does it leave from?
 
@@ -57,4 +63,4 @@ Carrier **"Neptun"** (Prevoznička radnja "Neptun"), from its business card:
 
 From Rakovac and Beočin it is the shortest way to Futog and western Bačka; without it you drive round through Novi Sad, about 25 km more. The crossing is also a small trip of its own: swans on the water, Fruška Gora behind you, and in the evening the landing is one of the best places to watch the sun go down over the Danube.
 
-{{< todo >}}Confirm current prices and the first and last departures in summer and winter (a photo of the board at the landing would do).{{< /todo >}}
+{{< todo >}}Confirm prices for motorcycles and larger vehicles, and the first and last departures in summer and winter (a photo of the board at the landing would do).{{< /todo >}}
