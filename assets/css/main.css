@@ -619,3 +619,8 @@ a[href^="tel:"] { white-space: nowrap; }
 .news-head .nmeta { margin-bottom: .6rem; }
 .news-pn { display: flex; flex-wrap: wrap; justify-content: space-between; gap: 1rem; padding-block: 1rem 3rem; font-size: .95rem; }
 @media (max-width: 800px) { .home-news-grid, .ncard-big { grid-template-columns: 1fr; } .ncard-big .ncard-img { aspect-ratio: 16 / 9; } }
+/* News article cover: show the whole picture (covers can be square or portrait) */
+.news-head .photo.hero .photo-frame { aspect-ratio: auto; background: none; text-align: center; }
+.news-head .photo.hero .photo-frame img { width: auto; max-width: 100%; height: auto; max-height: 78vh; margin-inline: auto; display: block; border-radius: var(--radius); }
+.news-head .photo.hero figcaption { text-align: center; }
+@media (max-width: 700px) { .news-head .photo.hero .photo-frame { aspect-ratio: auto; } }

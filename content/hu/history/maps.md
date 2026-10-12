@@ -3,10 +3,27 @@ title: "Rakovac régi térképeken"
 linkTitle: "Régi térképek"
 kicker: "Térképek · 18–20. század"
 weight: 7
-summary: "Rakovac történelmi térképeken: egy 1877-es részletes térkép egy magángyűjteményből, az 1915-ös részletes osztrák–magyar speciális térkép és egy 1910 körüli általános térkép, hamarosan pedig levéltári és magángyűjteményi térképek is."
+summary: "Rakovac történelmi térképeken: az 1877-es „Neusatz und Peterwardein” lap a szerző gyűjteményéből, az 1915-ös részletes osztrák–magyar speciális térkép és egy 1910 körüli általános térkép, hamarosan pedig levéltári és magángyűjteményi térképek is."
 lead: "A régi térképek azt mutatják, milyen volt a völgy Novi Rakovac létrejötte előtt: a falu a kolostor mellett a dombok között, vasútvonal a Duna mentén, és a szomszédos települések a térképészek által használt német és magyar nevükön."
 photo: map-spezialkarte-1915
 ---
+
+## „Neusatz und Peterwardein”: Magyarország részletes térképe 1:144 000, 1877-es kiadás
+
+Ez a vászonborítós, kalligrafikus **„Neusatz und Peterwardein”** (Újvidék és Pétervárad) címkével ellátott, összehajtott lap az oldal szerzőjének gyűjteményében van, aki megvásárolta az eredetit. A **Spezialkarte des Königreiches Ungarn** (a Magyar Királyság részletes térképe) sorozatba tartozik: a bécsi Katonai Földrajzi Intézet a második katonai felmérés alapján rézbe metszette, és 1869 és 1881 között 141 lapon adta ki, 1:144 000 méretarányban ([Hungaricana](https://maps.hungaricana.hu/en/HTITerkeptar/454)). A lapon „Ausg. 1877” (1877-es kiadás) és 70 krajcáros ár szerepel; a vonalas lépték bécsi ölben és osztrák postamérföldben van megadva.
+
+{{< photo key="map-neusatz-1877-cover" >}}
+
+{{< oldmap src="/img/map-neusatz-1877-full.jpg" poster="/img/map-neusatz-1877-960.jpg" x="1398" y="1340" size="3,3 MB" alt="Magyarország részletes térképe 1:144 000, Neusatz und Peterwardein lap, 1877-es kiadás" >}}A teljes lap két szkennelésből összeállítva: a Fruška Gora középső része Szusektől és Cserevictől Indiáig, középen Újvidékkel (*Neusatz*), Péterváraddal (*Peterwardein*) és Karlócával (*Karlowitz*).{{< /oldmap >}}
+
+{{< photo key="map-spezialkarte-1877-rakovac" >}}
+
+Mi látható Rakovac körül ezen a lapon:
+
+- **Rakovac** a völgyében, közvetlenül a falu fölött a „Kls.” (*Kloster*, kolostor) jellel; nyugatra Beočin, keletre Ledinci (*Ledince*). Novi Rakovac még nem létezik.
+- A falutól délre a **Gradac** domb 248-as magassági ponttal. A magasságok ezen a térképen bécsi ölben vannak: 248 öl kb. 470 m, majdnem annyi, mint a mai térképek 471 métere.
+- A gerinc mentén egy **„Eugens Weg”** (Jenő útja) nevű út.
+- A Duna szigetekkel és mellékágakkal, a túlparton Futakkal és Újvidékkel.
 
 ## Speciális térkép 1:75 000, 1915-ös kiadás
 
@@ -36,22 +53,8 @@ Mit találhat Rakovac körül ezen a lapon:
 - A Duna túlpartján Futak kétszer szerepel, „O-Futtak” és „Uj-Futtak” néven (Ó- és Újfutak), egy nyíl pedig „zu Neusatz”, azaz Újvidék felé mutat.
 - **Novi Rakovac még nem létezik.** A második világháború után épült, amikor a régi falut nem építették újjá.
 
-## Magyarország részletes térképe 1:144 000, 1877-es kiadás
-
-A **Spezialkarte des Königreiches Ungarn** (a Magyar Királyság részletes térképe) egy összehajtott lapja egy rakovaci magángyűjteményből. A bécsi Katonai Földrajzi Intézet a második katonai felmérés alapján rézbe metszette ezt a sorozatot, és 1869 és 1881 között 141 lapon adta ki, 1:144 000 méretarányban ([Hungaricana](https://maps.hungaricana.hu/en/HTITerkeptar/454)). A lapon „Ausg. 1877” (1877-es kiadás) és 70 krajcáros ár szerepel; a vonalas lépték bécsi ölben és osztrák postamérföldben van megadva.
-
-{{< oldmap src="/img/map-spezialkarte-1877.jpg" poster="/img/map-spezialkarte-1877-960.jpg" x="693" y="662" size="0,5 MB" alt="Magyarország részletes térképe 1:144 000, 1877-es kiadás, a Fruška Gora lapja" >}}A lap a Fruška Gora középső részét mutatja Szusektől és Cserevictől Indiáig, középen Újvidékkel (*Neusatz*), Péterváraddal (*Peterwardein*) és Karlócával (*Karlowitz*). Fotó: Konstantin Stein, perspektívakorrekcióval.{{< /oldmap >}}
-
-{{< photo key="map-spezialkarte-1877-rakovac" >}}
-
-Mi látható Rakovac körül ezen a lapon:
-
-- **Rakovac** a völgyében, nyugatra Beočin, keletre Ledinci (*Ledince*); Novi Rakovac még nem létezik.
-- A falutól délre a **Gradac** domb.
-- A Duna szigetekkel és mellékágakkal, a túlparton Futakkal és Újvidékkel.
-
 ## További térképek
 
-{{< todo >}}Kosta: beszkennelni az otthoni térképet (300–600 dpi, a teljes lapot és Rakovacot nagyítva), és feljegyezni a címét, a térképészt, az évet, a méretarányt és a ZVAB-hirdetést, ahol rátalált. Még ellenőrizendő: az 1780-as évek első katonai felmérése az Arcanum Maps oldalán (előfizetéssel), a második katonai felmérés, az 1877-es 1:300 000-es általános térkép (Rakovac szerepel rajta, de jó közkincs szkennelés még nincs) és a kataszteri térképek (a Vajdasági Levéltárban kell érdeklődni).{{< /todo >}}
+{{< todo >}}Még ellenőrizendő: az 1780-as évek első katonai felmérése az Arcanum Maps oldalán (előfizetéssel), a második katonai felmérés, az 1877-es 1:300 000-es általános térkép (Rakovac szerepel rajta, de jó közkincs szkennelés még nincs) és a kataszteri térképek (a Vajdasági Levéltárban kell érdeklődni).{{< /todo >}}
 
 Van egy régi térképe, alaprajza vagy képeslapja Rakovacról? [Írjon nekünk]({{< relref "author" >}}): itt bemutathatjuk, az Ön nevével.

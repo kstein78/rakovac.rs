@@ -1789,9 +1789,9 @@ monastery-farm-cowshed:
   alt_de: "Der hölzerne Kuhstall des Klosterhofs, an der Decke die Melkleitung"
   alt_hu: "A kolostori gazdaság fa istállója, a mennyezet mentén a fejővezetékkel"
 map-spezialkarte-1877:
-  src: img/map-spezialkarte-1877.jpg
-  author: "Konstantin Stein (photo, perspective corrected)"
-  license: "Map: public domain (1877); photo: © all rights reserved"
+  src: img/map-neusatz-1877.jpg
+  author: "Konstantin Stein (scan, own collection)"
+  license: "Map 1877: public domain"
   alt: "Special map of the Kingdom of Hungary 1:144,000, 1877 edition: Fruška Gora between Futog, Novi Sad and Inđija"
   temp: false
   alt_ru: "Специальная карта Венгерского королевства 1:144 000, издание 1877 года: Фрушка-Гора между Футогом, Нови-Садом и Инджией"
@@ -1800,9 +1800,9 @@ map-spezialkarte-1877:
   alt_de: "Spezialkarte des Königreiches Ungarn 1:144.000, Ausgabe 1877: die Fruška Gora zwischen Futog, Novi Sad und Inđija"
   alt_hu: "A Magyar Királyság részletes térképe 1:144 000, 1877-es kiadás: a Fruška Gora Futak, Újvidék és India között"
 map-spezialkarte-1877-rakovac:
-  src: img/map-spezialkarte-1877-rakovac.jpg
-  author: "Konstantin Stein (photo, perspective corrected)"
-  license: "Map: public domain (1877); photo: © all rights reserved"
+  src: img/map-neusatz-1877-rakovac.jpg
+  author: "Konstantin Stein (scan, own collection)"
+  license: "Map 1877: public domain"
   alt: "Detail of the 1877 special map: Rakovac in the hills between Beočin and Ledinci, below the Danube"
   temp: false
   alt_ru: "Фрагмент специальной карты 1877 года: Раковац в холмах между Беочином и Лединци, ниже Дуная"
@@ -1810,3 +1810,14 @@ map-spezialkarte-1877-rakovac:
   alt_cyr: "Исечак специјалне карте из 1877: Раковац у брдима између Беочина и Лединаца, испод Дунава"
   alt_de: "Ausschnitt der Spezialkarte von 1877: Rakovac in den Hügeln zwischen Beočin und Ledinci, unterhalb der Donau"
   alt_hu: "Részlet az 1877-es részletes térképről: Rakovac a dombok között Beočin és Ledinci között, a Duna alatt"
+map-neusatz-1877-cover:
+  src: img/map-neusatz-1877-cover.jpg
+  author: "Konstantin Stein (scan, own collection)"
+  license: "Map 1877: public domain"
+  alt: "The cloth cover of the 1877 map sheet \"Neusatz und Peterwardein\", with its handwritten-style title label and a kilometre scale strip"
+  temp: false
+  alt_ru: "Холщовая обложка листа карты 1877 года «Neusatz und Peterwardein» с каллиграфической наклейкой-названием и полоской с километровой шкалой"
+  alt_sr: "Platneni povez lista karte iz 1877. „Neusatz und Peterwardein”, sa kaligrafskom nalepnicom s naslovom i trakom s kilometarskom razmerom"
+  alt_cyr: "Платнени повез листа карте из 1877. „Neusatz und Peterwardein”, са калиграфском налепницом с насловом и траком с километарском размером"
+  alt_de: "Der Leinenumschlag des Kartenblatts „Neusatz und Peterwardein“ von 1877 mit kalligrafischem Titelschild und einem Streifen mit Kilometerskala"
+  alt_hu: "Az 1877-es „Neusatz und Peterwardein” térképlap vászonborítója kalligrafikus címkével és kilométerskálás csíkkal"

@@ -3,10 +3,27 @@ title: "Stare karte Rakovca"
 linkTitle: "Stare karte"
 kicker: "Karte · 18–20. vek"
 weight: 7
-summary: "Rakovac na istorijskim kartama: specijalna karta iz 1877. iz jedne privatne zbirke, detaljna austrougarska specijalna karta iz 1915. i generalna karta iz oko 1910, a uskoro i karte iz arhiva i privatnih zbirki."
+summary: "Rakovac na istorijskim kartama: list „Neusatz und Peterwardein” iz 1877. iz autorove zbirke, detaljna austrougarska specijalna karta iz 1915. i generalna karta iz oko 1910, a uskoro i karte iz arhiva i privatnih zbirki."
 lead: "Stare karte prikazuju dolinu pre nego što je nastao Novi Rakovac: selo kod manastira u brdima, železničku prugu duž Dunava i susedna mesta pod nemačkim i mađarskim imenima koja su koristili kartografi."
 photo: map-spezialkarte-1915
 ---
+
+## „Neusatz und Peterwardein”: specijalna karta Ugarske 1:144.000, izdanje 1877.
+
+Ovaj presavijeni list u platnenom povezu s kaligrafskim naslovom **„Neusatz und Peterwardein”** (Novi Sad i Petrovaradin) nalazi se u zbirci autora ovog sajta, koji je kupio original. Deo je **Spezialkarte des Königreiches Ungarn** (Specijalne karte Kraljevine Ugarske): Vojnogeografski institut u Beču gravirao je ovu seriju u bakru na osnovu Drugog vojnog premera i izdao je u 141 listu od 1869. do 1881, u razmeri 1:144.000 ([Hungaricana](https://maps.hungaricana.hu/en/HTITerkeptar/454)). Na listu piše „Ausg. 1877” (izdanje 1877) i cena od 70 krajcara; razmernik je u bečkim hvatima i austrijskim poštanskim miljama.
+
+{{< photo key="map-neusatz-1877-cover" >}}
+
+{{< oldmap src="/img/map-neusatz-1877-full.jpg" poster="/img/map-neusatz-1877-960.jpg" x="1398" y="1340" size="3,3 MB" alt="Specijalna karta Ugarske 1:144.000, list Neusatz und Peterwardein, izdanje 1877" >}}Ceo list, sastavljen od dva skena: središnja Fruška gora od Suseka i Čerevića do Inđije, a u sredini Novi Sad (*Neusatz*), Petrovaradin (*Peterwardein*) i Karlovci (*Karlowitz*).{{< /oldmap >}}
+
+{{< photo key="map-spezialkarte-1877-rakovac" >}}
+
+Šta se oko Rakovca vidi na ovom listu:
+
+- **Rakovac** u svojoj dolini, a odmah iznad sela znak „Kls.” (*Kloster*, manastir); zapadno Beočin, istočno Ledinci (*Ledince*). Novog Rakovca još nema.
+- Brdo **Gradac** južno od sela, s kotom 248. Visine su na ovoj karti u bečkim hvatima: 248 hvati je oko 470 m, gotovo kao 471 m na današnjim kartama.
+- Duž grebena put s nazivom **„Eugens Weg”**, Eugenov put.
+- Dunav sa ostrvima i rukavcima, a na drugoj obali Futog i Novi Sad.
 
 ## Specijalna karta 1:75.000, izdanje iz 1915.
 
@@ -36,22 +53,8 @@ Generalnu kartu Srednje Evrope u razmeri 1:200.000 izradio je Vojnogeografski in
 - Preko Dunava Futog je upisan dva puta, kao „O-Futtak“ i „Uj-Futtak“ (Stari i Novi Futog), a strelica pokazuje „zu Neusatz“ – ka Novom Sadu.
 - **Novog Rakovca još nema.** Nastao je posle Drugog svetskog rata, kada staro selo nije obnovljeno.
 
-## Specijalna karta Ugarske 1:144.000, izdanje 1877.
-
-Presavijeni list **Spezialkarte des Königreiches Ungarn** (Specijalne karte Kraljevine Ugarske) iz jedne privatne zbirke u Rakovcu. Vojnogeografski institut u Beču gravirao je ovu seriju u bakru na osnovu Drugog vojnog premera i izdao je u 141 listu od 1869. do 1881, u razmeri 1:144.000 ([Hungaricana](https://maps.hungaricana.hu/en/HTITerkeptar/454)). Na listu piše „Ausg. 1877” (izdanje 1877) i cena od 70 krajcara; razmernik je u bečkim hvatima i austrijskim poštanskim miljama.
-
-{{< oldmap src="/img/map-spezialkarte-1877.jpg" poster="/img/map-spezialkarte-1877-960.jpg" x="693" y="662" size="0,5 MB" alt="Specijalna karta Ugarske 1:144.000, izdanje 1877, list sa Fruškom gorom" >}}List obuhvata središnju Frušku goru od Suseka i Čerevića do Inđije, a u sredini su Novi Sad (*Neusatz*), Petrovaradin (*Peterwardein*) i Karlovci (*Karlowitz*). Fotografija: Konstantin Stein, perspektiva ispravljena.{{< /oldmap >}}
-
-{{< photo key="map-spezialkarte-1877-rakovac" >}}
-
-Šta se oko Rakovca vidi na ovom listu:
-
-- **Rakovac** u svojoj dolini, zapadno Beočin, istočno Ledinci (*Ledince*); Novog Rakovca još nema.
-- Brdo **Gradac** južno od sela.
-- Dunav sa ostrvima i rukavcima, a na drugoj obali Futog i Novi Sad.
-
 ## Još karata
 
-{{< todo >}}Kosta: skenirati kućnu kartu (300–600 dpi, ceo list i krupno Rakovac) i zabeležiti naslov, kartografa, godinu, razmeru i oglas na ZVAB-u gde je pronađena. Još proveriti: Prvi vojni premer iz 1780-ih na Arcanum Maps (uz pretplatu), Drugi vojni premer, generalnu kartu 1:300.000 iz 1877. (Rakovac je na njoj upisan, ali dobar javni sken još nedostaje) i katastarske karte (pitati u Arhivu Vojvodine).{{< /todo >}}
+{{< todo >}}Još proveriti: Prvi vojni premer iz 1780-ih na Arcanum Maps (uz pretplatu), Drugi vojni premer, generalnu kartu 1:300.000 iz 1877. (Rakovac je na njoj upisan, ali dobar javni sken još nedostaje) i katastarske karte (pitati u Arhivu Vojvodine).{{< /todo >}}
 
 Imate li staru kartu, plan ili razglednicu sa Rakovcem? [Javite nam se]({{< relref "author" >}}) – možemo je prikazati ovde uz vaše ime.
