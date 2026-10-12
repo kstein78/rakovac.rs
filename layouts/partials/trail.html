@@ -1,0 +1,18 @@
+{{/* Breadcrumb trail between the home page and the current page (both excluded): the overview page ("hub") of the
+  menu group the page's section belongs to (data/nav.yaml), then the page's own ancestors. Used by the visible
+  breadcrumbs (page-head.html) and the BreadcrumbList in jsonld.html, so both always agree. */}}
+{{ $cur := . }}
+{{ $out := slice }}
+{{ with .FirstSection }}{{ if not .IsHome }}
+  {{ $sec := .Section }}
+  {{ range site.Data.nav.menu }}
+    {{ $g := . }}
+    {{ if and $g.hub (eq (len $out) 0) }}
+      {{ range $g.items }}{{ if and (eq .path $sec) (not .anchor) }}
+        {{ with site.GetPage $g.hub }}{{ if and (ne .RelPermalink $cur.RelPermalink) (ne .Section $sec) (eq (len $out) 0) }}{{ $out = $out | append . }}{{ end }}{{ end }}
+      {{ end }}{{ end }}
+    {{ end }}
+  {{ end }}
+{{ end }}{{ end }}
+{{ range .Ancestors.Reverse }}{{ if not .IsHome }}{{ $out = $out | append . }}{{ end }}{{ end }}
+{{ return $out }}

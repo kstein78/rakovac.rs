@@ -7,9 +7,10 @@
       {{ with site.GetPage "fonts" }}<p class="small"><a href="{{ .RelPermalink }}">{{ i18n "fonts_footer" }} →</a> · <a href="{{ "downloads/rakovac-fonts.zip" | relURL }}" download>ZIP</a></p>{{ end }}
     </div>
     <nav class="footer-nav" aria-label="{{ i18n "aria_sections" }}">
-      {{ range site.Data.nav.menu }}
+      {{ range site.Data.nav.menu | append site.Data.nav.more }}
+      {{ $g := . }}
       <div>
-        <p class="label">{{ i18n .label }}</p>
+        <p class="label">{{ $hub := "" }}{{ with .hub }}{{ $hub = site.GetPage . }}{{ end }}{{ with $hub }}<a href="{{ .RelPermalink }}">{{ i18n $g.label }}</a>{{ else }}{{ i18n .label }}{{ end }}</p>
         <ul class="footer-links">
           {{ range .items }}{{ $it := . }}{{ with site.GetPage .path }}<li><a href="{{ .RelPermalink }}{{ with $it.anchor }}#{{ . }}{{ end }}">{{ with $it.label }}{{ i18n . }}{{ else }}{{ .LinkTitle }}{{ end }}</a></li>{{ end }}{{ end }}
         </ul>

@@ -1,4 +1,7 @@
-# Main menu: groups shown as drop-down lists in the header (and as columns in the footer).
+# Main menu: groups shown as drop-down lists in the header (and as columns in the footer). On phones the groups
+# are folded: the menu shows only the group names, a tap opens one group.
+# "hub" is the overview page of the group (content/<lang>/<hub>/_index.md, type hub): it lists the group's sections
+# with photos, is linked first in the drop-down and appears in the breadcrumbs of the pages of the group.
 # "path" is the section folder under content/<lang>/; the link text is the page's linkTitle.
 # An item may point to an anchor on a page ("anchor") and then needs its own i18n "label".
 # A single page (not a section) can be listed too; "notile: true" keeps it off the home-page section tiles.
@@ -6,6 +9,7 @@
 menu:
   - id: explore
     label: nav_g_explore
+    hub: explore
     items:
       - { path: history }
       - { path: nature }
@@ -15,12 +19,14 @@ menu:
       - { path: gallery }
   - id: do
     label: nav_g_do
+    hub: activities
     items:
       - { path: routes }
       - { path: kids }
       - { path: map }
   - id: stay
     label: nav_g_stay
+    hub: stay-eat
     items:
       - { path: stay }
       - { path: eat-drink }
@@ -28,6 +34,7 @@ menu:
       - { path: shops }
   - id: info
     label: nav_g_info
+    hub: useful
     items:
       - { path: useful }
       - { path: useful, anchor: bus, label: bus_title }
@@ -35,11 +42,17 @@ menu:
       - { path: useful, anchor: weather, label: weather_title }
       - { path: useful, anchor: air, label: air_title }
       - { path: useful, anchor: danube, label: danube_title }
-      - { path: business }
-      - { path: support }
-      - { path: fonts }
-      - { path: about }
-      - { path: author }
+# Pages about the site itself: not in the header menu (to keep it short, especially on phones), but in the footer
+# and on the home-page tiles as before, so they stay linked from every page.
+more:
+  id: site
+  label: nav_g_site
+  items:
+    - { path: business }
+    - { path: support }
+    - { path: fonts }
+    - { path: about }
+    - { path: author }
 direct:
   - { path: news }
   - { path: map }

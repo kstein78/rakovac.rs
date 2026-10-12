@@ -34,9 +34,13 @@
       {{ $g := . }}
       {{ $active := false }}
       {{ range .items }}{{ with site.GetPage .path }}{{ if or (and .IsSection (eq $cur.Section .Section)) (eq $cur.RelPermalink .RelPermalink) }}{{ $active = true }}{{ end }}{{ end }}{{ end }}
+      {{ with .hub }}{{ with site.GetPage . }}{{ if eq $cur.RelPermalink .RelPermalink }}{{ $active = true }}{{ end }}{{ end }}{{ end }}
       <li class="nav-group{{ if $active }} is-active{{ end }}">
         <button type="button" class="nav-group-btn" aria-expanded="false" aria-controls="nav-{{ .id }}">{{ i18n .label }}<svg viewBox="0 0 12 12" width="10" height="10" aria-hidden="true"><path d="M2 4l4 4 4-4" fill="none" stroke="currentColor" stroke-width="1.6"/></svg></button>
         <ul class="nav-panel" id="nav-{{ .id }}">
+          {{ if and .hub (ne .hub (index .items 0).path) }}{{ with site.GetPage .hub }}
+          <li class="nav-hub"><a href="{{ .RelPermalink }}" {{ if eq $cur.RelPermalink .RelPermalink }}aria-current="page"{{ end }}>{{ i18n "nav_overview" }} →</a></li>
+          {{ end }}{{ end }}
           {{ range .items }}
           {{ $it := . }}
           {{ with site.GetPage .path }}

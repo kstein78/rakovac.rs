@@ -4,6 +4,9 @@ document.addEventListener('DOMContentLoaded', function () {
   if (t && nav) t.addEventListener('click', function () {
     var open = nav.classList.toggle('open');
     t.setAttribute('aria-expanded', open ? 'true' : 'false');
+    // phones: the groups are folded; open the one the current page belongs to
+    var act = nav.querySelector('.nav-group.is-active');
+    if (open && act) setTimeout(function () { if (!act.classList.contains('open')) act.querySelector('.nav-group-btn').click(); }, 0);
   });
   document.querySelectorAll('.video[data-yt] .video-consent').forEach(function (btn) {
     btn.addEventListener('click', function () {

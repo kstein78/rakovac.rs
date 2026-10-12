@@ -1,0 +1,30 @@
+{{ define "main" }}
+{{/* Overview page of a menu group (data/nav.yaml "hub"): short intro, then the group's sections as cards with a photo
+  (the section's own photo, or the first page inside it that has one). */}}
+{{ partial "page-head.html" . }}
+{{ with .Content }}<div class="wrap page-body"><div class="prose">{{ . }}</div></div>{{ end }}
+{{ $hub := . }}
+{{ range site.Data.nav.menu }}{{ if eq .hub $hub.Section }}
+<section class="wrap listing">
+  <div class="cards">
+    {{ range .items }}{{ if not .anchor }}{{ with site.GetPage .path }}
+    {{ $p := . }}
+    {{ $key := .Params.photo | default .Params.cover }}
+    {{ if not $key }}{{ range .Pages.ByWeight }}{{ if and (not $key) (or .Params.photo .Params.cover) }}{{ $key = .Params.photo | default .Params.cover }}{{ end }}{{ end }}{{ end }}
+    {{ $ph := index site.Data.photos ($key | default "") }}
+    <article class="card{{ if $ph }} has-photo{{ end }}">
+      {{ with $ph }}{{ $src := .src }}{{ if not (hasPrefix $src "http") }}{{ $src = $src | relURL }}{{ end }}
+      <a class="card-img" href="{{ $p.RelPermalink }}" tabindex="-1" aria-hidden="true"><img src="{{ $src }}" alt="{{ index . (printf "alt_%s" site.Language.Lang) | default .alt }}"{{ with .position }} style="object-position: {{ . | safeCSS }}"{{ end }} loading="lazy" decoding="async"></a>
+      {{ else }}
+      <a class="card-img card-img-empty cat-none" href="{{ $p.RelPermalink }}" tabindex="-1" aria-hidden="true"><span>{{ $p.LinkTitle }}</span></a>
+      {{ end }}
+      <div class="card-body">
+        <h3><a href="{{ $p.RelPermalink }}">{{ $p.Title }}</a></h3>
+        {{ with $p.Params.tile | default $p.Params.summary }}<p>{{ . | markdownify }}</p>{{ end }}
+      </div>
+    </article>
+    {{ end }}{{ end }}{{ end }}
+  </div>
+</section>
+{{ end }}{{ end }}
+{{ end }}
