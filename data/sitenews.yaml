@@ -1,7 +1,8 @@
 # "New on the site" news feed (rakovac.rs/<lang>/news/ and the home page).
 # One line per NEW page or NEW photo album, never for photos or corrections added to an existing page.
 # Title, lead and cover come from that page in each language (summary/lead, photo/share_photo/first album photo).
-# Optional: lead_en / lead_ru … to override the text of the news card.
+# Optional: cover: <photo key> (when the page has no photo of its own), lead_en / lead_ru … to override the text,
+# top: true to make it the lead story on the home page (by default the newest LOCAL story leads).
 - { page: nearby/besenovo-lake, date: 2026-10-10 }
 - { page: kids/swimming, date: 2026-10-10 }
 - { page: nearby/petrovaradin-fortress, date: 2026-10-01 }
@@ -12,6 +13,6 @@
 - { page: kids/quest, date: 2026-09-29 }
 - { page: gallery, date: 2026-09-29 }
 - { page: history/photos, date: 2026-09-28 }
-- { page: fonts, date: 2026-09-28 }
+- { page: fonts, date: 2026-09-28, cover: identity-cover }
 - { page: history/maps, date: 2026-09-27 }
 - { page: nearby/vrdnicka-kula, date: 2026-09-27 }
