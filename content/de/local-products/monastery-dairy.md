@@ -37,7 +37,7 @@ Bitte nur tagsüber anrufen. Das Kloster hat seinen eigenen Tagesablauf: Morgens
 
 **Milch** gibt es dort oder auf dem Hof: Fahren Sie auf der Straße, die links um das Kloster bergauf führt. Gleich hinter der Klostermauer kommt ein Maschendrahttor mit einem kleinen Parkplatz davor. Ist das Tor zu, ist wahrscheinlich niemand da: Die Mönche sind beim Gottesdienst. Ist es offen, fahren Sie den Weg hinauf zum dunkelbraunen Kuhstall und fragen nach Vater Emilijan oder Vater Sava.
 
-{{< photos "monastery-farm-cows monastery-farm-cowshed" >}}
+{{< photo key="monastery-farm-cowshed" >}}
 
 ## Zur Milch
 

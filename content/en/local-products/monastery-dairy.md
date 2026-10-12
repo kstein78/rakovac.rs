@@ -37,7 +37,7 @@ Please call only during the day. The monastery keeps its own rhythm: in the morn
 
 **Milk** is sold there too, or at the farm: take the road that climbs round the left side of the monastery. Just past the monastery wall there is a chain-link metal gate with a small parking place in front of it. If the gate is closed, nobody is there: the monks are probably at a service. If it is open, drive up the track to the dark brown cowshed and ask for Father Emilijan or Father Sava.
 
-{{< photos "monastery-farm-cows monastery-farm-cowshed" >}}
+{{< photo key="monastery-farm-cowshed" >}}
 
 ## About the milk
 
