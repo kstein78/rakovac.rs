@@ -1,0 +1,58 @@
+name: Air quality
+
+# Every 30 minutes: reads the SEPA air-quality portal (scripts/air_fetch.py), keeps the stations near Rakovac
+# (Beočin Centar, Novi Sad) and the last 72 hours of Beočin values in air.json, and publishes that file on
+# the branch "air-data" (one commit, overwritten each time). Caddy serves it as https://rakovac.rs/air.json.
+# Between 5 and 8 a.m. Belgrade time the script also checks for poor air at Beočin (index 4 of 6 or worse,
+# or a SEPA alert) and then writes one news item in every language, committed to main (once a day).
+on:
+  schedule:
+    - cron: "7,37 * * * *"
+  push:
+    branches: [main]
+    paths: [scripts/air_fetch.py, .github/workflows/air.yml]
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: air-quality
+  cancel-in-progress: false
+
+jobs:
+  air:
+    runs-on: ubuntu-24.04
+    steps:
+      - uses: actions/checkout@v7
+      - name: Previous air.json (history)
+        run: |
+          mkdir -p air-out
+          git fetch -q origin air-data 2>/dev/null && git show origin/air-data:air.json > air-out/air.json || echo "no previous data"
+      - name: Fetch SEPA data (and the morning check)
+        run: python3 scripts/air_fetch.py air-out --alert
+      - name: Commit a news item if one was written
+        run: |
+          if [ -n "$(git status --porcelain content .translations.json)" ]; then
+            pip install -q pyyaml
+            python3 scripts/sr_cyrl.py
+            git config user.name "rakovac-bot"
+            git config user.email "actions@users.noreply.github.com"
+            git add content .translations.json
+            git commit -qm "News: morning air-quality alert for Beočin (SEPA)"
+            git pull -q --rebase origin main
+            git push -q origin HEAD:main
+          else
+            echo "No news."
+          fi
+      - name: Publish air.json on branch air-data
+        env:
+          TOKEN: ${{ github.token }}
+        run: |
+          cd air-out
+          git init -q -b air-data
+          git config user.name "rakovac-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add air.json
+          git commit -qm "Air quality $(date -u +%FT%H:%MZ)"
+          git push -qf "https://x-access-token:${TOKEN}@github.com/${{ github.repository }}.git" air-data

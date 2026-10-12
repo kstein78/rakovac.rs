@@ -49,6 +49,33 @@
 			}
 		}
 	}
+	# Air quality (Useful info page and the header): air.json is made every 30 minutes by the GitHub workflow
+	# .github/workflows/air.yml from the SEPA portal (station Beočin Centar) and kept on the branch "air-data".
+	# Passed through without visitor data; browsers keep it 10 minutes.
+	handle /air.json {
+		rewrite * /kstein78/rakovac.rs/air-data/air.json
+		reverse_proxy https://raw.githubusercontent.com {
+			header_up Host {upstream_hostport}
+			header_up -X-Forwarded-For
+			header_up -X-Forwarded-Host
+			header_up -X-Forwarded-Proto
+			header_up -X-Real-IP
+			header_up -Cookie
+			header_up -Referer
+			header_up -Origin
+			header_up User-Agent "rakovac.rs air quality"
+			header_down -Set-Cookie
+			header_down -Access-Control-Allow-Origin
+			header_down -Content-Security-Policy
+			header_down Content-Type "application/json; charset=utf-8"
+			header_down Cache-Control "public, max-age=600"
+			header_down X-Robots-Tag "noindex"
+			transport http {
+				dial_timeout 3s
+				response_header_timeout 5s
+			}
+		}
+	}
 	# Danube level for the Useful info page (site.js): the official RHMZ report page for the Novi Sad gauge
 	# (station 42035), passed through the same way, without visitor data. Kept 30 minutes (RHMZ reports daily).
 	handle /danube.html {

@@ -198,3 +198,4 @@ Kamenolom memorial, on site (Kosta's photos, 2026-09): introductory plaque text 
 | Kosta owns the original sheet "Neusatz und Peterwardein" (cloth cover, label H.14, km strip glued on), bought by him; 2 scans stitched; marked "Ausg. 1877", price 70 kr, scale bar in Wiener Klafter and Austrian post miles; Rakovac, Beočin, Ledince, Gradac legible | A | photo by Kosta, 2026-10-12 (read from the sheet) |
 | Monastery farm cowshed photos (2) | A | Kosta, 2026-10-12 |
 | On the 1877 sheet: "Kls." sign above Rakovac; Gradac 248 (Viennese fathoms; 248 × 1.8965 m ≈ 470 m, cf. 471 m today); ridge road labelled "Eugens Weg" | A | read from Kosta's scan, 2026-10-12 |
+| SEPA air portal: station Beočin Centar (id 4), ~4 km from Rakovac; data embedded in vazduh.sepa.gov.rs as window.PORTAL_MOBILE_CONFIG (index 1–6, index_label, measurement_interval_label, dominant_component, has_alert); colours = European AQI scale | B | vazduh.sepa.gov.rs, read 2026-10-12 |
