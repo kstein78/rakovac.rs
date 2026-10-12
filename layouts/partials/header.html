@@ -19,6 +19,11 @@
         <svg class="wx-ico" width="18" height="18" aria-hidden="true"><use href="#wx-sun"/></svg>
         <span class="wx-t"></span><span class="wx-c"></span><span class="wx-w"></span>
       </a>
+      <a class="aq" href="{{ .RelPermalink }}#air" data-aq hidden
+         data-l='{{ dict "air" (i18n "air_short") "n1" (i18n "air_1") "n2" (i18n "air_2") "n3" (i18n "air_3") "n4" (i18n "air_4") "n5" (i18n "air_5") "n6" (i18n "air_6") | jsonify }}'>
+        <svg class="aq-ico" viewBox="0 0 24 24" width="16" height="16" aria-hidden="true"><path class="aq-leaf" d="M5 19c0-8 5-14 15-15-1 10-7 15-15 15z"/><path d="M5 19c3-5 6-8 10-10" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round"/></svg>
+        <span class="aq-t"></span><span class="aq-n"></span>
+      </a>
       {{ end }}
     </div>
   </div>

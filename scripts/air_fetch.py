@@ -110,8 +110,8 @@ def main():
 NAMES = {
     'en': ['good', 'fair', 'moderate', 'poor', 'very poor', 'extremely poor'],
     'ru': ['хорошее', 'приемлемое', 'умеренное', 'плохое', 'очень плохое', 'крайне плохое'],
-    'sr': ['dobar', 'prihvatljiv', 'umeren', 'loš', 'veoma loš', 'izuzetno loš'],
-    'de': ['gut', 'mäßig gut', 'mäßig', 'schlecht', 'sehr schlecht', 'extrem schlecht'],
+    'sr': ['dobar', 'prihvatljiv', 'umeren', 'zagađen', 'veoma zagađen', 'izuzetno zagađen'],
+    'de': ['gut', 'akzeptabel', 'mäßig', 'schlecht', 'sehr schlecht', 'extrem schlecht'],
     'hu': ['jó', 'elfogadható', 'mérsékelt', 'rossz', 'nagyon rossz', 'rendkívül rossz'],
 }
 TXT = {
@@ -121,8 +121,8 @@ TXT = {
     'ru': ('Плохой воздух в Беочине этим утром', 'В {time} качество воздуха на станции SEPA «Беочин Центар» — **{name}** ({idx} из 6).{dom}',
            'Основной загрязнитель: {pn}, {pv} {pu}.', 'Людям с астмой, болезнями сердца и лёгких, а также маленьким детям и пожилым сегодня лучше не проводить долго время на улице и не нагружаться, а окна держать закрытыми, пока воздух плохой. Текущие значения: [Полезное → Качество воздуха]({useful}) и на [портале SEPA](https://vazduh.sepa.gov.rs/).',
            'Сообщение создано автоматически по измерениям Агентства по охране окружающей среды Сербии (SEPA). Значения часовые и ещё не проверены.'),
-    'sr': ('Loš vazduh u Beočinu jutros', 'U {time} kvalitet vazduha na stanici SEPA „Beočin Centar” bio je **{name}** ({idx} od 6).{dom}',
-           'Glavni zagađivač: {pn}, {pv} {pu}.', 'Osobe sa astmom i bolestima srca i pluća, kao i mala deca i stariji, danas treba da izbegavaju duži boravak i napor napolju, a prozore držite zatvorenim dok je vazduh loš. Trenutne vrednosti: [Korisno → Kvalitet vazduha]({useful}) i na [portalu SEPA](https://vazduh.sepa.gov.rs/).',
+    'sr': ('Zagađen vazduh u Beočinu jutros', 'U {time} kvalitet vazduha na stanici SEPA „Beočin Centar” bio je **{name}** ({idx} od 6).{dom}',
+           'Glavni zagađivač: {pn}, {pv} {pu}.', 'Osobe sa astmom i bolestima srca i pluća, kao i mala deca i stariji, danas treba da izbegavaju duži boravak i napor napolju, a prozore držite zatvorenim dok je vazduh zagađen. Trenutne vrednosti: [Korisno → Kvalitet vazduha]({useful}) i na [portalu SEPA](https://vazduh.sepa.gov.rs/).',
            'Ova poruka je napravljena automatski na osnovu merenja Agencije za zaštitu životne sredine (SEPA). Vrednosti su satne i još nisu verifikovane.'),
     'de': ('Schlechte Luft in Beočin heute Morgen', 'Um {time} war die Luftqualität an der SEPA-Station Beočin Centar **{name}** ({idx} von 6).{dom}',
            'Hauptschadstoff: {pn}, {pv} {pu}.', 'Wer Asthma oder Herz- und Lungenerkrankungen hat, sowie kleine Kinder und ältere Menschen sollten heute lange oder anstrengende Aktivitäten im Freien meiden; halten Sie die Fenster geschlossen, solange die Luft schlecht ist. Aktuelle Werte: [Nützliches → Luftqualität]({useful}) und im [SEPA-Portal](https://vazduh.sepa.gov.rs/).',

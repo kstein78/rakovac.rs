@@ -118,6 +118,15 @@ p { margin: 0 0 1em; }
 .wx-c, .wx-w { color: var(--forest-muted); }
 .wx-c::before, .wx-w::before { content: "· "; }
 @media (max-width: 860px) { .wx-w { display: none; } }
+.header-sub .wx { margin-left: auto; }
+/* Air quality next to the weather: a leaf filled with the SEPA index colour */
+.aq { display: inline-flex; align-items: center; gap: .3em; color: var(--forest-muted); text-decoration: none; font-size: .82rem; white-space: nowrap; border-bottom: 1px solid transparent; }
+.aq[hidden] { display: none; }
+.aq:hover, .aq:focus-visible { border-bottom-color: var(--temp); color: var(--forest-ink); }
+.aq-ico { flex: none; width: 1.2em; height: 1.2em; color: var(--forest-ink); }
+.aq-leaf { fill: currentColor; stroke: rgb(0 0 0 / .25); stroke-width: .6; }
+.aq-bad { color: var(--forest-ink); font-weight: 600; }
+.aq-n { display: none; }
 .header-tools { display: flex; align-items: center; gap: .75rem; }
 .langs { display: flex; gap: .15rem; }
 .langs a { color: var(--forest-muted); text-decoration: none; font-size: .8rem; font-weight: 600; padding: .2rem .4rem; border-radius: 4px; }
@@ -148,6 +157,9 @@ p { margin: 0 0 1em; }
   .header-tools { order: 2; }
   .wx { font-size: .76rem; }
   .wx-c { display: none; }
+  .aq .aq-t { display: none; }
+  .aq-bad .aq-n { display: inline; }
+  .header-sub { gap: .5rem; }
   .header-tools { gap: .4rem; margin-left: auto; }
   .langs { gap: 0; }
   .langs a { font-size: .74rem; padding: .2rem .28rem; }
@@ -333,6 +345,13 @@ p { margin: 0 0 1em; }
 .windy { margin: 0 0 .5rem; height: clamp(240px, 26vw, 320px); border-radius: var(--radius); overflow: hidden; background: var(--forest); }
 .windy.is-on { height: clamp(480px, 62vw, 600px); }
 .windy iframe { width: 100%; height: 100%; border: 0; display: block; }
+.air { margin: 0 0 .6rem; }
+.air[hidden], .air-alert[hidden] { display: none; }
+.air p { margin: 0 0 .3rem; }
+.air-badge { display: inline-block; font-family: var(--font-display); font-size: 1.5rem; line-height: 1.1; padding: .1em .45em .15em; border-radius: 6px; margin-right: .4rem; background: var(--line); }
+.air-meta { color: var(--muted); font-size: .92rem; }
+.air-comp { font-variant-numeric: tabular-nums; }
+.air-alert { border-left: 3px solid #ff5050; padding-left: .6rem; }
 .danube { margin: 0 0 .6rem; }
 .danube[hidden] { display: none; }
 .danube p { margin: 0 0 .3rem; }

@@ -63,6 +63,73 @@ document.addEventListener('DOMContentLoaded', function () {
       wx.hidden = false;
     }).catch(function () {});
   }
+  // Air quality (header leaf + Useful info #air): /air.json is made every 30 minutes by a GitHub workflow from the
+  // SEPA portal and served by our own server. Index 1–6 (European scale, SEPA colours). Hidden if missing or stale.
+  var aq = document.querySelector('[data-aq]'), ab = document.querySelector('[data-air]');
+  if ((aq || ab) && window.fetch) {
+    fetch('/air.json').then(function (r) { return r.ok ? r.json() : null; }).then(function (d) {
+      var st = d && d.stations && d.stations.filter(function (s) { return s.index >= 1 && s.index <= 6; });
+      if (!st || !st.length) return;
+      var off = (String(d.fetched || '').match(/[+-]\d{2}:\d{2}$/) || ['+01:00'])[0];
+      // "12.10.2026. 11:00 - 11:59" (Belgrade time) -> end of the measured hour
+      var when = function (s) {
+        var m = String(s.interval || '').match(/(\d{2})\.(\d{2})\.(\d{4})\.?\s+(\d{2}:\d{2})\s*-\s*(\d{2}:\d{2})/);
+        if (!m) return null;
+        return { end: Date.parse(m[3] + '-' + m[2] + '-' + m[1] + 'T' + m[5] + ':59' + off), from: m[4], to: m[5], day: m[1] + '.' + m[2] + '.' };
+      };
+      var fresh = function (s) { var w = when(s); return w && Date.now() - w.end < 4 * 3600 * 1000 ? w : null; };
+      var main = st.filter(function (s) { return s.id === 4; })[0];
+      var w = main && fresh(main);
+      if (!w) return;
+      var lang = document.documentElement.lang || 'en', loc = lang === 'cyr' ? 'sr-Cyrl' : lang;
+      // Cyrillic pages: station names come in Latin from SEPA
+      var cyr = function (t) {
+        if (!/^(sr-Cyrl|cyr|ru)$/.test(lang)) return t;
+        var two = { 'Lj': 'Љ', 'Nj': 'Њ', 'Dž': 'Џ', 'lj': 'љ', 'nj': 'њ', 'dž': 'џ' },
+            one = 'AАBБVВGГDДĐЂEЕŽЖZЗIИJЈKКLЛMМNНOОPПRРSСTТĆЋUУFФHХCЦČЧŠШaаbбvвgгdдđђeеžжzзiиjјkкlлmмnнoоpпrрsсtтćћuуfфhхcцčчšш', map = {};
+        for (var i = 0; i < one.length; i += 2) map[one[i]] = one[i + 1];
+        return t.replace(/Lj|Nj|Dž|lj|nj|dž|[A-Za-zĐđŽžĆćČčŠš]/g, function (c) { return two[c] || map[c] || c; });
+      };
+      var fg = function (i) { return i >= 5 ? '#fff' : '#111'; };
+      if (aq) {
+        var La; try { La = JSON.parse(aq.getAttribute('data-l')); } catch (e) { La = null; }
+        if (La) {
+          aq.querySelector('.aq-leaf').style.fill = main.color || '';
+          aq.querySelector('.aq-t').textContent = La.air + ': ' + La['n' + main.index];
+          aq.querySelector('.aq-n').textContent = main.index + '/6';
+          aq.title = La.air + ': ' + La['n' + main.index] + ' (' + main.index + '/6) · ' + cyr(main.name) + ', ' + w.from + '–' + w.to + ' · SEPA';
+          aq.setAttribute('aria-label', aq.title);
+          aq.classList.toggle('aq-bad', main.index >= 4);
+          aq.hidden = false;
+        }
+      }
+      if (ab) {
+        var L; try { L = JSON.parse(ab.getAttribute('data-l')); } catch (e) { return; }
+        var nf = new Intl.NumberFormat(loc, { maximumFractionDigits: 1 });
+        var badge = ab.querySelector('.air-badge');
+        badge.textContent = L['n' + main.index];
+        badge.style.background = main.color || '';
+        badge.style.color = fg(main.index);
+        var today = new Date(w.end).toDateString() === new Date().toDateString();
+        ab.querySelector('.air-meta').textContent = main.index + ' ' + L.of + ' · ' + cyr(main.name) + ', ' + L.at + ' ' +
+          (today ? '' : w.day + ' ') + w.from + '–' + w.to;
+        var comp = (main.components || []).filter(function (c) { return typeof c.v === 'number'; }).map(function (c) {
+          if (!/^[A-Za-z0-9.]{1,8}$/.test(c.n)) return '';
+          var nm = c.n.replace(/^([A-Za-z]+)([0-9.]+)$/, '$1<sub>$2</sub>'), dom = c.n === (main.dominant || {}).n;
+          return dom ? '<b>' + nm + ' ' + nf.format(c.v) + '</b> (' + L.main + ')' : nm + ' ' + nf.format(c.v);
+        }).filter(Boolean).sort(function (x, y) { return (y.charAt(1) === 'b') - (x.charAt(1) === 'b'); });
+        if (comp.length) ab.querySelector('.air-comp').innerHTML = comp.join(' · ') + ' \u00b5g/m\u00b3';
+        var near = st.filter(function (s) { return s.id !== 4 && fresh(s); }).map(function (s) {
+          return cyr(s.name.replace(/^Novi Sad\s+/, '')) + ' — ' + L['n' + s.index] + ' (' + s.index + ')';
+        });
+        if (near.length) ab.querySelector('.air-near').textContent = L.near + ' ' + near.join(', ');
+        if (main.alert && main.alert_text) {
+          var al = ab.querySelector('.air-alert'); al.textContent = L.alert + ' ' + main.alert_text; al.hidden = false;
+        }
+        ab.hidden = false;
+      }
+    }).catch(function () {});
+  }
   // Danube level at Novi Sad (Useful info): /danube.html is the official RHMZ report page, passed through our own
   // server. We read the numbers by their labels; if anything is missing the block stays hidden (links remain).
   var dn = document.querySelector('[data-danube]');

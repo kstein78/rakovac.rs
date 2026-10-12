@@ -1,0 +1,14 @@
+{{/* Air quality under the weather on Useful info. site.js reads /air.json (made every 30 min from the SEPA portal
+  by .github/workflows/air.yml, served by Caddy) and fills the block; without data only the links show. */}}
+<section class="wrap useful-group" id="air">
+  <h2>{{ i18n "air_title" }}</h2>
+  <div class="air" data-air hidden
+       data-l='{{ dict "n1" (i18n "air_1") "n2" (i18n "air_2") "n3" (i18n "air_3") "n4" (i18n "air_4") "n5" (i18n "air_5") "n6" (i18n "air_6") "main" (i18n "air_main") "of" (i18n "air_of") "near" (i18n "air_near") "alert" (i18n "air_alert") "at" (i18n "air_at") | jsonify }}'>
+    <p class="air-now"><span class="air-badge"></span> <span class="air-meta"></span></p>
+    <p class="air-comp small"></p>
+    <p class="air-near small muted"></p>
+    <p class="air-alert" hidden></p>
+  </div>
+  <p class="prose-width small muted">{{ i18n "air_note" }}</p>
+  <p class="small muted"><a href="https://vazduh.sepa.gov.rs/" rel="noopener">{{ i18n "air_src" }}</a></p>
+</section>

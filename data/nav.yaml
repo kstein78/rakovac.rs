@@ -33,6 +33,7 @@ menu:
       - { path: useful, anchor: bus, label: bus_title }
       - { path: nearby/ferry-beocin-futog, notile: true }
       - { path: useful, anchor: weather, label: weather_title }
+      - { path: useful, anchor: air, label: air_title }
       - { path: useful, anchor: danube, label: danube_title }
       - { path: business }
       - { path: support }
