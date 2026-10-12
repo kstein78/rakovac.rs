@@ -7,9 +7,9 @@
 {{ range site.Data.nav.menu }}{{ if eq .hub $hub.Section }}
 <section class="wrap listing">
   <div class="cards">
-    {{ range .items }}{{ if not .anchor }}{{ with site.GetPage .path }}
+    {{ range .items }}{{ $it := . }}{{ if not .anchor }}{{ with site.GetPage .path }}
     {{ $p := . }}
-    {{ $key := .Params.photo | default .Params.cover }}
+    {{ $key := .Params.photo | default .Params.cover | default $it.photo }}
     {{ if not $key }}{{ range .Pages.ByWeight }}{{ if and (not $key) (or .Params.photo .Params.cover) }}{{ $key = .Params.photo | default .Params.cover }}{{ end }}{{ end }}{{ end }}
     {{ $ph := index site.Data.photos ($key | default "") }}
     <article class="card{{ if $ph }} has-photo{{ end }}">

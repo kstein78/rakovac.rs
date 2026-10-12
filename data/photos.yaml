@@ -1843,3 +1843,15 @@ identity-cover:
   alt_cyr: "Натпис „Раковац”: слово-грб Р фонта Rakovac Capital и остатак речи фонтом Rakovac Common"
   alt_de: "Der Schriftzug „Rakovac“: das Wappen-R der Schrift Rakovac Capital, der Rest des Namens in Rakovac Common"
   alt_hu: "A „Rakovac” felirat: a Rakovac Capital betűtípus címeres R betűje, a név többi része Rakovac Common betűvel"
+map-preview:
+  src: img/map-preview.jpg
+  author: "OpenStreetMap contributors"
+  license: "ODbL, © OpenStreetMap contributors"
+  page: https://www.openstreetmap.org/copyright
+  alt: "Map of Rakovac, Beočin, Ledinci and the Danube opposite Novi Sad with the places from this site marked as coloured dots"
+  temp: false
+  alt_ru: "Карта Раковца, Беочина, Лединцев и Дуная напротив Нови-Сада, места с этого сайта отмечены цветными точками"
+  alt_sr: "Karta Rakovca, Beočina, Ledinaca i Dunava naspram Novog Sada, mesta sa ovog sajta označena su tačkama u boji"
+  alt_cyr: "Карта Раковца, Беочина, Лединаца и Дунава наспрам Новог Сада, места са овог сајта означена су тачкама у боји"
+  alt_de: "Karte von Rakovac, Beočin, Ledinci und der Donau gegenüber Novi Sad, die Orte dieser Website als farbige Punkte"
+  alt_hu: "Rakovac, Beočin, Ledinci és a Duna térképe Újvidékkel szemben, az oldal helyei színes pontokkal jelölve"

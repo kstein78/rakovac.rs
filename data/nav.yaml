@@ -5,6 +5,7 @@
 # "path" is the section folder under content/<lang>/; the link text is the page's linkTitle.
 # An item may point to an anchor on a page ("anchor") and then needs its own i18n "label".
 # A single page (not a section) can be listed too; "notile: true" keeps it off the home-page section tiles.
+# "photo" (optional) = picture for the item's card on the overview page, when the section has none of its own.
 # "direct" = also shown as a plain link next to the groups.
 menu:
   - id: explore
@@ -23,7 +24,7 @@ menu:
     items:
       - { path: routes }
       - { path: kids }
-      - { path: map }
+      - { path: map, photo: map-preview }
   - id: stay
     label: nav_g_stay
     hub: stay-eat
