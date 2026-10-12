@@ -133,6 +133,24 @@ document.addEventListener('DOMContentLoaded', function () {
       }
     }).catch(function () {});
   }
+  // Share block: copy the link; Instagram and "More" use the phone's share sheet when there is one.
+  var sh = document.querySelector('[data-share]');
+  if (sh) {
+    var S = {}; try { S = JSON.parse(sh.getAttribute('data-share')); } catch (e) {}
+    var msg = sh.querySelector('.share-msg');
+    var say = function (t) { msg.textContent = t; clearTimeout(say.t); say.t = setTimeout(function () { msg.textContent = ''; }, 8000); };
+    var copy = function (done) {
+      var ok = function () { say(done); }, fail = function () { window.prompt('', S.url); };
+      if (navigator.clipboard && window.isSecureContext) navigator.clipboard.writeText(S.url).then(ok, fail); else fail();
+    };
+    var native = navigator.share && /Android|iPhone|iPad|iPod/i.test(navigator.userAgent);
+    sh.querySelector('[data-share-copy]').addEventListener('click', function () { copy(S.copied); });
+    sh.querySelector('[data-share-insta]').addEventListener('click', function () {
+      if (native) navigator.share({ title: S.title, url: S.url }).catch(function () {}); else copy(S.insta);
+    });
+    var more = sh.querySelector('[data-share-more]');
+    if (native) { more.hidden = false; more.addEventListener('click', function () { navigator.share({ title: S.title, url: S.url }).catch(function () {}); }); }
+  }
   // Danube level at Novi Sad (Useful info): /danube.html is the official RHMZ report page, passed through our own
   // server. We read the numbers by their labels; if anything is missing the block stays hidden (links remain).
   var dn = document.querySelector('[data-danube]');

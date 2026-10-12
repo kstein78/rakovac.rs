@@ -1,0 +1,18 @@
+{{/* Share this page: plain links (no third-party scripts, nothing loads until a visitor clicks). Instagram has no web
+  share link: on phones it opens the system share sheet (Instagram is in it), elsewhere it copies the link. */}}
+{{ $u := .Permalink }}{{ $t := .Title }}{{ $ut := printf "%s — %s" $t $u }}
+{{ $eu := replace ($u | urlquery) "+" "%20" }}{{ $et := replace ($t | urlquery) "+" "%20" }}{{ $eut := replace ($ut | urlquery) "+" "%20" }}
+<aside class="wrap share" data-pagefind-ignore aria-label="{{ i18n "share_title" }}"
+       data-share='{{ dict "url" $u "title" $t "copied" (i18n "share_copied") "insta" (i18n "share_insta") | jsonify }}'>
+  <p class="share-label">{{ i18n "share_title" }}</p>
+  <div class="share-row">
+    <a class="share-btn" href="{{ printf "https://www.facebook.com/sharer/sharer.php?u=%s" $eu | safeURL }}" target="_blank" rel="noopener nofollow">Facebook</a>
+    <a class="share-btn" href="{{ printf "https://wa.me/?text=%s" $eut | safeURL }}" target="_blank" rel="noopener nofollow">WhatsApp</a>
+    <a class="share-btn" href="{{ printf "viber://forward?text=%s" $eut | safeURL }}" rel="nofollow">Viber</a>
+    <button type="button" class="share-btn" data-share-insta>Instagram</button>
+    <a class="share-btn" href="{{ printf "https://www.threads.com/intent/post?text=%s&url=%s" $et $eu | safeURL }}" target="_blank" rel="noopener nofollow">Threads</a>
+    <button type="button" class="share-btn share-copy" data-share-copy><svg viewBox="0 0 20 20" width="15" height="15" aria-hidden="true"><path d="M8 12l4-4M7 9.5l-1.8 1.8a2.8 2.8 0 004 4L11 13.5M13 10.5l1.8-1.8a2.8 2.8 0 00-4-4L9 6.5" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round"/></svg>{{ i18n "share_copy" }}</button>
+    <button type="button" class="share-btn" data-share-more hidden>{{ i18n "share_more" }}</button>
+  </div>
+  <p class="share-msg small muted" aria-live="polite"></p>
+</aside>

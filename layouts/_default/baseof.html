@@ -26,6 +26,7 @@
   {{ partial "header.html" . }}
   <main id="main"{{ if not (or (eq .Kind "404") (eq .Section "search")) }} data-pagefind-body{{ end }}>
     {{ block "main" . }}{{ end }}
+    {{ if not (or .IsHome (eq .Kind "404") (eq .Section "search")) }}{{ partial "share.html" . }}{{ end }}
   </main>
   {{ partial "footer.html" . }}
   {{ partial "analytics.html" . }}
