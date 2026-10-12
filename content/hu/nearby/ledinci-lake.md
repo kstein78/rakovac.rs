@@ -7,9 +7,16 @@ summary: Mély, türkizkék tó egy elárasztott kőbányában, az erdőben, Sta
 coords:
 - 45.1653148
 - 19.8041647
+photo: ledinci-lake-quarry-evening
+gallery:
+- ledinci-lake-submerged-trees
+- ledinci-lake-from-above
+- ledinci-lake-cliff
 ---
 
 Stari Ledinci fölött, az erdőben rejtőzik a **Ledinci-tó**, egy türkizkék tó, amely 1999 körül töltötte meg az elhagyott kőbányát. Rakovacból autóval kb. 15 perc, és erdei ösvények is vezetnek felé gyalog.
+
+Anna Romashkina fotói: [A Ledinci-tó képekben]({{< relref "gallery/ledinci-lake" >}}).
 
 {{< note type="warning" title="Jelenleg zárva" >}}A tó nem látogatható. 2025 májusában a területet birtokló kőbányavállalat rekultivációs munkálatok miatt minden látogatást megtiltott, és 2026 augusztusában a helyszínen egy őr még mindig elküldte a vízhez igyekvő látogatókat. Itt fürödni veszélyes: a falak szinte függőlegesek, gyakoriak a kőomlások, a tó pedig kb. 95 m mély. 2006-ban egy kőomlás több fürdőzőt is megsebesített. Kérjük, tartsa tiszteletben a tilalmat.{{< /note >}}
 

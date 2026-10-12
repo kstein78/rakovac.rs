@@ -5,6 +5,25 @@
 {{ define "main" }}
 {{ partial "page-head.html" . }}
 <div class="wrap gal-intro"><div class="prose">{{ .Content }}</div></div>
+{{ with .Pages.ByWeight }}
+<section class="wrap listing gal-albums" data-pagefind-ignore>
+  <h2 class="listing-title">{{ i18n "gallery_albums" }}</h2>
+  <div class="cards">
+    {{ range . }}{{ $p := . }}
+    {{ $key := .Params.share_photo | default (index (index site.Data.albums .Params.album) 0).photo }}
+    {{ $ph := index site.Data.photos $key }}
+    <article class="card has-photo">
+      {{ with $ph }}<a class="card-img" href="{{ $p.RelPermalink }}" tabindex="-1" aria-hidden="true"><img src="{{ printf "img/thumb/%s" (path.Base .src) | relURL }}" alt="{{ index . (printf "alt_%s" site.Language.Lang) | default .alt }}"{{ with .position }} style="object-position: {{ . | safeCSS }}"{{ end }} loading="lazy" decoding="async"></a>{{ end }}
+      <div class="card-body">
+        <p class="kicker">{{ len (index site.Data.albums .Params.album) }} {{ i18n "gallery_photos" }}</p>
+        <h3><a href="{{ .RelPermalink }}">{{ .Title }}</a></h3>
+        {{ with .Params.lead }}<p>{{ . | markdownify }}</p>{{ end }}
+      </div>
+    </article>
+    {{ end }}
+  </div>
+</section>
+{{ end }}
 {{ partial "gallery-grid.html" (dict "items" site.Data.gallery "page" . "filters" true) }}
 {{ partial "photo-call.html" . }}
 {{ end }}
