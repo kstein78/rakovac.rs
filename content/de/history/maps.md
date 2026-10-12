@@ -3,7 +3,7 @@ title: "Alte Karten von Rakovac"
 linkTitle: "Alte Karten"
 kicker: "Karten · 18.–20. Jahrhundert"
 weight: 7
-summary: "Rakovac auf historischen Karten: die detaillierte österreichisch-ungarische Spezialkarte von 1915 und eine Generalkarte von etwa 1910, bald ergänzt durch Karten aus Archiven und Privatsammlungen."
+summary: "Rakovac auf historischen Karten: eine Spezialkarte von 1877 aus einer Privatsammlung, die detaillierte österreichisch-ungarische Spezialkarte von 1915 und eine Generalkarte von etwa 1910, bald ergänzt durch Karten aus Archiven und Privatsammlungen."
 lead: "Alte Karten zeigen das Tal, bevor es Novi Rakovac gab: das Dorf beim Kloster in den Hügeln, eine Bahnlinie entlang der Donau und die Nachbarorte unter den deutschen und ungarischen Namen, die die Kartografen verwendeten."
 photo: map-spezialkarte-1915
 ---
@@ -36,9 +36,21 @@ Was Sie auf diesem Blatt rund um Rakovac finden:
 - Jenseits der Donau erscheint Futog zweimal, als „O-Futtak“ und „Uj-Futtak“ (Alt- und Neu-Futog), und ein Pfeil zeigt „zu Neusatz“, nach Novi Sad.
 - **Novi Rakovac gibt es noch nicht.** Es entstand nach dem Zweiten Weltkrieg, als das alte Dorf nicht wieder aufgebaut wurde.
 
-## Karten aus Privatsammlungen
+## Spezialkarte von Ungarn 1:144.000, Ausgabe 1877
 
-Hier wird bald eine Karte aus einer Privatsammlung in Rakovac gezeigt, zusammen mit ihrer Geschichte.
+Ein gefaltetes Blatt der **Spezialkarte des Königreiches Ungarn** aus einer Privatsammlung in Rakovac. Das Militärgeographische Institut in Wien stach diese Serie auf Grundlage der Zweiten Landesaufnahme in Kupfer und gab sie 1869–1881 in 141 Blättern im Maßstab 1:144.000 heraus ([Hungaricana](https://maps.hungaricana.hu/en/HTITerkeptar/454)). Das Blatt trägt den Vermerk „Ausg. 1877“ und kostete 70 Kreuzer; die Maßleiste ist in Wiener Klaftern und österreichischen Postmeilen angegeben.
+
+{{< oldmap src="/img/map-spezialkarte-1877.jpg" poster="/img/map-spezialkarte-1877-960.jpg" x="693" y="662" size="0,5 MB" alt="Spezialkarte von Ungarn 1:144.000, Ausgabe 1877, Blatt mit der Fruška Gora" >}}Das Blatt zeigt die mittlere Fruška Gora von Susek und Čerević bis Inđija, in der Mitte Novi Sad (*Neusatz*), Petrovaradin (*Peterwardein*) und Karlovci (*Karlowitz*). Foto: Konstantin Stein, Perspektive korrigiert.{{< /oldmap >}}
+
+{{< photo key="map-spezialkarte-1877-rakovac" >}}
+
+Was man rund um Rakovac auf diesem Blatt findet:
+
+- **Rakovac** in seinem Tal, westlich Beočin, östlich Ledinci (*Ledince*); Novi Rakovac gibt es noch nicht.
+- Den Hügel **Gradac** südlich des Dorfes.
+- Die Donau mit Inseln und Seitenarmen, am anderen Ufer Futog und Novi Sad.
+
+## Weitere Karten
 
 {{< todo >}}Kosta: die Karte von zu Hause scannen (300–600 dpi, ganzes Blatt und Rakovac vergrößert) und Titel, Kartograf, Jahr, Maßstab sowie das ZVAB-Angebot notieren, über das sie gefunden wurde. Noch zu prüfen: die Erste Landesaufnahme der 1780er Jahre auf Arcanum Maps (Abonnement), die Zweite Landesaufnahme, die Generalkarte 1:300.000 von 1877 (Rakovac ist darauf eingetragen, ein guter gemeinfreier Scan fehlt noch) und Katasterkarten (im Archiv der Vojvodina nachfragen).{{< /todo >}}
 

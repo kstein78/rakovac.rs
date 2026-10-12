@@ -37,6 +37,8 @@ Molimo zovite samo preko dana. Manastir ima svoj red: ujutru i uveče monasi su 
 
 **Mleko** se prodaje tu ili na imanju: idite putem koji se penje levo oko manastira. Odmah iza manastirske ograde nalazi se metalna kapija od žičane mreže, a ispred nje malo parkiralište. Ako je kapija zatvorena, verovatno nema nikoga: monasi su na bogosluženju. Ako je otvorena, popnite se stazom do tamnosmeđe štale i potražite oca Emilijana ili oca Savu.
 
+{{< photos "monastery-farm-cows monastery-farm-cowshed" >}}
+
 ## O mleku
 
 Mleko se prodaje onakvo kakvo je od krave. Mnogi komšije ga piju sirovo, i deca, ali sigurnije je prokuvati ga, naročito za malu decu, trudnice i starije.

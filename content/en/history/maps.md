@@ -3,7 +3,7 @@ title: "Old maps of Rakovac"
 linkTitle: "Old maps"
 kicker: "Maps · 18th–20th century"
 weight: 7
-summary: "Rakovac on historical maps: the detailed Austro-Hungarian special map of 1915 and a general map from about 1910, with more maps from archives and private collections to come."
+summary: "Rakovac on historical maps: an 1877 special map from a private collection, the detailed Austro-Hungarian special map of 1915 and a general map from about 1910, with more maps from archives and private collections to come."
 lead: "Old maps show the valley before Novi Rakovac existed: the village by the monastery in the hills, a railway along the Danube, and the neighbouring places under the German and Hungarian names the mapmakers used."
 photo: map-spezialkarte-1915
 ---
@@ -36,9 +36,21 @@ What you can find around Rakovac on this sheet:
 - Across the Danube, Futog appears twice, as "O-Futtak" and "Uj-Futtak" (Old and New Futog), and an arrow points "zu Neusatz", towards Novi Sad.
 - **Novi Rakovac is not there yet.** It was built after the Second World War, when the old village was not rebuilt.
 
-## Maps from private collections
+## Special map of Hungary 1:144,000, 1877 edition
 
-A map from a private collection in Rakovac will be added here soon, together with its story.
+A folded sheet of the **Spezialkarte des Königreiches Ungarn** (special map of the Kingdom of Hungary), from a private collection in Rakovac. The Military Geographical Institute in Vienna engraved this series in copper on the basis of the Second Military Survey and published it in 141 sheets between 1869 and 1881, at a scale of 1:144,000 ([Hungaricana](https://maps.hungaricana.hu/en/HTITerkeptar/454)). This sheet is marked "Ausg. 1877" (1877 edition) and was sold for 70 kreuzer; the scale bar is in Viennese fathoms and Austrian post miles.
+
+{{< oldmap src="/img/map-spezialkarte-1877.jpg" poster="/img/map-spezialkarte-1877-960.jpg" x="693" y="662" size="0.5 MB" alt="Special map of Hungary 1:144,000, 1877 edition, Fruška Gora sheet" >}}The sheet covers central Fruška Gora from Susek and Čerević to Inđija, with Novi Sad (*Neusatz*), Petrovaradin (*Peterwardein*) and Karlovci (*Karlowitz*) in the middle. Photo by Konstantin Stein, perspective corrected.{{< /oldmap >}}
+
+{{< photo key="map-spezialkarte-1877-rakovac" >}}
+
+What you can find around Rakovac on this sheet:
+
+- **Rakovac** in its valley, with Beočin to the west and Ledinci (*Ledince*) to the east; Novi Rakovac did not exist yet.
+- The hill **Gradac** south of the village.
+- The Danube with its islands and side arms, and Futog and Novi Sad on the far bank.
+
+## More maps
 
 {{< todo >}}Kosta: scan the home map (300–600 dpi, whole sheet plus a close-up of Rakovac) and note its title, cartographer, year, scale and the ZVAB listing where it was found. Still to check: the First Military Survey of the 1780s on Arcanum Maps (subscription), the Second Military Survey, the general map 1:300,000 of 1877 (Rakovac is marked on it; a good public-domain scan is still missing) and cadastral maps (ask the Archive of Vojvodina).{{< /todo >}}
 

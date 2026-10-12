@@ -1,0 +1,11 @@
+{{/* Home page: latest news (first big, next three compact). */}}
+{{ with site.GetPage "news" }}{{ $n := partial "news-items.html" . }}{{ if $n }}
+<section class="wrap home-news">
+  <h2 class="listing-title"><a href="{{ .RelPermalink }}">{{ i18n "news_latest" }}</a></h2>
+  <div class="home-news-grid">
+    {{ range first 1 $n }}{{ partial "news-card.html" (dict "n" . "big" true) }}{{ end }}
+    <div class="home-news-side">{{ range first 3 (after 1 $n) }}{{ partial "news-card.html" (dict "n" .) }}{{ end }}</div>
+  </div>
+  <p class="news-more"><a href="{{ .RelPermalink }}">{{ i18n "news_all_link" }}</a></p>
+</section>
+{{ end }}{{ end }}

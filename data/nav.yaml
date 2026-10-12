@@ -40,6 +40,7 @@ menu:
       - { path: about }
       - { path: author }
 direct:
+  - { path: news }
   - { path: map }
 
 # Map marker colours per category (front matter "category").

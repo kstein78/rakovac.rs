@@ -8,6 +8,10 @@ photo: village-2026
 
 Rakovac **prnjavorként**, vagyis a kolostor földjeit megművelő jobbágyok településeként indult. Az öreg falu a kolostor körül, a Rakovac-patak völgyében alakult ki.
 
+Az 1877-es osztrák részletes térképen még csak a régi falu látható a völgyében, Beočin és Ledinci között ([további régi térképek]({{< relref "history/maps" >}})).
+
+{{< photo key="map-spezialkarte-1877-rakovac" >}}
+
 Miután az öreg falut 1943-ban felgyújtották, nem ugyanazon a helyen építették újjá. Lejjebb a völgyben, az Újvidék (Novi Sad) és Beočin (Belcsény) közötti főút felé egy új település, **Novi Rakovac** nőtt fel. Később a nevet egyszerűen Rakovacra rövidítették, a régi rész pedig **Stari Rakovac** lett. A következő évtizedekben sok boszniai család telepedett le itt, akiket a beočini cementgyár munkalehetőségei vonzottak. Mivel Újvidék nagyon közel van, a dombokon sok hétvégi ház is épült.
 
 Ma Rakovac Beočin község egyik legnagyobb helyi közössége. Van itt a beočini általános iskola kihelyezett tagozata (1–4. osztály), egy óvodai csoport és jó néhány kis- és középvállalkozás.

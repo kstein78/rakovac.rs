@@ -8,6 +8,10 @@ photo: village-2026
 
 Rakovac je nastao kao **prnjavor**, naselje kmetova koji su obrađivali manastirsku zemlju. Staro selo raslo je oko manastira, u dolini Rakovačkog potoka.
 
+Na austrijskoj specijalnoj karti iz 1877. još postoji samo staro selo u svojoj dolini, između Beočina i Ledinaca ([još starih karata]({{< relref "history/maps" >}})).
+
+{{< photo key="map-spezialkarte-1877-rakovac" >}}
+
 Pošto je staro selo spaljeno 1943, nije obnovljeno na istom mestu. Niže u dolini, prema glavnom putu Novi Sad – Beočin, nastalo je novo naselje, **Novi Rakovac**. Kasnije je ime skraćeno u Rakovac, a stari deo postao je **Stari Rakovac**. Narednih decenija ovde se doselilo mnogo porodica iz Bosne, koje je privukao posao u beočinskoj fabrici cementa. Zbog blizine Novog Sada u brdima je izgrađeno i mnogo vikendica.
 
 Danas je Rakovac jedna od najvećih mesnih zajednica opštine Beočin. Ima izdvojeno odeljenje beočinske osnovne škole (od 1. do 4. razreda), grupu vrtića i dobar broj malih i srednjih preduzeća.

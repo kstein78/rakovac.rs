@@ -14,7 +14,7 @@ facts:
   time: "10 bis 15 Minuten Überfahrt"
 ---
 
-{{< note type="warning" title="Vorher anrufen" >}}Die Fähre **fährt seit Oktober 2026 wieder**: An der Anlegestelle wurde das Flussbett ausgebaggert, um eine Sandbank zu entfernen (siehe unten). Bei Niedrigwasser kann sie trotzdem stillstehen, wie am Samstag, 26. September 2026. Vor einer Fahrt, die von ihr abhängt, rufen Sie [064 28 13 481](tel:+381642813481) an und fragen, ob sie heute fährt. Wenn nicht, bleiben die kleinere Fähre Banoštor – Begeč (siehe unten) oder die Straße über Novi Sad.{{< /note >}}
+{{< note type="warning" title="Vorher anrufen" >}}Die Fähre **fährt seit dem 9. Oktober 2026 wieder** (erste Morgenfahrt ab Beočin um 7:00 Uhr): An der Anlegestelle wurde das Flussbett ausgebaggert, um eine Sandbank zu entfernen (siehe unten). Bei Niedrigwasser kann sie trotzdem stillstehen, wie am Samstag, 26. September 2026. Vor einer Fahrt, die von ihr abhängt, rufen Sie [064 28 13 481](tel:+381642813481) an und fragen, ob sie heute fährt. Wenn nicht, bleiben die kleinere Fähre Banoštor – Begeč (siehe unten) oder die Straße über Novi Sad.{{< /note >}}
 
 Die **Skela** (Fähre) verbindet Beočin am syrmischen Donauufer mit Futog am Ufer der Batschka. Ein Schlepper schiebt einen flachen Ponton, der Autos, Kleinbusse, Radfahrer und Fußgänger mitnimmt. Seit 2003 betreibt ein Familienunternehmen aus Banoštor die Fähre; Betreiber ist das Fuhrunternehmen **„Neptun“** (Prevoznička radnja „Neptun“).
 
@@ -47,7 +47,7 @@ In Beočin legt die Fähre an der Anlegestelle in der Straße **Put ka skeli** a
 
 Im Sommer 2026, als die Donau sehr tief fiel, stand die Fähre Beočin – Futog eine Zeit lang still. Die kleinere Fähre **Jole** zwischen **Banoštor** (Syrmien, flussaufwärts von Beočin) und **Begeč** (Batschka) fuhr auch beim niedrigsten Wasserstand weiter, nimmt aber nur wenige Fahrzeuge mit. Laut Angaben von 2023 fährt sie von 7:00 Uhr (erste Abfahrt ab Banoštor) bis 17:00 Uhr (letzte Abfahrt ab Begeč).
 
-Im Oktober 2026 wurde das Flussbett an der Anlegestelle ausgebaggert, um die Sandbank zu entfernen, und die Fähre fährt wieder (Bericht einer Nachbarin aus Beočin).
+Im Oktober 2026 wurde das Flussbett an der Anlegestelle ausgebaggert, um die Sandbank zu entfernen, und seit dem 9. Oktober fährt die Fähre wieder (Ankündigung in der Facebook-Gruppe [„Sve i svašta Beočin“](https://www.facebook.com/groups/407473320017011/permalink/2333931044037886/); Foto einer Nachbarin aus Beočin).
 
 {{< photo key="ferry-landing-dredged" >}}
 

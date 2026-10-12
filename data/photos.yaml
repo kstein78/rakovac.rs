@@ -1766,3 +1766,47 @@ besenovo-lake-summer:
   alt_cyr: "Врео летњи дан на Бешеновачком језеру: породице се купају у плићаку уз обалу"
   alt_de: "Ein heißer Sommertag am Bešenovo-See: Familien baden im flachen Wasser am Ufer"
   alt_hu: "Forró nyári nap a bešenovói tónál: családok fürdenek a part menti sekély vízben"
+monastery-farm-cows:
+  src: img/monastery-farm-cows.jpg
+  author: "Konstantin Stein"
+  license: "© all rights reserved"
+  alt: "Cows in the cowshed of the Rakovac Monastery farm"
+  temp: false
+  alt_ru: "Коровы в коровнике монастырского хозяйства Раковца"
+  alt_sr: "Krave u štali manastirskog imanja Rakovac"
+  alt_cyr: "Краве у штали манастирског имања Раковац"
+  alt_de: "Kühe im Stall des Klosterhofs von Rakovac"
+  alt_hu: "Tehenek a rakovaci kolostor gazdaságának istállójában"
+monastery-farm-cowshed:
+  src: img/monastery-farm-cowshed.jpg
+  author: "Konstantin Stein"
+  license: "© all rights reserved"
+  alt: "The wooden cowshed of the monastery farm, with the milking line along the ceiling"
+  temp: false
+  alt_ru: "Деревянный коровник монастырского хозяйства, под потолком доильная линия"
+  alt_sr: "Drvena štala manastirskog imanja, sa linijom za mužu duž plafona"
+  alt_cyr: "Дрвена штала манастирског имања, са линијом за мужу дуж плафона"
+  alt_de: "Der hölzerne Kuhstall des Klosterhofs, an der Decke die Melkleitung"
+  alt_hu: "A kolostori gazdaság fa istállója, a mennyezet mentén a fejővezetékkel"
+map-spezialkarte-1877:
+  src: img/map-spezialkarte-1877.jpg
+  author: "Konstantin Stein (photo, perspective corrected)"
+  license: "Map: public domain (1877); photo: © all rights reserved"
+  alt: "Special map of the Kingdom of Hungary 1:144,000, 1877 edition: Fruška Gora between Futog, Novi Sad and Inđija"
+  temp: false
+  alt_ru: "Специальная карта Венгерского королевства 1:144 000, издание 1877 года: Фрушка-Гора между Футогом, Нови-Садом и Инджией"
+  alt_sr: "Specijalna karta Kraljevine Ugarske 1:144.000, izdanje 1877: Fruška gora između Futoga, Novog Sada i Inđije"
+  alt_cyr: "Специјална карта Краљевине Угарске 1:144.000, издање 1877: Фрушка гора између Футога, Новог Сада и Инђије"
+  alt_de: "Spezialkarte des Königreiches Ungarn 1:144.000, Ausgabe 1877: die Fruška Gora zwischen Futog, Novi Sad und Inđija"
+  alt_hu: "A Magyar Királyság részletes térképe 1:144 000, 1877-es kiadás: a Fruška Gora Futak, Újvidék és India között"
+map-spezialkarte-1877-rakovac:
+  src: img/map-spezialkarte-1877-rakovac.jpg
+  author: "Konstantin Stein (photo, perspective corrected)"
+  license: "Map: public domain (1877); photo: © all rights reserved"
+  alt: "Detail of the 1877 special map: Rakovac in the hills between Beočin and Ledinci, below the Danube"
+  temp: false
+  alt_ru: "Фрагмент специальной карты 1877 года: Раковац в холмах между Беочином и Лединци, ниже Дуная"
+  alt_sr: "Isečak specijalne karte iz 1877: Rakovac u brdima između Beočina i Ledinaca, ispod Dunava"
+  alt_cyr: "Исечак специјалне карте из 1877: Раковац у брдима између Беочина и Лединаца, испод Дунава"
+  alt_de: "Ausschnitt der Spezialkarte von 1877: Rakovac in den Hügeln zwischen Beočin und Ledinci, unterhalb der Donau"
+  alt_hu: "Részlet az 1877-es részletes térképről: Rakovac a dombok között Beočin és Ledinci között, a Duna alatt"

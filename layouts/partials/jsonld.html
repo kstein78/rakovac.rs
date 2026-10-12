@@ -12,7 +12,7 @@
 {{ $d = truncate 300 "…" $d }}
 {{ $author := dict "@type" "Person" "name" "Konstantin Stein" "url" site.Params.authorSite }}
 {{ $img := "" }}
-{{ with index site.Data.photos (.Params.photo | default .Params.portrait | default "") }}{{ $img = cond (hasPrefix .src "http") .src (.src | absURL) }}{{ end }}
+{{ with index site.Data.photos (.Params.photo | default .Params.cover | default .Params.portrait | default "") }}{{ $img = cond (hasPrefix .src "http") .src (.src | absURL) }}{{ end }}
 {{ $graph := slice }}
 {{ if .IsHome }}
   {{ $graph = $graph | append (dict "@type" "WebSite" "@id" (printf "%s#website" $home.Permalink) "name" $brand "alternateName" (slice "Rakovac" "Раковац" "rakovac.rs") "url" $home.Permalink "inLanguage" site.Language.LanguageCode "description" site.Language.Params.description "publisher" $author) }}
@@ -50,7 +50,7 @@
     {{ with $img }}{{ $p = merge $p (dict "image" .) }}{{ end }}
     {{ $graph = $graph | append $p }}
   {{ else if and .IsPage (not (in (slice "map" "fonts" "gallery") .Section)) }}
-    {{ $a := dict "@type" "Article" "headline" .Title "description" $d "inLanguage" site.Language.LanguageCode "mainEntityOfPage" .Permalink "author" $author "publisher" $author }}
+    {{ $a := dict "@type" (cond (eq .Section "news") "NewsArticle" "Article") "headline" .Title "description" $d "inLanguage" site.Language.LanguageCode "mainEntityOfPage" .Permalink "author" $author "publisher" $author }}
     {{ with $img }}{{ $a = merge $a (dict "image" .) }}{{ end }}
     {{ if not .Lastmod.IsZero }}{{ $a = merge $a (dict "dateModified" (.Lastmod.Format "2006-01-02")) }}{{ end }}
     {{ if not .Date.IsZero }}{{ $a = merge $a (dict "datePublished" (.Date.Format "2006-01-02")) }}{{ end }}

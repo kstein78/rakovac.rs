@@ -1,0 +1,17 @@
+{{/* All news of the current language, newest first, as a list of dicts:
+  date, feed (local|site), title, lead, cover (photo key), url.
+  local = pages in content/<lang>/news/; site = data/sitenews.yaml (new pages and albums). */}}
+{{ $items := slice }}
+{{ with site.GetPage "news" }}{{ range .Pages }}
+  {{ $items = $items | append (dict "date" .Date "feed" (.Params.feed | default "local") "title" .Title "lead" .Params.lead "cover" .Params.cover "url" .RelPermalink) }}
+{{ end }}{{ end }}
+{{ range site.Data.sitenews }}
+  {{ $e := . }}
+  {{ with site.GetPage .page }}
+    {{ $cover := .Params.photo | default .Params.share_photo | default "" }}
+    {{ if not $cover }}{{ with .Params.album }}{{ with index site.Data.albums . }}{{ $cover = (index . 0).photo }}{{ end }}{{ end }}{{ end }}
+    {{ $lead := index $e (printf "lead_%s" site.Language.Lang) | default .Params.summary | default .Params.lead }}
+    {{ $items = $items | append (dict "date" (time $e.date) "feed" "site" "title" .Title "lead" $lead "cover" $cover "url" .RelPermalink) }}
+  {{ end }}
+{{ end }}
+{{ return sort $items "date" "desc" }}

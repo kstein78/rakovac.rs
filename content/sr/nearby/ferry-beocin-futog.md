@@ -14,7 +14,7 @@ facts:
   time: "Prelaz 10 do 15 minuta"
 ---
 
-{{< note type="warning" title="Pozovite pre polaska" >}}Skela **ponovo radi od oktobra 2026**: kod pristaništa je iskopano dno da bi se uklonio sprud (vidi dole). Pri niskom vodostaju ipak može da stane, kao u subotu, 26. septembra 2026. Pre puta koji zavisi od nje pozovite [064 28 13 481](tel:+381642813481) i proverite da li danas radi. Ako ne radi, ostaju manja skela Banoštor – Begeč (vidi dole) ili put preko Novog Sada.{{< /note >}}
+{{< note type="warning" title="Pozovite pre polaska" >}}Skela **ponovo radi od 9. oktobra 2026** (prvi jutarnji polazak u 7 časova iz Beočina): kod pristaništa je iskopano dno da bi se uklonio sprud (vidi dole). Pri niskom vodostaju ipak može da stane, kao u subotu, 26. septembra 2026. Pre puta koji zavisi od nje pozovite [064 28 13 481](tel:+381642813481) i proverite da li danas radi. Ako ne radi, ostaju manja skela Banoštor – Begeč (vidi dole) ili put preko Novog Sada.{{< /note >}}
 
 **Skela** povezuje Beočin na sremskoj obali Dunava sa Futogom na bačkoj obali. Remorker gura ravni ponton koji prevozi automobile, kombije, bicikliste i pešake. Od 2003. godine skelu drži porodica iz Banoštora; prevoznik je **Prevoznička radnja „Neptun”**.
 
@@ -47,7 +47,7 @@ U Beočinu skela polazi sa pristaništa u ulici **Put ka skeli**, na obali Dunav
 
 Leti 2026, kada je Dunav jako opao, skela Beočin – Futog je neko vreme stajala. Manja skela **Jole** između **Banoštora** (Srem, uzvodno od Beočina) i **Begeča** (Bačka) radila je i pri najnižem vodostaju, ali prima samo nekoliko vozila. Prema podacima iz 2023. vozi od 7.00 (prvi polazak iz Banoštora) do 17.00 (poslednji polazak iz Begeča).
 
-U oktobru 2026. kod pristaništa je iskopano dno da bi se uklonio sprud, i skela je ponovo počela da radi (javila je komšinica iz Beočina).
+U oktobru 2026. kod pristaništa je iskopano dno da bi se uklonio sprud, i skela je ponovo počela da radi 9. oktobra (objava u beočinskoj Facebook grupi [„Sve i svašta Beočin”](https://www.facebook.com/groups/407473320017011/permalink/2333931044037886/); fotografiju je poslala komšinica iz Beočina).
 
 {{< photo key="ferry-landing-dredged" >}}
 

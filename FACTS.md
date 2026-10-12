@@ -193,3 +193,7 @@ Kamenolom memorial, on site (Kosta's photos, 2026-09): introductory plaque text 
 | Lake Bešenovo: no lifeguards, little shade, past drownings (2023–2024 press); parking fills on weekends | B | kurir.rs 2024; 021.rs 2023; nova.rs 3 Jul 2023 |
 | Lake Bešenovo: ~25 min by car from Stari Rakovac; most "touristy" lake; 2026 lounge area with sun loungers and bars; hard parking in summer heat; dusty access; gently sloping shallow spots, fine for small children (unlike Ledinci) | A | Kosta, 2026-10-10 |
 | Fruške Terme kids: indoor children's area with two pools and a slide (all year); outdoor splash area closed in winter | A | Kosta, 2026-10-10 |
+| Ferry Beočin–Futog resumed Fri 9 Oct 2026, first morning crossing 7:00 from Beočin; announced Thu 8 Oct 2026 17:44 by Jelena Nešić in FB group "Sve i svašta Beočin" | B | facebook.com/groups/407473320017011/permalink/2333931044037886 (checked 2026-10-12) |
+| Spezialkarte des Königreiches Ungarn 1:144,000, k.k. Militärgeographisches Institut, based on the Second Military Survey, 141 sheets, 1869–1881, copper engraving | B | maps.hungaricana.hu HTITerkeptar/454, /456 |
+| Kosta's photo of a sheet of that series marked "Ausg. 1877", price 70 kr, scale bar in Wiener Klafter and Austrian post miles; Rakovac, Beočin, Ledince, Gradac legible | A | photo by Kosta, 2026-10-12 (read from the sheet) |
+| Monastery farm cowshed photos (2) | A | Kosta, 2026-10-12 |

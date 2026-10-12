@@ -37,6 +37,8 @@ A **sajtot** egy kis szürke, földszintes pavilonban árulják a kolostortól j
 
 A **tejet** ugyanott vagy a gazdaságban árulják: menjen fel a kolostort balról megkerülő úton. Közvetlenül a kolostor kerítése után egy fém dróthálós kapu következik, előtte kis parkolóval. Ha a kapu zárva van, valószínűleg nincs ott senki: a szerzetesek istentiszteleten vannak. Ha nyitva, hajtson fel az úton a sötétbarna istállóig, és keresse Emilijan vagy Sava atyát.
 
+{{< photos "monastery-farm-cows monastery-farm-cowshed" >}}
+
 ## A tejről
 
 A tejet úgy árulják, ahogy a tehéntől jön. Sok szomszéd nyersen issza, a gyerekek is, de biztonságosabb felforralni, különösen kisgyerekeknek, várandós nőknek és időseknek.

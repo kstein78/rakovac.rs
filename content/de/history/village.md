@@ -8,6 +8,10 @@ photo: village-2026
 
 Rakovac entstand als **Prnjavor**, eine Siedlung von Leibeigenen, die das Land des Klosters bewirtschafteten. Das alte Dorf wuchs rund um das Kloster im Tal des Rakovac-Bachs.
 
+Die österreichische Spezialkarte von 1877 zeigt noch nur das alte Dorf in seinem Tal zwischen Beočin und Ledinci ([weitere alte Karten]({{< relref "history/maps" >}})).
+
+{{< photo key="map-spezialkarte-1877-rakovac" >}}
+
 Nachdem das alte Dorf 1943 niedergebrannt worden war, wurde es nicht an derselben Stelle wieder aufgebaut. Weiter unten im Tal, zur Hauptstraße zwischen Novi Sad und Beočin hin, wuchs eine neue Siedlung, **Novi Rakovac**. Später wurde der Name einfach zu Rakovac verkürzt, und der alte Teil wurde zu **Stari Rakovac**. In den folgenden Jahrzehnten ließen sich viele Familien aus Bosnien hier nieder, angezogen von der Arbeit im Zementwerk Beočin. Weil Novi Sad so nah ist, entstanden in den Hügeln außerdem viele Wochenendhäuser.
 
 Heute ist Rakovac eine der größten Ortsgemeinschaften der Gemeinde Beočin. Es gibt eine Außenstelle der Grundschule Beočin (Klassen 1–4), eine Kindergartengruppe und eine ganze Reihe kleiner und mittlerer Unternehmen.

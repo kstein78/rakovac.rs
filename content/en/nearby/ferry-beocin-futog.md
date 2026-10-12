@@ -14,7 +14,7 @@ facts:
   time: "10 to 15 minutes across"
 ---
 
-{{< note type="warning" title="Call before you go" >}}The ferry is **running again in October 2026**: the riverbed at the landing was dug out to remove a sandbank (see below). At low water it can still stop, as it did on Saturday, 26 September 2026. Before a trip that depends on it, call the ferry on [064 28 13 481](tel:+381642813481). If it is not running, the smaller ferry Banoštor – Begeč (see below) or the road through Novi Sad remain.{{< /note >}}
+{{< note type="warning" title="Call before you go" >}}The ferry is **running again since 9 October 2026** (first morning crossing from Beočin at 7:00): the riverbed at the landing was dug out to remove a sandbank (see below). At low water it can still stop, as it did on Saturday, 26 September 2026. Before a trip that depends on it, call the ferry on [064 28 13 481](tel:+381642813481). If it is not running, the smaller ferry Banoštor – Begeč (see below) or the road through Novi Sad remain.{{< /note >}}
 
 The **skela** (ferry) links Beočin on the Srem bank of the Danube with Futog on the Bačka bank. A tug pushes a flat pontoon that takes cars, vans, bicycles and people on foot. A family business from Banoštor has run it since 2003; the operator is the carrier **"Neptun"** (Prevoznička radnja "Neptun").
 
@@ -47,7 +47,7 @@ In Beočin the ferry leaves from the landing on **Put ka skeli**, on the Danube 
 
 In summer 2026, when the Danube fell very low, the Beočin ferry stopped for a while. The smaller ferry **Jole** between **Banoštor** (Srem, upstream from Beočin) and **Begeč** (Bačka) kept running even at the lowest water, but it takes only a few vehicles. It was reported to run from 7:00 (first departure from Banoštor) to 17:00 (last departure from Begeč), as of 2023.
 
-In October 2026 the riverbed at the landing was dug out to remove the sandbank, and the ferry started running again (report from a neighbour in Beočin).
+In October 2026 the riverbed at the landing was dug out to remove the sandbank, and the ferry started running again on 9 October (announcement in the Beočin Facebook group ["Sve i svašta Beočin"](https://www.facebook.com/groups/407473320017011/permalink/2333931044037886/); photo from a neighbour in Beočin).
 
 {{< photo key="ferry-landing-dredged" >}}
 

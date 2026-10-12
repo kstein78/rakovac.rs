@@ -1,0 +1,13 @@
+{{/* News card from a news-items dict: dict "n" item "big" bool */}}
+{{ $n := .n }}
+{{ $ph := index site.Data.photos ($n.cover | default "") }}
+<article class="ncard{{ if .big }} ncard-big{{ end }}" data-feed="{{ $n.feed }}">
+  <a class="ncard-img" href="{{ $n.url }}" tabindex="-1" aria-hidden="true">
+    {{ with $ph }}<img src="{{ if hasPrefix .src "http" }}{{ .src }}{{ else }}{{ .src | relURL }}{{ end }}" alt="" loading="lazy" decoding="async"{{ with .position }} style="object-position: {{ . | safeCSS }}"{{ end }}>{{ end }}
+  </a>
+  <div class="ncard-body">
+    <p class="nmeta"><span class="nfeed nfeed-{{ $n.feed }}">{{ i18n (printf "news_feed_%s" $n.feed) }}</span> <time datetime="{{ $n.date.Format "2006-01-02" }}">{{ partial "news-date.html" $n.date }}</time></p>
+    <h3><a href="{{ $n.url }}">{{ $n.title }}</a></h3>
+    {{ with $n.lead }}<p class="nlead">{{ . | markdownify }}</p>{{ end }}
+  </div>
+</article>
