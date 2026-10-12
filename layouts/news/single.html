@@ -1,0 +1,25 @@
+{{ define "main" }}
+<header class="page-head news-head">
+  <div class="wrap">
+    <nav class="crumbs" aria-label="{{ i18n "aria_breadcrumb" }}"><a href="{{ site.Home.RelPermalink }}">{{ i18n "brand_name" }}</a> / {{ with .Parent }}<a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a>{{ end }}</nav>
+    <p class="nmeta"><span class="nfeed nfeed-{{ .Params.feed }}">{{ i18n (printf "news_feed_%s" .Params.feed) }}</span> <time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date | time.Format ":date_long" }}</time></p>
+    <h1>{{ .Title }}</h1>
+    {{ with .Params.lead }}<p class="lead">{{ . | markdownify }}</p>{{ end }}
+  </div>
+  {{ with .Params.cover }}<div class="wrap wide">{{ partial "photo.html" (dict "key" . "class" "hero" "eager" true) }}</div>{{ end }}
+</header>
+<div class="wrap page-body">
+  <div class="prose">{{ .Content }}</div>
+</div>
+{{ with .Params.related }}
+<section class="wrap listing">
+  <h2 class="listing-title">{{ i18n "news_related" }}</h2>
+  <div class="cards">{{ range . }}{{ with site.GetPage . }}{{ partial "card.html" . }}{{ end }}{{ end }}</div>
+</section>
+{{ end }}
+<nav class="wrap news-pn">
+  {{ with .PrevInSection }}<a href="{{ .RelPermalink }}">← {{ .Title }}</a>{{ end }}
+  {{ with .Parent }}<a class="news-all" href="{{ .RelPermalink }}">{{ i18n "news_all_link" }}</a>{{ end }}
+  {{ with .NextInSection }}<a href="{{ .RelPermalink }}">{{ .Title }} →</a>{{ end }}
+</nav>
+{{ end }}

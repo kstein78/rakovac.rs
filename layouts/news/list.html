@@ -1,0 +1,16 @@
+{{ define "main" }}
+{{ partial "page-head.html" . }}
+{{ $news := .Pages.ByDate.Reverse }}
+<div class="wrap news-list" data-news>
+  <div class="news-filter" role="group" aria-label="{{ i18n "news_filter" }}">
+    <button type="button" class="chip is-on" data-val="">{{ i18n "news_all" }}</button>
+    <button type="button" class="chip" data-val="local">{{ i18n "news_feed_local" }}</button>
+    <button type="button" class="chip" data-val="site">{{ i18n "news_feed_site" }}</button>
+  </div>
+  {{ with first 1 $news }}{{ range . }}{{ partial "news-card.html" (dict "p" . "big" true) }}{{ end }}{{ end }}
+  <div class="ncards">{{ range after 1 $news }}{{ partial "news-card.html" (dict "p" .) }}{{ end }}</div>
+</div>
+<script>
+(function(){var r=document.querySelector('[data-news]');if(!r)return;r.querySelector('.news-filter').addEventListener('click',function(e){var b=e.target.closest('[data-val]');if(!b)return;var v=b.getAttribute('data-val');r.querySelectorAll('.news-filter .chip').forEach(function(c){c.classList.toggle('is-on',c===b)});r.querySelectorAll('.ncard').forEach(function(c){c.hidden=v&&c.getAttribute('data-feed')!==v})});})();
+</script>
+{{ end }}
