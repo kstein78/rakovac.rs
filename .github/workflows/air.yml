@@ -3,8 +3,9 @@ name: Air quality
 # Every 30 minutes: reads the SEPA air-quality portal (scripts/air_fetch.py), keeps the stations near Rakovac
 # (Beočin Centar, Novi Sad) and the last 72 hours of Beočin values in air.json, and publishes that file on
 # the branch "air-data" (one commit, overwritten each time). Caddy serves it as https://rakovac.rs/air.json.
-# Between 5 and 8 a.m. Belgrade time the script also checks for poor air at Beočin (index 4 of 6 or worse,
-# or a SEPA alert) and then writes one news item in every language, committed to main (once a day).
+# When the latest hour is a morning hour (05:00-07:59 Belgrade time) and the air at Beočin is very poor
+# (index 5 or 6 of 6) or SEPA shows an alert, the script writes one news item in every language, committed
+# to main (once a day, never after 10:00).
 on:
   schedule:
     - cron: "7,37 * * * *"

@@ -16,9 +16,11 @@ Index: SEPA uses the six levels and colours of the European Air Quality Index
 (1 good, 2 fair, 3 moderate, 4 poor, 5 very poor, 6 extremely poor). The label shown in Serbian is
 SEPA's own (index_label); the other languages use the EEA level names (i18n air_1 … air_6).
 
-Morning alert (--alert, run between 5 and 8 a.m. Belgrade time): a news item is written when, at
-Beočin Centar, the index of the latest hour is 4 (poor) or worse, or SEPA shows a regulatory alert
-for the station. At most one alert per day.
+Morning alert (--alert): a news item is written only for really bad morning air at Beočin Centar:
+the latest measured hour must be a morning hour of today (it starts between 05:00 and 07:59 Belgrade
+time; GitHub's schedule can run hours late, so a later run that still sees such an hour may post it,
+but not after 10:00), and the index must be 5 (very poor) or 6 (extremely poor), or SEPA must show a
+regulatory alert for the station. Index 4 (poor) alone does not make news. At most one alert per day.
 """
 import datetime as dt, hashlib, json, os, re, sys, urllib.request
 
@@ -31,6 +33,8 @@ TZ = dt.timezone(dt.timedelta(hours=2))  # replaced below by the real Belgrade o
 
 
 def belgrade_now():
+    if os.environ.get('AIR_NOW'):           # local test: pretend it is this time (ISO, Belgrade)
+        return dt.datetime.fromisoformat(os.environ['AIR_NOW'])
     try:
         from zoneinfo import ZoneInfo
         return dt.datetime.now(ZoneInfo('Europe/Belgrade'))
@@ -115,19 +119,19 @@ NAMES = {
     'hu': ['jó', 'elfogadható', 'mérsékelt', 'rossz', 'nagyon rossz', 'rendkívül rossz'],
 }
 TXT = {
-    'en': ('Poor air in Beočin this morning', 'At {time} the air quality at the SEPA station Beočin Centar was **{name}** ({idx} of 6).{dom}',
+    'en': ('Air pollution warning for Beočin this morning', 'At {time} the air quality at the SEPA station Beočin Centar was **{name}** ({idx} of 6).{dom}',
            'Main pollutant: {pn}, {pv} {pu}.', 'If you have asthma or heart or lung problems, and with small children and older people, avoid long or strenuous activity outdoors today, and keep windows closed while the air is poor. Current values: [Useful info → Air quality]({useful}) and on the [SEPA portal](https://vazduh.sepa.gov.rs/).',
            'This message was created automatically from the measurements of the Serbian Environmental Protection Agency (SEPA). The values are hourly and not yet verified.'),
-    'ru': ('Плохой воздух в Беочине этим утром', 'В {time} качество воздуха на станции SEPA «Беочин Центар» — **{name}** ({idx} из 6).{dom}',
+    'ru': ('Сильное загрязнение воздуха в Беочине этим утром', 'В {time} качество воздуха на станции SEPA «Беочин Центар» — **{name}** ({idx} из 6).{dom}',
            'Основной загрязнитель: {pn}, {pv} {pu}.', 'Людям с астмой, болезнями сердца и лёгких, а также маленьким детям и пожилым сегодня лучше не проводить долго время на улице и не нагружаться, а окна держать закрытыми, пока воздух плохой. Текущие значения: [Полезное → Качество воздуха]({useful}) и на [портале SEPA](https://vazduh.sepa.gov.rs/).',
            'Сообщение создано автоматически по измерениям Агентства по охране окружающей среды Сербии (SEPA). Значения часовые и ещё не проверены.'),
-    'sr': ('Zagađen vazduh u Beočinu jutros', 'U {time} kvalitet vazduha na stanici SEPA „Beočin Centar” bio je **{name}** ({idx} od 6).{dom}',
+    'sr': ('Jako zagađen vazduh u Beočinu jutros', 'U {time} kvalitet vazduha na stanici SEPA „Beočin Centar” bio je **{name}** ({idx} od 6).{dom}',
            'Glavni zagađivač: {pn}, {pv} {pu}.', 'Osobe sa astmom i bolestima srca i pluća, kao i mala deca i stariji, danas treba da izbegavaju duži boravak i napor napolju, a prozore držite zatvorenim dok je vazduh zagađen. Trenutne vrednosti: [Korisno → Kvalitet vazduha]({useful}) i na [portalu SEPA](https://vazduh.sepa.gov.rs/).',
            'Ova poruka je napravljena automatski na osnovu merenja Agencije za zaštitu životne sredine (SEPA). Vrednosti su satne i još nisu verifikovane.'),
-    'de': ('Schlechte Luft in Beočin heute Morgen', 'Um {time} war die Luftqualität an der SEPA-Station Beočin Centar **{name}** ({idx} von 6).{dom}',
+    'de': ('Stark verschmutzte Luft in Beočin heute Morgen', 'Um {time} war die Luftqualität an der SEPA-Station Beočin Centar **{name}** ({idx} von 6).{dom}',
            'Hauptschadstoff: {pn}, {pv} {pu}.', 'Wer Asthma oder Herz- und Lungenerkrankungen hat, sowie kleine Kinder und ältere Menschen sollten heute lange oder anstrengende Aktivitäten im Freien meiden; halten Sie die Fenster geschlossen, solange die Luft schlecht ist. Aktuelle Werte: [Nützliches → Luftqualität]({useful}) und im [SEPA-Portal](https://vazduh.sepa.gov.rs/).',
            'Diese Meldung wurde automatisch aus den Messungen der serbischen Umweltschutzagentur (SEPA) erstellt. Die Werte sind stündlich und noch nicht geprüft.'),
-    'hu': ('Rossz a levegő ma reggel Beočinban', '{time}-kor a SEPA „Beočin Centar” állomásán a levegő minősége **{name}** volt (6-ból {idx}).{dom}',
+    'hu': ('Erősen szennyezett levegő Beočinban ma reggel', '{time}-kor a SEPA „Beočin Centar” állomásán a levegő minősége **{name}** volt (6-ból {idx}).{dom}',
            'Fő szennyező: {pn}, {pv} {pu}.', 'Asztmával, szív- vagy tüdőbetegséggel élők, kisgyerekek és idősek ma kerüljék a hosszú vagy megerőltető szabadtéri tevékenységet, és amíg rossz a levegő, tartsák zárva az ablakokat. Aktuális értékek: [Hasznos → Levegőminőség]({useful}) és a [SEPA portálon](https://vazduh.sepa.gov.rs/).',
            'Ezt az üzenetet automatikusan készítettük a Szerb Környezetvédelmi Ügynökség (SEPA) mérései alapján. Az értékek óránkéntiek, és még nincsenek ellenőrizve.'),
 }
@@ -136,20 +140,22 @@ TXT = {
 def alert(st, data):
     now = belgrade_now()
     today = now.strftime('%Y-%m-%d')
-    if not (5 <= now.hour < 8):
-        print('alert: outside 5–8 a.m., skipped'); return
+    t = interval_start(st['interval'])
+    if not t or t[:10] != today or not (5 <= int(t[11:13]) < 8):
+        print(f'alert: latest hour {t} is not a morning hour of today, skipped'); return
+    if now.hour >= 10:
+        print('alert: too late in the day for a morning warning, skipped'); return
     if today in data['alerts_sent']:
         print('alert: already sent today'); return
     idx = st['index'] or 0
-    if idx < 4 and not st['alert']:
-        print(f'alert: index {idx}, nothing to report'); return
-    t = interval_start(st['interval']) or now.strftime('%Y-%m-%dT%H:00')
+    if idx < 5 and not st['alert']:
+        print(f'alert: index {idx}, not high enough for news'); return
     hhmm = t[11:16]
     slug = f'{today}-air-quality-beocin'
     for lang, (title, line, dom, advice, note) in TXT.items():
         name = NAMES[lang][max(1, min(idx, 6)) - 1] if lang != 'sr' else (st['label'] or NAMES['sr'][idx - 1]).lower()
         d = st.get('dominant') or {}
-        dom_txt = (' ' + dom.format(pn=d['n'], pv=d['v'], pu=d['u'])) if d.get('n') else ''
+        dom_txt = (' ' + dom.format(pn=d['n'], pv=(str(d['v']) if lang == 'en' else str(d['v']).replace('.', ',')), pu=d['u'])) if d.get('n') else ''
         useful = '{{< relref "useful" >}}#air'
         body = line.format(time=hhmm, name=name, idx=idx, dom=dom_txt) + '\n\n'
         if st['alert'] and st['alert_text']:
