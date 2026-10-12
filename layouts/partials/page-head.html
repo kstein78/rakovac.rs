@@ -1,7 +1,7 @@
 <header class="page-head{{ if .Params.photo }} with-photo{{ end }}">
   <div class="wrap">
     {{ if not .IsHome }}
-    <nav class="crumbs" aria-label="{{ i18n "aria_breadcrumb" }}">
+    <nav class="crumbs" aria-label="{{ i18n "aria_breadcrumb" }}" data-pagefind-ignore>
       <a href="{{ site.Home.RelPermalink }}">{{ i18n "brand_name" }}</a>
       {{ range partial "trail.html" . }} / <a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a>{{ end }}
     </nav>

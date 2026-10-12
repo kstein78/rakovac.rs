@@ -53,6 +53,14 @@
       {{ range site.Data.nav.direct }}{{ with site.GetPage .path }}
       <li class="nav-direct"><a href="{{ .RelPermalink }}" {{ if eq $cur.Section .Section }}aria-current="page"{{ end }}>{{ .LinkTitle }}</a></li>
       {{ end }}{{ end }}
+      {{ with site.GetPage "search" }}{{ if ne $cur.Section "search" }}
+      <li class="nav-search">
+        <form class="search-form" action="{{ .RelPermalink }}" method="get" role="search">
+          <input type="search" name="q" placeholder="{{ i18n "search" }}" aria-label="{{ i18n "search" }}" autocomplete="off">
+          <button type="submit" aria-label="{{ i18n "search_btn" }}"><svg viewBox="0 0 20 20" width="16" height="16" aria-hidden="true"><circle cx="8.5" cy="8.5" r="5.5" fill="none" stroke="currentColor" stroke-width="2"/><path d="M13 13l4.5 4.5" stroke="currentColor" stroke-width="2" stroke-linecap="round"/></svg></button>
+        </form>
+      </li>
+      {{ end }}{{ end }}
     </ul>
   </nav>
 </header>

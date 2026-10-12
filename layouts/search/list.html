@@ -1,0 +1,20 @@
+{{ define "main" }}
+{{/* Site search (Pagefind). The index is built after Hugo by deploy/build.sh ("pagefind --site"), one index per
+  language from <html lang>, so each language (and each Serbian script) searches its own pages. Results are drawn
+  by js/search.js in the site's own style; nothing is sent to a third party. */}}
+{{ partial "page-head.html" . }}
+<div class="wrap page-body">
+  <form class="search-form search-page-form" action="{{ .RelPermalink }}" method="get" role="search">
+    <input type="search" name="q" placeholder="{{ i18n "search_ph" }}" aria-label="{{ i18n "search" }}" autocomplete="off" data-search-input>
+    <button type="submit">{{ i18n "search_btn" }}</button>
+  </form>
+  <div class="search-results" data-search
+       data-bundle="{{ "pagefind/pagefind.js" | relURL }}"
+       data-l='{{ dict "found" (i18n "search_found") "none" (i18n "search_none") | jsonify }}'>
+    <p class="search-status small muted" aria-live="polite"></p>
+    <ol class="search-list"></ol>
+  </div>
+</div>
+{{ $sj := resources.Get "js/search.js" | minify | fingerprint }}
+<script src="{{ $sj.RelPermalink }}" defer></script>
+{{ end }}

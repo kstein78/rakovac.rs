@@ -117,6 +117,8 @@
 	# CSS and JS have a content hash in the file name and never change.
 	header /css/* Cache-Control "public, max-age=31536000, immutable"
 	header /js/* Cache-Control "public, max-age=31536000, immutable"
+	# Search index (Pagefind, rebuilt with every release): short cache so a new index is picked up quickly.
+	header /pagefind/* Cache-Control "public, max-age=600"
 	# Photos, videos, fonts and downloads: one week.
 	@assets path /img/* /video/* /fonts/* /downloads/* /vendor/* /favicon* /apple-touch-icon.png /icon-*.png
 	header @assets Cache-Control "public, max-age=604800"

@@ -32,9 +32,30 @@ if [ -f scripts/sr_cyrl.py ] && python3 -c "import yaml" 2>/dev/null; then
   python3 scripts/sr_cyrl.py >/dev/null || echo "warning: scripts/sr_cyrl.py failed, building with the committed Cyrillic files" >&2
 fi
 
+# Pagefind (site search): standalone binary, version from the same workflow file. If it cannot be
+# installed or fails, the site still goes live, only the search page shows no results.
+pfver=$(sed -n 's/^ *PAGEFIND_VERSION: *\([0-9.]*\).*/\1/p' .github/workflows/deploy.yml | head -1)
+pagefind=""
+if [ -n "$pfver" ]; then
+  pagefind=$BASE/bin/pagefind-$pfver
+  if [ ! -x "$pagefind" ]; then
+    case $(uname -m) in x86_64) pfarch=x86_64 ;; aarch64) pfarch=aarch64 ;; *) pfarch="" ;; esac
+    tmp=$(mktemp -d)
+    if [ -n "$pfarch" ] && curl -fsSL "https://github.com/Pagefind/pagefind/releases/download/v${pfver}/pagefind-v${pfver}-${pfarch}-unknown-linux-musl.tar.gz" | tar -xz -C "$tmp" pagefind; then
+      install -m 755 "$tmp/pagefind" "$pagefind"; echo "installed Pagefind $pfver"
+    else
+      echo "warning: could not install Pagefind $pfver, building without search index" >&2; pagefind=""
+    fi
+    rm -rf "$tmp"
+  fi
+fi
+
 out=$rel/$sha
 rm -rf "$out"
 "$hugo" --quiet --gc --minify --destination "$out"
+if [ -n "$pagefind" ]; then
+  "$pagefind" --site "$out" --quiet || echo "warning: Pagefind failed, the search page will show no results" >&2
+fi
 printf '%s\n' "$sha" > "$out/version.txt"
 
 ln -sfn "$out" "$BASE/current.new"

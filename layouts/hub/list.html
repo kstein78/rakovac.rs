@@ -5,7 +5,7 @@
 {{ with .Content }}<div class="wrap page-body"><div class="prose">{{ . }}</div></div>{{ end }}
 {{ $hub := . }}
 {{ range site.Data.nav.menu }}{{ if eq .hub $hub.Section }}
-<section class="wrap listing">
+<section class="wrap listing" data-pagefind-ignore>
   <div class="cards">
     {{ range .items }}{{ $it := . }}{{ if not .anchor }}{{ with site.GetPage .path }}
     {{ $p := . }}

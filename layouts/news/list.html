@@ -1,7 +1,7 @@
 {{ define "main" }}
 {{ partial "page-head.html" . }}
 {{ $news := partial "news-items.html" . }}
-<div class="wrap news-list" data-news>
+<div class="wrap news-list" data-news data-pagefind-ignore>
   <div class="news-filter" role="group" aria-label="{{ i18n "news_filter" }}">
     <button type="button" class="chip is-on" data-val="">{{ i18n "news_all" }}</button>
     <button type="button" class="chip" data-val="local">{{ i18n "news_feed_local" }}</button>

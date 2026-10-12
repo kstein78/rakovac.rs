@@ -18,7 +18,7 @@
 {{ partial "news-latest.html" . }}
 
 {{ with .Params.featured }}
-<section class="wrap listing">
+<section class="wrap listing" data-pagefind-ignore>
   <h2 class="listing-title">{{ $.Params.featured_title }}</h2>
   <div class="cards cards-3">
     {{ range . }}{{ with site.GetPage . }}{{ partial "card.html" . }}{{ end }}{{ end }}
@@ -26,7 +26,7 @@
 </section>
 {{ end }}
 
-<section class="wrap sections">
+<section class="wrap sections" data-pagefind-ignore>
   <h2 class="listing-title">{{ .Params.sections_title }}</h2>
   <div class="section-tiles">
     {{ range site.Data.nav.menu | append site.Data.nav.more }}{{ range .items }}{{ if and (not .anchor) (not .notile) }}
@@ -44,7 +44,7 @@
   <div class="prose">{{ .Content }}</div>
 </section>
 
-<section class="wrap home-map">
+<section class="wrap home-map" data-pagefind-ignore>
   <h2 class="listing-title">{{ with site.GetPage "map" }}<a href="{{ .RelPermalink }}">{{ .Title }}</a>{{ end }}</h2>
   {{ partial "allpoints-map.html" (dict "class" "map-home") }}
 </section>

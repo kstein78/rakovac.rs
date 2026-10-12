@@ -147,6 +147,29 @@ p { margin: 0 0 1em; }
 .nav-panel a { display: block; padding: .45rem .95rem; color: var(--ink); text-decoration: none; font-size: .95rem; }
 .nav-panel a:hover, .nav-panel a:focus-visible { background: var(--accent-soft); }
 .nav-panel a[aria-current] { font-weight: 600; box-shadow: inset 3px 0 0 var(--accent); }
+/* Search: a small field at the end of the menu row (inside the folded menu on phones) */
+.nav-search { margin-left: auto; }
+.search-form { display: flex; align-items: stretch; }
+.search-form input { font: inherit; font-size: .9rem; width: 9.5rem; padding: .3rem .6rem; border: 1px solid rgb(255 255 255 / .3); border-right: 0; border-radius: 4px 0 0 4px; background: rgb(255 255 255 / .08); color: var(--forest-ink); transition: width .2s; }
+.search-form input::placeholder { color: var(--forest-muted); }
+.search-form input:focus { width: 13rem; outline: 2px solid var(--temp); outline-offset: -1px; }
+.search-form button { display: inline-flex; align-items: center; justify-content: center; padding: 0 .6rem; border: 1px solid rgb(255 255 255 / .3); border-radius: 0 4px 4px 0; background: transparent; color: var(--forest-ink); cursor: pointer; }
+/* medium screens: only the magnifier (it opens the search page), so the menu row does not wrap */
+@media (min-width: 821px) and (max-width: 1150px) {
+  .nav-search input { display: none; }
+  .nav-search .search-form button { border-radius: 4px; padding: .3rem .55rem; }
+}
+.search-page-form { max-width: 40rem; margin-bottom: 1.2rem; }
+.search-page-form input { flex: 1; width: auto; font-size: 1.05rem; padding: .6rem .8rem; color: var(--ink); background: var(--surface); border-color: var(--line); }
+.search-page-form input:focus { width: auto; }
+.search-page-form button { padding: 0 1.1rem; font: inherit; font-weight: 600; color: #fff; background: var(--accent); border-color: var(--accent); }
+.search-list { list-style: none; margin: 0; padding: 0; max-width: 44rem; }
+.search-item { padding: .9rem 0; border-bottom: 1px solid var(--line); }
+.search-item a { display: flex; align-items: center; gap: .8rem; text-decoration: none; }
+.search-item img { width: 72px; height: 54px; object-fit: cover; border-radius: 4px; flex: none; }
+.search-t { font-family: var(--font-display); font-size: 1.25rem; line-height: 1.2; }
+.search-x { margin: .35rem 0 0; font-size: .95rem; color: var(--muted); }
+.search-x mark { background: var(--accent-soft); color: var(--ink); padding: 0 .1em; }
 .nav-hub { border-bottom: 1px solid var(--line); margin-bottom: .3rem; padding-bottom: .3rem; }
 .nav-hub a { font-weight: 600; }
 /* Narrow phones: Rakovac Common is wider than the old sans, so tighten the header and let the tools wrap if still needed */
@@ -182,6 +205,8 @@ p { margin: 0 0 1em; }
   .nav-panel a[aria-current] { box-shadow: none; color: var(--temp); }
   .nav-direct a { display: block; padding-block: .6rem; font-weight: 600; }
   .nav-hub { border-bottom-color: rgb(255 255 255 / .1); }
+  .nav-search { order: -1; margin: .2rem 0 .5rem; }
+  .nav-search .search-form input, .nav-search .search-form input:focus { flex: 1; width: auto; font-size: 1rem; padding: .5rem .7rem; }
 }
 
 /* Page head */

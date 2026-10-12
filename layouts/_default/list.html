@@ -9,7 +9,7 @@
 {{ if not .Params.hide_children }}
   {{ $pages := .Pages.ByWeight }}
   {{ with $pages }}
-  <section class="wrap listing">
+  <section class="wrap listing" data-pagefind-ignore>
     {{ with $.Params.list_title }}<h2 class="listing-title">{{ . }}</h2>{{ end }}
     <div class="cards">
       {{ range . }}{{ partial "card.html" . }}{{ end }}
