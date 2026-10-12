@@ -5,7 +5,7 @@ kicker: "Karten · 18.–20. Jahrhundert"
 weight: 7
 summary: "Rakovac auf historischen Karten: das Blatt „Neusatz und Peterwardein“ von 1877 aus der Sammlung des Autors, die detaillierte österreichisch-ungarische Spezialkarte von 1915 und eine Generalkarte von etwa 1910, bald ergänzt durch Karten aus Archiven und Privatsammlungen."
 lead: "Alte Karten zeigen das Tal, bevor es Novi Rakovac gab: das Dorf beim Kloster in den Hügeln, eine Bahnlinie entlang der Donau und die Nachbarorte unter den deutschen und ungarischen Namen, die die Kartografen verwendeten."
-photo: map-spezialkarte-1915
+photo: map-neusatz-1877-wide
 ---
 
 ## „Neusatz und Peterwardein“: Spezialkarte von Ungarn 1:144.000, Ausgabe 1877

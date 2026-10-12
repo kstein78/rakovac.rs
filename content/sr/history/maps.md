@@ -5,7 +5,7 @@ kicker: "Karte · 18–20. vek"
 weight: 7
 summary: "Rakovac na istorijskim kartama: list „Neusatz und Peterwardein” iz 1877. iz autorove zbirke, detaljna austrougarska specijalna karta iz 1915. i generalna karta iz oko 1910, a uskoro i karte iz arhiva i privatnih zbirki."
 lead: "Stare karte prikazuju dolinu pre nego što je nastao Novi Rakovac: selo kod manastira u brdima, železničku prugu duž Dunava i susedna mesta pod nemačkim i mađarskim imenima koja su koristili kartografi."
-photo: map-spezialkarte-1915
+photo: map-neusatz-1877-wide
 ---
 
 ## „Neusatz und Peterwardein”: specijalna karta Ugarske 1:144.000, izdanje 1877.

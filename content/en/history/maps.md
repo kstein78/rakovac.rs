@@ -5,7 +5,7 @@ kicker: "Maps · 18th–20th century"
 weight: 7
 summary: "Rakovac on historical maps: the 1877 sheet “Neusatz und Peterwardein” from the author's collection, the detailed Austro-Hungarian special map of 1915 and a general map from about 1910, with more maps from archives and private collections to come."
 lead: "Old maps show the valley before Novi Rakovac existed: the village by the monastery in the hills, a railway along the Danube, and the neighbouring places under the German and Hungarian names the mapmakers used."
-photo: map-spezialkarte-1915
+photo: map-neusatz-1877-wide
 ---
 
 ## "Neusatz und Peterwardein": special map of Hungary 1:144,000, 1877 edition

@@ -5,7 +5,7 @@ kicker: "Térképek · 18–20. század"
 weight: 7
 summary: "Rakovac történelmi térképeken: az 1877-es „Neusatz und Peterwardein” lap a szerző gyűjteményéből, az 1915-ös részletes osztrák–magyar speciális térkép és egy 1910 körüli általános térkép, hamarosan pedig levéltári és magángyűjteményi térképek is."
 lead: "A régi térképek azt mutatják, milyen volt a völgy Novi Rakovac létrejötte előtt: a falu a kolostor mellett a dombok között, vasútvonal a Duna mentén, és a szomszédos települések a térképészek által használt német és magyar nevükön."
-photo: map-spezialkarte-1915
+photo: map-neusatz-1877-wide
 ---
 
 ## „Neusatz und Peterwardein”: Magyarország részletes térképe 1:144 000, 1877-es kiadás

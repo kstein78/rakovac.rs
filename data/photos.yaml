@@ -1821,3 +1821,14 @@ map-neusatz-1877-cover:
   alt_cyr: "Платнени повез листа карте из 1877. „Neusatz und Peterwardein”, са калиграфском налепницом с насловом и траком с километарском размером"
   alt_de: "Der Leinenumschlag des Kartenblatts „Neusatz und Peterwardein“ von 1877 mit kalligrafischem Titelschild und einem Streifen mit Kilometerskala"
   alt_hu: "Az 1877-es „Neusatz und Peterwardein” térképlap vászonborítója kalligrafikus címkével és kilométerskálás csíkkal"
+map-neusatz-1877-wide:
+  src: img/map-neusatz-1877-wide.jpg
+  author: "Konstantin Stein (scan, own collection)"
+  license: "Map 1877: public domain"
+  alt: "Novi Sad, Petrovaradin, Karlovci and the hills of Fruška Gora with Rakovac on the 1877 special map sheet \"Neusatz und Peterwardein\""
+  temp: false
+  alt_ru: "Нови-Сад, Петроварадин, Карловцы и холмы Фрушка-Горы с Раковцем на листе специальной карты 1877 года «Neusatz und Peterwardein»"
+  alt_sr: "Novi Sad, Petrovaradin, Karlovci i brda Fruške gore s Rakovcem na listu specijalne karte iz 1877. „Neusatz und Peterwardein”"
+  alt_cyr: "Нови Сад, Петроварадин, Карловци и брда Фрушке горе с Раковцем на листу специјалне карте из 1877. „Neusatz und Peterwardein”"
+  alt_de: "Novi Sad, Petrovaradin, Karlovci und die Hügel der Fruška Gora mit Rakovac auf dem Blatt „Neusatz und Peterwardein“ der Spezialkarte von 1877"
+  alt_hu: "Újvidék, Pétervárad, Karlóca és a Fruška Gora dombjai Rakovaccal az 1877-es részletes térkép „Neusatz und Peterwardein” lapján"
