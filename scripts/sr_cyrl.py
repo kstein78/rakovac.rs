@@ -41,7 +41,8 @@ KEEP_PHRASES = [
     'Neusatz und Peterwardein', 'Eugens Weg', 'Ausg. 1877', 'Kls.', 'B92', 'Charles Eugène de Croÿ', 'Lawrence Schiller', 'Visit Distrikt', 'Kelly\'s Heroes',
 ]
 # Foreign names with an established Serbian Cyrillic spelling (not letter by letter).
-OVERRIDES = {'Stein': 'Штајн', 'Steina': 'Штајна', 'Steinom': 'Штајном', 'Steinu': 'Штајну'}
+OVERRIDES = {'Stein': 'Штајн', 'Steina': 'Штајна', 'Steinom': 'Штајном', 'Steinu': 'Штајну',
+             'Kulakovskaja': 'Кулаковская'}  # photographers' names as they write them in Cyrillic
 ROMAN = re.compile(r'^(?=[MDCLXVI]{2,}$)M{0,3}(CM|CD|D?C{0,3})(XC|XL|L?X{0,3})(IX|IV|V?I{0,3})$')
 
 
