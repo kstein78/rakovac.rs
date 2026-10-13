@@ -15,7 +15,7 @@
 {{ with index site.Data.photos (.Params.photo | default .Params.cover | default .Params.portrait | default "") }}{{ $img = cond (hasPrefix .src "http") .src (.src | absURL) }}{{ end }}
 {{ $graph := slice }}
 {{ if .IsHome }}
-  {{ $graph = $graph | append (dict "@type" "WebSite" "@id" (printf "%s#website" $home.Permalink) "name" $brand "alternateName" (slice "Rakovac" "Раковац" "rakovac.rs") "url" $home.Permalink "inLanguage" site.Language.LanguageCode "description" site.Language.Params.description "publisher" $author) }}
+  {{ $graph = $graph | append (dict "@type" "WebSite" "@id" (printf "%s#website" $home.Permalink) "name" $brand "alternateName" (slice "Rakovac" "Раковац" "rakovac.rs") "url" $home.Permalink "inLanguage" site.Language.LanguageCode "description" site.Language.Params.description "publisher" $author "sameAs" (slice site.Params.instagram)) }}
   {{ $graph = $graph | append (dict "@type" "TouristDestination" "@id" (printf "%s#village" $home.Permalink) "name" $brand "alternateName" (slice "Rakovac" "Раковац" "Stari Rakovac" "Novi Rakovac" "Dombó") "sameAs" site.Params.villageSameAs "description" site.Language.Params.description "url" $home.Permalink "geo" (dict "@type" "GeoCoordinates" "latitude" (index site.Params.mapCenter 0) "longitude" (index site.Params.mapCenter 1)) "containedInPlace" (dict "@type" "Place" "name" "Fruška Gora, Beočin, Vojvodina, Serbia") "image" (printf "img/share/default-%s.jpg" $lang | absURL)) }}
 {{ else }}
   {{ $items := slice (dict "@type" "ListItem" "position" 1 "name" $brand "item" $home.Permalink) }}
