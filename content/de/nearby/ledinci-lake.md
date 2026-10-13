@@ -7,8 +7,9 @@ summary: Ein tiefer, türkisfarbener See in einem gefluteten Steinbruch im Wald 
 coords:
 - 45.1653148
 - 19.8041647
-photo: ledinci-lake-quarry-evening
+photo: ledinci-lake-tree-rim
 gallery:
+- ledinci-lake-quarry-evening
 - ledinci-lake-submerged-trees
 - ledinci-lake-from-above
 - ledinci-lake-cliff
@@ -16,7 +17,7 @@ gallery:
 
 Versteckt im Wald oberhalb von Stari Ledinci liegt der **Ledinci-See**, ein türkisfarbener See, der um 1999 einen aufgelassenen Steinbruch füllte. Er ist etwa 15 Minuten mit dem Auto von Rakovac entfernt, und auch Waldwege führen zu Fuß in seine Richtung.
 
-Fotos von Anna Romashkina im Album [Der Ledinci-See in Bildern]({{< relref "gallery/ledinci-lake" >}}).
+Fotos von Anna Romashkina und Marina Kulakovskaja im Album [Der Ledinci-See in Bildern]({{< relref "gallery/ledinci-lake" >}}).
 
 {{< note type="warning" title="Derzeit gesperrt" >}}Der See ist für Besucher nicht zugänglich. Im Mai 2025 kündigte das Steinbruchunternehmen, dem das Gelände gehört, wegen Rekultivierungsarbeiten ein Verbot aller Besuche an, und im August 2026 wies ein Wachmann vor Ort Besucher noch immer vom Wasser ab. Baden ist hier gefährlich: Die Wände sind fast senkrecht, Steinschlag ist häufig, und der See ist etwa 95 m tief. 2006 wurden bei einem Steinschlag mehrere Badende verletzt. Bitte respektieren Sie das Verbot.{{< /note >}}
 

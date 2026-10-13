@@ -1968,3 +1968,17 @@ ledinci-lake-submerged-trees:
   alt_cyr: "Тиркизно Лединачко језеро, уз обалу под водом потопљена стабла и гране"
   alt_de: "Der türkisfarbene Ledinci-See mit versunkenen Baumstämmen und Ästen unter der Oberfläche am Ufer"
   alt_hu: "A türkizkék Ledinci-tó, a part közelében víz alá merült fatörzsekkel és ágakkal"
+ledinci-lake-tree-rim:
+  src: img/ledinci-lake-tree-rim.jpg
+  position: "50% 66%"
+  author: "Marina Kulakovskaja"
+  author_ru: "Марина Кулаковская"
+  author_cyr: "Марина Кулаковская"
+  license: "© all rights reserved"
+  alt: "A young tree on the rim of the quarry above Lake Ledinci: turquoise and deep blue water far below between rock walls and wooded hills"
+  temp: false
+  alt_ru: "Молодое дерево на краю карьера над Лединачским озером: далеко внизу бирюзовая и тёмно-синяя вода между скальными стенами и лесистыми холмами"
+  alt_sr: "Mlado drvo na ivici kamenoloma iznad Ledinačkog jezera: duboko dole tirkizna i tamnoplava voda između stena i šumovitih brda"
+  alt_cyr: "Младо дрво на ивици каменолома изнад Лединачког језера: дубоко доле тиркизна и тамноплава вода између стена и шумовитих брда"
+  alt_de: "Ein junger Baum am Rand des Steinbruchs über dem Ledinci-See: tief unten türkisfarbenes und tiefblaues Wasser zwischen Felswänden und bewaldeten Hügeln"
+  alt_hu: "Fiatal fa a kőbánya peremén a Ledinci-tó fölött: mélyen lent türkizkék és sötétkék víz a sziklafalak és erdős dombok között"
