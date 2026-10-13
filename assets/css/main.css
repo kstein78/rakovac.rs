@@ -288,7 +288,9 @@ p { margin: 0 0 1em; }
 .card-img { position: relative; display: block; aspect-ratio: 3 / 2; overflow: hidden; background: var(--surface-2); }
 .card-img img { width: 100%; height: 100%; object-fit: cover; }
 .card-img-empty { display: flex; align-items: flex-end; padding: 1rem; text-decoration: none; background: linear-gradient(150deg, var(--forest), color-mix(in srgb, var(--forest) 70%, var(--moss))); }
-.card-img-empty > span:first-child { font-family: var(--font-display); font-size: 1.5rem; font-weight: 300; color: var(--forest-ink); opacity: .35; line-height: 1.1; }
+.card-img-empty > span:first-child { position: relative; z-index: 1; max-width: 68%; font-family: var(--font-display); font-size: 1.5rem; font-weight: 300; color: var(--forest-ink); opacity: .9; line-height: 1.1; }
+/* No photo yet: the shield R of the local identity as a quiet watermark, so the card looks finished */
+.card-img-empty::after { content: ""; position: absolute; right: 7%; top: 50%; transform: translateY(-50%); height: 72%; aspect-ratio: 172 / 224; background: url("../img/brand-shield-mono.svg") center / contain no-repeat; opacity: .16; }
 .card-img-empty.cat-food, .card-img-empty.cat-products { background: linear-gradient(150deg, #5a2440, #2d1a24); }
 .card-img-empty.cat-stay { background: linear-gradient(150deg, #24476a, #16283a); }
 .card-img-empty.cat-shops, .card-img-empty.cat-business { background: linear-gradient(150deg, #3d4a57, #20272e); }

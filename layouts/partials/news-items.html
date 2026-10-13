@@ -8,8 +8,7 @@
 {{ range site.Data.sitenews }}
   {{ $e := . }}
   {{ with site.GetPage .page }}
-    {{ $cover := $e.cover | default .Params.photo | default .Params.share_photo | default "" }}
-    {{ if not $cover }}{{ with .Params.album }}{{ with index site.Data.albums . }}{{ $cover = (index . 0).photo }}{{ end }}{{ end }}{{ end }}
+    {{ $cover := $e.cover | default (partial "card-key.html" .) }}
     {{ $lead := index $e (printf "lead_%s" site.Language.Lang) | default .Params.summary | default .Params.lead }}
     {{ $items = $items | append (dict "top" ($e.top | default false) "date" (time $e.date) "feed" "site" "title" .Title "lead" $lead "cover" $cover "url" .RelPermalink) }}
   {{ end }}

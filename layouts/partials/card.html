@@ -1,6 +1,6 @@
 {{/* A card for a child page in a listing. */}}
-<article class="card{{ if .Params.photo }} has-photo{{ end }}">
-  {{ $ph := index site.Data.photos (.Params.photo | default "") }}
+{{ $ph := index site.Data.photos (partial "card-key.html" .) }}
+<article class="card{{ if $ph }} has-photo{{ end }}">
   {{ $src := "" }}{{ with $ph }}{{ $src = .src }}{{ if not (hasPrefix $src "http") }}{{ $src = $src | relURL }}{{ end }}{{ end }}
   {{ $alt := "" }}{{ with $ph }}{{ $alt = index . (printf "alt_%s" site.Language.Lang) | default .alt }}{{ end }}
   {{ if $ph }}

@@ -23,6 +23,13 @@ def used_photo_keys():
             continue
         for k in re.findall(r'^(?:photo|cover|portrait|share_photo):\s*["\']?([\w-]+)', head[1], re.M):
             keys.add(k)
+    # card pictures of pages without a photo of their own (data/cardphotos.yaml: "path: key")
+    cp = os.path.join(ROOT, 'data', 'cardphotos.yaml')
+    if os.path.exists(cp):
+        for line in open(cp, encoding='utf-8'):
+            m = re.match(r'^[\w/.-]+:\s*([\w-]+)\s*$', line)
+            if m:
+                keys.add(m.group(1))
     return keys
 
 

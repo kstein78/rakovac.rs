@@ -1,0 +1,12 @@
+{{/* Photo key for a page's card (listings, overview pages, related links, "new on the site"):
+  the page's own photo/cover/portrait/album cover, else data/cardphotos.yaml (pages that have no photo of their
+  own, e.g. the photo gallery or About), else the first page inside it that has one. "" if nothing is found. */}}
+{{ $p := . }}
+{{ $key := .Params.photo | default .Params.cover | default .Params.share_photo | default .Params.portrait | default "" }}
+{{ if and (not $key) .Params.album }}{{ with index site.Data.albums .Params.album }}{{ $key = (index . 0).photo }}{{ end }}{{ end }}
+{{ if and (not $key) .File }}
+  {{ $path := strings.TrimSuffix "/_index.md" .File.Path | strings.TrimSuffix ".md" }}
+  {{ with index site.Data.cardphotos $path }}{{ $key = . }}{{ end }}
+{{ end }}
+{{ if not $key }}{{ range .Pages.ByWeight }}{{ if not $key }}{{ $key = .Params.photo | default .Params.cover | default .Params.share_photo | default "" }}{{ end }}{{ end }}{{ end }}
+{{ return $key }}
