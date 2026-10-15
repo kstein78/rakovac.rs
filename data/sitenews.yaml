@@ -3,6 +3,7 @@
 # Title, lead and cover come from that page in each language (summary/lead, photo/share_photo/first album photo).
 # Optional: cover: <photo key> (when the page has no photo of its own), lead_en / lead_ru … to override the text,
 # top: true to make it the lead story on the home page (by default the newest LOCAL story leads).
+- { page: monastery/services, date: 2026-10-15 }
 - page: gallery/ledinci-lake
   date: 2026-10-12
   lead_en: "Photo album by Anna Romashkina and Marina Kulakovskaja: the turquoise lake in the flooded quarry above Stari Ledinci, from its high edge and from the shore."
