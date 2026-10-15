@@ -26,8 +26,8 @@ The long story of the monastery, from the founding legend of Raka and the deer t
 
 ## Visiting
 
-- **Opening hours:** the grounds are open to visitors from 7:00 to 19:30 (Novi Sad Tourist Organisation).
-- **Services:** the Sunday Divine Liturgy starts at 8:00.
+- **Opening hours:** 7:00 to 19:30 in summer, 7:00 to 17:00 in winter (Novi Sad Tourist Organisation).
+- **Services:** Divine Liturgy on weekdays and Saturdays at 7:00, on Sundays and feast days at 8:00, Vespers every day at 16:00. Details: [service times]({{< relref "monastery/services" >}}).
 - **Dress and behaviour:** this is a working monastery, not a museum. Modest dress is expected, with shoulders and knees covered. Many Orthodox monasteries also ask women to wear a skirt and a headscarf in church. Keep phones silent, and ask before photographing the monks or the church interior.
 - **Getting there:** by car along Manastirska street from Novi Rakovac, or by GSP Novi Sad bus: line 77 and the line 78 runs marked SR (through Stari Rakovac) stop at the monastery. See the [timetable]({{< relref "useful" >}}#bus).
 

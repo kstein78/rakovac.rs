@@ -30,8 +30,8 @@ A kolostor hosszú történetét, Raka és a szarvas alapítási legendájától
 
 ## Látogatás
 
-- **Nyitvatartás:** a kolostor területe 7:00 és 19:30 között látogatható (Újvidéki Turisztikai Szervezet).
-- **Istentiszteletek:** a vasárnapi Szent Liturgia 8:00-kor kezdődik.
+- **Nyitvatartás:** nyáron 7:00 és 19:30, télen 7:00 és 17:00 között (Újvidéki Turisztikai Szervezet).
+- **Istentiszteletek:** liturgia hétköznap és szombaton 7:00-kor, vasárnap és ünnepnapokon 8:00-kor, vecsernye minden nap 16:00-kor. Részletek: [a szertartások rendje]({{< relref "monastery/services" >}}).
 - **Öltözet és viselkedés:** ez működő kolostor, nem múzeum. Szerény öltözet elvárt, a vállat és a térdet takarni kell. Sok ortodox kolostor arra is kéri a nőket, hogy a templomban szoknyát és fejkendőt viseljenek. A telefont le kell némítani, a szerzetesek vagy a templombelső fényképezése előtt pedig engedélyt kell kérni.
 - **Megközelítés:** autóval Novi Rakovacból a Manastirska utcán, vagy a GSP Novi Sad buszával: a kolostornál a 77-es járat és a 78-as járat SR jelzésű (Stari Rakovacon át közlekedő) járatai állnak meg. Lásd a [menetrendet]({{< relref "useful" >}}#bus).
 

@@ -41,7 +41,7 @@ STRUCT_KEYS = {'facts', 'videos', 'keyfacts', 'groups', 'group_titles'}
 LOCKED_LEAVES = {'id', 'url', 'url_label', 'coords', 'phone', 'website', 'email', 'key', 'map'}
 # Shortcode parameters that must not change (the rest, e.g. title/caption/name, are text).
 LOCKED_PARAMS = {'key', 'id', 'class', 'type', 'level', 'start', 'src'}
-LOCAL_KEYS = {'translation_locked'}
+LOCAL_KEYS = {'translation_locked', 'slug'}  # keys only a translation may have (slug = its own URL word, e.g. for Serbian search)
 # Keys that belong to the English page only (e.g. aliases: an old root URL such as /fonts/ may redirect to one language only).
 SOURCE_ONLY_KEYS = {'aliases'}
 SOURCE_ONLY_RE = re.compile(r'^(?:' + '|'.join(SOURCE_ONLY_KEYS) + r'):.*\n(?:[ \t]+-.*\n)*', re.M)
@@ -266,6 +266,11 @@ def page_state(lang, rel, manifest):
     return 'ok', en_text
 
 
+def split_raw_fm(text):
+    parts = text.split('---\n', 2)
+    return parts[1] if len(parts) == 3 else ''
+
+
 def translate_page(lang, rel, en_text):
     en_text = strip_source_only(en_text)
     tp = os.path.join(CONTENT, lang, rel)
@@ -282,6 +287,11 @@ def translate_page(lang, rel, en_text):
         out = extract('file', answer).strip('\n') + '\n'
         errs = validate(en_text, out)
         if not errs:
+            # keep the translation's own URL slug (a local key the English source does not have)
+            if current:
+                m = re.search(r'^slug:.*$', split_raw_fm(current), re.M)
+                if m and not re.search(r'^slug:', split_raw_fm(out), re.M):
+                    out = out.replace('\n---\n', '\n' + m.group(0) + '\n---\n', 1) if out.startswith('---\n') else out
             write(tp, out)
             return
         if attempt == 0:

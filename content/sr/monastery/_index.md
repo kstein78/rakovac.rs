@@ -30,8 +30,8 @@ Duga istorija manastira, od legende o Raki i jelenu do razaranja 1943. i obnove 
 
 ## Posete
 
-- **Radno vreme:** manastirska porta otvorena je za posetioce od 7:00 do 19:30 (prema Turističkoj organizaciji Novog Sada).
-- **Bogosluženja:** nedeljna Sveta liturgija počinje u 8:00.
+- **Radno vreme:** leti od 7:00 do 19:30, zimi od 7:00 do 17:00 (prema Turističkoj organizaciji Novog Sada).
+- **Bogosluženja:** liturgija radnim danima i subotom u 7:00, nedeljom i praznicima u 8:00, večernje svakog dana u 16:00. Detaljno: [raspored bogosluženja]({{< relref "monastery/services" >}}).
 - **Odeća i ponašanje:** ovo je živi manastir, a ne muzej. Očekuje se pristojna odeća, pokrivenih ramena i kolena. Mnogi pravoslavni manastiri mole žene da u crkvi nose suknju i maramu. Utišajte telefone i pitajte pre nego što fotografišete monahe ili unutrašnjost crkve.
 - **Kako stići:** automobilom Manastirskom ulicom iz Novog Rakovca ili autobusom GSP Novi Sad: kod manastira staju linija 77 i polasci linije 78 označeni sa SR (kroz Stari Rakovac). Pogledajte [red vožnje]({{< relref "useful" >}}#bus).
 
