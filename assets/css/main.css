@@ -707,3 +707,6 @@ a[href^="tel:"] { white-space: nowrap; }
 .sp-caution .sp-badge { background: #f0c64a; color: #1b1d17; }
 .sp-protected .sp-badge, .sp-rare .sp-badge { background: color-mix(in srgb, var(--moss, #3d7a34) 22%, transparent); }
 
+
+/* Wide tables in text scroll sideways on phones instead of widening the page. */
+@media (max-width: 700px) { .prose table { display: block; overflow-x: auto; -webkit-overflow-scrolling: touch; } .prose th, .prose td { min-width: 7rem; } }
