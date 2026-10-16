@@ -686,3 +686,24 @@ a[href^="tel:"] { white-space: nowrap; }
 .news-head .photo.hero .photo-frame img { width: auto; max-width: 100%; height: auto; max-height: 78vh; margin-inline: auto; display: block; border-radius: var(--radius); }
 .news-head .photo.hero figcaption { text-align: center; }
 @media (max-width: 700px) { .news-head .photo.hero .photo-frame { aspect-ratio: auto; } }
+
+/* Atlas of plants and animals (shortcodes atlas / species): cards with a line drawing in the style of the shield ornaments */
+.atlas { display: grid; grid-template-columns: repeat(auto-fill, minmax(16.5rem, 1fr)); gap: .9rem; margin: 1.2rem 0 2rem; }
+.sp { display: flex; gap: .85rem; align-items: flex-start; padding: .9rem; background: var(--surface); border: 1px solid var(--line); border-radius: var(--radius); }
+.sp-ico { flex: none; width: 4.2rem; height: 4.2rem; padding: .45rem; border-radius: 50%; background: var(--forest); color: var(--forest-ink); fill: none; stroke: currentColor; stroke-width: 2.4; stroke-linecap: round; stroke-linejoin: round; }
+.sp-ico .f { fill: currentColor; stroke: none; }
+.sp-body { min-width: 0; }
+.sp-name { margin: 0; font-size: 1.12rem; line-height: 1.25; }
+.sp-latin { margin: .1rem 0 .35rem; font-size: .85rem; color: var(--muted); }
+.sp-badge { display: inline-block; margin: 0 0 .4rem; padding: .05rem .5rem; border-radius: 999px; font-size: .74rem; font-weight: 600; letter-spacing: .03em; background: var(--accent-soft); color: var(--ink); }
+.sp-text { font-size: .93rem; line-height: 1.5; }
+.sp-text p { margin: 0; }
+.sp-deadly { border-color: #b3261e; box-shadow: inset 4px 0 0 #b3261e; }
+.sp-deadly .sp-ico { background: #b3261e; color: #fff; }
+.sp-deadly .sp-badge { background: #b3261e; color: #fff; }
+.sp-poison { border-color: #d0602a; box-shadow: inset 4px 0 0 #d0602a; }
+.sp-poison .sp-ico { background: #8a3b1a; color: #fff; }
+.sp-poison .sp-badge { background: #d0602a; color: #fff; }
+.sp-caution .sp-badge { background: #f0c64a; color: #1b1d17; }
+.sp-protected .sp-badge, .sp-rare .sp-badge { background: color-mix(in srgb, var(--moss, #3d7a34) 22%, transparent); }
+

@@ -1,0 +1,4 @@
+{{/* A grid of species cards: {{< atlas >}} {{< species … >}}…{{< /species >}} … {{< /atlas >}}.
+  The line drawings (layouts/partials/glyphs.html) are added to the page once. */}}
+{{ if not (.Page.Store.Get "glyphs") }}{{ .Page.Store.Set "glyphs" true }}{{ partial "glyphs.html" . }}{{ end }}
+<div class="atlas">{{ .Inner }}</div>

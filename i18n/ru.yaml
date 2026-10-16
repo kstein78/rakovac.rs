@@ -343,3 +343,8 @@ share_insta: "Ссылка скопирована. Instagram не принима
 share_more: "Ещё…"
 gallery_albums: "Альбомы"
 gallery_photos: "фото"
+sp_deadly: "смертельно ядовит"
+sp_poison: "ядовит"
+sp_caution: "осторожно"
+sp_protected: "охраняется"
+sp_rare: "редкий вид"

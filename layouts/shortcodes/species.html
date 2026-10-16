@@ -1,0 +1,12 @@
+{{/* One species in an atlas: icon = drawing (g-NAME in glyphs.html), name, latin, optional level
+  (deadly | poison | caution | protected | rare) shown as a coloured label; the inner text is the description. */}}
+{{ $lv := .Get "level" }}
+<article class="sp{{ with $lv }} sp-{{ . }}{{ end }}" id="{{ .Get "latin" | urlize }}">
+  <svg class="sp-ico" viewBox="0 0 64 64" aria-hidden="true"><use href="#g-{{ .Get "icon" }}"/></svg>
+  <div class="sp-body">
+    <h3 class="sp-name">{{ .Get "name" }}</h3>
+    <p class="sp-latin"><i>{{ .Get "latin" }}</i></p>
+    {{ with $lv }}<p class="sp-badge">{{ i18n (printf "sp_%s" .) }}</p>{{ end }}
+    <div class="sp-text">{{ .Inner | markdownify }}</div>
+  </div>
+</article>

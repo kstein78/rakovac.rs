@@ -40,7 +40,7 @@ TEXT_KEYS = {'title', 'linkTitle', 'kicker', 'slogan', 'summary', 'lead', 'tile'
 STRUCT_KEYS = {'facts', 'videos', 'keyfacts', 'groups', 'group_titles'}
 LOCKED_LEAVES = {'id', 'url', 'url_label', 'coords', 'phone', 'website', 'email', 'key', 'map'}
 # Shortcode parameters that must not change (the rest, e.g. title/caption/name, are text).
-LOCKED_PARAMS = {'key', 'id', 'class', 'type', 'level', 'start', 'src'}
+LOCKED_PARAMS = {'key', 'id', 'class', 'type', 'level', 'start', 'src', 'icon', 'latin'}
 LOCAL_KEYS = {'translation_locked', 'slug'}  # keys only a translation may have (slug = its own URL word, e.g. for Serbian search)
 # Keys that belong to the English page only (e.g. aliases: an old root URL such as /fonts/ may redirect to one language only).
 SOURCE_ONLY_KEYS = {'aliases'}

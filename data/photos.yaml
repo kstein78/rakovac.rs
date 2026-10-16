@@ -1993,3 +1993,36 @@ instagram-cover:
   alt_cyr: "Штит Р Раковца на тамнозеленој подлози и натписи Instagram, Раковац и @rakovac_rs"
   alt_de: "Das Wappen-R von Rakovac auf Dunkelgrün mit den Worten Instagram, Rakovac und @rakovac_rs"
   alt_hu: "Rakovac R betűs címere sötétzöld alapon, Instagram, Rakovac és @rakovac_rs felirattal"
+atlas-birds:
+  src: img/atlas-birds.jpg
+  author: rakovac.rs
+  license: "illustration, © rakovac.rs"
+  alt: "Line drawings of birds of Fruška Gora on a green background: eagle, black stork, woodpecker, owl and songbird"
+  temp: false
+  alt_ru: "Рисунки птиц Фрушка-Горы на зелёном фоне: орёл, чёрный аист, дятел, сова и певчая птица"
+  alt_sr: "Crteži ptica Fruške gore na zelenoj pozadini: orao, crna roda, detlić, sova i ptica pevačica"
+  alt_cyr: "Цртежи птица Фрушке горе на зеленој позадини: орао, црна рода, детлић, сова и птица певачица"
+  alt_de: "Strichzeichnungen von Vögeln der Fruška Gora auf grünem Grund: Adler, Schwarzstorch, Specht, Eule und Singvogel"
+  alt_hu: "A Tarcal-hegység madarainak vonalrajzai zöld alapon: sas, fekete gólya, harkály, bagoly és énekesmadár"
+atlas-animals:
+  src: img/atlas-animals.jpg
+  author: rakovac.rs
+  license: "illustration, © rakovac.rs"
+  alt: "Line drawings of animals of Fruška Gora on a green background: deer, wild boar, golden jackal, fire salamander and stag beetle"
+  temp: false
+  alt_ru: "Рисунки животных Фрушка-Горы на зелёном фоне: олень, кабан, шакал, огненная саламандра и жук-олень"
+  alt_sr: "Crteži životinja Fruške gore na zelenoj pozadini: jelen, divlja svinja, šakal, šareni daždevnjak i jelenak"
+  alt_cyr: "Цртежи животиња Фрушке горе на зеленој позадини: јелен, дивља свиња, шакал, шарени даждевњак и јеленак"
+  alt_de: "Strichzeichnungen von Tieren der Fruška Gora auf grünem Grund: Hirsch, Wildschwein, Goldschakal, Feuersalamander und Hirschkäfer"
+  alt_hu: "A Tarcal-hegység állatainak vonalrajzai zöld alapon: szarvas, vaddisznó, aranysakál, foltos szalamandra és szarvasbogár"
+atlas-plants:
+  src: img/atlas-plants.jpg
+  author: rakovac.rs
+  license: "illustration, © rakovac.rs"
+  alt: "Line drawings of plants and mushrooms of Fruška Gora on a green background: linden and oak leaves, a flower, an edible mushroom and a death cap"
+  temp: false
+  alt_ru: "Рисунки растений и грибов Фрушка-Горы на зелёном фоне: листья липы и дуба, цветок, съедобный гриб и бледная поганка"
+  alt_sr: "Crteži biljaka i gljiva Fruške gore na zelenoj pozadini: list lipe i hrasta, cvet, jestiva gljiva i zelena pupavka"
+  alt_cyr: "Цртежи биљака и гљива Фрушке горе на зеленој позадини: лист липе и храста, цвет, јестива гљива и зелена пупавка"
+  alt_de: "Strichzeichnungen von Pflanzen und Pilzen der Fruška Gora auf grünem Grund: Linden- und Eichenblatt, eine Blume, ein Speisepilz und ein Knollenblätterpilz"
+  alt_hu: "A Tarcal-hegység növényeinek és gombáinak vonalrajzai zöld alapon: hárs- és tölgylevél, virág, ehető gomba és gyilkos galóca"

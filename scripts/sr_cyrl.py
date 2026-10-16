@@ -36,7 +36,7 @@ KEEP_WORDS = {
 }
 KEEP_PHRASES = [
     'Abbas de Dombo', 'castellani de Dombo', 'Ilok und Ruma', 'zu Neusatz', 'Griechisches Kloster Rakovatz',
-    'Donau-Ansichten', 'Uj-Futtak', 'O-Futtak', 'Mövenpick Resort & Spa', 'rakovac.rs', 'rakovac_rs', 'Rakovac Capital',
+    'Donau-Ansichten', 'Uj-Futtak', 'O-Futtak', 'Mövenpick Resort & Spa', 'rakovac.rs', 'rakovac_rs', 'BBC News', 'Rakovac Capital',
     'Rakovac Common', 'Claude Design', 'Fig Restaurant', 'Imperator & Salaxia', 'Robin Hood', 'Open-Meteo', 'SIL Open Font License',
     'Neusatz und Peterwardein', 'Eugens Weg', 'Ausg. 1877', 'Kls.', 'B92', 'Charles Eugène de Croÿ', 'Lawrence Schiller', 'Visit Distrikt', 'Kelly\'s Heroes',
 ]
@@ -100,7 +100,7 @@ PROTECT = re.compile(
     r'|' + '|'.join(re.escape(p) for p in sorted(KEEP_PHRASES, key=len, reverse=True)) + r')')
 SHORTCODE = re.compile(r'\{\{[<%]\s*(/?)(\w[\w-]*)(.*?)[>%]\}\}', re.S)
 PARAM = re.compile(r'(\w+)=("(?:[^"\\]|\\.)*"|\S+)')
-LOCKED_PARAMS = {'key', 'id', 'class', 'type', 'level', 'start', 'src', 'poster', 'link', 'x', 'y', 'map', 'icon', 'url'}
+LOCKED_PARAMS = {'key', 'id', 'class', 'type', 'level', 'start', 'src', 'poster', 'link', 'x', 'y', 'map', 'icon', 'url', 'latin'}
 
 
 def tr_markup(s):
