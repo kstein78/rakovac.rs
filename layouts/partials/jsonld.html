@@ -1,22 +1,55 @@
 {{/* Structured data (schema.org JSON-LD) in the page's language.
-  Home: WebSite + the village as a TouristDestination. Every other page: BreadcrumbList, plus
+  Home: WebSite + the place (TouristDestination, or site.Params.place.type). Every other page: BreadcrumbList, plus
   - a place (TouristAttraction / LandmarksOrHistoricalBuildings / PlaceOfWorship / LodgingBusiness / FoodEstablishment /
     LocalBusiness) when it has coordinates,
-  - a Person for historical people (people section, group: historical),
-  - otherwise an Article for ordinary text pages.
-  Only facts already on the page go in (name, description, image, address, phone, coordinates). */}}
+  - a Person for people pages (people section, group: historical, or a page with "person: true"),
+  - otherwise an Article (NewsArticle in the news section) for ordinary text pages.
+  Google Discover: the Article carries a large image in three aspect ratios when they exist
+  (static/img/discover/16x9|4x3|1x1/<file>, made by scripts/share_images.py), the author as a Person with a profile
+  page (data/authors.yaml, front matter "author: <key>"), the publisher as an Organization with a logo, and full
+  ISO dates. Only facts already on the page go in. */}}
 {{ $lang := site.Language.Lang }}
 {{ $brand := i18n "brand_name" }}
 {{ $home := site.Home }}
 {{ $d := .Params.summary | default .Description | default .Params.lead | default .Params.tile | default .Summary | default site.Language.Params.description | markdownify | plainify | htmlUnescape | replaceRE `\s+` " " | strings.TrimSpace }}
 {{ $d = truncate 300 "…" $d }}
-{{ $author := dict "@type" "Person" "name" "Konstantin Stein" "url" site.Params.authorSite }}
-{{ $img := "" }}
-{{ with index site.Data.photos (.Params.photo | default .Params.cover | default .Params.portrait | default "") }}{{ $img = cond (hasPrefix .src "http") .src (.src | absURL) }}{{ end }}
+
+{{/* Author: front matter "author" (key in data/authors.yaml) or the site's default author. */}}
+{{ $akey := .Params.author | default site.Params.defaultAuthor | default "" }}
+{{ $author := dict "@type" "Person" "name" (site.Params.authorName | default "Konstantin Stein") "url" site.Params.authorSite }}
+{{ with and $akey (index site.Data.authors $akey) }}
+  {{ $a := . }}
+  {{ $author = dict "@type" "Person" "name" (index $a (printf "name_%s" $lang) | default $a.name) }}
+  {{ with $a.page }}{{ with site.GetPage . }}{{ $author = merge $author (dict "url" .Permalink) }}{{ end }}{{ end }}
+  {{ with $a.same_as }}{{ $author = merge $author (dict "sameAs" .) }}{{ end }}
+  {{ with index $a (printf "job_%s" $lang) | default $a.job }}{{ $author = merge $author (dict "jobTitle" .) }}{{ end }}
+{{ end }}
+{{ $logo := dict "@type" "ImageObject" "url" ("icon-512.png" | absURL) "width" 512 "height" 512 }}
+{{ $publisher := dict "@type" "Organization" "@id" (printf "%s#publisher" $home.Permalink) "name" $brand "url" $home.Permalink "logo" $logo }}
+{{ with site.Params.instagram }}{{ $publisher = merge $publisher (dict "sameAs" (slice .)) }}{{ end }}
+
+{{/* Images: the page photo, plus the 16:9 / 4:3 / 1:1 crops for Discover when they were made. */}}
+{{ $img := "" }}{{ $imgs := slice }}
+{{ with index site.Data.photos (.Params.photo | default .Params.cover | default .Params.portrait | default .Params.share_photo | default "") }}
+  {{ if hasPrefix .src "http" }}{{ $img = .src }}{{ $imgs = slice .src }}
+  {{ else }}
+    {{ $img = .src | absURL }}
+    {{ $base := path.Base .src }}
+    {{ range slice "16x9" "4x3" "1x1" }}{{ $f := printf "img/discover/%s/%s" . $base }}{{ if fileExists (printf "static/%s" $f) }}{{ $imgs = $imgs | append ($f | absURL) }}{{ end }}{{ end }}
+    {{ if not $imgs }}{{ $imgs = slice $img }}{{ end }}
+  {{ end }}
+{{ end }}
+
 {{ $graph := slice }}
 {{ if .IsHome }}
-  {{ $graph = $graph | append (dict "@type" "WebSite" "@id" (printf "%s#website" $home.Permalink) "name" $brand "alternateName" (slice "Rakovac" "Раковац" "rakovac.rs") "url" $home.Permalink "inLanguage" site.Language.LanguageCode "description" site.Language.Params.description "publisher" $author "sameAs" (slice site.Params.instagram)) }}
-  {{ $graph = $graph | append (dict "@type" "TouristDestination" "@id" (printf "%s#village" $home.Permalink) "name" $brand "alternateName" (slice "Rakovac" "Раковац" "Stari Rakovac" "Novi Rakovac" "Dombó") "sameAs" site.Params.villageSameAs "description" site.Language.Params.description "url" $home.Permalink "geo" (dict "@type" "GeoCoordinates" "latitude" (index site.Params.mapCenter 0) "longitude" (index site.Params.mapCenter 1)) "containedInPlace" (dict "@type" "Place" "name" "Fruška Gora, Beočin, Vojvodina, Serbia") "image" (printf "img/share/default-%s.jpg" $lang | absURL)) }}
+  {{ $graph = $graph | append (dict "@type" "WebSite" "@id" (printf "%s#website" $home.Permalink) "name" $brand "alternateName" (site.Params.alternateNames | default (slice site.Title)) "url" $home.Permalink "inLanguage" site.Language.LanguageCode "description" site.Language.Params.description "publisher" (dict "@id" (printf "%s#publisher" $home.Permalink))) }}
+  {{ $graph = $graph | append $publisher }}
+  {{ $pl := site.Params.place | default dict }}
+  {{ $place := dict "@type" ($pl.type | default "TouristDestination") "@id" (printf "%s#place" $home.Permalink) "name" ($pl.name | default $brand) "description" site.Language.Params.description "url" $home.Permalink "geo" (dict "@type" "GeoCoordinates" "latitude" (index site.Params.mapCenter 0) "longitude" (index site.Params.mapCenter 1)) "image" (printf "img/share/default-%s.jpg" $lang | absURL) }}
+  {{ with $pl.alternateNames }}{{ $place = merge $place (dict "alternateName" .) }}{{ end }}
+  {{ with $pl.sameAs }}{{ $place = merge $place (dict "sameAs" .) }}{{ end }}
+  {{ with $pl.containedIn }}{{ $place = merge $place (dict "containedInPlace" (dict "@type" "Place" "name" .)) }}{{ end }}
+  {{ $graph = $graph | append $place }}
 {{ else }}
   {{ $items := slice (dict "@type" "ListItem" "position" 1 "name" $brand "item" $home.Permalink) }}
   {{ $pos := 1 }}
@@ -45,15 +78,16 @@
     {{ with $same }}{{ $p = merge $p (dict "sameAs" .) }}{{ end }}
     {{ with $img }}{{ $p = merge $p (dict "image" .) }}{{ end }}
     {{ $graph = $graph | append $p }}
-  {{ else if and (eq .Section "people") (eq .Params.group "historical") (not .IsSection) }}
-    {{ $p := dict "@type" "Person" "name" .Title "description" $d "url" .Permalink }}
+  {{ else if or .Params.person (and (eq .Section "people") (eq .Params.group "historical") (not .IsSection)) }}
+    {{ $p := dict "@type" "Person" "name" (.Params.person_name | default .Title) "description" $d "url" .Permalink }}
     {{ with $img }}{{ $p = merge $p (dict "image" .) }}{{ end }}
-    {{ $graph = $graph | append $p }}
-  {{ else if and .IsPage (not (in (slice "map" "fonts" "gallery") .Section)) }}
-    {{ $a := dict "@type" (cond (eq .Section "news") "NewsArticle" "Article") "headline" .Title "description" $d "inLanguage" site.Language.LanguageCode "mainEntityOfPage" .Permalink "author" $author "publisher" $author }}
-    {{ with $img }}{{ $a = merge $a (dict "image" .) }}{{ end }}
-    {{ if not .Lastmod.IsZero }}{{ $a = merge $a (dict "dateModified" (.Lastmod.Format "2006-01-02")) }}{{ end }}
-    {{ if not .Date.IsZero }}{{ $a = merge $a (dict "datePublished" (.Date.Format "2006-01-02")) }}{{ end }}
+    {{ with .Params.same_as }}{{ $p = merge $p (dict "sameAs" .) }}{{ end }}
+    {{ $graph = $graph | append (dict "@type" "ProfilePage" "mainEntity" $p "url" .Permalink "inLanguage" site.Language.LanguageCode) }}
+  {{ else if and .IsPage (not (in (slice "map" "fonts" "gallery" "search") .Section)) }}
+    {{ $a := dict "@type" (cond (eq .Section "news") "NewsArticle" "Article") "headline" (truncate 110 "…" .Title) "description" $d "inLanguage" site.Language.LanguageCode "mainEntityOfPage" .Permalink "url" .Permalink "author" (slice $author) "publisher" $publisher }}
+    {{ with $imgs }}{{ $a = merge $a (dict "image" .) }}{{ end }}
+    {{ if not .Date.IsZero }}{{ $a = merge $a (dict "datePublished" (.Date.Format "2006-01-02T15:04:05-07:00")) }}{{ end }}
+    {{ if not .Lastmod.IsZero }}{{ $a = merge $a (dict "dateModified" (.Lastmod.Format "2006-01-02T15:04:05-07:00")) }}{{ end }}
     {{ $graph = $graph | append $a }}
   {{ end }}
 {{ end }}

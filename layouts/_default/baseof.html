@@ -19,6 +19,9 @@
   {{ if $needsMap }}
   <link rel="stylesheet" href="{{ "vendor/leaflet/leaflet.css" | relURL }}">
   {{ end }}
+  {{/* Feeds: the whole site and the news section (Google "Follow", feed readers, autoposting). */}}
+  {{ with site.Home.OutputFormats.Get "rss" }}<link rel="alternate" type="application/rss+xml" href="{{ .Permalink }}" title="{{ i18n "brand_name" }}">{{ end }}
+  {{ with site.GetPage "news" }}{{ $news := . }}{{ with .OutputFormats.Get "rss" }}<link rel="alternate" type="application/rss+xml" href="{{ .Permalink }}" title="{{ i18n "brand_name" }} · {{ $news.LinkTitle }}">{{ end }}{{ end }}
   {{ partial "jsonld.html" . }}
 </head>
 <body class="section-{{ .Section | default "home" }}{{ if eq .Section "kids" }} is-kids{{ end }}">

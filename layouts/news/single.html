@@ -5,6 +5,7 @@
     <p class="nmeta"><span class="nfeed nfeed-{{ .Params.feed }}">{{ i18n (printf "news_feed_%s" .Params.feed) }}</span> <time datetime="{{ .Date.Format "2006-01-02" }}">{{ partial "news-date.html" .Date }}</time></p>
     <h1>{{ .Title }}</h1>
     {{ with .Params.lead }}<p class="lead">{{ . | markdownify }}</p>{{ end }}
+    {{ with .Params.author }}{{ partial "byline.html" $ }}{{ end }}
   </div>
   {{ with .Params.cover }}<div class="wrap wide">{{ partial "photo.html" (dict "key" . "class" "hero" "eager" true) }}</div>{{ end }}
 </header>

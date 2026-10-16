@@ -94,6 +94,26 @@ disableLanguages = []
   # The village in the knowledge graph (schema.org sameAs on the home page): Wikidata Q908197 and its Wikipedia articles.
   villageSameAs = ["https://www.wikidata.org/wiki/Q908197", "https://en.wikipedia.org/wiki/Rakovac,_Beo%C4%8Din", "https://sr.wikipedia.org/wiki/%D0%A0%D0%B0%D0%BA%D0%BE%D0%B2%D0%B0%D1%86_(%D0%91%D0%B5%D0%BE%D1%87%D0%B8%D0%BD)", "https://de.wikipedia.org/wiki/Rakovac_(Beo%C4%8Din)", "https://hu.wikipedia.org/wiki/Domb%C3%B3_(Szerbia)", "https://sh.wikipedia.org/wiki/Rakovac_(Beo%C4%8Din)"]          # Yandex Metrica counter number; loaded only after the visitor allows statistics
 
+  # Structured data (layouts/partials/jsonld.html): the site, the village and the default author.
+  alternateNames = ["Rakovac", "Раковац", "rakovac.rs"]
+  authorName = "Konstantin Stein"
+  defaultAuthor = "kosta"         # data/authors.yaml
+  [params.place]
+    type = "TouristDestination"
+    name = "Rakovac"
+    alternateNames = ["Rakovac", "Раковац", "Stari Rakovac", "Novi Rakovac", "Dombó"]
+    sameAs = ["https://www.wikidata.org/wiki/Q908197", "https://en.wikipedia.org/wiki/Rakovac,_Beo%C4%8Din", "https://sr.wikipedia.org/wiki/%D0%A0%D0%B0%D0%BA%D0%BE%D0%B2%D0%B0%D1%86_(%D0%91%D0%B5%D0%BE%D1%87%D0%B8%D0%BD)", "https://de.wikipedia.org/wiki/Rakovac_(Beo%C4%8Din)", "https://hu.wikipedia.org/wiki/Domb%C3%B3_(Szerbia)", "https://sh.wikipedia.org/wiki/Rakovac_(Beo%C4%8Din)"]
+    containedIn = "Fruška Gora, Beočin, Vojvodina, Serbia"
+  # Link-preview cards and Google Discover crops (scripts/share_images.py).
+  [params.share]
+    bg = "#1f3a2e"
+    ink = "#f5f0e6"
+    sub = "#dfe8dc"
+    accent = "#e07a2e"
+    photo = "img/monastery-fence-summer.jpg"
+    logo = "downloads/logo/rakovac-logo-R-colour.svg"
+    discover = ["16x9"]
+
 [taxonomies]
   # none used for now; categories live in front matter "category"
 
@@ -110,7 +130,7 @@ disableLanguages = []
 
 [outputs]
   home = ["HTML", "RSS", "llms"]
-  section = ["HTML"]
+  section = ["HTML", "RSS"]
 
 [sitemap]
   changeFreq = "monthly"

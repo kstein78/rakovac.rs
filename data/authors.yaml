@@ -1,0 +1,8 @@
+# Authors (front matter "author: <key>"; default: params.defaultAuthor). Shown as a byline and in schema.org.
+kosta:
+  name: Konstantin Stein
+  name_ru: Константин Штейн
+  name_cyr: Константин Штајн
+  page: author
+  same_as:
+  - https://stein-1.com

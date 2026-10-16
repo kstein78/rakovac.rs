@@ -9,6 +9,7 @@
     {{ with .Params.kicker }}<p class="kicker">{{ . }}</p>{{ end }}
     <h1>{{ .Title }}</h1>
     {{ with .Params.lead }}<p class="lead">{{ . | markdownify }}</p>{{ end }}
+    {{ if .IsPage }}{{ partial "byline.html" . }}{{ end }}
     {{ if or .Params.kids .Params.supporter }}
     <p class="chips">
       {{ if .Params.kids }}<span class="chip chip-kids">{{ i18n "kids_friendly" }}</span>{{ end }}

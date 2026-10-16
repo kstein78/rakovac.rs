@@ -1,0 +1,14 @@
+{{/* Author and dates under the title, for pages with "author: <key>" (data/authors.yaml) and for news.
+  Visible authorship and dates help readers and Google (E-E-A-T, Discover). */}}
+{{ $p := . }}
+{{ $lang := site.Language.Lang }}
+{{ $a := "" }}{{ with .Params.author }}{{ $a = index site.Data.authors . }}{{ end }}
+{{ if or $a (eq .Section "news") }}
+<p class="byline" data-pagefind-ignore>
+  {{ with $a }}{{ $name := index . (printf "name_%s" $lang) | default .name }}
+    <span>{{ i18n "byline_text" }}: {{ with .page }}{{ with site.GetPage . }}<a href="{{ .RelPermalink }}" rel="author">{{ $name }}</a>{{ else }}{{ $name }}{{ end }}{{ else }}{{ $name }}{{ end }}</span>
+  {{ end }}
+  {{ if not $p.Date.IsZero }}<span><time datetime="{{ $p.Date.Format "2006-01-02" }}">{{ partial "news-date.html" $p.Date }}</time></span>{{ end }}
+  {{ if and (not $p.Lastmod.IsZero) (gt ($p.Lastmod.Sub $p.Date).Hours 48.0) }}<span>{{ i18n "byline_updated" }} <time datetime="{{ $p.Lastmod.Format "2006-01-02" }}">{{ partial "news-date.html" $p.Lastmod }}</time></span>{{ end }}
+</p>
+{{ end }}
