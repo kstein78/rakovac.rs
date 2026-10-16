@@ -36,7 +36,7 @@ KEEP_WORDS = {
 }
 KEEP_PHRASES = [
     'Abbas de Dombo', 'castellani de Dombo', 'Ilok und Ruma', 'zu Neusatz', 'Griechisches Kloster Rakovatz',
-    'Donau-Ansichten', 'Uj-Futtak', 'O-Futtak', 'Mövenpick Resort & Spa', 'rakovac.rs', 'rakovac_rs', 'BBC News', 'DJ Mag', 'Rakovac Capital',
+    'Donau-Ansichten', 'Uj-Futtak', 'O-Futtak', 'Mövenpick Resort & Spa', 'rakovac.rs', 'rakovac_rs', 'BBC News', 'DJ Mag', 'Redlich, Orenstein und Spitzer', 'The Brothers Bloom', 'City Magazine', 'Vojvodina Travel', 'Fruška Walk & Wine', 'Tour de Fruška', 'Termal Vrdnik', 'Plan Plus', 'IMDb', 'Rakovac Capital',
     'Rakovac Common', 'Claude Design', 'Fig Restaurant', 'Imperator & Salaxia', 'Robin Hood', 'Open-Meteo', 'SIL Open Font License',
     'Neusatz und Peterwardein', 'Eugens Weg', 'Ausg. 1877', 'Kls.', 'B92', 'Charles Eugène de Croÿ', 'Lawrence Schiller', 'Visit Distrikt', 'Kelly\'s Heroes',
 ]
