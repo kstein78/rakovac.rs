@@ -165,3 +165,8 @@ http:// {
 	import site
 	header X-Robots-Tag "noindex"
 }
+
+# Other sites of the selo network on this server (vajska.rs, provala.rs, …). Their configs are written to
+# /etc/caddy/sites/ by selo-update from the engine repo (github.com/kstein78/selo, hosting/). With no files
+# there this line does nothing.
+import /etc/caddy/sites/*.caddy
