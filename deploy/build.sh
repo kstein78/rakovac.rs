@@ -64,3 +64,13 @@ echo "live: $sha (Hugo $ver)"
 
 # keep the newest KEEP releases (the live one is always the newest)
 ls -1dt "$rel"/*/ | tail -n +$((KEEP + 1)) | xargs -r rm -rf
+
+# Other sites of the selo network on this server (vajska.rs, provala.rs, …): built and kept live by the
+# engine's hosting/selo-update, as this same user. The first run also installs its every-minute cron entry.
+# Never blocks or breaks rakovac.rs: it runs after rakovac.rs is live, with a time limit, errors only logged.
+if [ -z "${SELO_SKIP:-}" ] && [ "$(id -un)" = deploy ]; then
+  ( mkdir -p "$HOME/selo" && cd "$HOME/selo" \
+    && { [ -d engine/.git ] || git clone -q https://github.com/kstein78/selo.git engine; } \
+    && timeout 15m bash engine/hosting/selo-update ) \
+    || echo "warning: selo sites update failed, see $HOME/selo/update.log (rakovac.rs is live anyway)" >&2
+fi
