@@ -50,6 +50,14 @@ if [ -n "$pfver" ]; then
   fi
 fi
 
+# The list of the network's sites (block "Sister sites"): the newest one from the engine, when the server has it
+# (~/selo/engine, kept up to date by hosting/selo-update; it asks for a rebuild here when the list changes).
+eng=$HOME/selo/engine
+if [ -f "$eng/data/network.yaml" ]; then
+  cp "$eng/data/network.yaml" data/network.yaml
+  mkdir -p static/img/network && cp "$eng"/static/img/network/*.svg static/img/network/ 2>/dev/null || true
+fi
+
 out=$rel/$sha
 rm -rf "$out"
 "$hugo" --quiet --gc --minify --destination "$out"

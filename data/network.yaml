@@ -1,0 +1,51 @@
+# The sites of the network: ONE list for all of them (rakovac.rs, vajska.rs, provala.rs, … ).
+# The "Neighbouring sites" block (layouts/partials/sister.html) shows every site here except the one being built,
+# in the page's language. A site that lacks that language gets the visitor's nearest one (fallback below).
+# Adding a site: one entry here + its emblem in static/img/network/<key>.svg (copy the site's
+# static/img/brand-shield.svg). The server copies this file into every site before each build and rebuilds all
+# sites when it changes (hosting/selo-update), so no site repo has to be touched; rakovac.rs takes it the same way.
+#   key    short name, also the emblem file name
+#   langs  the languages the site has, in its own order; the first is used when nothing else fits
+#   text_<lang>  one line about the site
+fallback:
+  hr: [hr, sr, cyr, en]
+  sr: [sr, hr, cyr, en]
+  cyr: [cyr, sr, hr, en]
+  en: [en, sr]
+  ru: [ru, en, sr]
+  de: [de, en, sr]
+  hu: [hu, en, sr]
+sites:
+- key: rakovac
+  name: rakovac.rs
+  url: https://rakovac.rs/
+  langs: [sr, cyr, en, ru, de, hu]
+  text_sr: 'Rakovac na Fruškoj gori: prvi sajt ove mreže'
+  text_cyr: 'Раковац на Фрушкој гори: први сајт ове мреже'
+  text_hr: 'Rakovac na Fruškoj gori: prva stranica ove mreže'
+  text_en: 'Rakovac on Fruška Gora: the first site of this network'
+  text_ru: 'Раковац на Фрушка-Горе: первый сайт этой сети'
+  text_de: 'Rakovac auf der Fruška Gora: die erste Website dieses Netzes'
+  text_hu: 'Rakovac a Tarcal-hegységben: a hálózat első oldala'
+- key: vajska
+  name: vajska.rs
+  url: https://vajska.rs/
+  langs: [sr, cyr, hr, en, ru]
+  text_sr: 'Selo Vajska: vesti, korisno, istorija i izleti'
+  text_cyr: 'Село Вајска: вести, корисно, историја и излети'
+  text_hr: 'Selo Vajska: vijesti, korisne informacije, povijest i izleti'
+  text_en: 'The village of Vajska: news, practical info, history and trips'
+  text_ru: 'Село Вайска: новости, полезное, история и поездки'
+  text_de: 'Das Dorf Vajska: Neuigkeiten, Praktisches, Geschichte und Ausflüge'
+  text_hu: 'Vajszka falu: hírek, hasznos tudnivalók, történelem és kirándulások'
+- key: provala
+  name: provala.rs
+  url: https://provala.rs/
+  langs: [sr, cyr, hr, en, ru]
+  text_sr: 'Jezero Provala: kupanje, pecanje, smeštaj i priroda'
+  text_cyr: 'Језеро Провала: купање, пецање, смештај и природа'
+  text_hr: 'Jezero Provala: kupanje, ribolov, smještaj i priroda'
+  text_en: 'Lake Provala: swimming, fishing, stays and nature'
+  text_ru: 'Озеро Провала: купание, рыбалка, жильё и природа'
+  text_de: 'Der Provala-See: Baden, Angeln, Unterkünfte und Natur'
+  text_hu: 'A Provala-tó: fürdés, horgászat, szállás és természet'

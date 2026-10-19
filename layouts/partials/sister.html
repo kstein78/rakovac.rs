@@ -1,0 +1,24 @@
+{{/* "Neighbouring sites": every site of the network (data/network.yaml, one list for all sites) except this one,
+  with its emblem, name and one line in the page's language; the link goes to the same language on that site,
+  or the nearest one it has (network.yaml "fallback").
+  Usage: partial "sister.html" . (home page) or the shortcode {{< sister >}} in a page. */}}
+{{ $lang := site.Language.Lang }}
+{{ $here := (urls.Parse site.BaseURL).Host }}
+{{ with site.Data.network }}
+{{ $fb := index .fallback $lang | default (slice $lang "en") }}
+{{ $list := slice }}{{ range .sites }}{{ if ne (urls.Parse .url).Host $here }}{{ $list = $list | append . }}{{ end }}{{ end }}
+{{ with $list }}
+<section class="wrap sister" data-pagefind-ignore>
+  <h2 class="listing-title">{{ i18n "sister_title" }}</h2>
+  <div class="sister-grid">
+    {{ range . }}
+    {{ $s := . }}{{ $to := index .langs 0 }}
+    {{ range $fb }}{{ if in $s.langs . }}{{ $to = . }}{{ break }}{{ end }}{{ end }}
+    <a class="sister-card" href="{{ .url }}{{ $to }}/" rel="noopener">
+      <img src="{{ printf "img/network/%s.svg" .key | relURL }}" alt="" width="44" height="57" loading="lazy">
+      <span><b>{{ .name }}</b><span>{{ index . (printf "text_%s" $lang) | default .text_en }}</span></span>
+    </a>
+    {{ end }}
+  </div>
+</section>
+{{ end }}{{ end }}

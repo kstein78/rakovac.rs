@@ -710,3 +710,12 @@ a[href^="tel:"] { white-space: nowrap; }
 
 /* Wide tables in text scroll sideways on phones instead of widening the page. */
 @media (max-width: 700px) { .prose table { display: block; overflow-x: auto; -webkit-overflow-scrolling: touch; } .prose th, .prose td { min-width: 7rem; } }
+
+/* Sister sites block (data/network.yaml, the same list as on every site of the network). */
+.sister { margin-block: 2.5rem; }
+.sister-grid { display: grid; gap: 1rem; grid-template-columns: repeat(auto-fit, minmax(15rem, 1fr)); }
+.sister-card { display: flex; gap: .9rem; align-items: center; padding: 1rem; border: 1px solid var(--line); border-radius: var(--radius); background: var(--surface); color: var(--ink); text-decoration: none; }
+.sister-card:hover { border-color: var(--accent); }
+.sister-card img { width: 44px; height: auto; flex: none; }
+.sister-card b { display: block; font-weight: 600; }
+.sister-card span { font-size: var(--step--1); color: var(--muted); }

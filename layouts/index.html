@@ -44,6 +44,8 @@
   <div class="prose">{{ .Content }}</div>
 </section>
 
+{{ partial "sister.html" . }}
+
 <section class="wrap home-map" data-pagefind-ignore>
   <h2 class="listing-title">{{ with site.GetPage "map" }}<a href="{{ .RelPermalink }}">{{ .Title }}</a>{{ end }}</h2>
   {{ partial "allpoints-map.html" (dict "class" "map-home") }}
