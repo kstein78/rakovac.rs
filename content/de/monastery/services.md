@@ -1,9 +1,9 @@
 ---
-title: "Kloster Rakovac: Gottesdienstzeiten"
+title: "Kloster Rakovac: Gottesdienst- und Öffnungszeiten"
 linkTitle: "Gottesdienstzeiten"
 weight: 5
 kicker: "Manastir Rakovac · raspored bogosluženja"
-summary: "Gottesdienstzeiten im Kloster Rakovac: Liturgie werktags und samstags um 7:00, sonntags und an Feiertagen um 8:00, Vesper täglich um 16:00 Uhr."
+summary: "Kloster Rakovac: Liturgie werktags und samstags um 7:00, sonntags und feiertags um 8:00, Vesper um 16:00. Geöffnet im Sommer 7–19:30, im Winter 7–17 Uhr."
 lead: "Wann im Kloster Rakovac Liturgie und Vesper gefeiert werden, wann das Kloster für Besucher geöffnet ist und wie man einen Gruppenbesuch anmeldet."
 photo: monastery-church-above
 ---

@@ -5,7 +5,8 @@
 {{ $lang := site.Language.Lang }}
 {{ $brand := i18n "brand_name" }}
 {{ $sitedesc := site.Language.Params.description }}
-{{ $title := cond .IsHome (printf "%s · %s" $brand site.Language.Params.tagline) (printf "%s · %s" .Title $brand) }}
+{{/* No " · <brand>" when the title already names the place: shorter titles, nothing cut off in search results. */}}
+{{ $title := cond .IsHome (printf "%s · %s" $brand site.Language.Params.tagline) (cond (strings.Contains (lower .Title) (lower $brand)) .Title (printf "%s · %s" .Title $brand)) }}
 {{ $d := "" }}
 {{ if .IsHome }}{{ $d = $sitedesc }}{{ else }}{{ $d = .Params.summary | default .Description | default .Params.lead | default .Params.tile | default .Summary }}{{ end }}
 {{ $d = $d | default $sitedesc | markdownify | plainify | htmlUnescape | replaceRE `\s+` " " | strings.TrimSpace }}

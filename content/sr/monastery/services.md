@@ -1,10 +1,10 @@
 ---
-title: "Manastir Rakovac: raspored bogosluženja"
+title: "Manastir Rakovac: raspored bogosluženja i radno vreme"
 linkTitle: "Raspored bogosluženja"
 slug: raspored-bogosluzenja
 weight: 5
 kicker: "Manastir Rakovac · Stari Rakovac"
-summary: "Raspored bogosluženja u manastiru Rakovac: liturgija radnim danima i subotom u 7:00, nedeljom i praznicima u 8:00, večernje svakog dana u 16:00."
+summary: "Manastir Rakovac: liturgija radnim danima i subotom u 7:00, nedeljom i praznicima u 8:00, večernje u 16:00. Otvoren leti 7–19:30, zimi 7–17."
 lead: "Kada su liturgija i večernje u manastiru Rakovac, kada je manastir otvoren za posetioce i kako najaviti grupnu posetu."
 photo: monastery-church-above
 ---

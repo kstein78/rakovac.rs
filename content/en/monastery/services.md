@@ -1,9 +1,9 @@
 ---
-title: "Rakovac Monastery: service times"
+title: "Rakovac Monastery: service times and opening hours"
 linkTitle: "Service times"
 weight: 5
 kicker: "Manastir Rakovac · raspored bogosluženja"
-summary: "Service times at Rakovac Monastery: Divine Liturgy on weekdays and Saturdays at 7:00, on Sundays and feast days at 8:00, Vespers every day at 16:00."
+summary: "Rakovac Monastery: Liturgy on weekdays and Saturdays at 7:00, Sundays and feast days at 8:00, Vespers at 16:00. Open 7–19:30 in summer, 7–17 in winter."
 lead: "When the Liturgy and Vespers are served at Rakovac Monastery, when the monastery is open to visitors and how to announce a group visit."
 photo: monastery-church-above
 ---

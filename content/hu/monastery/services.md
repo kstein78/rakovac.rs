@@ -1,9 +1,9 @@
 ---
-title: "A rakováci kolostor: a szertartások rendje"
+title: "A rakováci kolostor: szertartások és nyitvatartás"
 linkTitle: "Szertartások rendje"
 weight: 5
 kicker: "Manastir Rakovac · raspored bogosluženja"
-summary: "Szertartások a rakováci kolostorban: liturgia hétköznap és szombaton 7:00-kor, vasárnap és ünnepnapokon 8:00-kor, vecsernye minden nap 16:00-kor."
+summary: "Rakováci kolostor: liturgia hétköznap és szombaton 7:00-kor, vasárnap és ünnepnap 8:00-kor, vecsernye 16:00-kor. Nyitva nyáron 7–19:30, télen 7–17."
 lead: "Mikor tartják a liturgiát és a vecsernyét a rakováci kolostorban, mikor látogatható a kolostor, és hogyan kell bejelenteni egy csoportos látogatást."
 photo: monastery-church-above
 ---
