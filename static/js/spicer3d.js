@@ -6,7 +6,7 @@ import * as THREE from '../vendor/three/three.module.min.js';
 import { OrbitControls } from '../vendor/three/OrbitControls.js';
 
 const STONE = '#efe6d2', STONE_D = '#d9ccb0', TRIM = '#f6f0e2', FRAME = '#6a2e25', GLASS1 = '#1d252c', GLASS2 = '#3c4a56';
-const PL = 1.2, FL1 = 5.8;                       // plinth top (ground floor level), first floor level
+const PL = 1.2, FL1 = 6.2;                       // ground floor ~5 m high, upper floor ~4.4 m (photos)                       // plinth top (ground floor level), first floor level
 
 /* ---------------------------------------------------------------- textures */
 function canvasTex(w, h, draw, repeat) {
@@ -156,6 +156,7 @@ function box(x0, x1, y0, y1, z0, z1, mat) {      // box by extents; wall texture
 /* decal on a face: face = 'n' (+z), 's' (-z), 'e' (+x), 'w' (-x); u = coordinate along the face, y = bottom */
 const texCache = new Map();
 function decal(draw, key, px, w, h, face, plane, u, y, mat) {
+  key = `${key}|${w}|${h}`;
   let t = texCache.get(key);
   if (!t) { t = canvasTex(px, Math.round(px * h / w), draw); texCache.set(key, t); }
   const m = new THREE.Mesh(new THREE.PlaneGeometry(w, h), new THREE.MeshStandardMaterial({ map: t, transparent: true, roughness: .8, ...(mat || {}) }));
@@ -295,12 +296,12 @@ function build() {
   box(-9.5, -3.75, 0, PL, ZS, 0, M.plinth); box(-9.5, -3.75, PL, EAVE + .3, ZS, 0);
   cornice(-9.5, -3.75, ZS, 0, EAVE + .3); hipRoof(-9.9, -3.35, ZS - .4, .4, EAVE + .3, 3.2);
   box(-9.7, -3.55, FL1 - .25, FL1, ZS - .2, .2, M.trim);
-  decal(traceryDraw, 'tracery', 1024, 4.6, 5.0, 'n', 0, -6.6, 5.8);
+  decal(traceryDraw, 'tracery', 1024, 4.6, 4.7, 'n', 0, -6.6, FL1);
   decal(ironDraw, 'iron', 256, 1.6, 1.9, 'n', 0, -9.0, 7.4);
-  decal(WA, 'wa18', 256, 1.6, 3.0, 'n', 0, -5.0, PL + .1);                        // door behind the porch
-  decal(WA, 'wa', 256, 1.3, 2.4, 'n', 0, -8.3, PL + .6);
-  for (const z of [-11.8, -14]) { decal(W1, 'w1', 256, 1.1, 2.3, 'w', -9.5, z, PL + .7); }
-  for (const z of [-2.2, -6.2, -11.8, -14]) decal(W1, 'w1', 256, 1.1, 2.3, 'w', -9.5, z, FL1 + .8);
+  decal(WA, 'wa18', 256, 1.6, 3.75, 'n', 0, -5.0, PL + 0.1);                        // door behind the porch
+  decal(WA, 'wa', 256, 1.3, 3.12, 'n', 0, -8.3, PL + 0.6);
+  for (const z of [-11.8, -14]) { decal(W1, 'w1', 256, 1.1, 2.99, 'w', -9.5, z, PL + 0.6); }
+  for (const z of [-2.2, -6.2, -11.8, -14]) decal(W1, 'w1', 256, 1.1, 2.2, 'w', -9.5, z, FL1 + 0.8);
   decal(gothicPairDraw, 'goth', 512, 2.2, 4.4, 's', ZS, -4.8, 3.6);              // staircase window
   for (const x of [-8.2, -6.6]) decal(W1, 'w1', 256, .9, 1.7, 's', ZS, x, PL + .8);
 
@@ -312,15 +313,15 @@ function build() {
   /* centre: arcaded loggia on the ground floor, a terrace above it, the upper floor set back */
   box(-3.75, 3.4, 0, PL, ZS, 0, M.plinth); box(-3.75, 3.4, PL, EAVE, ZS, -2.6);
   cornice(-3.75, 3.4, ZS, -2.6, EAVE); hipRoof(-4.15, 3.8, ZS - .4, -2.2, EAVE, 3.0);
-  const arcs = [-2.55, -.17, 2.2].map(x => ({ x: x + 3.75, w: 1.9, y0: PL, spring: 3.9 }));
+  const arcs = [-2.55, -.17, 2.2].map(x => ({ x: x + 3.75, w: 1.9, y0: PL, spring: 4.4 }));
   const arc = arcadeWall(7.15, FL1, arcs, .5); arc.position.set(-3.75, 0, -.5); add(arc);
   box(-3.75, 3.4, FL1, FL1 + .3, -2.6, .25, M.trim);
-  for (const x of [-3.45, -1.36, 1.02, 3.1]) column(x, .3, PL, 4.4, .17);
+  for (const x of [-3.45, -1.36, 1.02, 3.1]) column(x, .3, PL, 4.85, .17);
   balustrade(-3.7, .1, 3.35, .1, FL1 + .3);
-  for (const x of [-2.55, -.17, 2.2]) decal(WA, 'wa', 256, 1.5, 2.7, 'n', -2.6, x, PL + .1);
-  for (const x of [-2.4, -.17, 2.05]) decal(WH, 'wh', 256, 1.2, 2.5, 'n', -2.6, x, FL1 + .8);
+  for (const x of [-2.55, -.17, 2.2]) decal(WA, 'wa', 256, 1.5, 3.51, 'n', -2.6, x, PL + 0.1);
+  for (const x of [-2.4, -.17, 2.05]) decal(WH, 'wh', 256, 1.2, 2.2, 'n', -2.6, x, FL1 + 0.8);
   for (const x of [-2.2, 1.6]) decal(W1, 'w1', 256, .9, 1.7, 's', ZS, x, PL + .8);
-  for (const x of [-2.2, -.2, 1.6]) decal(W1, 'w1', 256, 1.1, 2.2, 's', ZS, x, FL1 + .8);
+  for (const x of [-2.2, -.2, 1.6]) decal(W1, 'w1', 256, 1.1, 2.2, 's', ZS, x, FL1 + 0.8);
 
   /* the curved double stair in front of the loggia: two flights rising round a solid core */
   const sc = { x: -.17, r0: 1.25, r1: 2.6 }, nst = 7;
@@ -347,8 +348,8 @@ function build() {
   box(3.4, 7.6, FL1, EAVE + .2, ZS, ZL);
   cornice(3.4, XE, ZS, 1.5, EAVE + .2); hipRoof(3.0, 10.4, ZS - .4, 1.9, EAVE + .2, 3.4);
   box(3.2, 10.2, FL1 - .25, FL1, ZG, 1.7, M.trim); box(3.2, XR + .2, FL1 - .25, FL1, ZS - .2, ZG, M.trim);
-  decal(WP, 'wp', 512, 2.4, 2.6, 'n', 1.5, 6.6, PL + .7);
-  decal(WP, 'wp', 512, 2.4, 2.8, 'n', 1.5, 6.6, FL1 + .7);
+  decal(WP, 'wp', 512, 2.4, 3.25, 'n', 1.5, 6.6, PL + 0.6);
+  decal(WP, 'wp', 512, 2.4, 2.2, 'n', 1.5, 6.6, FL1 + 0.7);
   decal(friezeDraw, 'frieze', 1024, 5.0, .7, 'n', 1.5, 6.6, FL1 - 1.05);
   for (const x of [5.0, 8.2]) decal(medallionDraw, 'med', 128, .6, .6, 'n', 1.5, x, FL1 + .05);
   decal(ironDraw, 'iron', 256, 1.6, 1.9, 'n', 1.5, 4.2, 7.3);
@@ -357,20 +358,20 @@ function build() {
   box(7.6, 7.65, FL1 + .3, EAVE - .4, ZS, ZL, M.dark);
   box(7.6, XR + .1, FL1, FL1 + .3, ZS - .1, ZL, M.trim); box(7.6, XR + .1, EAVE - .45, EAVE + .2, ZS - .1, ZL, M.trim);
   for (const z of [ZS + 1.5, ZS + .25]) column(XR - .3, z, FL1 + .3, EAVE - .45, .19);
-  decal(WH, 'wh', 256, 1.0, 2.4, 'e', 7.65, ZS + 1.6, FL1 + .5);
+  decal(WH, 'wh', 256, 1, 2.2, 'e', 7.65, ZS + 1.6, FL1 + 0.5);
   // windows and the oculus between the gable bay and the loggia
-  for (const z of [-4.1, -2.0]) { decal(W1, 'w1', 256, 1.1, 2.4, 'e', XE, z, FL1 + .8); decal(W1, 'w1', 256, 1.1, 2.3, 'e', XE, z, PL + .8); }
+  for (const z of [-4.1, -2.0]) { decal(W1, 'w1', 256, 1.1, 2.2, 'e', XE, z, FL1 + 0.8); decal(W1, 'w1', 256, 1.1, 2.99, 'e', XE, z, PL + 0.6); }
   { const oc = add(new THREE.Mesh(new THREE.TorusGeometry(.42, .1, 10, 28), M.trim)); oc.position.set(XR + .05, 8.0, -11.2); oc.rotation.y = Math.PI / 2;
     const od = add(new THREE.Mesh(new THREE.CircleGeometry(.42, 28), M.dark)); od.position.set(XR + .03, 8.0, -11.2); od.rotation.y = Math.PI / 2; }
-  decal(W1, 'w1', 256, 1.1, 2.4, 'e', XR, -9.7, FL1 + .8); decal(WA, 'wa', 256, 1.1, 2.2, 'e', XR, -9.9, PL + .8);
-  decal(W1, 'w1', 256, 1.1, 2.3, 'e', XR, ZS + 1.4, PL + .8);
+  decal(W1, 'w1', 256, 1.1, 2.2, 'e', XR, -9.7, FL1 + 0.8); decal(WA, 'wa', 256, 1.1, 2.86, 'e', XR, -9.9, PL + 0.6);
+  decal(W1, 'w1', 256, 1.1, 2.99, 'e', XR, ZS + 1.4, PL + 0.6);
   // the gable bay with the turul, built facing -z in a local frame and turned to face east
   { const g = new THREE.Group(), main = scene; scene = g;
     box(-1.6, 1.6, 0, PL, -1.0, 0, M.plinth); box(-1.6, 1.6, PL, EAVE - .2, -1.0, 0);
     box(-1.85, 1.85, EAVE - .6, EAVE - .2, -1.25, 0, M.trim); box(-1.75, 1.75, FL1 - .25, FL1, -1.15, 0, M.trim);
     const top = flemishGable(-1.6, 1.6, -1.0, EAVE - .2, .7, 1);
     turul(0, top, -.75, Math.PI);
-    decal(WH, 'wh', 256, 1.1, 2.5, 's', -1.0, 0, FL1 + .7); decal(WA, 'wa', 256, 1.2, 2.3, 's', -1.0, 0, PL + .7);
+    decal(WH, 'wh', 256, 1.1, 2.2, 's', -1.0, 0, FL1 + 0.7); decal(WA, 'wa', 256, 1.2, 2.99, 's', -1.0, 0, PL + 0.6);
     decal(slitDraw, 'slit', 64, .4, 1.2, 's', -1.0, 0, EAVE + .9);
     scene = main; g.rotation.y = -Math.PI / 2; g.position.set(XE, 0, -7.0); scene.add(g); }
   const ori = new THREE.Group(); scene.add(ori); ori.position.set(9.6, 0, 1.1); ori.rotation.y = Math.PI / 4;
@@ -382,8 +383,8 @@ function build() {
     for (const r of [0, Math.PI / 2]) { const p = new THREE.Mesh(new THREE.PlaneGeometry(1.1, 2.4), new THREE.MeshStandardMaterial({ map: t, transparent: true })); p.rotation.y = r; p.position.set(Math.sin(r) * 1.07, FL1 + 2.1, Math.cos(r) * 1.07); ori.add(p); } }
 
   /* south front (service side) */
-  for (const x of [5.0, 7.0, 8.7]) decal(W1, 'w1', 256, 1.0, 2.0, 's', ZS, x, PL + .8);
-  for (const x of [4.6, 6.4]) decal(W1, 'w1', 256, 1.1, 2.3, 's', ZS, x, FL1 + .8);    // the corner loggia is open above
+  for (const x of [5.0, 7.0, 8.7]) decal(W1, 'w1', 256, 1, 2.6, 's', ZS, x, PL + 0.6);
+  for (const x of [4.6, 6.4]) decal(W1, 'w1', 256, 1.1, 2.2, 's', ZS, x, FL1 + 0.8);    // the corner loggia is open above
   chimney(-.5, -9, EAVE + 1.2, EAVE + 4.4); chimney(1.2, -9, EAVE + 1.2, EAVE + 4.4); chimney(7.2, -6, EAVE + 1.5, EAVE + 5.0);
 
   /* kitchen wing: single-storey, south-east */
