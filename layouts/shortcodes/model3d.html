@@ -2,7 +2,8 @@
   Shows the poster photo first; the model (three.js from static/vendor/three) loads only when the block
   comes into view. Buttons: views and auto-rotation. Labels from i18n (m3d_*). */}}
 {{ $poster := index site.Data.photos (.Get "poster") }}
-<figure class="m3d" data-src="{{ (.Get "src") | relURL }}">
+{{ $v := substr (readFile (printf "static/%s" (.Get "src")) | md5) 0 10 }}
+<figure class="m3d" data-src="{{ (.Get "src") | relURL }}?v={{ $v }}">
   <div class="m3d-stage">
     {{ with $poster }}<img class="m3d-poster" src="{{ .src | relURL }}" alt="{{ index . (printf "alt_%s" site.Language.Lang) | default .alt }}" loading="lazy">{{ end }}
     <canvas aria-label="{{ i18n "m3d_canvas" }}"></canvas>
