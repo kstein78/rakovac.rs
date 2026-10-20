@@ -23,7 +23,7 @@ Ein kleiner, etwas vernachlässigter Spielplatz auf dem Rasen direkt neben der [
 
 ## Der frühere Spielplatz beim Kloster
 
-Hinter dem Käsepavillon neben dem Kloster gab es früher einen kleinen Spielplatz. Als wir am 20. Oktober 2026 vorbeikamen, waren alle Geräte abgebaut und nur noch kahle Erde übrig. Vielleicht entsteht hier ein neuer Spielplatz; wir ergänzen die Seite, sobald sich etwas tut. Bis dahin ist der nächste Spielplatz der an der Gedenkstätte Kamenolom (oben).
+Rechts vom Kloster, direkt hinter der Bushaltestelle, gab es früher einen kleinen Spielplatz. Als wir am 20. Oktober 2026 vorbeikamen, waren alle Geräte abgebaut und nur noch kahle Erde übrig. Vielleicht entsteht hier ein neuer Spielplatz; wir ergänzen die Seite, sobald sich etwas tut. Bis dahin ist der nächste Spielplatz der an der Gedenkstätte Kamenolom (oben).
 
 ## Picknickplatz Brankovac
 

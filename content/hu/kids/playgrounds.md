@@ -23,7 +23,7 @@ Kicsi, kissé elhanyagolt játszótér a gyepen, közvetlenül a [Kamenolom-eml�
 
 ## Az egykori játszótér a kolostor közelében
 
-A kolostor melletti sajtárusító pavilon mögött korábban egy kis játszótér volt. Amikor 2026. október 20-án arra jártunk, minden játékot leszereltek, csak a csupasz föld maradt. Lehet, hogy új játszótér épül itt; frissítjük az oldalt, ha megjelenik valami. Addig a legközelebbi a Kamenolom-emlékműnél lévő játszótér (fent).
+A kolostortól jobbra, közvetlenül a buszmegálló mögött korábban egy kis játszótér volt. Amikor 2026. október 20-án arra jártunk, minden játékot leszereltek, csak a csupasz föld maradt. Lehet, hogy új játszótér épül itt; frissítjük az oldalt, ha megjelenik valami. Addig a legközelebbi a Kamenolom-emlékműnél lévő játszótér (fent).
 
 ## Brankovac piknikhely
 

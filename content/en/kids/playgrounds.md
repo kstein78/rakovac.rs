@@ -23,7 +23,7 @@ A small and rather neglected playground on the lawn right next to the [Kamenolom
 
 ## The former playground near the monastery
 
-There used to be a small playground behind the cheese pavilion next to the monastery. When we passed on 20 October 2026 all the equipment had been removed and only bare ground was left. Perhaps a new playground will be built here; we will update this page when something appears. Until then, the nearest one is the playground at the Kamenolom memorial (above).
+There used to be a small playground to the right of the monastery, right behind the bus stop. When we passed on 20 October 2026 all the equipment had been removed and only bare ground was left. Perhaps a new playground will be built here; we will update this page when something appears. Until then, the nearest one is the playground at the Kamenolom memorial (above).
 
 ## Brankovac picnic area
 

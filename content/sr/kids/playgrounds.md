@@ -23,7 +23,7 @@ Malo i pomalo zapušteno igralište na travnjaku odmah pored [spomen-obeležja K
 
 ## Nekadašnje igralište kod manastira
 
-Iza paviljona sa sirom pored manastira nekada je bilo malo igralište. Kada smo prošli 20. oktobra 2026, sve sprave su bile uklonjene i ostala je samo prazna zemlja. Možda će ovde biti izgrađeno novo igralište; dopunićemo stranicu kada se nešto pojavi. Do tada je najbliže igralište kod spomen-obeležja Kamenolom (gore).
+Desno od manastira, odmah iza autobuske stanice, nekada je bilo malo igralište. Kada smo prošli 20. oktobra 2026, sve sprave su bile uklonjene i ostala je samo prazna zemlja. Možda će ovde biti izgrađeno novo igralište; dopunićemo stranicu kada se nešto pojavi. Do tada je najbliže igralište kod spomen-obeležja Kamenolom (gore).
 
 ## Izletište Brankovac
 
