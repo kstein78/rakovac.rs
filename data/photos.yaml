@@ -2859,7 +2859,7 @@ spicer-gazebo-columns:
   alt_de: Die schlanken gusseisernen Säulen des Pavillons und der verzierte Dachrand unter den Ranken
   alt_hu: A pavilon karcsú öntöttvas oszlopai és díszes tetőpereme a kúszónövények alatt
 spicer-reconstruction-front:
-  src: img/spicer-reconstruction-front-v4.jpg
+  src: img/spicer-reconstruction-front-v5.jpg
   author: rakovac.rs
   license: CC BY 4.0
   alt: 'Hypothetical reconstruction of Spitzer Castle as it may have looked around 1900: the arcade front with the fountain, the winter garden on the left (3D model)'
@@ -2870,7 +2870,7 @@ spicer-reconstruction-front:
   alt_de: 'Hypothetische Rekonstruktion des Spitzer-Schlosses, wie es um 1900 ausgesehen haben könnte: die Arkadenfront mit Brunnen, links der Wintergarten (3D-Modell)'
   alt_hu: 'A Spitzer-kastély feltételezett rekonstrukciója 1900 körüli állapotában: az árkádos homlokzat a szökőkúttal, balra a télikert (3D-modell)'
 spicer-reconstruction-air:
-  src: img/spicer-reconstruction-air-v4.jpg
+  src: img/spicer-reconstruction-air-v5.jpg
   author: rakovac.rs
   license: CC BY 4.0
   alt: 'Hypothetical reconstruction of Spitzer Castle from above: tiled roofs, the glass winter garden and the forecourt (3D model)'
@@ -2881,7 +2881,7 @@ spicer-reconstruction-air:
   alt_de: 'Hypothetische Rekonstruktion des Spitzer-Schlosses von oben: Ziegeldächer, der gläserne Wintergarten und der Vorplatz (3D-Modell)'
   alt_hu: 'A Spitzer-kastély feltételezett rekonstrukciója felülről: cseréptetők, az üveg télikert és az előudvar (3D-modell)'
 spicer-reconstruction-back:
-  src: img/spicer-reconstruction-back-v4.jpg
+  src: img/spicer-reconstruction-back-v5.jpg
   author: rakovac.rs
   license: CC BY 4.0
   alt: 'Hypothetical reconstruction of Spitzer Castle from the turul side: the curved gable with the turul, the loggia and the chimneys (3D model)'

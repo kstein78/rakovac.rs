@@ -359,7 +359,7 @@ function build() {
   for (const z of [ZS + 1.5, ZS + .25]) column(XR - .3, z, FL1 + .3, EAVE - .45, .19);
   decal(WH, 'wh', 256, 1.0, 2.4, 'e', 7.65, ZS + 1.6, FL1 + .5);
   // windows and the oculus between the gable bay and the loggia
-  for (const z of [-3.2, -.6]) { decal(W1, 'w1', 256, 1.1, 2.4, 'e', XE, z, FL1 + .8); decal(W1, 'w1', 256, 1.1, 2.3, 'e', XE, z, PL + .8); }
+  for (const z of [-4.1, -2.0]) { decal(W1, 'w1', 256, 1.1, 2.4, 'e', XE, z, FL1 + .8); decal(W1, 'w1', 256, 1.1, 2.3, 'e', XE, z, PL + .8); }
   { const oc = add(new THREE.Mesh(new THREE.TorusGeometry(.42, .1, 10, 28), M.trim)); oc.position.set(XR + .05, 8.0, -11.2); oc.rotation.y = Math.PI / 2;
     const od = add(new THREE.Mesh(new THREE.CircleGeometry(.42, 28), M.dark)); od.position.set(XR + .03, 8.0, -11.2); od.rotation.y = Math.PI / 2; }
   decal(W1, 'w1', 256, 1.1, 2.4, 'e', XR, -9.7, FL1 + .8); decal(WA, 'wa', 256, 1.1, 2.2, 'e', XR, -9.9, PL + .8);
@@ -382,7 +382,8 @@ function build() {
     for (const r of [0, Math.PI / 2]) { const p = new THREE.Mesh(new THREE.PlaneGeometry(1.1, 2.4), new THREE.MeshStandardMaterial({ map: t, transparent: true })); p.rotation.y = r; p.position.set(Math.sin(r) * 1.07, FL1 + 2.1, Math.cos(r) * 1.07); ori.add(p); } }
 
   /* south front (service side) */
-  for (const x of [5.0, 7.0, 8.7]) { decal(W1, 'w1', 256, 1.0, 2.0, 's', ZS, x, PL + .8); decal(W1, 'w1', 256, 1.1, 2.3, 's', ZS, x, FL1 + .8); }
+  for (const x of [5.0, 7.0, 8.7]) decal(W1, 'w1', 256, 1.0, 2.0, 's', ZS, x, PL + .8);
+  for (const x of [4.6, 6.4]) decal(W1, 'w1', 256, 1.1, 2.3, 's', ZS, x, FL1 + .8);    // the corner loggia is open above
   chimney(-.5, -9, EAVE + 1.2, EAVE + 4.4); chimney(1.2, -9, EAVE + 1.2, EAVE + 4.4); chimney(7.2, -6, EAVE + 1.5, EAVE + 5.0);
 
   /* kitchen wing: single-storey, south-east */
@@ -421,6 +422,7 @@ const VIEWS = {
   west: [[-50, 10, 6], [-10, 5, -6]],
   east: [[44, 11, 0], [8, 6, -7]],
   turul: [[27, 15, -9], [10.5, 13, -7.0]],
+  loggia: [[20, 9, -26], [8, 7, -14]],
 };
 export function init(el) {
   const canvas = el.querySelector('canvas');
