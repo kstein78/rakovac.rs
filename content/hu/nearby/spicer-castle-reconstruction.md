@@ -30,9 +30,9 @@ Ma a Spitzer-kastély rom, betört ablakokkal, beázó tetővel és graffitikkel
 
 - Az FTN-dolgozat tervrajzai a mai állapotot mutatják egy átalakítási terv számára, így későbbi átépítések is lehetnek rajtuk. Méterenként körülbelül 40 képpontos léptékkel olvastuk le őket, a falak tehát fél méterrel is eltérhetnek; a magasságokat fényképekről becsültük.
 - A kontytetők és a piros cserép jellemzők a kor villáira, de a pontos tetőformák ismeretlenek.
-- A télikert: a tervrajzok szerint földszintes szárny, keskenyebb a háznál, a végén zárt erkéllyel. Tudjuk, hogy üvegezett volt és a csarnokból nyílt; ívei és üvegteteje a modellben feltételezés (az átalakítási terv új üvegtetőt javasol, ma tehát nincs teteje). A nyugati oldalához épített kis helyiséget, amely valószínűleg a szocializmus idején készült, kihagytuk.
+- A télikert: a tervrajzok szerint földszintes szárny, keskenyebb a háznál, a végén zárt erkéllyel. Tudjuk, hogy üvegezett volt és a csarnokból nyílt; ívei és üvegteteje a modellben feltételezés (az átalakítási terv új üvegtetőt javasol, ma tehát nincs teteje). A végéhez épített kis helyiséget, amely valószínűleg a szocializmus idején készült, kihagytuk.
 - A színes üvegek színei, az ablakosztások, a homlokzat előtti szökőkút és a fák a szemléletesség kedvéért kerültek a modellbe.
-- A Magyar Szó szerint a turul északra, a Duna felé néz, a fényképeken azonban a park felőli oldalon áll, az északi bejárati homlokzattal szemben, a kétoszlopos loggia mellett. A modell a fényképeket követi.
+- A Magyar Szó szerint a turul északra, a Duna felé néz, a fényképeken azonban a nyugati véghomlokzat fölött áll, a télikerttel szemben, mellette kétoszlopos sarokloggia; a kastelyok.com is a nyugati homlokzatra teszi ([kastelyok.com](https://www.kastelyok.com/adatlap.php?details=8061)). A modell a fényképeket követi.
 
 {{< photos "spicer-reconstruction-air spicer-reconstruction-back" >}}
 

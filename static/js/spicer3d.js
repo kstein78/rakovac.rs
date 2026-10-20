@@ -275,7 +275,8 @@ function build() {
   M.roof.map.repeat.set(1, 1);
 
   /* Footprint from the ground- and first-floor plans in Radosavljević (FTN Novi Sad, 2019), read at about
-     40 px = 1 m: x runs west -> east, z = 0 is the north (entrance) front, the service rooms lie to the south. */
+     40 px = 1 m. The plans are drawn with north at the bottom, so here z = 0 is the north (entrance) front, the service
+     rooms lie to the south, -x is east (winter garden) and +x is west (the turul end). */
 
   /* ground, forecourt, fountain, park trees */
   const ground = add(new THREE.Mesh(new THREE.CircleGeometry(420, 64), new THREE.MeshStandardMaterial({ color: '#7d9550', roughness: 1 })));
@@ -290,7 +291,7 @@ function build() {
 
   const ZS = -15.4, EAVE = 10.8;
 
-  /* west: the great hall, double-height, with the tracery window on the north front */
+  /* the great hall (east part), double-height, with the tracery window on the north front */
   box(-9.5, -3.75, 0, PL, ZS, 0, M.plinth); box(-9.5, -3.75, PL, EAVE + .3, ZS, 0);
   cornice(-9.5, -3.75, ZS, 0, EAVE + .3); hipRoof(-9.9, -3.35, ZS - .4, .4, EAVE + .3, 3.2);
   box(-9.7, -3.55, FL1 - .25, FL1, ZS - .2, .2, M.trim);
@@ -335,20 +336,43 @@ function build() {
   decal(doorDarkArch, 'dark', 128, .9, .8, 'n', sc.r0, sc.x, 0);
   balustrade(sc.x - 1.2, 1.3, sc.x + 1.0, 1.3, PL, .8);
 
-  /* east: the right wing, a little forward, with the frieze, iron dragons and the corner oriel */
-  box(3.4, 10, 0, PL, ZS, 1.5, M.plinth); box(3.4, 10, PL, FL1, ZS, 1.5);
-  box(3.4, 10, FL1, EAVE + .2, ZS + 2.6, 1.5); box(3.4, 7.0, FL1, EAVE + .2, ZS, ZS + 2.6);   // the upper floor leaves room for the corner loggia
-  box(9.6, 10, FL1, EAVE + .2, ZS + 2.3, ZS + 2.6);
-  cornice(3.4, 10, ZS, 1.5, EAVE + .2); hipRoof(3.0, 10.4, ZS - .4, 1.9, EAVE + .2, 3.4);
-  box(3.2, 10.2, FL1 - .25, FL1, ZS - .2, 1.7, M.trim);
+  /* the west wing, a little forward. Its end wall (opposite the winter garden) carries the
+     curved gable with the turul and, at 1st-floor level, an open loggia with two columns; the southern part of
+     that wall is set back a little (plans). */
+  const XE = 10, XR = 9.25, ZG = -8.6;
+  const ZL = ZS + 3.0;                                                       // north end of the corner loggia
+  box(3.4, XE, 0, PL, ZG, 1.5, M.plinth); box(3.4, XR, 0, PL, ZS, ZG, M.plinth);
+  box(3.4, XE, PL, FL1, ZG, 1.5); box(3.4, XR, PL, FL1, ZS, ZG);
+  box(3.4, XE, FL1, EAVE + .2, ZG, 1.5); box(3.4, XR, FL1, EAVE + .2, ZL, ZG);
+  box(3.4, 7.6, FL1, EAVE + .2, ZS, ZL);
+  cornice(3.4, XE, ZS, 1.5, EAVE + .2); hipRoof(3.0, 10.4, ZS - .4, 1.9, EAVE + .2, 3.4);
+  box(3.2, 10.2, FL1 - .25, FL1, ZG, 1.7, M.trim); box(3.2, XR + .2, FL1 - .25, FL1, ZS - .2, ZG, M.trim);
   decal(WP, 'wp', 512, 2.4, 2.6, 'n', 1.5, 6.6, PL + .7);
   decal(WP, 'wp', 512, 2.4, 2.8, 'n', 1.5, 6.6, FL1 + .7);
   decal(friezeDraw, 'frieze', 1024, 5.0, .7, 'n', 1.5, 6.6, FL1 - 1.05);
   for (const x of [5.0, 8.2]) decal(medallionDraw, 'med', 128, .6, .6, 'n', 1.5, x, FL1 + .05);
   decal(ironDraw, 'iron', 256, 1.6, 1.9, 'n', 1.5, 4.2, 7.3);
   for (const x of [5.2, 8.0]) decal(W1, 'w1', 256, .7, .45, 'n', 1.5, x, .35);
-  for (const z of [-1.6, -8.6, -12.4]) { decal(W1, 'w1', 256, 1.2, 2.4, 'e', 10, z, PL + .8); decal(W1, 'w1', 256, 1.2, 2.4, 'e', 10, z, FL1 + .8); }
-  decal(ironDraw, 'iron', 256, 1.5, 1.8, 'e', 10, -5.1, 7.3);
+  // east loggia
+  box(7.6, 7.65, FL1 + .3, EAVE - .4, ZS, ZL, M.dark);
+  box(7.6, XR + .1, FL1, FL1 + .3, ZS - .1, ZL, M.trim); box(7.6, XR + .1, EAVE - .45, EAVE + .2, ZS - .1, ZL, M.trim);
+  for (const z of [ZS + 1.5, ZS + .25]) column(XR - .3, z, FL1 + .3, EAVE - .45, .19);
+  decal(WH, 'wh', 256, 1.0, 2.4, 'e', 7.65, ZS + 1.6, FL1 + .5);
+  // windows and the oculus between the gable bay and the loggia
+  decal(W1, 'w1', 256, 1.1, 2.4, 'e', XE, -5.4, FL1 + .8); decal(WA, 'wa', 256, 1.1, 2.2, 'e', XE, -5.4, PL + .8);
+  { const oc = add(new THREE.Mesh(new THREE.TorusGeometry(.42, .1, 10, 28), M.trim)); oc.position.set(XR + .05, 8.0, -9.4); oc.rotation.y = Math.PI / 2;
+    const od = add(new THREE.Mesh(new THREE.CircleGeometry(.42, 28), M.dark)); od.position.set(XR + .03, 8.0, -9.4); od.rotation.y = Math.PI / 2; }
+  decal(W1, 'w1', 256, 1.1, 2.4, 'e', XR, -11.0, FL1 + .8); decal(WA, 'wa', 256, 1.1, 2.2, 'e', XR, -10.2, PL + .8);
+  decal(W1, 'w1', 256, 1.1, 2.3, 'e', XR, ZS + 1.4, PL + .8);
+  // the gable bay with the turul, built facing -z in a local frame and turned to face east
+  { const g = new THREE.Group(), main = scene; scene = g;
+    box(-1.6, 1.6, 0, PL, -1.0, 0, M.plinth); box(-1.6, 1.6, PL, EAVE - .2, -1.0, 0);
+    box(-1.85, 1.85, EAVE - .6, EAVE - .2, -1.25, 0, M.trim); box(-1.75, 1.75, FL1 - .25, FL1, -1.15, 0, M.trim);
+    const top = flemishGable(-1.6, 1.6, -1.0, EAVE - .2, .7, 1);
+    turul(0, top, -.75, Math.PI);
+    decal(WH, 'wh', 256, 1.1, 2.5, 's', -1.0, 0, FL1 + .7); decal(WA, 'wa', 256, 1.2, 2.3, 's', -1.0, 0, PL + .7);
+    decal(slitDraw, 'slit', 64, .4, 1.2, 's', -1.0, 0, EAVE + .9);
+    scene = main; g.rotation.y = -Math.PI / 2; g.position.set(XE, 0, -2.0); scene.add(g); }
   const ori = new THREE.Group(); scene.add(ori); ori.position.set(9.6, 0, 1.1); ori.rotation.y = Math.PI / 4;
   const ob = new THREE.Mesh(new THREE.BoxGeometry(2.1, 4.0, 2.1), M.wall); ob.position.y = FL1 + 2.0; ob.castShadow = true; ori.add(ob);
   const oc = new THREE.Mesh(new THREE.BoxGeometry(2.4, .35, 2.4), M.trim); oc.position.y = FL1 + 4.15; ori.add(oc);
@@ -357,28 +381,17 @@ function build() {
   { const t = texCache.get('w1') || canvasTex(256, 512, W1); texCache.set('w1', t);
     for (const r of [0, Math.PI / 2]) { const p = new THREE.Mesh(new THREE.PlaneGeometry(1.1, 2.4), new THREE.MeshStandardMaterial({ map: t, transparent: true })); p.rotation.y = r; p.position.set(Math.sin(r) * 1.07, FL1 + 2.1, Math.cos(r) * 1.07); ori.add(p); } }
 
-  /* south front: the bay with the curved gable and the turul, the corner loggia with two columns */
-  box(3.0, 6.4, 0, PL, ZS - 1.1, ZS, M.plinth); box(3.0, 6.4, PL, EAVE - .2, ZS - 1.1, ZS);
-  box(2.75, 6.65, EAVE - .6, EAVE - .2, ZS - 1.35, ZS, M.trim);
-  const top = flemishGable(3.0, 6.4, ZS - 1.1, EAVE - .2, .7, 1);
-  turul(4.7, top, ZS - .85, Math.PI);
-  decal(WH, 'wh', 256, 1.2, 2.5, 's', ZS - 1.1, 4.7, FL1 + .7); decal(WA, 'wa', 256, 1.3, 2.4, 's', ZS - 1.1, 4.7, PL + .6);
-  decal(slitDraw, 'slit', 64, .45, 1.3, 's', ZS - 1.1, 4.7, EAVE + .9);
-  box(7.0, 9.6, FL1 + .3, EAVE - .3, ZS + 2.55, ZS + 2.6, M.dark);                // recess of the loggia
-  for (const x of [7.7, 9.3]) column(x, ZS + .3, FL1 + .3, EAVE - .5, .19);
-  box(7.0, 10, FL1, FL1 + .3, ZS - .1, ZS + 2.6, M.trim); balustrade(7.1, ZS + .05, 9.9, ZS + .05, FL1 + .3, .9);
-  box(7.0, 10, EAVE - .5, EAVE + .2, ZS - .1, ZS + 2.6, M.trim);
-  for (const x of [7.6, 9.1]) decal(WH, 'wh', 256, 1.0, 2.4, 's', ZS + 2.6, x, FL1 + .5);
-  for (const x of [7.5, 9.0]) decal(WA, 'wa', 256, 1.2, 2.3, 's', ZS, x, PL + .6);
+  /* south front (service side) */
+  for (const x of [5.0, 7.0, 8.7]) { decal(W1, 'w1', 256, 1.0, 2.0, 's', ZS, x, PL + .8); decal(W1, 'w1', 256, 1.1, 2.3, 's', ZS, x, FL1 + .8); }
   const ocul = add(new THREE.Mesh(new THREE.TorusGeometry(.5, .11, 10, 28), M.trim)); ocul.position.set(1.9, 8.4, ZS - .05);
   chimney(-.5, -9, EAVE + 1.2, EAVE + 4.4); chimney(1.2, -9, EAVE + 1.2, EAVE + 4.4); chimney(7.2, -6, EAVE + 1.5, EAVE + 5.0);
 
-  /* kitchen wing: single-storey, south-west */
+  /* kitchen wing: single-storey, south-east */
   box(-13.4, -9.5, 0, .6, -14.9, -10.6, M.plinth); box(-13.4, -9.5, .6, 4.6, -14.9, -10.6);
   cornice(-13.4, -9.5, -14.9, -10.6, 4.6, .25, .35); hipRoof(-13.7, -9.5, -15.2, -10.3, 4.6, 1.4);
   for (const z of [-11.8, -13.7]) decal(W1, 'w1', 256, .9, 1.6, 'w', -13.4, z, 1.6);
 
-  /* winter garden: single-storey glass house on the west, narrower than the house, with a bay at its far end */
+  /* winter garden: single-storey glass house on the east, narrower than the house, with a bay at its far end */
   const wgH = 6.4;
   const gA = (n, len, w) => Array.from({ length: n }, (_, i) => ({ x: len * (i + .5) / n, w, y0: .7, spring: 4.0 }));
   box(-16.6, -9.5, 0, .7, -9.6, 0, M.plinth);
@@ -404,11 +417,11 @@ function build() {
 /* ---------------------------------------------------------------- viewer */
 const VIEWS = {
   front: [[-1, 9, 42], [-2, 6, -6]],
-  back: [[10, 10, -52], [-1, 7, -8]],
+  back: [[44, 11, -12], [8, 7, -6]],
   air: [[-34, 40, 30], [-2, 4, -7]],
   west: [[-50, 10, 6], [-10, 5, -6]],
   east: [[44, 11, 0], [8, 6, -7]],
-  turul: [[10, 15, -32], [4.7, 13, -16]],
+  turul: [[27, 15, -4], [10.5, 13, -2.0]],
 };
 export function init(el) {
   const canvas = el.querySelector('canvas');

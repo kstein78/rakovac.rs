@@ -30,9 +30,9 @@ Heute ist das Spitzer-Schloss eine Ruine mit zerbrochenen Fenstern, undichtem Da
 
 - Die Pläne in der FTN-Arbeit zeigen das Haus im heutigen Zustand, gezeichnet für ein Umnutzungsprojekt, sie können also spätere Umbauten enthalten. Wir haben sie mit etwa 40 Pixeln pro Meter gelesen, Wände können daher einen halben Meter abweichen; die Höhen sind nach Fotos geschätzt.
 - Walmdächer und rote Ziegel sind typisch für Villen jener Zeit, die genauen Dachformen sind aber unbekannt.
-- Der Wintergarten: Laut den Plänen ist er ein eingeschossiger Flügel, schmaler als das Haus, mit einem Erker am Ende. Bekannt ist, dass er verglast war und sich von der Halle aus öffnete; Bögen und Glasdach im Modell sind eine Annahme (das Umnutzungsprojekt schlägt ein neues Glasdach vor, heute hat er also keines). Ein kleiner Anbau an der Westseite, vermutlich aus sozialistischer Zeit, ist weggelassen.
+- Der Wintergarten: Laut den Plänen ist er ein eingeschossiger Flügel, schmaler als das Haus, mit einem Erker am Ende. Bekannt ist, dass er verglast war und sich von der Halle aus öffnete; Bögen und Glasdach im Modell sind eine Annahme (das Umnutzungsprojekt schlägt ein neues Glasdach vor, heute hat er also keines). Ein kleiner Anbau an seinem Ende, vermutlich aus sozialistischer Zeit, ist weggelassen.
 - Die Farben der Buntglasfenster, die Fenstersprossen, der Brunnen vor der Fassade und die Bäume dienen der Anschaulichkeit.
-- Magyar Szó schreibt, der Turul blicke nach Norden zur Donau, auf den Fotos steht er aber auf der Parkseite, gegenüber der nördlichen Eingangsfront, neben der Loggia mit zwei Säulen. Das Modell folgt den Fotos.
+- Magyar Szó schreibt, der Turul blicke nach Norden zur Donau, auf den Fotos steht er aber über der westlichen Stirnwand, dem Wintergarten gegenüber, daneben eine Eckloggia mit zwei Säulen; auch kastelyok.com verortet ihn an der Westfassade ([kastelyok.com](https://www.kastelyok.com/adatlap.php?details=8061)). Das Modell folgt den Fotos.
 
 {{< photos "spicer-reconstruction-air spicer-reconstruction-back" >}}
 

@@ -31,9 +31,9 @@ Danas je Dvorac Špicerovih ruševina bez stakala, sa krovom koji prokišnjava i
 
 - Planovi u radu sa FTN-a prikazuju dvorac kakav je danas, nacrtan za projekat adaptacije, pa mogu da sadrže i kasnije izmene. Očitali smo ih u razmeri od oko 40 piksela na metar, pa zidovi mogu da odstupaju za pola metra; visine su procenjene po fotografijama.
 - Četvorovodni krovovi i crveni crep tipični su za vile tog doba, ali tačan oblik krovova nije poznat.
-- Zimska bašta: prema planovima to je prizemno krilo, uže od kuće, sa erkerom na kraju. Zna se da je bila zastakljena i da se otvarala iz hola; lukovi i stakleni krov u modelu su pretpostavka (projekat adaptacije predlaže novi stakleni krov, dakle danas ga nema). Mala prostorija dozidana uz nju sa zapadne strane, verovatno u socijalizmu, izostavljena je.
+- Zimska bašta: prema planovima to je prizemno krilo, uže od kuće, sa erkerom na kraju. Zna se da je bila zastakljena i da se otvarala iz hola; lukovi i stakleni krov u modelu su pretpostavka (projekat adaptacije predlaže novi stakleni krov, dakle danas ga nema). Mala prostorija dozidana uz njen kraj, verovatno u socijalizmu, izostavljena je.
 - Boje vitraža, prečke na prozorima, fontana ispred fasade i drveće tu su da slika bude čitljiva.
-- Magyar Szó piše da turul gleda na sever, ka Dunavu, ali na fotografijama on stoji na strani prema parku, nasuprot severnoj ulaznoj fasadi, pored lože sa dva stuba. Model prati fotografije.
+- Magyar Szó piše da turul gleda na sever, ka Dunavu, ali na fotografijama on stoji iznad zapadnog čeonog zida, nasuprot zimskoj bašti, a pored njega je ugaona loža sa dva stuba; i kastelyok.com ga smešta na zapadnu fasadu ([kastelyok.com](https://www.kastelyok.com/adatlap.php?details=8061)). Model prati fotografije.
 
 {{< photos "spicer-reconstruction-air spicer-reconstruction-back" >}}
 

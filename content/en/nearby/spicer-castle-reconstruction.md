@@ -30,9 +30,9 @@ Today Spitzer Castle is a ruin with broken windows, a leaking roof and graffiti 
 
 - The plans in the FTN paper show the house as it is now, drawn for an adaptation project, so later changes may be in them. We read them at about 40 pixels to a metre, so walls can be half a metre out; the heights are estimated from photographs.
 - The hipped roofs and red tiles are typical of villas of the time, but the exact roof shapes are unknown.
-- The winter garden: according to the plans it is a single-storey wing, narrower than the house, with a bay at its far end. That it was glazed and opened off the hall is known; its arches and glass roof in the model are an assumption (the adaptation project proposes a new glass roof, so today it has none). A small room built on to it on the west side, probably in socialist times, is left out.
+- The winter garden: according to the plans it is a single-storey wing, narrower than the house, with a bay at its far end. That it was glazed and opened off the hall is known; its arches and glass roof in the model are an assumption (the adaptation project proposes a new glass roof, so today it has none). A small room built on to its far end, probably in socialist times, is left out.
 - The colours of the stained glass, the window bars, the fountain in front of the facade and the trees are there to make the picture readable.
-- Magyar Szó writes that the turul faces north towards the Danube, but in the photographs it stands on the garden side, opposite the north entrance front, next to the loggia with two columns. The model follows the photographs.
+- Magyar Szó writes that the turul faces north towards the Danube, but in the photographs it stands above the west end wall, opposite the winter garden, with a corner loggia with two columns beside it; kastelyok.com also places it on the western facade ([kastelyok.com](https://www.kastelyok.com/adatlap.php?details=8061)). The model follows the photographs.
 
 {{< photos "spicer-reconstruction-air spicer-reconstruction-back" >}}
 
