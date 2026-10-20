@@ -2,18 +2,24 @@
 title: Játszóterek és piknikhelyek
 kicker: Hol lehet játszani
 weight: 3
-summary: A gerincen álló, fából készült Eko park Zmajevac, egy kis játszótér a kolostor közelében és egy játszótérrel felszerelt pihenőhely Brankovacon.
+summary: A gerincen álló, fából készült Eko park Zmajevac, két kis játszótér Stari Rakovacon és egy játszótérrel felszerelt pihenőhely Brankovacon.
 kids: true
 category: kids
 coords:
 - 45.1840876
 - 19.7735855
-photo: zmajevac-playground-overview
+photo: zmajevac-playground-climbing-wall
 ---
 
 ## Eko park Zmajevac
 
 Teljesen fából készült játszótér a gerincen lévő Zmajevac pihenőhelyen, a kolostortól autóval 8–10 perc felfelé: mászórönkök, hinták, favonat, oktatótáblák állatnyomokról és levelekről, edzőeszközök. [Bővebben az Eko park Zmajevacról]({{< relref "kids/zmajevac-playground" >}}).
+
+## Játszótér a Kamenolom-emlékműnél
+
+Kicsi, kissé elhanyagolt játszótér a gyepen, közvetlenül a [Kamenolom-emlékmű]({{< relref "history/kamenolom-memorial" >}}) mellett, a kolostortól mintegy 500 méterrel feljebb az úton: fahinta babaüléssel, mérleghinta, fém mászóka és néhány pad. Mögötte egy tábla a lépcsőnél a [Beli Majdan]({{< relref "nature/beli-majdan" >}}) felé mutat.
+
+{{< photos "kamenolom-playground-swing kamenolom-playground-lawn" >}}
 
 ## Játszótér a kolostor közelében
 

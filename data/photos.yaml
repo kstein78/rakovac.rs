@@ -2195,3 +2195,185 @@ pecina-hours:
   alt_cyr: "Обавештење о радном времену на вратима „Пећине” у Раковцу: радним даном 16.00–22.00, недељом 17.00–22.00"
   alt_de: 'Der Aushang mit den Öffnungszeiten an der Tür der „Pećina“ in Rakovac: werktags 16:00–22:00, sonntags 17:00–22:00'
   alt_hu: 'A Pećina nyitvatartási hirdetménye az ajtón Rakovacon: munkanapokon 16:00–22:00, vasárnap 17:00–22:00'
+kamenolom-pylons-star:
+  src: img/kamenolom-pylons-star.jpg
+  author: Konstantin Stein
+  author_ru: Константин Штейн
+  author_cyr: Константин Штајн
+  license: © all rights reserved
+  alt: The concrete pylons of the Kamenolom memorial by the road, one with a five-pointed star cut through its top, and stone-clad pillars under spruces
+  temp: false
+  alt_ru: Бетонные пилоны мемориала «Каменолом» у дороги, в верхушке одного прорезана пятиконечная звезда, и облицованные камнем столбы под елями
+  alt_sr: Betonski piloni spomen-obeležja Kamenolom pored puta, na vrhu jednog prosečena petokraka zvezda, i stubovi obloženi kamenom pod smrčama
+  alt_cyr: "Бетонски пилони спомен-обележја Каменолом поред пута, на врху једног просечена петокрака звезда, и стубови обложени каменом под смрчама"
+  alt_de: Die Betonpylone der Gedenkstätte Kamenolom an der Straße, in die Spitze eines Pylons ist ein fünfzackiger Stern geschnitten, dazu steinverkleidete Pfeiler unter Fichten
+  alt_hu: A Kamenolom-emlékmű betonpilonjai az út mellett, az egyik csúcsába ötágú csillagot vágtak, és kőburkolatú oszlopok lucfenyők alatt
+kamenolom-gateway:
+  src: img/kamenolom-gateway.jpg
+  author: Konstantin Stein
+  author_ru: Константин Штейн
+  author_cyr: Константин Штајн
+  license: © all rights reserved
+  alt: The gateway of concrete slabs at the Kamenolom memorial, with the mosaic wall on the hillside seen through it
+  temp: false
+  alt_ru: Ворота из бетонных плит мемориала «Каменолом», сквозь них видна мозаичная стена на склоне
+  alt_sr: Kapija od betonskih ploča na spomen-obeležju Kamenolom, kroz nju se vidi zid sa mozaikom na padini
+  alt_cyr: "Капија од бетонских плоча на спомен-обележју Каменолом, кроз њу се види зид са мозаиком на падини"
+  alt_de: Das Tor aus Betonplatten der Gedenkstätte Kamenolom, durch das man die Mosaikwand am Hang sieht
+  alt_hu: A Kamenolom-emlékmű betonlapokból álló kapuja, rajta át látszik a domboldali mozaikfal
+kamenolom-path-to-mosaic:
+  src: img/kamenolom-path-to-mosaic.jpg
+  author: Konstantin Stein
+  author_ru: Константин Штейн
+  author_cyr: Константин Штајн
+  license: © all rights reserved
+  alt: A path across the lawn from the concrete slabs of the Kamenolom memorial to the Tito mosaic and the gallery entrance at the foot of the wooded hill
+  temp: false
+  alt_ru: Дорожка через газон от бетонных плит мемориала «Каменолом» к мозаике с Тито и входу в штольню у подножия лесистого склона
+  alt_sr: Staza preko travnjaka od betonskih ploča spomen-obeležja Kamenolom do mozaika sa Titom i ulaza u galeriju u podnožju šumovitog brda
+  alt_cyr: "Стаза преко травњака од бетонских плоча спомен-обележја Каменолом до мозаика са Титом и улаза у галерију у подножју шумовитог брда"
+  alt_de: Ein Weg über den Rasen von den Betonplatten der Gedenkstätte Kamenolom zum Tito-Mosaik und zum Stolleneingang am Fuß des bewaldeten Hangs
+  alt_hu: Ösvény a gyepen át a Kamenolom-emlékmű betonlapjaitól a Tito-mozaikig és a tárnabejáratig az erdős domb lábánál
+kamenolom-mosaic-wall:
+  src: img/kamenolom-mosaic-wall.jpg
+  author: Konstantin Stein
+  author_ru: Константин Штейн
+  author_cyr: Константин Штајн
+  license: © all rights reserved
+  alt: 'The whole mosaic wall of the Kamenolom memorial: Tito''s portrait with the words "Druže Tito, mi ti se kunemo", an abstract mosaic frieze and the arched gallery entrance behind a grille, with a stone and a wreath in front'
+  temp: false
+  alt_ru: 'Вся мозаичная стена мемориала «Каменолом»: портрет Тито со словами «Друже Тито, ми ти се кунемо», абстрактный мозаичный фриз и арочный вход в штольню за решёткой, перед ним камень и венок'
+  alt_sr: 'Ceo zid sa mozaikom na spomen-obeležju Kamenolom: Titov portret sa rečima „Druže Tito, mi ti se kunemo”, apstraktni mozaički friz i lučni ulaz u galeriju iza rešetke, ispred kamen i venac'
+  alt_cyr: "Цео зид са мозаиком на спомен-обележју Каменолом: Титов портрет са речима „Друже Тито, ми ти се кунемо”, апстрактни мозаички фриз и лучни улаз у галерију иза решетке, испред камен и венац"
+  alt_de: 'Die ganze Mosaikwand der Gedenkstätte Kamenolom: Titos Porträt mit den Worten „Druže Tito, mi ti se kunemo“, ein abstrakter Mosaikfries und der gewölbte Stolleneingang hinter einem Gitter, davor ein Stein und ein Kranz'
+  alt_hu: 'A Kamenolom-emlékmű teljes mozaikfala: Tito arcképe a „Druže Tito, mi ti se kunemo” felirattal, absztrakt mozaikfríz és a rács mögötti boltíves tárnabejárat, előtte kő és koszorú'
+kamenolom-entrance:
+  src: img/kamenolom-entrance.jpg
+  author: Konstantin Stein
+  author_ru: Константин Штейн
+  author_cyr: Константин Штајн
+  license: © all rights reserved
+  alt: The abstract mosaic frieze and the stone arch of the gallery entrance at the Kamenolom memorial, closed with a grille, with a stone and a wreath in the national colours in front
+  temp: false
+  alt_ru: Абстрактный мозаичный фриз и каменная арка входа в штольню мемориала «Каменолом», закрытая решёткой, перед ней камень и венок в цветах сербского флага
+  alt_sr: Apstraktni mozaički friz i kameni luk ulaza u galeriju na spomen-obeležju Kamenolom, zatvoren rešetkom, ispred kamen i venac u bojama zastave
+  alt_cyr: "Апстрактни мозаички фриз и камени лук улаза у галерију на спомен-обележју Каменолом, затворен решетком, испред камен и венац у бојама заставе"
+  alt_de: Der abstrakte Mosaikfries und der steinerne Bogen des Stolleneingangs der Gedenkstätte Kamenolom, mit einem Gitter verschlossen, davor ein Stein und ein Kranz in den Landesfarben
+  alt_hu: Az absztrakt mozaikfríz és a Kamenolom-emlékmű rácsos tárnabejáratának kőíve, előtte kő és nemzeti színű koszorú
+kamenolom-oath-stone:
+  src: img/kamenolom-oath-stone.jpg
+  author: Konstantin Stein
+  author_ru: Константин Штейн
+  author_cyr: Константин Штајн
+  license: © all rights reserved
+  alt: 'The worn inscription on the stone in front of the gallery entrance: villagers of Rakovac and quarry workers took the partisan oath on this spot on 24 September 1941'
+  temp: false
+  alt_ru: 'Стёртая надпись на камне перед входом в штольню: жители Раковца и рабочие каменоломни приняли на этом месте партизанскую присягу 24 сентября 1941 года'
+  alt_sr: 'Izlizani natpis na kamenu ispred ulaza u galeriju: meštani Rakovca i radnici kamenoloma položili su na ovom mestu partizansku zakletvu 24. septembra 1941.'
+  alt_cyr: "Излизани натпис на камену испред улаза у галерију: мештани Раковца и радници каменолома положили су на овом месту партизанску заклетву 24. септембра 1941."
+  alt_de: 'Die verwitterte Inschrift auf dem Stein vor dem Stolleneingang: Einwohner von Rakovac und Steinbrucharbeiter legten hier am 24. September 1941 den Partisaneneid ab'
+  alt_hu: 'A tárnabejárat előtti kő kopott felirata: rakovaci lakosok és kőbányai munkások ezen a helyen tették le a partizánesküt 1941. szeptember 24-én'
+kamenolom-oath-villagers:
+  src: img/kamenolom-oath-villagers.jpg
+  author: Konstantin Stein
+  author_ru: Константин Штейн
+  author_cyr: Константин Штајн
+  license: © all rights reserved
+  alt: 'Plaque inside the gallery: on 19 September 1941 a squad of Rakovac villagers took the oath, followed by ten names'
+  temp: false
+  alt_ru: 'Плита внутри штольни: 19 сентября 1941 года десятка жителей Раковца приняла присягу, ниже десять имён'
+  alt_sr: 'Ploča u galeriji: 19. septembra 1941. desetina meštana Rakovca položila je zakletvu, ispod deset imena'
+  alt_cyr: "Плоча у галерији: 19. септембра 1941. десетина мештана Раковца положила је заклетву, испод десет имена"
+  alt_de: 'Tafel im Stollen: Am 19. September 1941 legte ein Trupp von Einwohnern von Rakovac den Eid ab, darunter zehn Namen'
+  alt_hu: 'Tábla a tárnában: 1941. szeptember 19-én a rakovaci lakosok rajja letette az esküt, alatta tíz név'
+kamenolom-oath-mosaic:
+  src: img/kamenolom-oath-mosaic.jpg
+  author: Konstantin Stein
+  author_ru: Константин Штейн
+  author_cyr: Константин Штајн
+  license: © all rights reserved
+  alt: The text of the partisan oath in mosaic on the back wall of the gallery at the Kamenolom memorial
+  temp: false
+  alt_ru: Текст партизанской присяги, выложенный мозаикой на задней стене штольни мемориала «Каменолом»
+  alt_sr: Tekst partizanske zakletve izveden u mozaiku na zadnjem zidu galerije spomen-obeležja Kamenolom
+  alt_cyr: "Текст партизанске заклетве изведен у мозаику на задњем зиду галерије спомен-обележја Каменолом"
+  alt_de: Der Text des Partisaneneids als Mosaik an der Rückwand des Stollens der Gedenkstätte Kamenolom
+  alt_hu: A partizáneskü szövege mozaikból a Kamenolom-emlékmű tárnájának hátsó falán
+kamenolom-oath-workers:
+  src: img/kamenolom-oath-workers.jpg
+  author: Konstantin Stein
+  author_ru: Константин Штейн
+  author_cyr: Константин Штајн
+  license: © all rights reserved
+  alt: 'Plaque inside the gallery: on 24 September 1941 the workers'' squad of the Rakovac quarry took the oath, followed by nine names'
+  temp: false
+  alt_ru: 'Плита внутри штольни: 24 сентября 1941 года рабочая десятка каменоломни Раковац приняла присягу, ниже девять имён'
+  alt_sr: 'Ploča u galeriji: 24. septembra 1941. radnička desetina kamenoloma Rakovac položila je zakletvu, ispod devet imena'
+  alt_cyr: "Плоча у галерији: 24. септембра 1941. радничка десетина каменолома Раковац положила је заклетву, испод девет имена"
+  alt_de: 'Tafel im Stollen: Am 24. September 1941 legte der Arbeitertrupp des Steinbruchs Rakovac den Eid ab, darunter neun Namen'
+  alt_hu: 'Tábla a tárnában: 1941. szeptember 24-én a rakovaci kőbánya munkásrajja letette az esküt, alatta kilenc név'
+kamenolom-plaque-fighters:
+  src: img/kamenolom-plaque-fighters.jpg
+  author: Konstantin Stein
+  author_ru: Константин Штейн
+  author_cyr: Константин Штајн
+  license: © all rights reserved
+  alt: Plaque with the names of the comrades from Rakovac who fell as fighters of the People's Liberation War, 1941–45
+  temp: false
+  alt_ru: Плита с именами товарищей из Раковца, погибших бойцами Народно-освободительной войны в 1941–1945 годах
+  alt_sr: Ploča sa imenima drugova iz Rakovca koji su poginuli kao borci NOR-a 1941–1945.
+  alt_cyr: "Плоча са именима другова из Раковца који су погинули као борци НОР-а 1941–1945."
+  alt_de: Tafel mit den Namen der Genossen aus Rakovac, die 1941–45 als Kämpfer des Volksbefreiungskriegs fielen
+  alt_hu: Tábla azoknak a rakovaci elvtársaknak a nevével, akik 1941–45-ben a népfelszabadító háború harcosaiként estek el
+kamenolom-plaque-victims-1:
+  src: img/kamenolom-plaque-victims-1.jpg
+  author: Konstantin Stein
+  author_ru: Константин Штейн
+  author_cyr: Константин Штајн
+  license: © all rights reserved
+  alt: First plaque with the names of the victims of fascist terror from Rakovac and Kamenolom, 1941–45
+  temp: false
+  alt_ru: Первая плита с именами жертв фашистского террора из Раковца и Каменолома, 1941–1945
+  alt_sr: Prva ploča sa imenima žrtava fašističkog terora iz Rakovca i Kamenoloma, 1941–1945.
+  alt_cyr: "Прва плоча са именима жртава фашистичког терора из Раковца и Каменолома, 1941–1945."
+  alt_de: Erste Tafel mit den Namen der Opfer des faschistischen Terrors aus Rakovac und Kamenolom, 1941–45
+  alt_hu: Az első tábla a fasiszta terror rakovaci és kamenolomi áldozatainak nevével, 1941–45
+kamenolom-plaque-victims-2:
+  src: img/kamenolom-plaque-victims-2.jpg
+  author: Konstantin Stein
+  author_ru: Константин Штейн
+  author_cyr: Константин Штајн
+  license: © all rights reserved
+  alt: Second plaque with the names of the victims of fascist terror from Rakovac and Kamenolom
+  temp: false
+  alt_ru: Вторая плита с именами жертв фашистского террора из Раковца и Каменолома
+  alt_sr: Druga ploča sa imenima žrtava fašističkog terora iz Rakovca i Kamenoloma
+  alt_cyr: "Друга плоча са именима жртава фашистичког терора из Раковца и Каменолома"
+  alt_de: Zweite Tafel mit den Namen der Opfer des faschistischen Terrors aus Rakovac und Kamenolom
+  alt_hu: A második tábla a fasiszta terror rakovaci és kamenolomi áldozatainak nevével
+kamenolom-playground-swing:
+  src: img/kamenolom-playground-swing.jpg
+  author: Konstantin Stein
+  author_ru: Константин Штейн
+  author_cyr: Константин Штајн
+  license: © all rights reserved
+  alt: 'The small playground at the Kamenolom memorial: a red wooden swing with a baby seat, a seesaw and a blue climbing frame on the lawn, a Beli Majdan sign by the steps behind'
+  temp: false
+  alt_ru: 'Маленькая детская площадка у мемориала «Каменолом»: красные деревянные качели с детским сиденьем, качалка и синий турник-лазалка на газоне, позади у ступенек указатель «Бели-Майдан»'
+  alt_sr: 'Malo igralište kod spomen-obeležja Kamenolom: crvena drvena ljuljaška sa sedištem za bebe, klackalica i plava penjalica na travnjaku, iza tabla „Beli majdan” kod stepenica'
+  alt_cyr: "Мало игралиште код спомен-обележја Каменолом: црвена дрвена љуљашка са седиштем за бебе, клацкалица и плава пењалица на травњаку, иза табла „Бели мајдан” код степеница"
+  alt_de: 'Der kleine Spielplatz an der Gedenkstätte Kamenolom: eine rote Holzschaukel mit Babysitz, eine Wippe und ein blaues Klettergerüst auf dem Rasen, hinten an den Stufen ein Schild „Beli Majdan“'
+  alt_hu: 'A kis játszótér a Kamenolom-emlékműnél: piros fahinta babaüléssel, mérleghinta és kék mászóka a gyepen, hátul a lépcsőnél „Beli Majdan” tábla'
+kamenolom-playground-lawn:
+  src: img/kamenolom-playground-lawn.jpg
+  author: Konstantin Stein
+  author_ru: Константин Штейн
+  author_cyr: Константин Штајн
+  license: © all rights reserved
+  alt: Benches and the swing on the lawn of the playground at the Kamenolom memorial, houses of Stari Rakovac and the wooded hills behind
+  temp: false
+  alt_ru: Скамейки и качели на газоне площадки у мемориала «Каменолом», позади дома Стари-Раковца и лесистые холмы
+  alt_sr: Klupe i ljuljaška na travnjaku igrališta kod spomen-obeležja Kamenolom, iza kuće Starog Rakovca i šumovita brda
+  alt_cyr: "Клупе и љуљашка на травњаку игралишта код спомен-обележја Каменолом, иза куће Старог Раковца и шумовита брда"
+  alt_de: Bänke und die Schaukel auf dem Rasen des Spielplatzes an der Gedenkstätte Kamenolom, dahinter Häuser von Stari Rakovac und bewaldete Hügel
+  alt_hu: Padok és a hinta a Kamenolom-emlékmű melletti játszótér gyepén, mögöttük Stari Rakovac házai és erdős dombok
