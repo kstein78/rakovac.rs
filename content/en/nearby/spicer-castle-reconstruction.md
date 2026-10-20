@@ -13,12 +13,12 @@ Today Spitzer Castle is a ruin with broken windows, a leaking roof and graffiti 
 
 {{< model3d src="js/spicer3d.js" poster="spicer-reconstruction-front" >}}
 
-{{< note title="A reconstruction, not a blueprint" >}}We have found no published plans and no freely usable old photographs of the facades. The model is based on Konstantin Stein's photographs of October 2026 and on the sources below. The overall layout, the windows, the arcade, the oriel, the gable with the turul and the iron dragons are taken from the building itself; the dimensions, the roof shapes, the colour of the tiles, the winter garden, the fountain and the park are our assumptions. If you have old photographs of the castle, please write to us (contacts at the bottom of the page).{{< /note >}}
+{{< note title="A reconstruction, not a blueprint" >}}We have found no freely usable old photographs of the facades. The footprint follows the ground- and first-floor plans published by Olivera Radosavljević ([FTN Novi Sad](https://zbornik.ftn.uns.ac.rs/index.php/zbornik/article/download/1119/965)); the windows, the arcade, the oriel, the gable with the turul and the iron dragons are taken from Konstantin Stein's photographs of October 2026. The heights, the roof shapes, the colour of the tiles, the glazing of the winter garden, the fountain and the park are our assumptions. If you have old photographs of the castle, please write to us (contacts at the bottom of the page).{{< /note >}}
 
 ## What is known
 
 - **Built in 1892–1898** for Eduard Spitzer, a co-owner of the Beočin cement works ([Municipality of Beočin](https://www.beocin.rs/sr/?id=1406)). The design is attributed to Imre Steindl, the architect of the Hungarian Parliament, but this has not been confirmed by documents ([Radosavljević, FTN Novi Sad](https://zbornik.ftn.uns.ac.rs/index.php/zbornik/article/download/1119/965)).
-- **An asymmetric building on four levels:** basement, ground floor, first floor and attic. The main entrance led into a double-height hall with a gallery and a decorated balustrade, and large openings led from the hall into a tall **glass winter garden** ([FTN](https://zbornik.ftn.uns.ac.rs/index.php/zbornik/article/download/1119/965)).
+- **An asymmetric building on four levels:** basement, ground floor, first floor and attic. The main entrance faces north, and there may have been two main entrances on that front. It led into a double-height hall with a gallery and a decorated balustrade, and large openings led from the hall into a tall **glass winter garden** ([FTN](https://zbornik.ftn.uns.ac.rs/index.php/zbornik/article/download/1119/965)).
 - **Cement instead of stone.** The walls are built with Beočin cement, gravel and stone from the Danube, the facade ornaments are ready-made castings from the cement works, and the facades are rendered with cement mortar ([FTN](https://zbornik.ftn.uns.ac.rs/index.php/zbornik/article/download/1119/965)). The white "stone blocks" in the photographs are therefore most likely cement as well.
 - **A mix of styles:** Romanesque-Gothic arches, triple windows, oculi, Renaissance arcades and Baroque lines, influenced by the Hungarian Secession ([FTN](https://zbornik.ftn.uns.ac.rs/index.php/zbornik/article/download/1119/965)).
 - **Inside:** a green Zsolnay ceramic fireplace, wooden panelling and walls painted with plant ornaments ([FTN](https://zbornik.ftn.uns.ac.rs/index.php/zbornik/article/download/1119/965)), stained-glass windows ([Magyar Szó](https://www.magyarszo.rs/hetvege/a.59178/A-turul-nem-repult-el)), a lion's head spouting water over the bathtub ([Magyar Szó](https://www.magyarszo.rs/hetvege/a.59178/A-turul-nem-repult-el)) and bathroom tiles with floral motifs ([kastelyok.com](https://www.kastelyok.com/adatlap.php?details=8061)).
@@ -28,11 +28,11 @@ Today Spitzer Castle is a ruin with broken windows, a leaking roof and graffiti 
 
 ## What we had to guess
 
-- The dimensions and the plan are estimated from photographs and may be several metres out.
+- The plans in the FTN paper show the house as it is now, drawn for an adaptation project, so later changes may be in them. We read them at about 40 pixels to a metre, so walls can be half a metre out; the heights are estimated from photographs.
 - The hipped roofs and red tiles are typical of villas of the time, but the exact roof shapes are unknown.
-- The winter garden: we know it was glazed and opened off the hall. Its size, arches and glass roof in the model are an assumption. Today probably only bare arches remain of it.
+- The winter garden: according to the plans it is a single-storey wing, narrower than the house, with a bay at its far end. That it was glazed and opened off the hall is known; its arches and glass roof in the model are an assumption (the adaptation project proposes a new glass roof, so today it has none). A small room built on to it on the west side, probably in socialist times, is left out.
 - The colours of the stained glass, the window bars, the fountain in front of the facade and the trees are there to make the picture readable.
-- We do not mark the points of the compass: the sources disagree about which way the main entrance and the turul face.
+- Magyar Szó writes that the turul faces north towards the Danube, but in the photographs it stands on the garden side, opposite the north entrance front, next to the loggia with two columns. The model follows the photographs.
 
 {{< photos "spicer-reconstruction-air spicer-reconstruction-back" >}}
 

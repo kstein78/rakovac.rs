@@ -13,12 +13,12 @@ Ma a Spitzer-kastély rom, betört ablakokkal, beázó tetővel és graffitikkel
 
 {{< model3d src="js/spicer3d.js" poster="spicer-reconstruction-front" >}}
 
-{{< note title="Rekonstrukció, nem tervrajz" >}}Nem találtunk sem közzétett tervrajzokat, sem szabadon felhasználható régi fényképeket a homlokzatokról. A modell Konstantin Stein 2026 októberi fényképei és az alábbi források alapján készült. Az elrendezés, az ablakok, az árkádsor, az erkély, a turulos oromzat és a vassárkányok magáról az épületről valók; a méretek, a tetőformák, a cserép színe, a télikert, a szökőkút és a park a mi feltételezésünk. Ha vannak régi fényképei a kastélyról, írjon nekünk (elérhetőség az oldal alján).{{< /note >}}
+{{< note title="Rekonstrukció, nem tervrajz" >}}Szabadon felhasználható régi fényképet a homlokzatokról nem találtunk. Az alaprajz Olivera Radosavljević közzétett földszinti és emeleti tervrajzait követi ([FTN Novi Sad](https://zbornik.ftn.uns.ac.rs/index.php/zbornik/article/download/1119/965)); az ablakok, az árkádsor, az erkély, a turulos oromzat és a vassárkányok Konstantin Stein 2026 októberi fényképeiről valók. A magasságok, a tetőformák, a cserép színe, a télikert üvegezése, a szökőkút és a park a mi feltételezésünk. Ha vannak régi fényképei a kastélyról, írjon nekünk (elérhetőség az oldal alján).{{< /note >}}
 
 ## Amit tudunk
 
 - **1892–1898 között épült** Spitzer Ede, a beocsini cementgyár egyik társtulajdonosa számára ([Beočin község](https://www.beocin.rs/sr/?id=1406)). A tervet Steindl Imrének, a budapesti Országház építészének tulajdonítják, de ezt dokumentum nem igazolja ([Radosavljević, FTN Novi Sad](https://zbornik.ftn.uns.ac.rs/index.php/zbornik/article/download/1119/965)).
-- **Aszimmetrikus, négyszintes épület:** pince, földszint, emelet és tetőtér. A főbejárat kétszintes, galériás, díszes korlátú csarnokba vezetett, ahonnan nagy nyílások nyíltak egy magas **üveg télikertbe** ([FTN](https://zbornik.ftn.uns.ac.rs/index.php/zbornik/article/download/1119/965)).
+- **Aszimmetrikus, négyszintes épület:** pince, földszint, emelet és tetőtér. A főbejárat észak felé néz, és ezen a homlokzaton talán két főbejárat is volt. A bejárat kétszintes, galériás, díszes korlátú csarnokba vezetett, ahonnan nagy nyílások nyíltak egy magas **üveg télikertbe** ([FTN](https://zbornik.ftn.uns.ac.rs/index.php/zbornik/article/download/1119/965)).
 - **Cement kő helyett.** A falak beocsini cementtel, kaviccsal és dunai kővel épültek, a homlokzatdíszek a cementgyár előre gyártott öntvényei, a homlokzatokat cementhabarccsal vakolták ([FTN](https://zbornik.ftn.uns.ac.rs/index.php/zbornik/article/download/1119/965)). A fényképeken látható fehér „kőtömbök” tehát valószínűleg szintén cementből vannak.
 - **Stílusok keveréke:** román-gótikus ívek, hármas ablakok, körablakok, reneszánsz árkádok és barokk vonalak, a magyar szecesszió hatásával ([FTN](https://zbornik.ftn.uns.ac.rs/index.php/zbornik/article/download/1119/965)).
 - **Belül:** zöld Zsolnay-kerámia kandalló, faburkolat és növényi ornamentikával festett falak ([FTN](https://zbornik.ftn.uns.ac.rs/index.php/zbornik/article/download/1119/965)), színes üvegablakok ([Magyar Szó](https://www.magyarszo.rs/hetvege/a.59178/A-turul-nem-repult-el)), egy oroszlánfej, amelynek szájából víz folyt a kádba ([Magyar Szó](https://www.magyarszo.rs/hetvege/a.59178/A-turul-nem-repult-el)), és virágmotívumos fürdőszobacsempék ([kastelyok.com](https://www.kastelyok.com/adatlap.php?details=8061)).
@@ -28,11 +28,11 @@ Ma a Spitzer-kastély rom, betört ablakokkal, beázó tetővel és graffitikkel
 
 ## Amit feltételeznünk kellett
 
-- A méreteket és az alaprajzot fényképek alapján becsültük, több méterrel is eltérhetnek.
+- Az FTN-dolgozat tervrajzai a mai állapotot mutatják egy átalakítási terv számára, így későbbi átépítések is lehetnek rajtuk. Méterenként körülbelül 40 képpontos léptékkel olvastuk le őket, a falak tehát fél méterrel is eltérhetnek; a magasságokat fényképekről becsültük.
 - A kontytetők és a piros cserép jellemzők a kor villáira, de a pontos tetőformák ismeretlenek.
-- A télikert: tudjuk, hogy üvegezett volt és a csarnokból nyílt. Mérete, ívei és üvegteteje a modellben feltételezés. Ma valószínűleg csak csupasz ívek maradtak belőle.
+- A télikert: a tervrajzok szerint földszintes szárny, keskenyebb a háznál, a végén zárt erkéllyel. Tudjuk, hogy üvegezett volt és a csarnokból nyílt; ívei és üvegteteje a modellben feltételezés (az átalakítási terv új üvegtetőt javasol, ma tehát nincs teteje). A nyugati oldalához épített kis helyiséget, amely valószínűleg a szocializmus idején készült, kihagytuk.
 - A színes üvegek színei, az ablakosztások, a homlokzat előtti szökőkút és a fák a szemléletesség kedvéért kerültek a modellbe.
-- Az égtájakat nem jelöljük: a források nem egyeznek abban, merre néz a főbejárat és a turul.
+- A Magyar Szó szerint a turul északra, a Duna felé néz, a fényképeken azonban a park felőli oldalon áll, az északi bejárati homlokzattal szemben, a kétoszlopos loggia mellett. A modell a fényképeket követi.
 
 {{< photos "spicer-reconstruction-air spicer-reconstruction-back" >}}
 

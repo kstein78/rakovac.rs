@@ -14,12 +14,12 @@ Danas je Dvorac Špicerovih ruševina bez stakala, sa krovom koji prokišnjava i
 
 {{< model3d src="js/spicer3d.js" poster="spicer-reconstruction-front" >}}
 
-{{< note title="Rekonstrukcija, ne nacrt" >}}Nismo našli objavljene planove ni stare fotografije fasada koje se slobodno mogu koristiti. Model je napravljen po fotografijama Konstantina Steina iz oktobra 2026. i po izvorima navedenim niže. Raspored, prozori, arkade, erker, zabat sa turulom i gvozdeni zmajevi preuzeti su sa same zgrade; dimenzije, oblik krovova, boja crepa, zimska bašta, fontana i park su naše pretpostavke. Ako imate stare fotografije dvorca, pišite nam (kontakt je na dnu stranice).{{< /note >}}
+{{< note title="Rekonstrukcija, ne nacrt" >}}Nismo našli stare fotografije fasada koje se slobodno mogu koristiti. Osnova prati planove prizemlja i sprata koje je objavila Olivera Radosavljević ([FTN Novi Sad](https://zbornik.ftn.uns.ac.rs/index.php/zbornik/article/download/1119/965)); prozori, arkade, erker, zabat sa turulom i gvozdeni zmajevi preuzeti su sa fotografija Konstantina Steina iz oktobra 2026. Visine, oblik krovova, boja crepa, zastakljenje zimske bašte, fontana i park su naše pretpostavke. Ako imate stare fotografije dvorca, pišite nam (kontakt je na dnu stranice).{{< /note >}}
 
 ## Šta se zna
 
 - **Sagrađen 1892–1898.** za Eduarda Špicera, suvlasnika beočinske fabrike cementa ([Opština Beočin](https://www.beocin.rs/sr/?id=1406)). Projekat se pripisuje Imreu Štajndlu, arhitekti mađarskog parlamenta, ali to nije potvrđeno dokumentima ([Radosavljević, FTN Novi Sad](https://zbornik.ftn.uns.ac.rs/index.php/zbornik/article/download/1119/965)).
-- **Asimetrična zgrada na četiri nivoa:** podrum, prizemlje, sprat i potkrovlje. Glavni ulaz vodio je u hol visok dve etaže sa galerijom i ukrašenom ogradom, a iz hola su veliki otvori vodili u visoku **staklenu zimsku baštu** ([FTN](https://zbornik.ftn.uns.ac.rs/index.php/zbornik/article/download/1119/965)).
+- **Asimetrična zgrada na četiri nivoa:** podrum, prizemlje, sprat i potkrovlje. Glavni ulaz okrenut je ka severu, a na toj fasadi su možda bila dva glavna ulaza. On je vodio je u hol visok dve etaže sa galerijom i ukrašenom ogradom, a iz hola su veliki otvori vodili u visoku **staklenu zimsku baštu** ([FTN](https://zbornik.ftn.uns.ac.rs/index.php/zbornik/article/download/1119/965)).
 - **Cement umesto kamena.** Zidovi su zidani beočinskim cementom, šljunkom i kamenom iz Dunava, ukrasi na fasadi su gotovi odlivci fabrike cementa, a fasade su malterisane cementnim malterom ([FTN](https://zbornik.ftn.uns.ac.rs/index.php/zbornik/article/download/1119/965)). Beli „kameni blokovi” na fotografijama su, dakle, najverovatnije takođe cement.
 - **Mešavina stilova:** romansko-gotički lukovi, trifore, okulusi, renesansne arkade i barokne linije, pod uticajem mađarske secesije ([FTN](https://zbornik.ftn.uns.ac.rs/index.php/zbornik/article/download/1119/965)).
 - **Unutra:** zeleni kamin od Žolnai keramike, drvena lamperija i zidovi oslikani biljnim ornamentima ([FTN](https://zbornik.ftn.uns.ac.rs/index.php/zbornik/article/download/1119/965)), vitraži ([Magyar Szó](https://www.magyarszo.rs/hetvege/a.59178/A-turul-nem-repult-el)), lavlja glava iz koje je voda tekla u kadu ([Magyar Szó](https://www.magyarszo.rs/hetvege/a.59178/A-turul-nem-repult-el)) i pločice u kupatilu sa cvetnim motivima ([kastelyok.com](https://www.kastelyok.com/adatlap.php?details=8061)).
@@ -29,11 +29,11 @@ Danas je Dvorac Špicerovih ruševina bez stakala, sa krovom koji prokišnjava i
 
 ## Šta smo morali da pretpostavimo
 
-- Dimenzije i osnova procenjene su po fotografijama i mogu da odstupaju i po nekoliko metara.
+- Planovi u radu sa FTN-a prikazuju dvorac kakav je danas, nacrtan za projekat adaptacije, pa mogu da sadrže i kasnije izmene. Očitali smo ih u razmeri od oko 40 piksela na metar, pa zidovi mogu da odstupaju za pola metra; visine su procenjene po fotografijama.
 - Četvorovodni krovovi i crveni crep tipični su za vile tog doba, ali tačan oblik krovova nije poznat.
-- Zimska bašta: zna se da je bila zastakljena i da se otvarala iz hola. Njena veličina, lukovi i stakleni krov u modelu su pretpostavka. Danas su od nje verovatno ostali samo goli lukovi.
+- Zimska bašta: prema planovima to je prizemno krilo, uže od kuće, sa erkerom na kraju. Zna se da je bila zastakljena i da se otvarala iz hola; lukovi i stakleni krov u modelu su pretpostavka (projekat adaptacije predlaže novi stakleni krov, dakle danas ga nema). Mala prostorija dozidana uz nju sa zapadne strane, verovatno u socijalizmu, izostavljena je.
 - Boje vitraža, prečke na prozorima, fontana ispred fasade i drveće tu su da slika bude čitljiva.
-- Strane sveta ne označavamo: izvori se ne slažu na koju stranu gledaju glavni ulaz i turul.
+- Magyar Szó piše da turul gleda na sever, ka Dunavu, ali na fotografijama on stoji na strani prema parku, nasuprot severnoj ulaznoj fasadi, pored lože sa dva stuba. Model prati fotografije.
 
 {{< photos "spicer-reconstruction-air spicer-reconstruction-back" >}}
 
