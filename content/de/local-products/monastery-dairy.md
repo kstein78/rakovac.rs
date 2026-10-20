@@ -33,7 +33,7 @@ Bitte nur tagsüber anrufen. Das Kloster hat seinen eigenen Tagesablauf: Morgens
 
 ## Abholung
 
-**Käse** wird in einem kleinen grauen, eingeschossigen Pavillon rechts vom Kloster verkauft, wenn Sie vom Parkplatz aus auf das Kloster blicken. Dahinter liegt der Kinderspielplatz, daneben die Bushaltestelle Richtung Novi Sad.
+**Käse** wird in einem kleinen grauen, eingeschossigen Pavillon rechts vom Kloster verkauft, wenn Sie vom Parkplatz aus auf das Kloster blicken. Dahinter war früher ein Kinderspielplatz (im Oktober 2026 abgebaut), daneben liegt die Bushaltestelle Richtung Novi Sad.
 
 **Milch** gibt es dort oder auf dem Hof: Fahren Sie auf der Straße, die links um das Kloster bergauf führt. Gleich hinter der Klostermauer kommt ein Maschendrahttor mit einem kleinen Parkplatz davor. Ist das Tor zu, ist wahrscheinlich niemand da: Die Mönche sind beim Gottesdienst. Ist es offen, fahren Sie den Weg hinauf zum dunkelbraunen Kuhstall und fragen nach Vater Emilijan oder Vater Sava.
 

@@ -2,12 +2,12 @@
 title: Spielplätze und Picknickplätze
 kicker: Orte zum Spielen
 weight: 3
-summary: Der hölzerne Eko park Zmajevac auf dem Kamm, zwei kleine Spielplätze in Stari Rakovac und ein Picknickplatz mit Spielplatz bei Brankovac.
+summary: Der hölzerne Eko park Zmajevac auf dem Kamm, ein kleiner Spielplatz an der Gedenkstätte Kamenolom und ein Picknickplatz mit Spielplatz bei Brankovac.
 kids: true
 category: kids
 coords:
-- 45.1840876
-- 19.7735855
+- 45.18103
+- 19.77137
 photo: zmajevac-playground-climbing-wall
 ---
 
@@ -21,9 +21,9 @@ Ein kleiner, etwas vernachlässigter Spielplatz auf dem Rasen direkt neben der [
 
 {{< photos "kamenolom-playground-swing kamenolom-playground-lawn" >}}
 
-## Spielplatz beim Kloster
+## Der frühere Spielplatz beim Kloster
 
-Ein kleiner Kinderspielplatz in Stari Rakovac, direkt neben dem Kloster. Praktisch nach einem Spaziergang nach Beli Majdan. Besucher haben berichtet, dass er Instandhaltung braucht, prüfen Sie also zuerst seinen Zustand.
+Hinter dem Käsepavillon neben dem Kloster gab es früher einen kleinen Spielplatz. Als wir am 20. Oktober 2026 vorbeikamen, waren alle Geräte abgebaut und nur noch kahle Erde übrig. Vielleicht entsteht hier ein neuer Spielplatz; wir ergänzen die Seite, sobald sich etwas tut. Bis dahin ist der nächste Spielplatz der an der Gedenkstätte Kamenolom (oben).
 
 ## Picknickplatz Brankovac
 

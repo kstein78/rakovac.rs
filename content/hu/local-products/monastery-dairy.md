@@ -33,7 +33,7 @@ Kérjük, csak napközben telefonáljon. A kolostornak saját rendje van: reggel
 
 ## Átvétel
 
-A **sajtot** egy kis szürke, földszintes pavilonban árulják a kolostortól jobbra, ha a parkolóból a kolostor felé néz. Mögötte a játszótér, mellette az Újvidék felé tartó busz megállója.
+A **sajtot** egy kis szürke, földszintes pavilonban árulják a kolostortól jobbra, ha a parkolóból a kolostor felé néz. Mögötte korábban játszótér volt (2026 októberében leszerelték), mellette az Újvidék felé tartó busz megállója.
 
 A **tejet** ugyanott vagy a gazdaságban árulják: menjen fel a kolostort balról megkerülő úton. Közvetlenül a kolostor kerítése után egy fém dróthálós kapu következik, előtte kis parkolóval. Ha a kapu zárva van, valószínűleg nincs ott senki: a szerzetesek istentiszteleten vannak. Ha nyitva, hajtson fel az úton a sötétbarna istállóig, és keresse Emilijan vagy Sava atyát.
 

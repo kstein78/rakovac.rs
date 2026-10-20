@@ -2,12 +2,12 @@
 title: Playgrounds and picnic spots
 kicker: Places to play
 weight: 3
-summary: The wooden Eko park Zmajevac on the ridge, two small playgrounds in Stari Rakovac and a picnic area with a playground at Brankovac.
+summary: The wooden Eko park Zmajevac on the ridge, a small playground at the Kamenolom memorial and a picnic area with a playground at Brankovac.
 kids: true
 category: kids
 coords:
-- 45.1840876
-- 19.7735855
+- 45.18103
+- 19.77137
 photo: zmajevac-playground-climbing-wall
 ---
 
@@ -21,9 +21,9 @@ A small and rather neglected playground on the lawn right next to the [Kamenolom
 
 {{< photos "kamenolom-playground-swing kamenolom-playground-lawn" >}}
 
-## Playground near the monastery
+## The former playground near the monastery
 
-A small children's playground in Stari Rakovac, next to the monastery. Handy after a walk to Beli Majdan. Visitors have reported that it needs maintenance, so check its condition first.
+There used to be a small playground behind the cheese pavilion next to the monastery. When we passed on 20 October 2026 all the equipment had been removed and only bare ground was left. Perhaps a new playground will be built here; we will update this page when something appears. Until then, the nearest one is the playground at the Kamenolom memorial (above).
 
 ## Brankovac picnic area
 

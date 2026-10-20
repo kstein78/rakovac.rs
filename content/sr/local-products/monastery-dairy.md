@@ -33,7 +33,7 @@ Molimo zovite samo preko dana. Manastir ima svoj red: ujutru i uveče monasi su 
 
 ## Gde se preuzima
 
-**Sir** se prodaje u malom sivom prizemnom paviljonu desno od manastira, kada stojite licem prema manastiru sa parkinga. Iza njega je dečje igralište, a pored stanica autobusa u pravcu Novog Sada.
+**Sir** se prodaje u malom sivom prizemnom paviljonu desno od manastira, kada stojite licem prema manastiru sa parkinga. Iza njega je nekada bilo dečje igralište (uklonjeno u oktobru 2026), a pored je stanica autobusa u pravcu Novog Sada.
 
 **Mleko** se prodaje tu ili na imanju: idite putem koji se penje levo oko manastira. Odmah iza manastirske ograde nalazi se metalna kapija od žičane mreže, a ispred nje malo parkiralište. Ako je kapija zatvorena, verovatno nema nikoga: monasi su na bogosluženju. Ako je otvorena, popnite se stazom do tamnosmeđe štale i potražite oca Emilijana ili oca Savu.
 

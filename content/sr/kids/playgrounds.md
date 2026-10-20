@@ -2,12 +2,12 @@
 title: Igrališta i mesta za piknik
 kicker: Gde se igrati
 weight: 3
-summary: Drveni Eko park Zmajevac na grebenu, dva mala igrališta u Starom Rakovcu i izletište sa igralištem na Brankovcu.
+summary: Drveni Eko park Zmajevac na grebenu, malo igralište kod spomen-obeležja Kamenolom i izletište sa igralištem na Brankovcu.
 kids: true
 category: kids
 coords:
-- 45.1840876
-- 19.7735855
+- 45.18103
+- 19.77137
 photo: zmajevac-playground-climbing-wall
 ---
 
@@ -21,9 +21,9 @@ Malo i pomalo zapušteno igralište na travnjaku odmah pored [spomen-obeležja K
 
 {{< photos "kamenolom-playground-swing kamenolom-playground-lawn" >}}
 
-## Igralište kod manastira
+## Nekadašnje igralište kod manastira
 
-Malo dečje igralište u Starom Rakovcu, pored manastira. Zgodno posle šetnje do Belog majdana. Posetioci su javili da mu je potrebno održavanje, pa prvo proverite u kakvom je stanju.
+Iza paviljona sa sirom pored manastira nekada je bilo malo igralište. Kada smo prošli 20. oktobra 2026, sve sprave su bile uklonjene i ostala je samo prazna zemlja. Možda će ovde biti izgrađeno novo igralište; dopunićemo stranicu kada se nešto pojavi. Do tada je najbliže igralište kod spomen-obeležja Kamenolom (gore).
 
 ## Izletište Brankovac
 
