@@ -296,13 +296,13 @@ function build() {
   box(-9.5, -3.75, 0, PL, ZS, 0, M.plinth); box(-9.5, -3.75, PL, EAVE + .3, ZS, 0);
   cornice(-9.5, -3.75, ZS, 0, EAVE + .3); hipRoof(-9.9, -3.35, ZS - .4, .4, EAVE + .3, 3.2);
   box(-9.7, -3.55, FL1 - .25, FL1, ZS - .2, .2, M.trim);
-  decal(traceryDraw, 'tracery', 1024, 4.6, 4.7, 'n', 0, -6.6, FL1);
+  decal(traceryDraw, 'tracery', 1024, 4.4, 4.1, 'n', 0, -6.6, FL1 + .2);
   decal(ironDraw, 'iron', 256, 1.6, 1.9, 'n', 0, -9.0, 7.4);
   decal(WA, 'wa18', 256, 1.6, 3.75, 'n', 0, -5.0, PL + 0.1);                        // door behind the porch
   decal(WA, 'wa', 256, 1.3, 3.12, 'n', 0, -8.3, PL + 0.6);
   for (const z of [-11.8, -14]) { decal(W1, 'w1', 256, 1.1, 2.99, 'w', -9.5, z, PL + 0.6); }
   for (const z of [-2.2, -6.2, -11.8, -14]) decal(W1, 'w1', 256, 1.1, 2.2, 'w', -9.5, z, FL1 + 0.8);
-  decal(gothicPairDraw, 'goth', 512, 2.2, 4.4, 's', ZS, -4.8, 3.6);              // staircase window
+  decal(gothicPairDraw, 'goth', 512, 2.0, 3.8, 's', ZS, -4.8, FL1 + .3);              // staircase window
   for (const x of [-8.2, -6.6]) decal(W1, 'w1', 256, .9, 1.7, 's', ZS, x, PL + .8);
 
   /* porch in front of the hall: a raised platform with a straight flight to the north */
@@ -424,6 +424,7 @@ const VIEWS = {
   east: [[44, 11, 0], [8, 6, -7]],
   turul: [[27, 15, -9], [10.5, 13, -7.0]],
   loggia: [[20, 9, -26], [8, 7, -14]],
+  stairwin: [[-8, 8, -30], [-4.8, 7, -15]],
 };
 export function init(el) {
   const canvas = el.querySelector('canvas');
