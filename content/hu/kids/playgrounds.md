@@ -2,13 +2,18 @@
 title: Játszóterek és piknikhelyek
 kicker: Hol lehet játszani
 weight: 3
-summary: Egy kis játszótér a kolostor közelében, és egy játszótérrel felszerelt piknikhely fent a gerincen, Brankovacon.
+summary: A gerincen álló, fából készült Eko park Zmajevac, egy kis játszótér a kolostor közelében és egy játszótérrel felszerelt pihenőhely Brankovacon.
 kids: true
 category: kids
 coords:
 - 45.1840876
 - 19.7735855
+photo: zmajevac-playground-overview
 ---
+
+## Eko park Zmajevac
+
+Teljesen fából készült játszótér a gerincen lévő Zmajevac pihenőhelyen, a kolostortól autóval 8–10 perc felfelé: mászórönkök, hinták, favonat, oktatótáblák állatnyomokról és levelekről, edzőeszközök. [Bővebben az Eko park Zmajevacról]({{< relref "kids/zmajevac-playground" >}}).
 
 ## Játszótér a kolostor közelében
 

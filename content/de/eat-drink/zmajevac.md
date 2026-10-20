@@ -14,4 +14,6 @@ status: unconfirmed
 
 Der Zmajevac ist eine Lichtung an der oberen Straße, die von Rakovac über die Fruška Gora führt. Die ehemalige Berghütte dort dient heute als Restaurant. Sie ist der natürliche Wendepunkt der langen [Wanderung über Gradac und Zmajevac]({{< relref "routes" >}}).
 
+In der Nähe, am Picknickplatz Zmajevac, liegt der hölzerne Kinderspielplatz [Eko park Zmajevac]({{< relref "kids/zmajevac-playground" >}}).
+
 {{< todo >}}Öffnungstage und Speisekarte bestätigen, und klären, ob es für Familien mit Kindern geeignet ist.{{< /todo >}}

@@ -14,4 +14,6 @@ status: unconfirmed
 
 Zmajevac egy tisztás a Rakovacról a Tarcal-hegységen (Fruška gora) átvezető felső úton. Az ottani egykori turistaház ma étteremként működik. Ez a hosszú [Gradac–Zmajevac túra]({{< relref "routes" >}}) kézenfekvő fordulópontja.
 
+A közelben, a Zmajevac pihenőhelyen található a fából készült [Eko park Zmajevac]({{< relref "kids/zmajevac-playground" >}}) játszótér.
+
 {{< todo >}}Megerősíteni a nyitvatartási napokat, az étlapot, és azt, hogy alkalmas-e gyermekes családoknak.{{< /todo >}}

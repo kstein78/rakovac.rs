@@ -2026,3 +2026,133 @@ atlas-plants:
   alt_cyr: "Цртежи биљака и гљива Фрушке горе на зеленој позадини: лист липе и храста, цвет, јестива гљива и зелена пупавка"
   alt_de: "Strichzeichnungen von Pflanzen und Pilzen der Fruška Gora auf grünem Grund: Linden- und Eichenblatt, eine Blume, ein Speisepilz und ein Knollenblätterpilz"
   alt_hu: "A Tarcal-hegység növényeinek és gombáinak vonalrajzai zöld alapon: hárs- és tölgylevél, virág, ehető gomba és gyilkos galóca"
+zmajevac-playground-overview:
+  src: img/zmajevac-playground-overview.jpg
+  author: Konstantin Stein
+  author_ru: Константин Штейн
+  author_cyr: Константин Штајн
+  license: © all rights reserved
+  alt: 'Eko park Zmajevac: two log benches, log pyramids for climbing, a swing and the playground''s information board under autumn trees'
+  temp: false
+  alt_ru: 'Эко-парк Змаевац: две скамейки из брёвен, бревенчатые пирамиды для лазания, качели и информационный стенд площадки под осенними деревьями'
+  alt_sr: 'Eko park Zmajevac: dve klupe od balvana, piramide od balvana za penjanje, ljuljaška i tabla igrališta pod jesenjim drvećem'
+  alt_cyr: "Еко парк Змајевац: две клупе од балвана, пирамиде од балвана за пењање, љуљашка и табла игралишта под јесењим дрвећем"
+  alt_de: 'Eko park Zmajevac: zwei Bänke aus Stämmen, Kletterpyramiden aus Rundhölzern, eine Schaukel und die Infotafel des Spielplatzes unter herbstlichen Bäumen'
+  alt_hu: 'Eko park Zmajevac: két rönkpad, mászható rönkpiramisok, egy hinta és a játszótér tájékoztató táblája őszi fák alatt'
+zmajevac-playground-climbing-wall:
+  src: img/zmajevac-playground-climbing-wall.jpg
+  author: Konstantin Stein
+  author_ru: Константин Штейн
+  author_cyr: Константин Штајн
+  license: © all rights reserved
+  alt: A climbing wall of tall logs with coloured holds, log climbing frames and a wooden train at Eko park Zmajevac, a shingle-roofed shelter behind
+  temp: false
+  alt_ru: Стенка для лазания из высоких брёвен с цветными зацепами, бревенчатые конструкции и деревянный паровозик в Эко-парке Змаевац, позади беседка с крышей из дранки
+  alt_sr: Zid za penjanje od visokih balvana sa šarenim hvatištima, penjalice od balvana i drveni voz u Eko parku Zmajevac, iza senica s krovom od šindre
+  alt_cyr: "Зид за пењање од високих балвана са шареним хватиштима, пењалице од балвана и дрвени воз у Еко парку Змајевац, иза сеница с кровом од шиндре"
+  alt_de: Eine Kletterwand aus hohen Stämmen mit bunten Griffen, Klettergerüste aus Rundhölzern und eine Holzeisenbahn im Eko park Zmajevac, dahinter ein Pavillon mit Schindeldach
+  alt_hu: Magas rönkökből álló mászófal színes fogásokkal, rönk mászókák és egy favonat az Eko park Zmajevacban, mögöttük zsindelytetős esőbeálló
+zmajevac-playground-log-pyramid:
+  src: img/zmajevac-playground-log-pyramid.jpg
+  author: Konstantin Stein
+  author_ru: Константин Штейн
+  author_cyr: Константин Штајн
+  license: © all rights reserved
+  alt: A stepped pyramid of logs for climbing, a swing and the information board at Eko park Zmajevac under tall trees
+  temp: false
+  alt_ru: Ступенчатая пирамида из брёвен для лазания, качели и информационный стенд в Эко-парке Змаевац под высокими деревьями
+  alt_sr: Stepenasta piramida od balvana za penjanje, ljuljaška i tabla u Eko parku Zmajevac pod visokim drvećem
+  alt_cyr: "Степенаста пирамида од балвана за пењање, љуљашка и табла у Еко парку Змајевац под високим дрвећем"
+  alt_de: Eine Stufenpyramide aus Rundhölzern zum Klettern, eine Schaukel und die Infotafel im Eko park Zmajevac unter hohen Bäumen
+  alt_hu: Lépcsős rönkpiramis mászáshoz, egy hinta és a tájékoztató tábla az Eko park Zmajevacban magas fák alatt
+zmajevac-playground-wooden-train:
+  src: img/zmajevac-playground-wooden-train.jpg
+  author: Konstantin Stein
+  author_ru: Константин Штейн
+  author_cyr: Константин Штајн
+  license: © all rights reserved
+  alt: A wooden train, tractors and a car made of logs on wood chips at Eko park Zmajevac, two swings and a seesaw around them
+  temp: false
+  alt_ru: Деревянный паровозик, тракторы и машинка из брёвен на щепе в Эко-парке Змаевац, вокруг двое качелей и качалка-балансир
+  alt_sr: Drveni voz, traktori i autić od balvana na drvenoj sečki u Eko parku Zmajevac, oko njih dve ljuljaške i klackalica
+  alt_cyr: "Дрвени воз, трактори и аутић од балвана на дрвеној сечки у Еко парку Змајевац, око њих две љуљашке и клацкалица"
+  alt_de: Eine Holzeisenbahn, Traktoren und ein Auto aus Stämmen auf Holzhackschnitzeln im Eko park Zmajevac, ringsum zwei Schaukeln und eine Wippe
+  alt_hu: Rönkökből készült favonat, traktorok és kisautó faforgácson az Eko park Zmajevacban, körülöttük két hinta és egy mérleghinta
+zmajevac-playground-cube-boards:
+  src: img/zmajevac-playground-cube-boards.jpg
+  author: Konstantin Stein
+  author_ru: Константин Штейн
+  author_cyr: Константин Штајн
+  license: © all rights reserved
+  alt: 'Boards with turning wooden cubes at Eko park Zmajevac: a picture puzzle, the Serbian Cyrillic alphabet with pictures and the painted head of a bird of prey, a wooden shelter in the middle'
+  temp: false
+  alt_ru: 'Стенды с поворотными деревянными кубиками в Эко-парке Змаевац: пазл-картинка, сербская кириллица с картинками и нарисованная голова хищной птицы, посередине деревянная беседка'
+  alt_sr: 'Table sa drvenim kockicama koje se okreću u Eko parku Zmajevac: slagalica sa slikom, azbuka sa sličicama i naslikana glava ptice grabljivice, u sredini drvena senica'
+  alt_cyr: "Табле са дрвеним коцкицама које се окрећу у Еко парку Змајевац: слагалица са сликом, азбука са сличицама и насликана глава птице грабљивице, у средини дрвена сеница"
+  alt_de: 'Tafeln mit drehbaren Holzwürfeln im Eko park Zmajevac: ein Bilderpuzzle, das serbische kyrillische Alphabet mit Bildern und der gemalte Kopf eines Greifvogels, in der Mitte ein Holzpavillon'
+  alt_hu: 'Forgatható fakockás táblák az Eko park Zmajevacban: képkirakó, a szerb cirill ábécé képekkel és egy ragadozómadár festett feje, középen fa esőbeálló'
+zmajevac-playground-tracks-leaves:
+  src: img/zmajevac-playground-tracks-leaves.jpg
+  author: Konstantin Stein
+  author_ru: Константин Штейн
+  author_cyr: Константин Штајн
+  license: © all rights reserved
+  alt: 'Two wooden learning tables at Eko park Zmajevac: the tracks of a wolf, a deer, a horse and a bear, and the leaves of an oak, a maple, a linden and a hornbeam'
+  temp: false
+  alt_ru: 'Два деревянных обучающих стола в Эко-парке Змаевац: следы волка, оленя, лошади и медведя и листья дуба, клёна, липы и граба'
+  alt_sr: 'Dva drvena edukativna stola u Eko parku Zmajevac: tragovi vuka, jelena, konja i medveda i listovi hrasta, javora, lipe i graba'
+  alt_cyr: "Два дрвена едукативна стола у Еко парку Змајевац: трагови вука, јелена, коња и медведа и листови храста, јавора, липе и граба"
+  alt_de: 'Zwei hölzerne Lerntische im Eko park Zmajevac: die Spuren von Wolf, Hirsch, Pferd und Bär und die Blätter von Eiche, Ahorn, Linde und Hainbuche'
+  alt_hu: 'Két fa oktatóasztal az Eko park Zmajevacban: a farkas, a szarvas, a ló és a medve nyoma, valamint a tölgy, a juhar, a hárs és a gyertyán levele'
+zmajevac-playground-pullup-frame:
+  src: img/zmajevac-playground-pullup-frame.jpg
+  author: Konstantin Stein
+  author_ru: Константин Штейн
+  author_cyr: Константин Штајн
+  license: © all rights reserved
+  alt: A pull-up bar and a log exercise frame at Eko park Zmajevac, a shingle-roofed shelter and the cube boards behind, a stone barbecue on the left
+  temp: false
+  alt_ru: Турник и бревенчатый снаряд для упражнений в Эко-парке Змаевац, позади беседка с крышей из дранки и стенды с кубиками, слева каменный мангал
+  alt_sr: Vratilo i sprava od balvana za vežbanje u Eko parku Zmajevac, iza senica s krovom od šindre i table s kockicama, levo kameni roštilj
+  alt_cyr: "Вратило и справа од балвана за вежбање у Еко парку Змајевац, иза сеница с кровом од шиндре и табле с коцкицама, лево камени роштиљ"
+  alt_de: Eine Reckstange und ein Übungsgerüst aus Rundhölzern im Eko park Zmajevac, dahinter ein Pavillon mit Schindeldach und die Würfeltafeln, links ein Steingrill
+  alt_hu: Húzódzkodórúd és rönkből készült edzőállvány az Eko park Zmajevacban, mögöttük zsindelytetős esőbeálló és a kockás táblák, balra kőgrill
+zmajevac-playground-workout:
+  src: img/zmajevac-playground-workout.jpg
+  author: Konstantin Stein
+  author_ru: Константин Штейн
+  author_cyr: Константин Штајн
+  license: © all rights reserved
+  alt: 'Outdoor workout equipment of wooden posts and metal bars at Eko park Zmajevac: low bars, parallel bars and a pull-up bar, a stone barbecue behind'
+  temp: false
+  alt_ru: 'Уличные тренажёры из деревянных столбов и металлических перекладин в Эко-парке Змаевац: низкие перекладины, брусья и турник, позади каменный мангал'
+  alt_sr: 'Sprave za vežbanje na otvorenom od drvenih stubova i metalnih šipki u Eko parku Zmajevac: niske prečke, razboj i vratilo, iza kameni roštilj'
+  alt_cyr: "Справе за вежбање на отвореном од дрвених стубова и металних шипки у Еко парку Змајевац: ниске пречке, разбој и вратило, иза камени роштиљ"
+  alt_de: 'Trainingsgeräte im Freien aus Holzpfosten und Metallstangen im Eko park Zmajevac: niedrige Stangen, ein Barren und eine Reckstange, dahinter ein Steingrill'
+  alt_hu: 'Szabadtéri edzőeszközök faoszlopokból és fémrudakból az Eko park Zmajevacban: alacsony rudak, korlát és húzódzkodórúd, mögöttük kőgrill'
+zmajevac-playground-grill:
+  src: img/zmajevac-playground-grill.jpg
+  author: Konstantin Stein
+  author_ru: Константин Штейн
+  author_cyr: Константин Штајн
+  license: © all rights reserved
+  alt: A stone barbecue at the Zmajevac picnic area next to the playground's exercise bars, a picnic table and a shelter by the road behind
+  temp: false
+  alt_ru: Каменный мангал в зоне отдыха Змаевац рядом с турниками площадки, позади стол для пикника и беседка у дороги
+  alt_sr: Kameni roštilj na izletištu Zmajevac pored sprava za vežbanje, iza sto za piknik i senica pored puta
+  alt_cyr: "Камени роштиљ на излетишту Змајевац поред справа за вежбање, иза сто за пикник и сеница поред пута"
+  alt_de: Ein Steingrill am Picknickplatz Zmajevac neben den Trainingsgeräten des Spielplatzes, dahinter ein Picknicktisch und ein Pavillon an der Straße
+  alt_hu: Kőgrill a Zmajevac pihenőhelyen a játszótér edzőeszközei mellett, mögötte piknikasztal és esőbeálló az út mellett
+zmajevac-playground-board:
+  src: img/zmajevac-playground-board.jpg
+  author: Konstantin Stein
+  author_ru: Константин Штейн
+  author_cyr: Константин Штајн
+  license: © all rights reserved
+  alt: 'The information board of Eko park Zmajevac: drawings of the equipment with age groups, emergency numbers and the playground rules'
+  temp: false
+  alt_ru: 'Информационный стенд Эко-парка Змаевац: рисунки снарядов с возрастными группами, экстренные номера и правила площадки'
+  alt_sr: 'Tabla Eko parka Zmajevac: crteži sprava sa uzrastima, brojevi za hitne slučajeve i pravila igrališta'
+  alt_cyr: "Табла Еко парка Змајевац: цртежи справа са узрастима, бројеви за хитне случајеве и правила игралишта"
+  alt_de: 'Die Infotafel des Eko park Zmajevac: Zeichnungen der Geräte mit Altersgruppen, Notrufnummern und die Spielplatzregeln'
+  alt_hu: 'Az Eko park Zmajevac tájékoztató táblája: az eszközök rajzai korcsoportokkal, segélyhívó számok és a játszótér szabályai'

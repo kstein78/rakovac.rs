@@ -2,13 +2,18 @@
 title: Igrališta i mesta za piknik
 kicker: Gde se igrati
 weight: 3
-summary: Malo igralište kod manastira i izletište sa igralištem gore na grebenu, na Brankovcu.
+summary: Drveni Eko park Zmajevac na grebenu, malo igralište kod manastira i izletište sa igralištem na Brankovcu.
 kids: true
 category: kids
 coords:
 - 45.1840876
 - 19.7735855
+photo: zmajevac-playground-overview
 ---
+
+## Eko park Zmajevac
+
+Igralište napravljeno potpuno od drveta na izletištu Zmajevac na grebenu, 8–10 minuta kolima uzbrdo od manastira: penjalice od balvana, ljuljaške, drveni voz, edukativne table o tragovima životinja i lišću i sprave za vežbanje. [Više o Eko parku Zmajevac]({{< relref "kids/zmajevac-playground" >}}).
 
 ## Igralište kod manastira
 

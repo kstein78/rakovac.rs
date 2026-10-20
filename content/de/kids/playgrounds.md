@@ -2,13 +2,18 @@
 title: Spielplätze und Picknickplätze
 kicker: Orte zum Spielen
 weight: 3
-summary: Ein kleiner Spielplatz beim Kloster und ein Picknickplatz mit Spielplatz oben auf dem Kamm bei Brankovac.
+summary: Der hölzerne Eko park Zmajevac auf dem Kamm, ein kleiner Spielplatz beim Kloster und ein Picknickplatz mit Spielplatz bei Brankovac.
 kids: true
 category: kids
 coords:
 - 45.1840876
 - 19.7735855
+photo: zmajevac-playground-overview
 ---
+
+## Eko park Zmajevac
+
+Ein Spielplatz ganz aus Holz am Picknickplatz Zmajevac auf dem Kamm, 8–10 Minuten mit dem Auto vom Kloster bergauf: Kletterstämme, Schaukeln, eine Holzeisenbahn, Lerntafeln zu Tierspuren und Blättern und Trainingsgeräte. [Mehr über den Eko park Zmajevac]({{< relref "kids/zmajevac-playground" >}}).
 
 ## Spielplatz beim Kloster
 

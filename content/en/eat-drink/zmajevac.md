@@ -14,4 +14,6 @@ status: unconfirmed
 
 Zmajevac is a clearing on the upper road from Rakovac across Fruška Gora. The former mountaineers' hut there now works as a restaurant. It is the natural turning point of the long [Gradac and Zmajevac walk]({{< relref "routes" >}}).
 
+Nearby, at the Zmajevac picnic area, is the wooden children's playground [Eko park Zmajevac]({{< relref "kids/zmajevac-playground" >}}).
+
 {{< todo >}}Confirm opening days, menu and whether it suits families with children.{{< /todo >}}

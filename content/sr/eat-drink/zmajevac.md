@@ -14,4 +14,6 @@ status: unconfirmed
 
 Zmajevac je čistina na gornjem putu iz Rakovca preko Fruške gore. Nekadašnji planinarski dom sada radi kao restoran. To je prirodna tačka za povratak na dugoj [stazi preko Gradca i Zmajevca]({{< relref "routes" >}}).
 
+U blizini, na izletištu Zmajevac, nalazi se drveno dečje igralište [Eko park Zmajevac]({{< relref "kids/zmajevac-playground" >}}).
+
 {{< todo >}}Potvrditi radne dane, meni i da li je mesto pogodno za porodice sa decom.{{< /todo >}}
