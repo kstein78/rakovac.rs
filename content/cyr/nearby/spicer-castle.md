@@ -13,9 +13,17 @@ category: heritage
 coords:
 - 45.20362
 - 19.71994
+photo: spicer-front
+gallery:
+- spicer-hall-gallery
+- spicer-rear-park
+- spicer-staircase
+- spicer-reconstruction-front
 ---
 
 **Шпицеров дворац** (зову га и Стари дворац) налази се у Беочину, поред старе цементаре, око 7 км од Старог Раковца. Заштићен је као споменик културе, али је у веома лошем стању и **затворен за посетиоце**.
+
+**Фотографије:** [дворац споља и изнутра]({{< relref "gallery/spicer-castle" >}}), снимио Константин Штајн у октобру 2026. **Како је првобитно изгледао:** [реконструкција и 3D модел]({{< relref "nearby/spicer-castle-reconstruction" >}}).
 
 ## Породица цемента
 

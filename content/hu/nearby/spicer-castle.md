@@ -11,9 +11,17 @@ category: heritage
 coords:
 - 45.20362
 - 19.71994
+photo: spicer-front
+gallery:
+- spicer-hall-gallery
+- spicer-rear-park
+- spicer-staircase
+- spicer-reconstruction-front
 ---
 
 A **Spitzer-kastély** (szerbül *Špicerov dvorac*, más néven *Stari dvorac*) Beočinban, a régi cementgyár mellett áll, kb. 7 km-re Stari Rakovactól. Védett műemlék, de nagyon rossz állapotban van, és **látogatók számára zárva** van.
+
+**Fotók:** [a kastély kívül és belül]({{< relref "gallery/spicer-castle" >}}), Konstantin Stein felvételei 2026 októberéből. **Milyen volt eredetileg:** [rekonstrukció és 3D-modell]({{< relref "nearby/spicer-castle-reconstruction" >}}).
 
 ## A cementcsalád
 

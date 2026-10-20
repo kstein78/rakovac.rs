@@ -1,0 +1,29 @@
+{{/* Interactive 3D model: {{< model3d src="js/spicer3d.js" poster="spicer-reconstruction-front" >}}.
+  Shows the poster photo first; the model (three.js from static/vendor/three) loads only when the block
+  comes into view. Buttons: views and auto-rotation. Labels from i18n (m3d_*). */}}
+{{ $poster := index site.Data.photos (.Get "poster") }}
+<figure class="m3d" data-src="{{ (.Get "src") | relURL }}">
+  <div class="m3d-stage">
+    {{ with $poster }}<img class="m3d-poster" src="{{ .src | relURL }}" alt="{{ index . (printf "alt_%s" site.Language.Lang) | default .alt }}" loading="lazy">{{ end }}
+    <canvas aria-label="{{ i18n "m3d_canvas" }}"></canvas>
+    <p class="m3d-loading small">{{ i18n "m3d_loading" }}</p>
+  </div>
+  <div class="m3d-bar" role="group" aria-label="{{ i18n "m3d_views" }}">
+    <button type="button" class="btn btn-quiet" data-view="front">{{ i18n "m3d_front" }}</button>
+    <button type="button" class="btn btn-quiet" data-view="back">{{ i18n "m3d_back" }}</button>
+    <button type="button" class="btn btn-quiet" data-view="west">{{ i18n "m3d_side" }}</button>
+    <button type="button" class="btn btn-quiet" data-view="air">{{ i18n "m3d_air" }}</button>
+    <button type="button" class="btn btn-quiet" data-view="turul">{{ i18n "m3d_turul" }}</button>
+    <button type="button" class="btn btn-quiet" data-rotate aria-pressed="false">{{ i18n "m3d_rotate" }}</button>
+  </div>
+  <figcaption class="small muted">{{ i18n "m3d_help" }}</figcaption>
+</figure>
+<script type="module">
+  document.querySelectorAll('.m3d:not([data-bound])').forEach(box => {
+    box.dataset.bound = 1;
+    const start = () => import(box.dataset.src).then(m => { m.init(box); }).catch(() => box.classList.add('m3d-failed'));
+    if (!('IntersectionObserver' in window)) return start();
+    const io = new IntersectionObserver(es => { if (es[0].isIntersecting) { io.disconnect(); start(); } }, { rootMargin: '200px' });
+    io.observe(box);
+  });
+</script>

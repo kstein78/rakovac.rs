@@ -11,9 +11,17 @@ category: heritage
 coords:
 - 45.20362
 - 19.71994
+photo: spicer-front
+gallery:
+- spicer-hall-gallery
+- spicer-rear-park
+- spicer-staircase
+- spicer-reconstruction-front
 ---
 
 **Шпицеров дворец** (*Špicerov dvorac*, его называют и Старым дворцом) стоит в Беочине, рядом со старым цементным заводом, примерно в 7 км от Стари-Раковца. Это охраняемый памятник культуры, но он в очень плохом состоянии и **закрыт для посещения**.
+
+**Фото:** [дворец снаружи и внутри]({{< relref "gallery/spicer-castle" >}}), снимал Константин Штейн в октябре 2026 года. **Как он выглядел изначально:** [реконструкция и 3D-модель]({{< relref "nearby/spicer-castle-reconstruction" >}}).
 
 ## Семья цемента
 

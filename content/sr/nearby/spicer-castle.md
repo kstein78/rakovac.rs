@@ -12,9 +12,17 @@ category: heritage
 coords:
 - 45.20362
 - 19.71994
+photo: spicer-front
+gallery:
+- spicer-hall-gallery
+- spicer-rear-park
+- spicer-staircase
+- spicer-reconstruction-front
 ---
 
 **Špicerov dvorac** (zovu ga i Stari dvorac) nalazi se u Beočinu, pored stare cementare, oko 7 km od Starog Rakovca. Zaštićen je kao spomenik kulture, ali je u veoma lošem stanju i **zatvoren za posetioce**.
+
+**Fotografije:** [dvorac spolja i iznutra]({{< relref "gallery/spicer-castle" >}}), snimio Konstantin Stein u oktobru 2026. **Kako je prvobitno izgledao:** [rekonstrukcija i 3D model]({{< relref "nearby/spicer-castle-reconstruction" >}}).
 
 ## Porodica cementa
 

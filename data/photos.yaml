@@ -2377,3 +2377,517 @@ kamenolom-playground-lawn:
   alt_cyr: "Клупе и љуљашка на травњаку игралишта код спомен-обележја Каменолом, иза куће Старог Раковца и шумовита брда"
   alt_de: Bänke und die Schaukel auf dem Rasen des Spielplatzes an der Gedenkstätte Kamenolom, dahinter Häuser von Stari Rakovac und bewaldete Hügel
   alt_hu: Padok és a hinta a Kamenolom-emlékmű melletti játszótér gyepén, mögöttük Stari Rakovac házai és erdős dombok
+spicer-front:
+  src: img/spicer-front.jpg
+  author: Konstantin Stein
+  author_ru: Константин Штейн
+  author_cyr: Константин Штајн
+  license: © all rights reserved
+  alt: 'The main front of Spitzer Castle in Beočin: the great hall window with a rose on the left, the arcaded loggia under a terrace in the middle, the right wing with wrought-iron dragons'
+  temp: false
+  alt_ru: 'Главный фасад Шпицерова дворца в Беочине: слева большое окно зала с розой, в центре аркада под террасой, справа крыло с коваными драконами'
+  alt_sr: 'Glavna fasada Špicerovog dvorca u Beočinu: levo veliki prozor hola sa rozetom, u sredini arkade ispod terase, desno krilo sa kovanim zmajevima'
+  alt_cyr: "Главна фасада Шпицеровог дворца у Беочину: лево велики прозор хола са розетом, у средини аркаде испод терасе, десно крило са кованим змајевима"
+  alt_de: 'Die Hauptfront des Spitzer-Schlosses in Beočin: links das große Hallenfenster mit Rosette, in der Mitte die Arkaden unter der Terrasse, rechts der Flügel mit schmiedeeisernen Drachen'
+  alt_hu: 'A beocsini Spitzer-kastély főhomlokzata: balra a csarnok nagy, rózsaablakos ablaka, középen az árkádsor a terasz alatt, jobbra a szárny kovácsoltvas sárkányokkal'
+spicer-loggia:
+  src: img/spicer-loggia.jpg
+  author: Konstantin Stein
+  author_ru: Константин Штейн
+  author_cyr: Константин Штајн
+  license: © all rights reserved
+  alt: The arcaded loggia on slender columns under the terrace, with flights of steps on both sides
+  temp: false
+  alt_ru: Аркада на тонких колоннах под террасой, с лестницами по обе стороны
+  alt_sr: Arkade na vitkim stubovima ispod terase, sa stepeništem s obe strane
+  alt_cyr: "Аркаде на витким стубовима испод терасе, са степеништем с обе стране"
+  alt_de: Die Arkaden auf schlanken Säulen unter der Terrasse, mit Treppen auf beiden Seiten
+  alt_hu: Az árkádsor karcsú oszlopokon a terasz alatt, mindkét oldalon lépcsővel
+spicer-tracery-window:
+  src: img/spicer-tracery-window.jpg
+  author: Konstantin Stein
+  author_ru: Константин Штейн
+  author_cyr: Константин Штајн
+  license: © all rights reserved
+  alt: 'The great hall window: three arched lights under a rose window and two small oculi, with a cherub head in the middle'
+  temp: false
+  alt_ru: 'Большое окно зала: три арочных проёма под окном-розой и двумя маленькими круглыми окнами, в центре голова херувима'
+  alt_sr: 'Veliki prozor hola: tri lučna otvora ispod rozete i dva mala okrugla prozora, u sredini glava heruvima'
+  alt_cyr: "Велики прозор хола: три лучна отвора испод розете и два мала округла прозора, у средини глава херувима"
+  alt_de: 'Das große Hallenfenster: drei Rundbogenöffnungen unter einer Rosette und zwei kleinen Okuli, in der Mitte ein Engelskopf'
+  alt_hu: 'A csarnok nagy ablaka: három íves nyílás egy rózsaablak és két kis körablak alatt, középen angyalfej'
+spicer-iron-dragon:
+  src: img/spicer-iron-dragon.jpg
+  author: Konstantin Stein
+  author_ru: Константин Штейн
+  author_cyr: Константин Штајн
+  license: © all rights reserved
+  alt: A wrought-iron winged dragon on the castle wall against the sky
+  temp: false
+  alt_ru: Кованый крылатый дракон на стене дворца на фоне неба
+  alt_sr: Kovani krilati zmaj na zidu dvorca naspram neba
+  alt_cyr: "Ковани крилати змај на зиду дворца наспрам неба"
+  alt_de: Ein schmiedeeiserner geflügelter Drache an der Schlossmauer vor dem Himmel
+  alt_hu: Kovácsoltvas szárnyas sárkány a kastély falán az ég előtt
+spicer-rear-park:
+  src: img/spicer-rear-park.jpg
+  author: Konstantin Stein
+  author_ru: Константин Штейн
+  author_cyr: Константин Штајн
+  license: © all rights reserved
+  alt: 'The other side of the castle among plane trees: the curved gable with the bronze turul, chimneys and a loggia with two columns'
+  temp: false
+  alt_ru: 'Другая сторона дворца среди платанов: фигурный фронтон с бронзовым турулом, трубы и лоджия с двумя колоннами'
+  alt_sr: 'Druga strana dvorca među platanima: zabat zaobljenog oblika sa bronzanim turulom, dimnjaci i loža sa dva stuba'
+  alt_cyr: "Друга страна дворца међу платанима: забат заобљеног облика са бронзаним турулом, димњаци и ложа са два стуба"
+  alt_de: 'Die andere Seite des Schlosses zwischen Platanen: der geschwungene Giebel mit dem bronzenen Turul, Schornsteine und eine Loggia mit zwei Säulen'
+  alt_hu: 'A kastély másik oldala platánok között: az ívelt oromzat a bronz turullal, kémények és egy kétoszlopos loggia'
+spicer-rear-gable-turul:
+  src: img/spicer-rear-gable-turul.jpg
+  author: Konstantin Stein
+  author_ru: Константин Штейн
+  author_cyr: Константин Штајн
+  license: © all rights reserved
+  alt: The curved gable with the turul bird spreading its wings on top
+  temp: false
+  alt_ru: Фигурный фронтон, на вершине турул с раскинутыми крыльями
+  alt_sr: Zaobljeni zabat, na vrhu turul raširenih krila
+  alt_cyr: "Заобљени забат, на врху турул раширених крила"
+  alt_de: Der geschwungene Giebel, oben der Turul mit ausgebreiteten Flügeln
+  alt_hu: Az ívelt oromzat, csúcsán a kiterjesztett szárnyú turul
+spicer-hall-gallery:
+  src: img/spicer-hall-gallery.jpg
+  author: Konstantin Stein
+  author_ru: Константин Штейн
+  author_cyr: Константин Штајн
+  license: © all rights reserved
+  alt: 'The double-height hall: a gallery with a pierced balustrade on carved brackets, arches, the staircase and a star-patterned tiled floor'
+  temp: false
+  alt_ru: 'Двусветный зал: галерея с ажурной балюстрадой на резных кронштейнах, арки, лестница и плиточный пол со звёздным узором'
+  alt_sr: 'Hol visok dve etaže: galerija sa probijenom ogradom na rezbarenim konzolama, lukovi, stepenište i pod od pločica sa zvezdastom šarom'
+  alt_cyr: "Хол висок две етаже: галерија са пробијеном оградом на резбареним конзолама, лукови, степениште и под од плочица са звездастом шаром"
+  alt_de: 'Die zweigeschossige Halle: eine Galerie mit durchbrochener Brüstung auf geschnitzten Konsolen, Bögen, die Treppe und ein Fliesenboden mit Sternmuster'
+  alt_hu: 'A kétszintes csarnok: áttört korlátos galéria faragott konzolokon, ívek, a lépcső és csillagmintás járólap'
+spicer-hall-gallery-stairs:
+  src: img/spicer-hall-gallery-stairs.jpg
+  author: Konstantin Stein
+  author_ru: Константин Штейн
+  author_cyr: Константин Штајн
+  license: © all rights reserved
+  alt: 'The hall from below: the gallery, two arches, the staircase and the roof timbers open to the sky'
+  temp: false
+  alt_ru: 'Зал снизу: галерея, две арки, лестница и стропила, открытые небу'
+  alt_sr: 'Hol odozdo: galerija, dva luka, stepenište i krovna građa otvorena prema nebu'
+  alt_cyr: "Хол одоздо: галерија, два лука, степениште и кровна грађа отворена према небу"
+  alt_de: 'Die Halle von unten: Galerie, zwei Bögen, die Treppe und das zum Himmel offene Dachgebälk'
+  alt_hu: 'A csarnok alulról: galéria, két ív, a lépcső és az ég felé nyitott tetőszerkezet'
+spicer-painted-pillar:
+  src: img/spicer-painted-pillar.jpg
+  author: Konstantin Stein
+  author_ru: Константин Штейн
+  author_cyr: Константин Штајн
+  license: © all rights reserved
+  alt: A pillar in the hall with a painted stylized lily under a small gable of stucco roses
+  temp: false
+  alt_ru: Столб в зале с расписной стилизованной лилией под фронтончиком из лепных роз
+  alt_sr: Stub u holu sa oslikanim stilizovanim ljiljanom ispod zabatića od štukaturnih ruža
+  alt_cyr: "Стуб у холу са осликаним стилизованим љиљаном испод забатића од штукатурних ружа"
+  alt_de: Ein Pfeiler der Halle mit einer gemalten stilisierten Lilie unter einem kleinen Giebel aus Stuckrosen
+  alt_hu: Pillér a csarnokban festett, stilizált liliommal, stukkórózsákból álló kis oromzat alatt
+spicer-hall-arches:
+  src: img/spicer-hall-arches.jpg
+  author: Konstantin Stein
+  author_ru: Константин Штейн
+  author_cyr: Константин Штајн
+  license: © all rights reserved
+  alt: Arches and round windows between the hall and the former winter garden, the roof open to the sky
+  temp: false
+  alt_ru: Арки и круглые окна между залом и бывшим зимним садом, крыша открыта небу
+  alt_sr: Lukovi i okrugli prozori između hola i nekadašnje zimske bašte, krov otvoren prema nebu
+  alt_cyr: "Лукови и округли прозори између хола и некадашње зимске баште, кров отворен према небу"
+  alt_de: Bögen und Rundfenster zwischen der Halle und dem einstigen Wintergarten, das Dach zum Himmel offen
+  alt_hu: Ívek és körablakok a csarnok és az egykori télikert között, a tető az ég felé nyitott
+spicer-staircase:
+  src: img/spicer-staircase.jpg
+  author: Konstantin Stein
+  author_ru: Константин Штейн
+  author_cyr: Константин Штајн
+  license: © all rights reserved
+  alt: The stone staircase climbing to a tall stained-glass window under a pointed arch
+  temp: false
+  alt_ru: Каменная лестница, поднимающаяся к высокому витражному окну под стрельчатой аркой
+  alt_sr: Kameno stepenište koje se penje ka visokom vitražu ispod prelomljenog luka
+  alt_cyr: "Камено степениште које се пење ка високом витражу испод преломљеног лука"
+  alt_de: Die Steintreppe führt zu einem hohen Buntglasfenster unter einem Spitzbogen
+  alt_hu: A kőlépcső egy csúcsíves, magas színes üvegablakhoz vezet
+spicer-hall-window-inside:
+  src: img/spicer-hall-window-inside.jpg
+  author: Konstantin Stein
+  author_ru: Константин Штейн
+  author_cyr: Константин Штајн
+  license: © all rights reserved
+  alt: The great window seen from inside the hall, with fragments of coloured glass and painted borders
+  temp: false
+  alt_ru: Большое окно изнутри зала, с остатками цветного стекла и расписных бордюров
+  alt_sr: Veliki prozor iznutra, sa ostacima obojenog stakla i oslikanih bordura
+  alt_cyr: "Велики прозор изнутра, са остацима обојеног стакла и осликаних бордура"
+  alt_de: Das große Fenster von innen, mit Resten von farbigem Glas und gemalten Borten
+  alt_hu: A nagy ablak belülről, színes üvegmaradványokkal és festett szegélyekkel
+spicer-gallery-brackets:
+  src: img/spicer-gallery-brackets.jpg
+  author: Konstantin Stein
+  author_ru: Константин Штейн
+  author_cyr: Константин Штајн
+  license: © all rights reserved
+  alt: The hall gallery on carved brackets with lily ornaments, three small arches above
+  temp: false
+  alt_ru: Галерея зала на резных кронштейнах с лилиями, над ней три маленькие арки
+  alt_sr: Galerija hola na rezbarenim konzolama sa ljiljanima, iznad tri mala luka
+  alt_cyr: "Галерија хола на резбареним конзолама са љиљанима, изнад три мала лука"
+  alt_de: Die Galerie der Halle auf geschnitzten Konsolen mit Lilienornamenten, darüber drei kleine Bögen
+  alt_hu: A csarnok galériája liliomdíszes faragott konzolokon, fölötte három kis ív
+spicer-door-surround:
+  src: img/spicer-door-surround.jpg
+  author: Konstantin Stein
+  author_ru: Константин Штейн
+  author_cyr: Константин Штајн
+  license: © all rights reserved
+  alt: A doorway with a curved pediment, foliate masks and stucco leaves, a red diamond with a fleur-de-lis at the top
+  temp: false
+  alt_ru: Дверной проём с изогнутым фронтоном, лиственными масками и лепными листьями, наверху красный ромб с лилией
+  alt_sr: Vrata sa zaobljenim zabatom, lisnatim maskama i štukaturnim lišćem, na vrhu crveni romb sa ljiljanom
+  alt_cyr: "Врата са заобљеним забатом, лиснатим маскама и штукатурним лишћем, на врху црвени ромб са љиљаном"
+  alt_de: Ein Türrahmen mit geschwungenem Giebel, Blattmasken und Stucklaub, oben eine rote Raute mit Lilie
+  alt_hu: Ajtókeret ívelt oromzattal, levélmaszkokkal és stukkólevelekkel, csúcsán piros rombusz liliommal
+spicer-corridor:
+  src: img/spicer-corridor.jpg
+  author: Konstantin Stein
+  author_ru: Константин Штейн
+  author_cyr: Константин Штајн
+  license: © all rights reserved
+  alt: A corridor with glazed double doors through the ground floor, fallen plaster and a cornice on the floor
+  temp: false
+  alt_ru: Коридор с остеклёнными двустворчатыми дверями через первый этаж, осыпавшаяся штукатурка и карниз на полу
+  alt_sr: Hodnik sa zastakljenim dvokrilnim vratima kroz prizemlje, otpali malter i venac na podu
+  alt_cyr: "Ходник са застакљеним двокрилним вратима кроз приземље, отпали малтер и венац на поду"
+  alt_de: Ein Flur mit verglasten Flügeltüren durch das Erdgeschoss, abgefallener Putz und ein Gesims am Boden
+  alt_hu: Folyosó üvegezett kétszárnyú ajtókkal a földszinten, lehullott vakolat és egy párkány a padlón
+spicer-tiles-medallion:
+  src: img/spicer-tiles-medallion.jpg
+  author: Konstantin Stein
+  author_ru: Константин Штейн
+  author_cyr: Константин Штајн
+  license: © all rights reserved
+  alt: Floor tiles that together form a large medallion of spirals
+  temp: false
+  alt_ru: Плитки пола, которые вместе складываются в большой медальон из спиралей
+  alt_sr: Podne pločice koje zajedno čine veliki medaljon od spirala
+  alt_cyr: "Подне плочице које заједно чине велики медаљон од спирала"
+  alt_de: Bodenfliesen, die zusammen ein großes Medaillon aus Spiralen bilden
+  alt_hu: Padlólapok, amelyek együtt nagy, spirálokból álló medaliont alkotnak
+spicer-tiles-red:
+  src: img/spicer-tiles-red.jpg
+  author: Konstantin Stein
+  author_ru: Константин Штейн
+  author_cyr: Константин Штајн
+  license: © all rights reserved
+  alt: Red-brown pressed floor tiles with a pattern of crosses and leaves
+  temp: false
+  alt_ru: Красно-коричневая прессованная плитка пола с узором из крестов и листьев
+  alt_sr: Crveno-smeđe presovane podne pločice sa šarom od krstova i listova
+  alt_cyr: "Црвено-смеђе пресоване подне плочице са шаром од крстова и листова"
+  alt_de: Rotbraune gepresste Bodenfliesen mit einem Muster aus Kreuzen und Blättern
+  alt_hu: Vörösbarna préselt padlólapok kereszt- és levélmintával
+spicer-floor-lily:
+  src: img/spicer-floor-lily.jpg
+  author: Konstantin Stein
+  author_ru: Константин Штейн
+  author_cyr: Константин Штајн
+  license: © all rights reserved
+  alt: A fleur-de-lis inlaid in the floor at a doorway
+  temp: false
+  alt_ru: Лилия, выложенная в полу у дверного проёма
+  alt_sr: Ljiljan umetnut u pod kod vrata
+  alt_cyr: "Љиљан уметнут у под код врата"
+  alt_de: Eine in den Boden eingelegte Lilie an einer Türschwelle
+  alt_hu: Liliom a padlóba rakva egy ajtónál
+spicer-hall-facade:
+  src: img/spicer-hall-facade.jpg
+  author: Konstantin Stein
+  author_ru: Константин Штейн
+  author_cyr: Константин Штајн
+  license: © all rights reserved
+  alt: The hall facade with the tracery window, the terrace under its wooden canopy beside it
+  temp: false
+  alt_ru: Фасад зала с ажурным окном, рядом терраса под деревянным навесом
+  alt_sr: Fasada hola sa prozorom s mrežištem, pored terasa ispod drvene nadstrešnice
+  alt_cyr: "Фасада хола са прозором с мрежиштем, поред тераса испод дрвене надстрешнице"
+  alt_de: Die Hallenfassade mit dem Maßwerkfenster, daneben die Terrasse unter dem Holzdach
+  alt_hu: A csarnok homlokzata a mérműves ablakkal, mellette a terasz fa előtető alatt
+spicer-hall-wing:
+  src: img/spicer-hall-wing.jpg
+  author: Konstantin Stein
+  author_ru: Константин Штейн
+  author_cyr: Константин Штајн
+  license: © all rights reserved
+  alt: 'The hall wing above its rough stone base: the tracery window and an arched side door'
+  temp: false
+  alt_ru: 'Крыло зала над грубым каменным цоколем: ажурное окно и арочная боковая дверь'
+  alt_sr: 'Krilo hola iznad grubog kamenog postolja: prozor s mrežištem i lučna bočna vrata'
+  alt_cyr: "Крило хола изнад грубог каменог постоља: прозор с мрежиштем и лучна бочна врата"
+  alt_de: 'Der Hallenflügel über dem groben Steinsockel: das Maßwerkfenster und eine Rundbogen-Seitentür'
+  alt_hu: 'A csarnokszárny a durva kőlábazat fölött: a mérműves ablak és egy íves oldalajtó'
+spicer-winter-garden-ruin:
+  src: img/spicer-winter-garden-ruin.jpg
+  author: Konstantin Stein
+  author_ru: Константин Штейн
+  author_cyr: Константин Штајн
+  license: © all rights reserved
+  alt: Bare arches beside the hall, probably what is left of the winter garden
+  temp: false
+  alt_ru: Голые арки рядом с залом — вероятно, всё, что осталось от зимнего сада
+  alt_sr: Goli lukovi pored hola, verovatno ostaci zimske bašte
+  alt_cyr: "Голи лукови поред хола, вероватно остаци зимске баште"
+  alt_de: Leere Bögen neben der Halle, wohl die Reste des Wintergartens
+  alt_hu: Csupasz ívek a csarnok mellett, valószínűleg a télikert maradványai
+spicer-oculus-pink:
+  src: img/spicer-oculus-pink.jpg
+  author: Konstantin Stein
+  author_ru: Константин Штейн
+  author_cyr: Константин Штајн
+  license: © all rights reserved
+  alt: A round window above an arch on a pink-painted wall
+  temp: false
+  alt_ru: Круглое окно над аркой на стене, выкрашенной в розовый
+  alt_sr: Okrugli prozor iznad luka na zidu obojenom u roze
+  alt_cyr: "Округли прозор изнад лука на зиду обојеном у розе"
+  alt_de: Ein Rundfenster über einem Bogen an einer rosa gestrichenen Wand
+  alt_hu: Körablak egy ív fölött, rózsaszínre festett falon
+spicer-right-wing:
+  src: img/spicer-right-wing.jpg
+  author: Konstantin Stein
+  author_ru: Константин Штейн
+  author_cyr: Константин Штајн
+  license: © all rights reserved
+  alt: 'The right wing: paired windows, a garland frieze with masks and a wrought-iron dragon at the corner'
+  temp: false
+  alt_ru: 'Правое крыло: парные окна, фриз с гирляндами и масками и кованый дракон на углу'
+  alt_sr: 'Desno krilo: dvostruki prozori, friz sa girlandama i maskama i kovani zmaj na uglu'
+  alt_cyr: "Десно крило: двоструки прозори, фриз са гирландама и маскама и ковани змај на углу"
+  alt_de: 'Der rechte Flügel: Doppelfenster, ein Girlandenfries mit Masken und ein schmiedeeiserner Drache an der Ecke'
+  alt_hu: 'A jobb szárny: ikerablakok, füzéres-maszkos fríz és kovácsoltvas sárkány a sarkon'
+spicer-right-wing-side:
+  src: img/spicer-right-wing-side.jpg
+  author: Konstantin Stein
+  author_ru: Константин Штейн
+  author_cyr: Константин Штајн
+  license: © all rights reserved
+  alt: 'The right wing seen along its facade: tall windows, a carved cornice and another iron dragon'
+  temp: false
+  alt_ru: 'Правое крыло вдоль фасада: высокие окна, резной карниз и ещё один железный дракон'
+  alt_sr: 'Desno krilo duž fasade: visoki prozori, rezbareni venac i još jedan gvozdeni zmaj'
+  alt_cyr: "Десно крило дуж фасаде: високи прозори, резбарени венац и још један гвоздени змај"
+  alt_de: 'Der rechte Flügel entlang der Fassade: hohe Fenster, ein geschnitztes Gesims und ein weiterer Eisendrache'
+  alt_hu: 'A jobb szárny a homlokzat mentén: magas ablakok, faragott párkány és egy újabb vassárkány'
+spicer-oriel:
+  src: img/spicer-oriel.jpg
+  author: Konstantin Stein
+  author_ru: Константин Штейн
+  author_cyr: Константин Штајн
+  license: © all rights reserved
+  alt: The corner oriel of the right wing on its carved corbel
+  temp: false
+  alt_ru: Угловой эркер правого крыла на резной консоли
+  alt_sr: Ugaoni erker desnog krila na rezbarenoj konzoli
+  alt_cyr: "Угаони еркер десног крила на резбареној конзоли"
+  alt_de: Der Eckerker des rechten Flügels auf seiner geschnitzten Konsole
+  alt_hu: A jobb szárny sarokerkélye faragott konzolon
+spicer-oriel-below:
+  src: img/spicer-oriel-below.jpg
+  author: Konstantin Stein
+  author_ru: Константин Штейн
+  author_cyr: Константин Штајн
+  license: © all rights reserved
+  alt: The oriel seen from below against the blue sky
+  temp: false
+  alt_ru: Эркер снизу на фоне синего неба
+  alt_sr: Erker odozdo naspram plavog neba
+  alt_cyr: "Еркер одоздо наспрам плавог неба"
+  alt_de: Der Erker von unten vor blauem Himmel
+  alt_hu: Az erkély alulról, kék ég előtt
+spicer-corbel-oriel:
+  src: img/spicer-corbel-oriel.jpg
+  author: Konstantin Stein
+  author_ru: Константин Штейн
+  author_cyr: Константин Штајн
+  license: © all rights reserved
+  alt: The corbel under the oriel with acanthus scrolls and a shield
+  temp: false
+  alt_ru: Консоль под эркером с завитками аканта и щитом
+  alt_sr: Konzola ispod erkera sa akantusovim volutama i štitom
+  alt_cyr: "Конзола испод еркера са акантусовим волутама и штитом"
+  alt_de: Die Konsole unter dem Erker mit Akanthusranken und einem Schild
+  alt_hu: Az erkély alatti konzol akantuszindákkal és pajzzsal
+spicer-corbel-detail:
+  src: img/spicer-corbel-detail.jpg
+  author: Konstantin Stein
+  author_ru: Константин Штейн
+  author_cyr: Константин Штајн
+  license: © all rights reserved
+  alt: A carved acanthus ornament on the castle facade
+  temp: false
+  alt_ru: Резной орнамент из листьев аканта на фасаде дворца
+  alt_sr: Rezbareni ornament od akantusovog lišća na fasadi dvorca
+  alt_cyr: "Резбарени орнамент од акантусовог лишћа на фасади дворца"
+  alt_de: Ein geschnitztes Akanthusornament an der Schlossfassade
+  alt_hu: Faragott akantuszdísz a kastély homlokzatán
+spicer-mask-relief:
+  src: img/spicer-mask-relief.jpg
+  author: Konstantin Stein
+  author_ru: Константин Штейн
+  author_cyr: Константин Штајн
+  license: © all rights reserved
+  alt: A carved mask relief on a weathered wall
+  temp: false
+  alt_ru: Рельеф-маска на обветшавшей стене
+  alt_sr: Reljef sa maskom na oronulom zidu
+  alt_cyr: "Рељеф са маском на оронулом зиду"
+  alt_de: Ein Maskenrelief an einer verwitterten Wand
+  alt_hu: Maszkos dombormű egy viharvert falon
+spicer-gothic-window-outside:
+  src: img/spicer-gothic-window-outside.jpg
+  author: Konstantin Stein
+  author_ru: Константин Штейн
+  author_cyr: Константин Штајн
+  license: © all rights reserved
+  alt: The pointed staircase window from outside, above two small windows
+  temp: false
+  alt_ru: Стрельчатое окно лестницы снаружи, над двумя маленькими окнами
+  alt_sr: Prelomljeni prozor stepeništa spolja, iznad dva mala prozora
+  alt_cyr: "Преломљени прозор степеништа споља, изнад два мала прозора"
+  alt_de: Das spitzbogige Treppenhausfenster von außen, über zwei kleinen Fenstern
+  alt_hu: A lépcsőház csúcsíves ablaka kívülről, két kis ablak fölött
+spicer-rear-loggia:
+  src: img/spicer-rear-loggia.jpg
+  author: Konstantin Stein
+  author_ru: Константин Штейн
+  author_cyr: Константин Штајн
+  license: © all rights reserved
+  alt: The loggia with two columns on the turul side, half-hidden by ivy
+  temp: false
+  alt_ru: Лоджия с двумя колоннами со стороны турула, наполовину скрытая плющом
+  alt_sr: Loža sa dva stuba na strani sa turulom, napola skrivena bršljanom
+  alt_cyr: "Ложа са два стуба на страни са турулом, напола скривена бршљаном"
+  alt_de: Die Loggia mit zwei Säulen auf der Turul-Seite, halb vom Efeu verdeckt
+  alt_hu: A kétoszlopos loggia a turulos oldalon, félig repkény takarja
+spicer-rear-ivy:
+  src: img/spicer-rear-ivy.jpg
+  author: Konstantin Stein
+  author_ru: Константин Штейн
+  author_cyr: Константин Штајн
+  license: © all rights reserved
+  alt: Ivy climbing the facade on the turul side
+  temp: false
+  alt_ru: Плющ, поднимающийся по фасаду со стороны турула
+  alt_sr: Bršljan se penje uz fasadu na strani sa turulom
+  alt_cyr: "Бршљан се пење уз фасаду на страни са турулом"
+  alt_de: Efeu klettert an der Fassade auf der Turul-Seite empor
+  alt_hu: Repkény kúszik fel a homlokzaton a turulos oldalon
+spicer-ivy-side:
+  src: img/spicer-ivy-side.jpg
+  author: Konstantin Stein
+  author_ru: Константин Штейн
+  author_cyr: Константин Штајн
+  license: © all rights reserved
+  alt: The side of the castle overgrown with ivy
+  temp: false
+  alt_ru: Боковой фасад дворца, заросший плющом
+  alt_sr: Bočna strana dvorca obrasla bršljanom
+  alt_cyr: "Бочна страна дворца обрасла бршљаном"
+  alt_de: Die Seite des Schlosses, von Efeu überwuchert
+  alt_hu: A kastély repkénnyel benőtt oldala
+spicer-house-number:
+  src: img/spicer-house-number.jpg
+  author: Konstantin Stein
+  author_ru: Константин Штейн
+  author_cyr: Константин Штајн
+  license: © all rights reserved
+  alt: The old enamelled house number 16 on the castle wall
+  temp: false
+  alt_ru: Старая эмалевая табличка с номером дома 16 на стене дворца
+  alt_sr: Stara emajlirana tablica sa kućnim brojem 16 na zidu dvorca
+  alt_cyr: "Стара емајлирана таблица са кућним бројем 16 на зиду дворца"
+  alt_de: Die alte emaillierte Hausnummer 16 an der Schlossmauer
+  alt_hu: A régi zománcozott 16-os házszám a kastély falán
+spicer-fence-sign:
+  src: img/spicer-fence-sign.jpg
+  author: Konstantin Stein
+  author_ru: Константин Штейн
+  author_cyr: Константин Штајн
+  license: © all rights reserved
+  alt: 'Spitzer Castle behind the fence, with a warning sign: entry strictly forbidden because the building may collapse'
+  temp: false
+  alt_ru: 'Шпицеров дворец за забором и табличка: вход строго запрещён из-за угрозы обрушения'
+  alt_sr: 'Špicerov dvorac iza ograde i tabla: strogo zabranjen pristup zbog mogućnosti urušavanja'
+  alt_cyr: "Шпицеров дворац иза ограде и табла: строго забрањен приступ због могућности урушавања"
+  alt_de: 'Das Spitzer-Schloss hinter dem Zaun mit einem Warnschild: Betreten wegen Einsturzgefahr streng verboten'
+  alt_hu: 'A Spitzer-kastély a kerítés mögött, figyelmeztető táblával: a belépés omlásveszély miatt szigorúan tilos'
+spicer-gazebo:
+  src: img/spicer-gazebo.jpg
+  author: Konstantin Stein
+  author_ru: Константин Штейн
+  author_cyr: Константин Штајн
+  license: © all rights reserved
+  alt: The cast-iron gazebo in the castle park, almost hidden under climbing plants
+  temp: false
+  alt_ru: Чугунная беседка в парке дворца, почти скрытая вьющимися растениями
+  alt_sr: Gvozdena senica u parku dvorca, gotovo skrivena puzavicama
+  alt_cyr: "Гвоздена сеница у парку дворца, готово скривена пузавицама"
+  alt_de: Der gusseiserne Pavillon im Schlosspark, fast unter Kletterpflanzen verborgen
+  alt_hu: Az öntöttvas pavilon a kastélyparkban, szinte eltűnik a kúszónövények alatt
+spicer-gazebo-columns:
+  src: img/spicer-gazebo-columns.jpg
+  author: Konstantin Stein
+  author_ru: Константин Штейн
+  author_cyr: Константин Штајн
+  license: © all rights reserved
+  alt: The gazebo's slender cast-iron columns and decorated roof edge under the creepers
+  temp: false
+  alt_ru: Тонкие чугунные колонны беседки и узорный край крыши под вьюнками
+  alt_sr: Vitki gvozdeni stubovi senice i ukrašena ivica krova ispod puzavica
+  alt_cyr: "Витки гвоздени стубови сенице и украшена ивица крова испод пузавица"
+  alt_de: Die schlanken gusseisernen Säulen des Pavillons und der verzierte Dachrand unter den Ranken
+  alt_hu: A pavilon karcsú öntöttvas oszlopai és díszes tetőpereme a kúszónövények alatt
+spicer-reconstruction-front:
+  src: img/spicer-reconstruction-front.jpg
+  author: rakovac.rs
+  license: CC BY 4.0
+  alt: 'Hypothetical reconstruction of Spitzer Castle as it may have looked around 1900: the arcade front with the fountain, the winter garden on the left (3D model)'
+  temp: false
+  alt_ru: 'Гипотетическая реконструкция Шпицерова дворца, каким он мог быть около 1900 года: фасад с аркадой и фонтаном, слева зимний сад (3D-модель)'
+  alt_sr: 'Hipotetička rekonstrukcija Špicerovog dvorca kakav je mogao biti oko 1900: fasada sa arkadama i fontanom, levo zimska bašta (3D model)'
+  alt_cyr: "Хипотетичка реконструкција Шпицеровог дворца какав је могао бити око 1900: фасада са аркадама и фонтаном, лево зимска башта (3D модел)"
+  alt_de: 'Hypothetische Rekonstruktion des Spitzer-Schlosses, wie es um 1900 ausgesehen haben könnte: die Arkadenfront mit Brunnen, links der Wintergarten (3D-Modell)'
+  alt_hu: 'A Spitzer-kastély feltételezett rekonstrukciója 1900 körüli állapotában: az árkádos homlokzat a szökőkúttal, balra a télikert (3D-modell)'
+spicer-reconstruction-air:
+  src: img/spicer-reconstruction-air.jpg
+  author: rakovac.rs
+  license: CC BY 4.0
+  alt: 'Hypothetical reconstruction of Spitzer Castle from above: tiled roofs, the glass winter garden and the forecourt (3D model)'
+  temp: false
+  alt_ru: 'Гипотетическая реконструкция Шпицерова дворца сверху: черепичные крыши, стеклянный зимний сад и парадный двор (3D-модель)'
+  alt_sr: 'Hipotetička rekonstrukcija Špicerovog dvorca odozgo: krovovi od crepa, staklena zimska bašta i dvorište (3D model)'
+  alt_cyr: "Хипотетичка реконструкција Шпицеровог дворца одозго: кровови од црепа, стаклена зимска башта и двориште (3D модел)"
+  alt_de: 'Hypothetische Rekonstruktion des Spitzer-Schlosses von oben: Ziegeldächer, der gläserne Wintergarten und der Vorplatz (3D-Modell)'
+  alt_hu: 'A Spitzer-kastély feltételezett rekonstrukciója felülről: cseréptetők, az üveg télikert és az előudvar (3D-modell)'
+spicer-reconstruction-back:
+  src: img/spicer-reconstruction-back.jpg
+  author: rakovac.rs
+  license: CC BY 4.0
+  alt: 'Hypothetical reconstruction of Spitzer Castle from the turul side: the curved gable with the turul, the loggia and the chimneys (3D model)'
+  temp: false
+  alt_ru: 'Гипотетическая реконструкция Шпицерова дворца со стороны турула: фигурный фронтон с турулом, лоджия и трубы (3D-модель)'
+  alt_sr: 'Hipotetička rekonstrukcija Špicerovog dvorca sa strane turula: zaobljeni zabat sa turulom, loža i dimnjaci (3D model)'
+  alt_cyr: "Хипотетичка реконструкција Шпицеровог дворца са стране турула: заобљени забат са турулом, ложа и димњаци (3D модел)"
+  alt_de: 'Hypothetische Rekonstruktion des Spitzer-Schlosses von der Turul-Seite: der geschwungene Giebel mit dem Turul, die Loggia und die Schornsteine (3D-Modell)'
+  alt_hu: 'A Spitzer-kastély feltételezett rekonstrukciója a turulos oldalról: az ívelt oromzat a turullal, a loggia és a kémények (3D-modell)'

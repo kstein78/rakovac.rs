@@ -3,6 +3,8 @@
 # Title, lead and cover come from that page in each language (summary/lead, photo/share_photo/first album photo).
 # Optional: cover: <photo key> (when the page has no photo of its own), lead_en / lead_ru … to override the text,
 # top: true to make it the lead story on the home page (by default the newest LOCAL story leads).
+- { page: nearby/spicer-castle-reconstruction, date: 2026-10-20 }
+- { page: gallery/spicer-castle, date: 2026-10-20 }
 - { page: kids/zmajevac-playground, date: 2026-10-20 }
 - { page: gallery/zmajevac-playground, date: 2026-10-20 }
 - { page: nearby/spicer-castle, date: 2026-10-16 }

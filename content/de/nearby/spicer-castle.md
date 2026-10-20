@@ -11,9 +11,17 @@ category: heritage
 coords:
 - 45.20362
 - 19.71994
+photo: spicer-front
+gallery:
+- spicer-hall-gallery
+- spicer-rear-park
+- spicer-staircase
+- spicer-reconstruction-front
 ---
 
 Das **Spitzer-Schloss** (serbisch *Špicerov dvorac*, auch *Stari dvorac*) steht in Beočin neben dem alten Zementwerk, etwa 7 km von Stari Rakovac. Es ist ein geschütztes Kulturdenkmal, aber in sehr schlechtem Zustand und **für Besucher gesperrt**.
+
+**Fotos:** [das Schloss von außen und innen]({{< relref "gallery/spicer-castle" >}}), aufgenommen von Konstantin Stein im Oktober 2026. **Wie es ursprünglich aussah:** [Rekonstruktion und 3D-Modell]({{< relref "nearby/spicer-castle-reconstruction" >}}).
 
 ## Die Zementfamilie
 

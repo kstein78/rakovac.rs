@@ -11,9 +11,17 @@ category: heritage
 coords:
 - 45.20362
 - 19.71994
+photo: spicer-front
+gallery:
+- spicer-hall-gallery
+- spicer-rear-park
+- spicer-staircase
+- spicer-reconstruction-front
 ---
 
 **Spitzer Castle** (Serbian *Špicerov dvorac*, also *Stari dvorac*) stands in Beočin, next to the old cement works, about 7 km from Stari Rakovac. It is a protected cultural monument, but it is in very poor condition and **closed to visitors**.
+
+**Photos:** [the castle outside and inside]({{< relref "gallery/spicer-castle" >}}), photographed by Konstantin Stein in October 2026. **What it looked like originally:** [a reconstruction and 3D model]({{< relref "nearby/spicer-castle-reconstruction" >}}).
 
 ## The cement family
 
