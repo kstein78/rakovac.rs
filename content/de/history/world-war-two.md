@@ -4,7 +4,7 @@ kicker: 1941–1945
 weight: 3
 category: heritage
 summary: Steinbrucharbeiter, die den Partisaneneid leisteten, Überfälle auf das Dynamitlager des Steinbruchs, die große Offensive vom August 1942 und ein 1943 niedergebranntes Dorf.
-photo: kamenolom-memorial
+photo: kamenolom-plaque-fighters
 ---
 
 ## Besatzung

@@ -4,7 +4,7 @@ kicker: 1941–1945
 weight: 3
 category: heritage
 summary: Radnici kamenoloma koji su položili partizansku zakletvu, akcije na magacin dinamita, velika ofanziva avgusta 1942. i selo spaljeno 1943.
-photo: kamenolom-memorial
+photo: kamenolom-plaque-fighters
 ---
 
 ## Okupacija

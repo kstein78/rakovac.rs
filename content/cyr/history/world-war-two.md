@@ -5,7 +5,7 @@ kicker: 1941–1945
 weight: 3
 category: heritage
 summary: Радници каменолома који су положили партизанску заклетву, акције на магацин динамита, велика офанзива августа 1942. и село спаљено 1943.
-photo: kamenolom-memorial
+photo: kamenolom-plaque-fighters
 ---
 
 ## Окупација

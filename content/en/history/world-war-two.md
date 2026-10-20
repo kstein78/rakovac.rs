@@ -4,7 +4,7 @@ kicker: "1941–1945"
 weight: 3
 category: heritage
 summary: "Quarry workers who swore the partisan oath, raids on the quarry's dynamite store, the great offensive of August 1942, and a village burned in 1943."
-photo: kamenolom-memorial
+photo: kamenolom-plaque-fighters
 ---
 
 ## Occupation

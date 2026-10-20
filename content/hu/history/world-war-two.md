@@ -4,7 +4,7 @@ kicker: 1941–1945
 weight: 3
 category: heritage
 summary: Kőbányai munkások, akik letették a partizánesküt, rajtaütések a kőbánya dinamitraktárán, az 1942. augusztusi nagy offenzíva és egy 1943-ban felgyújtott falu.
-photo: kamenolom-memorial
+photo: kamenolom-plaque-fighters
 ---
 
 ## Megszállás

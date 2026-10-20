@@ -4,7 +4,7 @@ kicker: "1941–1945"
 weight: 3
 category: heritage
 summary: "Рабочие каменоломни, принявшие партизанскую присягу, налёты на склад динамита, большое наступление августа 1942 года и село, сожжённое в 1943-м."
-photo: kamenolom-memorial
+photo: kamenolom-plaque-fighters
 ---
 
 ## Оккупация
