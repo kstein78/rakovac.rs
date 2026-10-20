@@ -359,10 +359,10 @@ function build() {
   for (const z of [ZS + 1.5, ZS + .25]) column(XR - .3, z, FL1 + .3, EAVE - .45, .19);
   decal(WH, 'wh', 256, 1.0, 2.4, 'e', 7.65, ZS + 1.6, FL1 + .5);
   // windows and the oculus between the gable bay and the loggia
-  decal(W1, 'w1', 256, 1.1, 2.4, 'e', XE, -5.4, FL1 + .8); decal(WA, 'wa', 256, 1.1, 2.2, 'e', XE, -5.4, PL + .8);
-  { const oc = add(new THREE.Mesh(new THREE.TorusGeometry(.42, .1, 10, 28), M.trim)); oc.position.set(XR + .05, 8.0, -9.4); oc.rotation.y = Math.PI / 2;
-    const od = add(new THREE.Mesh(new THREE.CircleGeometry(.42, 28), M.dark)); od.position.set(XR + .03, 8.0, -9.4); od.rotation.y = Math.PI / 2; }
-  decal(W1, 'w1', 256, 1.1, 2.4, 'e', XR, -11.0, FL1 + .8); decal(WA, 'wa', 256, 1.1, 2.2, 'e', XR, -10.2, PL + .8);
+  for (const z of [-3.2, -.6]) { decal(W1, 'w1', 256, 1.1, 2.4, 'e', XE, z, FL1 + .8); decal(W1, 'w1', 256, 1.1, 2.3, 'e', XE, z, PL + .8); }
+  { const oc = add(new THREE.Mesh(new THREE.TorusGeometry(.42, .1, 10, 28), M.trim)); oc.position.set(XR + .05, 8.0, -11.2); oc.rotation.y = Math.PI / 2;
+    const od = add(new THREE.Mesh(new THREE.CircleGeometry(.42, 28), M.dark)); od.position.set(XR + .03, 8.0, -11.2); od.rotation.y = Math.PI / 2; }
+  decal(W1, 'w1', 256, 1.1, 2.4, 'e', XR, -9.7, FL1 + .8); decal(WA, 'wa', 256, 1.1, 2.2, 'e', XR, -9.9, PL + .8);
   decal(W1, 'w1', 256, 1.1, 2.3, 'e', XR, ZS + 1.4, PL + .8);
   // the gable bay with the turul, built facing -z in a local frame and turned to face east
   { const g = new THREE.Group(), main = scene; scene = g;
@@ -372,7 +372,7 @@ function build() {
     turul(0, top, -.75, Math.PI);
     decal(WH, 'wh', 256, 1.1, 2.5, 's', -1.0, 0, FL1 + .7); decal(WA, 'wa', 256, 1.2, 2.3, 's', -1.0, 0, PL + .7);
     decal(slitDraw, 'slit', 64, .4, 1.2, 's', -1.0, 0, EAVE + .9);
-    scene = main; g.rotation.y = -Math.PI / 2; g.position.set(XE, 0, -2.0); scene.add(g); }
+    scene = main; g.rotation.y = -Math.PI / 2; g.position.set(XE, 0, -7.0); scene.add(g); }
   const ori = new THREE.Group(); scene.add(ori); ori.position.set(9.6, 0, 1.1); ori.rotation.y = Math.PI / 4;
   const ob = new THREE.Mesh(new THREE.BoxGeometry(2.1, 4.0, 2.1), M.wall); ob.position.y = FL1 + 2.0; ob.castShadow = true; ori.add(ob);
   const oc = new THREE.Mesh(new THREE.BoxGeometry(2.4, .35, 2.4), M.trim); oc.position.y = FL1 + 4.15; ori.add(oc);
@@ -383,7 +383,6 @@ function build() {
 
   /* south front (service side) */
   for (const x of [5.0, 7.0, 8.7]) { decal(W1, 'w1', 256, 1.0, 2.0, 's', ZS, x, PL + .8); decal(W1, 'w1', 256, 1.1, 2.3, 's', ZS, x, FL1 + .8); }
-  const ocul = add(new THREE.Mesh(new THREE.TorusGeometry(.5, .11, 10, 28), M.trim)); ocul.position.set(1.9, 8.4, ZS - .05);
   chimney(-.5, -9, EAVE + 1.2, EAVE + 4.4); chimney(1.2, -9, EAVE + 1.2, EAVE + 4.4); chimney(7.2, -6, EAVE + 1.5, EAVE + 5.0);
 
   /* kitchen wing: single-storey, south-east */
@@ -421,7 +420,7 @@ const VIEWS = {
   air: [[-34, 40, 30], [-2, 4, -7]],
   west: [[-50, 10, 6], [-10, 5, -6]],
   east: [[44, 11, 0], [8, 6, -7]],
-  turul: [[27, 15, -4], [10.5, 13, -2.0]],
+  turul: [[27, 15, -9], [10.5, 13, -7.0]],
 };
 export function init(el) {
   const canvas = el.querySelector('canvas');
