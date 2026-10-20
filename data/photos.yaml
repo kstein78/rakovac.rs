@@ -2156,3 +2156,42 @@ zmajevac-playground-board:
   alt_cyr: "Табла Еко парка Змајевац: цртежи справа са узрастима, бројеви за хитне случајеве и правила игралишта"
   alt_de: 'Die Infotafel des Eko park Zmajevac: Zeichnungen der Geräte mit Altersgruppen, Notrufnummern und die Spielplatzregeln'
   alt_hu: 'Az Eko park Zmajevac tájékoztató táblája: az eszközök rajzai korcsoportokkal, segélyhívó számok és a játszótér szabályai'
+pecina-front:
+  src: img/pecina-front.jpg
+  author: Konstantin Stein
+  author_ru: Константин Штейн
+  author_cyr: Константин Штајн
+  license: © all rights reserved
+  alt: 'The Pećina grill on the road from the monastery to Zmajevac: a red building with stone walls, a fenced terrace and a red umbrella under a wooded hillside'
+  temp: false
+  alt_ru: 'Гриль-бар «Pećina» на дороге от монастыря к Змаевацу: красное здание с каменными стенами, огороженная терраса и красный зонт под лесистым склоном'
+  alt_sr: 'Roštilj „Pećina” na putu od manastira ka Zmajevcu: crvena zgrada sa kamenim zidovima, ograđena bašta i crveni suncobran ispod šumovitog brda'
+  alt_cyr: "Роштиљ „Пећина” на путу од манастира ка Змајевцу: црвена зграда са каменим зидовима, ограђена башта и црвени сунцобран испод шумовитог брда"
+  alt_de: 'Der Grill „Pećina“ an der Straße vom Kloster nach Zmajevac: ein rotes Gebäude mit Steinmauern, eine eingezäunte Terrasse und ein roter Sonnenschirm unter einem bewaldeten Hang'
+  alt_hu: 'A Pećina grillező a kolostortól Zmajevac felé vezető úton: piros épület kőfalakkal, bekerített terasz és piros napernyő az erdős domboldal alatt'
+pecina-window-sign:
+  src: img/pecina-window-sign.jpg
+  author: Konstantin Stein
+  author_ru: Константин Штейн
+  author_cyr: Константин Штајн
+  license: © all rights reserved
+  alt: 'The windows of Pećina under a red umbrella: a sign offering grilled meat to take away or eat in, cooked dishes and coffee to go, with two phone numbers'
+  temp: false
+  alt_ru: 'Окна «Pećina» под красным зонтом: вывеска «гриль навынос и на месте, готовые блюда, кофе с собой» и два номера телефона'
+  alt_sr: 'Izlozi „Pećine” ispod crvenog suncobrana: natpis „roštilj za poneti i kod nas, kuvana jela, kafa za poneti” i dva broja telefona'
+  alt_cyr: "Излози „Пећине” испод црвеног сунцобрана: натпис „роштиљ за понети и код нас, кувана јела, кафа за понети” и два броја телефона"
+  alt_de: 'Die Fenster der „Pećina“ unter einem roten Sonnenschirm: ein Schild mit Grillgerichten zum Mitnehmen und vor Ort, gekochten Gerichten und Kaffee zum Mitnehmen, dazu zwei Telefonnummern'
+  alt_hu: 'A Pećina ablakai piros napernyő alatt: tábla grillételekkel elvitelre és helyben, főtt ételekkel és elvitelre kávéval, két telefonszámmal'
+pecina-hours:
+  src: img/pecina-hours.jpg
+  author: Konstantin Stein
+  author_ru: Константин Штейн
+  author_cyr: Константин Штајн
+  license: © all rights reserved
+  alt: 'The opening-hours notice on the door of Pećina in Rakovac: working days 16:00–22:00, Sunday 17:00–22:00'
+  temp: false
+  alt_ru: 'Объявление о часах работы на двери «Pećina» в Раковце: в рабочие дни 16:00–22:00, в воскресенье 17:00–22:00'
+  alt_sr: 'Obaveštenje o radnom vremenu na vratima „Pećine” u Rakovcu: radnim danom 16.00–22.00, nedeljom 17.00–22.00'
+  alt_cyr: "Обавештење о радном времену на вратима „Пећине” у Раковцу: радним даном 16.00–22.00, недељом 17.00–22.00"
+  alt_de: 'Der Aushang mit den Öffnungszeiten an der Tür der „Pećina“ in Rakovac: werktags 16:00–22:00, sonntags 17:00–22:00'
+  alt_hu: 'A Pećina nyitvatartási hirdetménye az ajtón Rakovacon: munkanapokon 16:00–22:00, vasárnap 17:00–22:00'
