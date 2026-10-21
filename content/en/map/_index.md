@@ -9,3 +9,5 @@ map: true
 ---
 
 Colours show the type of place. Zoom in to see Stari Rakovac around the monastery, and Novi Rakovac along the main road.
+
+**How did Rakovac look on old maps?** The 1877 sheet, the Austro-Hungarian special map of 1915 and more: [old maps of Rakovac]({{< relref "history/maps" >}}).

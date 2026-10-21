@@ -9,3 +9,5 @@ map: true
 ---
 
 A színek a hely típusát jelzik. Nagyítson rá, hogy lássa a kolostor körüli Stari Rakovacot és a főút mentén fekvő Novi Rakovacot.
+
+**Hogyan nézett ki Rakovac a régi térképeken?** Az 1877-es lap, az 1915-ös osztrák–magyar speciális térkép és mások: [Rakovac régi térképeken]({{< relref "history/maps" >}}).
