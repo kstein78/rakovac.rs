@@ -371,8 +371,8 @@ function build() {
   dormer(-6.6, -.15, 9.6, .8, .9, true);
   for (const z of [-6.2]) decal(W1, 'w1', 256, 1.1, WUP, 'w', -9.5, z, FL1 + .6);
   for (const z of [-11.8, -14]) { decal(W1, 'w1', 256, 1.1, WIN, 'w', -9.5, z, PL + .1); decal(W1, 'w1', 256, 1.1, WUP, 'w', -9.5, z, FL1 + .6); }
-  decal(gothicPairDraw, 'goth', 512, 2.0, 3.6, 's', ZS, -4.8, FL1 + .3);             // staircase window
-  for (const x of [-8.2, -6.6]) decal(W1, 'w1', 256, .9, 1.7, 's', ZS, x, PL + .3);
+  decal(gothicPairDraw, 'goth', 512, 1.9, 3.3, 's', ZS, -6.6, FL1 + .35);             // staircase window
+  for (const x of [-7.3, -5.9]) decal(W1, 'w1', 256, .9, 1.7, 's', ZS, x, PL + .3);
   // corner turret (north-east corner of the hall)
   box(-9.95, -8.6, 0, PL, -1.2, .2, M.plinth); box(-9.95, -8.6, PL, 10.15, -1.2, .2);
   box(-10.1, -8.45, 10.0, 10.3, -1.35, .35, M.trim); box(-10.05, -8.5, EH - .3, EH, -1.3, .3, M.trim);
@@ -481,7 +481,7 @@ function build() {
     for (const r of [0, Math.PI / 2]) { const p = new THREE.Mesh(new THREE.PlaneGeometry(.9, WUP), new THREE.MeshStandardMaterial({ map: t, transparent: true })); p.rotation.y = r; p.position.set(Math.sin(r) * .87, FL1 + .6 + WUP / 2, Math.cos(r) * .87); ori.add(p); } }
 
   /* south front (service side) */
-  for (const x of [5.0, 7.0, 8.7]) decal(W1, 'w1', 256, 1, WIN, 's', ZS, x, PL + .1);
+  for (const x of [4.6, 6.4]) decal(W1, 'w1', 256, 1, WIN, 's', ZS, x, PL + .1);           // under the upper windows; none at the corner
   for (const x of [4.6, 6.4]) decal(W1, 'w1', 256, 1.1, WUP, 's', ZS, x, FL1 + .6);    // the corner loggia is open above
   chimney2(-1.4, -6.5, EC, 13.5); chimney2(3.4, -6.0, EC, 13.9); chimney2(5.0, -7.0, EC, 13.9); chimney2(8.0, -5.6, ER, 13.3);
 
@@ -522,7 +522,8 @@ const VIEWS = {
   east: [[44, 11, 0], [8, 6, -7]],
   turul: [[24, 11, -9], [10.5, 9.5, -7.0]],
   loggia: [[20, 9, -26], [8, 7, -14]],
-  stairwin: [[-8, 8, -30], [-4.8, 7, -15]],
+  stairwin: [[-8, 8, -30], [-6.6, 6, -15]],
+  south: [[4, 8, -46], [0, 5, -10]],
 };
 export function init(el) {
   const canvas = el.querySelector('canvas');
