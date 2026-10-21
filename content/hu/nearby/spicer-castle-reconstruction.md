@@ -13,7 +13,7 @@ Ma a Spitzer-kastély rom, betört ablakokkal, beázó tetővel és graffitikkel
 
 {{< model3d src="js/spicer3d.js" poster="spicer-reconstruction-front" >}}
 
-{{< note title="Rekonstrukció, nem tervrajz" >}}Szabadon felhasználható régi fényképet a homlokzatokról nem találtunk. Az alaprajz Olivera Radosavljević közzétett földszinti és emeleti tervrajzait követi ([FTN Novi Sad](https://zbornik.ftn.uns.ac.rs/index.php/zbornik/article/download/1119/965)); az ablakok, az árkádsor, az erkély, a turulos oromzat és a vassárkányok Konstantin Stein 2026 októberi fényképeiről valók. A magasságok, a tetőformák, a cserép színe, a télikert üvegezése, a szökőkút és a park a mi feltételezésünk. Ha vannak régi fényképei a kastélyról, írjon nekünk (elérhetőség az oldal alján).{{< /note >}}
+{{< note title="Rekonstrukció, nem tervrajz" >}}Szabadon felhasználható régi fényképet a homlokzatokról nem találtunk. Az alaprajz Olivera Radosavljević közzétett földszinti és emeleti tervrajzait követi ([FTN Novi Sad](https://zbornik.ftn.uns.ac.rs/index.php/zbornik/article/download/1119/965)). A magasságok, a tetők és az északi homlokzat a kastély részletes, színes homlokzatrajzát követik, amelyet a [Dvorci Srbije](https://www.dvorcisrbije.rs/spicerov-dvorac-beocin/) forrás megnevezése nélkül közölt: innen valók a meredek, lapos tetejű, kovácsoltvas taréjos cseréptetők, a hagymakupolás saroktorony, az alacsony előtér melletti oromzatos gótikus bejárati előcsarnok, a tetőablakok, a magas díszes kémények és a télikert nagy üvegezett íve. A többi homlokzat, a vassárkányok és a turulos oromzat Konstantin Stein 2026 októberi fényképeiről valók. A színek, a szökőkút és a park a mi feltételezésünk. Ha vannak régi fényképei a kastélyról, írjon nekünk (elérhetőség az oldal alján).{{< /note >}}
 
 ## Amit tudunk
 
@@ -28,9 +28,9 @@ Ma a Spitzer-kastély rom, betört ablakokkal, beázó tetővel és graffitikkel
 
 ## Amit feltételeznünk kellett
 
-- Az FTN-dolgozat tervrajzai a mai állapotot mutatják egy átalakítási terv számára, így későbbi átépítések is lehetnek rajtuk. Méterenként körülbelül 40 képpontos léptékkel olvastuk le őket, a falak tehát fél méterrel is eltérhetnek; a magasságokat fényképekről becsültük.
-- A kontytetők és a piros cserép jellemzők a kor villáira, de a pontos tetőformák ismeretlenek.
-- A télikert: a tervrajzok szerint földszintes szárny, keskenyebb a háznál, a végén zárt erkéllyel. Tudjuk, hogy üvegezett volt és a csarnokból nyílt; ívei és üvegteteje a modellben feltételezés (az átalakítási terv új üvegtetőt javasol, ma tehát nincs teteje). A végéhez épített kis helyiséget, amely valószínűleg a szocializmus idején készült, kihagytuk.
+- Az FTN-dolgozat tervrajzai a mai állapotot mutatják egy átalakítási terv számára, így későbbi átépítések is lehetnek rajtuk. A tervrajzokat és a homlokzatrajzot közös léptékre hoztuk (46–56 cm-es falvastagság, ahogy a dolgozat megadja), így a méretek fél méterrel is eltérhetnek. A rajz csak az északi homlokzatot mutatja; a többi oldal a fényképeket követi.
+- A rajzon nem látható részek (a hátsó oldal és a télikert vége) tetői egyszerűsítettek.
+- A télikert: a tervrajzok szerint földszintes szárny, keskenyebb a háznál, a végén zárt erkéllyel. A rajzon taréjos cseréptető fedi, nem üvegtető; a modell a rajzot követi. A végéhez épített kis helyiséget, amely valószínűleg a szocializmus idején készült, kihagytuk.
 - A színes üvegek színei, az ablakosztások, a homlokzat előtti szökőkút és a fák a szemléletesség kedvéért kerültek a modellbe.
 - A Magyar Szó szerint a turul északra, a Duna felé néz, a fényképeken azonban a nyugati véghomlokzat fölött áll, a télikerttel szemben, mellette kétoszlopos sarokloggia; a kastelyok.com is a nyugati homlokzatra teszi ([kastelyok.com](https://www.kastelyok.com/adatlap.php?details=8061)). A modell a fényképeket követi.
 
@@ -48,6 +48,7 @@ Ha otthon régi fényképei vannak a kastélyról, a parkjáról vagy a pavilonr
 ## Források
 
 - [Olivera Radosavljević: Revitalizacija dvorca porodice Špicer, Zbornik radova FTN, Novi Sad (szerb)](https://zbornik.ftn.uns.ac.rs/index.php/zbornik/article/download/1119/965)
+- [Dvorci Srbije: Špicerov dvorac, a homlokzatrajzzal (szerb)](https://www.dvorcisrbije.rs/spicerov-dvorac-beocin/)
 - [Magyar Szó: A turul nem repült el](https://www.magyarszo.rs/hetvege/a.59178/A-turul-nem-repult-el)
 - [kastelyok.com: Spitzer-kastély, Belcsény](https://www.kastelyok.com/adatlap.php?details=8061)
 - [Beočin község: Špicerov dvorac (szerb)](https://www.beocin.rs/sr/?id=1406)

@@ -13,7 +13,7 @@ Today Spitzer Castle is a ruin with broken windows, a leaking roof and graffiti 
 
 {{< model3d src="js/spicer3d.js" poster="spicer-reconstruction-front" >}}
 
-{{< note title="A reconstruction, not a blueprint" >}}We have found no freely usable old photographs of the facades. The footprint follows the ground- and first-floor plans published by Olivera Radosavljević ([FTN Novi Sad](https://zbornik.ftn.uns.ac.rs/index.php/zbornik/article/download/1119/965)); the windows, the arcade, the oriel, the gable with the turul and the iron dragons are taken from Konstantin Stein's photographs of October 2026. The heights, the roof shapes, the colour of the tiles, the glazing of the winter garden, the fountain and the park are our assumptions. If you have old photographs of the castle, please write to us (contacts at the bottom of the page).{{< /note >}}
+{{< note title="A reconstruction, not a blueprint" >}}We have found no freely usable old photographs of the facades. The footprint follows the ground- and first-floor plans published by Olivera Radosavljević ([FTN Novi Sad](https://zbornik.ftn.uns.ac.rs/index.php/zbornik/article/download/1119/965)). The heights, the roofs and the north front follow a detailed coloured elevation of the castle published by [Dvorci Srbije](https://www.dvorcisrbije.rs/spicerov-dvorac-beocin/) without naming its source: from it come the steep tiled roofs with a flat top and iron cresting, the corner turret with an onion dome, the gabled gothic entrance porch beside a low vestibule, the dormers, the tall ornate chimneys and the great glazed arch of the winter garden. The other facades, the iron dragons and the gable with the turul are taken from Konstantin Stein's photographs of October 2026. The colours, the fountain and the park are our assumptions. If you have old photographs of the castle, please write to us (contacts at the bottom of the page).{{< /note >}}
 
 ## What is known
 
@@ -28,9 +28,9 @@ Today Spitzer Castle is a ruin with broken windows, a leaking roof and graffiti 
 
 ## What we had to guess
 
-- The plans in the FTN paper show the house as it is now, drawn for an adaptation project, so later changes may be in them. We read them at about 40 pixels to a metre, so walls can be half a metre out; the heights are estimated from photographs.
-- The hipped roofs and red tiles are typical of villas of the time, but the exact roof shapes are unknown.
-- The winter garden: according to the plans it is a single-storey wing, narrower than the house, with a bay at its far end. That it was glazed and opened off the hall is known; its arches and glass roof in the model are an assumption (the adaptation project proposes a new glass roof, so today it has none). A small room built on to its far end, probably in socialist times, is left out.
+- The plans in the FTN paper show the house as it is now, drawn for an adaptation project, so later changes may be in them. We read the plans and the elevation at a common scale (walls 46–56 cm thick, as the paper gives them), so measurements can be half a metre out. The elevation shows only the north front; the other sides are drawn from photographs.
+- The roofs over the parts not seen in the elevation (the back and the winter garden's far end) are simplified.
+- The winter garden: according to the plans it is a single-storey wing, narrower than the house, with a bay at its far end. The elevation shows a tiled roof with cresting, not a glass one; we follow it. A small room built on to its far end, probably in socialist times, is left out.
 - The colours of the stained glass, the window bars, the fountain in front of the facade and the trees are there to make the picture readable.
 - Magyar Szó writes that the turul faces north towards the Danube, but in the photographs it stands above the west end wall, opposite the winter garden, with a corner loggia with two columns beside it; kastelyok.com also places it on the western facade ([kastelyok.com](https://www.kastelyok.com/adatlap.php?details=8061)). The model follows the photographs.
 
@@ -48,6 +48,7 @@ If you have old photographs of the castle, its park or the gazebo at home, pleas
 ## Sources
 
 - [Olivera Radosavljević: Revitalizacija dvorca porodice Špicer, Zbornik radova FTN, Novi Sad (Serbian)](https://zbornik.ftn.uns.ac.rs/index.php/zbornik/article/download/1119/965)
+- [Dvorci Srbije: Špicerov dvorac, with the facade drawing (Serbian)](https://www.dvorcisrbije.rs/spicerov-dvorac-beocin/)
 - [Magyar Szó: A turul nem repült el (Hungarian)](https://www.magyarszo.rs/hetvege/a.59178/A-turul-nem-repult-el)
 - [kastelyok.com: Spitzer-kastély, Belcsény (Hungarian)](https://www.kastelyok.com/adatlap.php?details=8061)
 - [Municipality of Beočin: Špicerov dvorac (Serbian)](https://www.beocin.rs/sr/?id=1406)

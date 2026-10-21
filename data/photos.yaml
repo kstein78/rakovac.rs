@@ -2859,7 +2859,7 @@ spicer-gazebo-columns:
   alt_de: Die schlanken gusseisernen Säulen des Pavillons und der verzierte Dachrand unter den Ranken
   alt_hu: A pavilon karcsú öntöttvas oszlopai és díszes tetőpereme a kúszónövények alatt
 spicer-reconstruction-front:
-  src: img/spicer-reconstruction-front-v7.jpg
+  src: img/spicer-reconstruction-front-v8.jpg
   author: rakovac.rs
   license: CC BY 4.0
   alt: 'Hypothetical reconstruction of Spitzer Castle as it may have looked around 1900: the arcade front with the fountain, the winter garden on the left (3D model)'
@@ -2870,18 +2870,18 @@ spicer-reconstruction-front:
   alt_de: 'Hypothetische Rekonstruktion des Spitzer-Schlosses, wie es um 1900 ausgesehen haben könnte: die Arkadenfront mit Brunnen, links der Wintergarten (3D-Modell)'
   alt_hu: 'A Spitzer-kastély feltételezett rekonstrukciója 1900 körüli állapotában: az árkádos homlokzat a szökőkúttal, balra a télikert (3D-modell)'
 spicer-reconstruction-air:
-  src: img/spicer-reconstruction-air-v7.jpg
+  src: img/spicer-reconstruction-air-v8.jpg
   author: rakovac.rs
   license: CC BY 4.0
-  alt: 'Hypothetical reconstruction of Spitzer Castle from above: tiled roofs, the glass winter garden and the forecourt (3D model)'
+  alt: 'Hypothetical reconstruction of Spitzer Castle from above: tiled roofs with dormers and ornate chimneys, the corner turret with its onion dome, the winter garden and the forecourt (3D model)'
   temp: false
-  alt_ru: 'Гипотетическая реконструкция Шпицерова дворца сверху: черепичные крыши, стеклянный зимний сад и парадный двор (3D-модель)'
-  alt_sr: 'Hipotetička rekonstrukcija Špicerovog dvorca odozgo: krovovi od crepa, staklena zimska bašta i dvorište (3D model)'
-  alt_cyr: "Хипотетичка реконструкција Шпицеровог дворца одозго: кровови од црепа, стаклена зимска башта и двориште (3D модел)"
-  alt_de: 'Hypothetische Rekonstruktion des Spitzer-Schlosses von oben: Ziegeldächer, der gläserne Wintergarten und der Vorplatz (3D-Modell)'
-  alt_hu: 'A Spitzer-kastély feltételezett rekonstrukciója felülről: cseréptetők, az üveg télikert és az előudvar (3D-modell)'
+  alt_ru: 'Гипотетическая реконструкция Шпицерова дворца сверху: черепичные крыши со слуховыми окнами и узорными трубами, угловая башенка с луковичным куполом, зимний сад и парадный двор (3D-модель)'
+  alt_sr: 'Hipotetička rekonstrukcija Špicerovog dvorca odozgo: krovovi od crepa sa krovnim prozorima i ukrašenim dimnjacima, ugaona kula sa lukovičastom kupolom, zimska bašta i dvorište (3D model)'
+  alt_cyr: "Хипотетичка реконструкција Шпицеровог дворца одозго: кровови од црепа са кровним прозорима и украшеним димњацима, угаона кула са луковичастом куполом, зимска башта и двориште (3D модел)"
+  alt_de: 'Hypothetische Rekonstruktion des Spitzer-Schlosses von oben: Ziegeldächer mit Gauben und verzierten Schornsteinen, der Eckturm mit Zwiebelhaube, der Wintergarten und der Vorplatz (3D-Modell)'
+  alt_hu: 'A Spitzer-kastély feltételezett rekonstrukciója felülről: cseréptetők tetőablakokkal és díszes kéményekkel, a hagymakupolás saroktorony, a télikert és az előudvar (3D-modell)'
 spicer-reconstruction-back:
-  src: img/spicer-reconstruction-back-v7.jpg
+  src: img/spicer-reconstruction-back-v8.jpg
   author: rakovac.rs
   license: CC BY 4.0
   alt: 'Hypothetical reconstruction of Spitzer Castle from the turul side: the curved gable with the turul, the loggia and the chimneys (3D model)'

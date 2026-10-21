@@ -14,7 +14,7 @@ Danas je Dvorac Špicerovih ruševina bez stakala, sa krovom koji prokišnjava i
 
 {{< model3d src="js/spicer3d.js" poster="spicer-reconstruction-front" >}}
 
-{{< note title="Rekonstrukcija, ne nacrt" >}}Nismo našli stare fotografije fasada koje se slobodno mogu koristiti. Osnova prati planove prizemlja i sprata koje je objavila Olivera Radosavljević ([FTN Novi Sad](https://zbornik.ftn.uns.ac.rs/index.php/zbornik/article/download/1119/965)); prozori, arkade, erker, zabat sa turulom i gvozdeni zmajevi preuzeti su sa fotografija Konstantina Steina iz oktobra 2026. Visine, oblik krovova, boja crepa, zastakljenje zimske bašte, fontana i park su naše pretpostavke. Ako imate stare fotografije dvorca, pišite nam (kontakt je na dnu stranice).{{< /note >}}
+{{< note title="Rekonstrukcija, ne nacrt" >}}Nismo našli stare fotografije fasada koje se slobodno mogu koristiti. Osnova prati planove prizemlja i sprata koje je objavila Olivera Radosavljević ([FTN Novi Sad](https://zbornik.ftn.uns.ac.rs/index.php/zbornik/article/download/1119/965)). Visine, krovovi i severna fasada prate detaljan obojeni crtež fasade dvorca koji je objavio sajt [Dvorci Srbije](https://www.dvorcisrbije.rs/spicerov-dvorac-beocin/) bez navođenja izvora: odatle su strmi krovovi od crepa sa ravnim vrhom i gvozdenom krestom, ugaona kula sa lukovičastom kupolom, gotički ulazni trem sa zabatom pored niskog predvorja, krovni prozori, visoki ukrašeni dimnjaci i veliki zastakljeni luk zimske bašte. Ostale fasade, gvozdeni zmajevi i zabat sa turulom preuzeti su sa fotografija Konstantina Steina iz oktobra 2026. Boje, fontana i park su naše pretpostavke. Ako imate stare fotografije dvorca, pišite nam (kontakt je na dnu stranice).{{< /note >}}
 
 ## Šta se zna
 
@@ -29,9 +29,9 @@ Danas je Dvorac Špicerovih ruševina bez stakala, sa krovom koji prokišnjava i
 
 ## Šta smo morali da pretpostavimo
 
-- Planovi u radu sa FTN-a prikazuju dvorac kakav je danas, nacrtan za projekat adaptacije, pa mogu da sadrže i kasnije izmene. Očitali smo ih u razmeri od oko 40 piksela na metar, pa zidovi mogu da odstupaju za pola metra; visine su procenjene po fotografijama.
-- Četvorovodni krovovi i crveni crep tipični su za vile tog doba, ali tačan oblik krovova nije poznat.
-- Zimska bašta: prema planovima to je prizemno krilo, uže od kuće, sa erkerom na kraju. Zna se da je bila zastakljena i da se otvarala iz hola; lukovi i stakleni krov u modelu su pretpostavka (projekat adaptacije predlaže novi stakleni krov, dakle danas ga nema). Mala prostorija dozidana uz njen kraj, verovatno u socijalizmu, izostavljena je.
+- Planovi u radu sa FTN-a prikazuju dvorac kakav je danas, nacrtan za projekat adaptacije, pa mogu da sadrže i kasnije izmene. Planove i crtež fasade očitali smo u zajedničkoj razmeri (zidovi debljine 46–56 cm, kako navodi rad), pa mere mogu da odstupaju za pola metra. Crtež prikazuje samo severnu fasadu; ostale strane su rađene po fotografijama.
+- Krovovi nad delovima koji se na crtežu ne vide (zadnja strana i kraj zimske bašte) su pojednostavljeni.
+- Zimska bašta: prema planovima to je prizemno krilo, uže od kuće, sa erkerom na kraju. Na crtežu ima krov od crepa sa krestom, a ne stakleni; model prati crtež. Mala prostorija dozidana uz njen kraj, verovatno u socijalizmu, izostavljena je.
 - Boje vitraža, prečke na prozorima, fontana ispred fasade i drveće tu su da slika bude čitljiva.
 - Magyar Szó piše da turul gleda na sever, ka Dunavu, ali na fotografijama on stoji iznad zapadnog čeonog zida, nasuprot zimskoj bašti, a pored njega je ugaona loža sa dva stuba; i kastelyok.com ga smešta na zapadnu fasadu ([kastelyok.com](https://www.kastelyok.com/adatlap.php?details=8061)). Model prati fotografije.
 
@@ -49,6 +49,7 @@ Ako kod kuće imate stare fotografije dvorca, parka ili senice, pošaljite nam i
 ## Izvori
 
 - [Olivera Radosavljević: Revitalizacija dvorca porodice Špicer, Zbornik radova FTN, Novi Sad](https://zbornik.ftn.uns.ac.rs/index.php/zbornik/article/download/1119/965)
+- [Dvorci Srbije: Špicerov dvorac, sa crtežom fasade](https://www.dvorcisrbije.rs/spicerov-dvorac-beocin/)
 - [Magyar Szó: A turul nem repült el (mađarski)](https://www.magyarszo.rs/hetvege/a.59178/A-turul-nem-repult-el)
 - [kastelyok.com: Spitzer-kastély, Belcsény (mađarski)](https://www.kastelyok.com/adatlap.php?details=8061)
 - [Opština Beočin: Špicerov dvorac](https://www.beocin.rs/sr/?id=1406)

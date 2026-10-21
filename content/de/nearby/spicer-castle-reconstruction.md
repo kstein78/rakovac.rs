@@ -13,7 +13,7 @@ Heute ist das Spitzer-Schloss eine Ruine mit zerbrochenen Fenstern, undichtem Da
 
 {{< model3d src="js/spicer3d.js" poster="spicer-reconstruction-front" >}}
 
-{{< note title="Eine Rekonstruktion, kein Bauplan" >}}Frei verwendbare alte Fotos der Fassaden haben wir nicht gefunden. Der Grundriss folgt den Plänen von Erd- und Obergeschoss, die Olivera Radosavljević veröffentlicht hat ([FTN Novi Sad](https://zbornik.ftn.uns.ac.rs/index.php/zbornik/article/download/1119/965)); Fenster, Arkaden, Erker, der Giebel mit dem Turul und die Eisendrachen stammen von Konstantin Steins Fotos vom Oktober 2026. Höhen, Dachformen, Ziegelfarbe, die Verglasung des Wintergartens, Brunnen und Park sind unsere Annahmen. Wenn Sie alte Fotos des Schlosses haben, schreiben Sie uns (Kontakt unten auf der Seite).{{< /note >}}
+{{< note title="Eine Rekonstruktion, kein Bauplan" >}}Frei verwendbare alte Fotos der Fassaden haben wir nicht gefunden. Der Grundriss folgt den Plänen von Erd- und Obergeschoss, die Olivera Radosavljević veröffentlicht hat ([FTN Novi Sad](https://zbornik.ftn.uns.ac.rs/index.php/zbornik/article/download/1119/965)). Höhen, Dächer und Nordfront folgen einer detaillierten farbigen Fassadenzeichnung des Schlosses, die [Dvorci Srbije](https://www.dvorcisrbije.rs/spicerov-dvorac-beocin/) ohne Quellenangabe veröffentlicht hat: Von dort stammen die steilen Ziegeldächer mit flachem Abschluss und Eisenkamm, der Eckturm mit Zwiebelhaube, die gotische Eingangsvorhalle mit Giebel neben einem niedrigen Vorraum, die Gauben, die hohen verzierten Schornsteine und der große verglaste Bogen des Wintergartens. Die übrigen Fassaden, die Eisendrachen und der Giebel mit dem Turul stammen von Konstantin Steins Fotos vom Oktober 2026. Farben, Brunnen und Park sind unsere Annahmen. Wenn Sie alte Fotos des Schlosses haben, schreiben Sie uns (Kontakt unten auf der Seite).{{< /note >}}
 
 ## Was bekannt ist
 
@@ -28,9 +28,9 @@ Heute ist das Spitzer-Schloss eine Ruine mit zerbrochenen Fenstern, undichtem Da
 
 ## Was wir annehmen mussten
 
-- Die Pläne in der FTN-Arbeit zeigen das Haus im heutigen Zustand, gezeichnet für ein Umnutzungsprojekt, sie können also spätere Umbauten enthalten. Wir haben sie mit etwa 40 Pixeln pro Meter gelesen, Wände können daher einen halben Meter abweichen; die Höhen sind nach Fotos geschätzt.
-- Walmdächer und rote Ziegel sind typisch für Villen jener Zeit, die genauen Dachformen sind aber unbekannt.
-- Der Wintergarten: Laut den Plänen ist er ein eingeschossiger Flügel, schmaler als das Haus, mit einem Erker am Ende. Bekannt ist, dass er verglast war und sich von der Halle aus öffnete; Bögen und Glasdach im Modell sind eine Annahme (das Umnutzungsprojekt schlägt ein neues Glasdach vor, heute hat er also keines). Ein kleiner Anbau an seinem Ende, vermutlich aus sozialistischer Zeit, ist weggelassen.
+- Die Pläne in der FTN-Arbeit zeigen das Haus im heutigen Zustand, gezeichnet für ein Umnutzungsprojekt, sie können also spätere Umbauten enthalten. Pläne und Fassadenzeichnung haben wir auf einen gemeinsamen Maßstab gebracht (Mauern 46–56 cm stark, wie in der Arbeit angegeben), Maße können daher einen halben Meter abweichen. Die Zeichnung zeigt nur die Nordfront; die anderen Seiten folgen den Fotos.
+- Die Dächer über den Teilen, die die Zeichnung nicht zeigt (Rückseite und Ende des Wintergartens), sind vereinfacht.
+- Der Wintergarten: Laut den Plänen ist er ein eingeschossiger Flügel, schmaler als das Haus, mit einem Erker am Ende. Die Zeichnung zeigt ein Ziegeldach mit Kamm, kein Glasdach; das Modell folgt ihr. Ein kleiner Anbau an seinem Ende, vermutlich aus sozialistischer Zeit, ist weggelassen.
 - Die Farben der Buntglasfenster, die Fenstersprossen, der Brunnen vor der Fassade und die Bäume dienen der Anschaulichkeit.
 - Magyar Szó schreibt, der Turul blicke nach Norden zur Donau, auf den Fotos steht er aber über der westlichen Stirnwand, dem Wintergarten gegenüber, daneben eine Eckloggia mit zwei Säulen; auch kastelyok.com verortet ihn an der Westfassade ([kastelyok.com](https://www.kastelyok.com/adatlap.php?details=8061)). Das Modell folgt den Fotos.
 
@@ -48,6 +48,7 @@ Wenn Sie zu Hause alte Fotos des Schlosses, seines Parks oder des Pavillons habe
 ## Quellen
 
 - [Olivera Radosavljević: Revitalizacija dvorca porodice Špicer, Zbornik radova FTN, Novi Sad (Serbisch)](https://zbornik.ftn.uns.ac.rs/index.php/zbornik/article/download/1119/965)
+- [Dvorci Srbije: Špicerov dvorac, mit der Fassadenzeichnung (Serbisch)](https://www.dvorcisrbije.rs/spicerov-dvorac-beocin/)
 - [Magyar Szó: A turul nem repült el (Ungarisch)](https://www.magyarszo.rs/hetvege/a.59178/A-turul-nem-repult-el)
 - [kastelyok.com: Spitzer-kastély, Belcsény (Ungarisch)](https://www.kastelyok.com/adatlap.php?details=8061)
 - [Gemeinde Beočin: Špicerov dvorac (Serbisch)](https://www.beocin.rs/sr/?id=1406)
