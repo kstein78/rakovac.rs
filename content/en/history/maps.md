@@ -57,7 +57,7 @@ What you can find around Rakovac on this sheet:
 
 The most detailed maps of the valley from the second half of the 20th century are the topographic maps of the Yugoslav People's Army (JNA), drawn and printed by its Military Geographical Institute (*Vojnogeografski institut*) in Belgrade. For decades they were secret: the margins carry the military classification and the note *"Kopiranje i umnožavanje zabranjeno"* (copying and reproduction forbidden). Today scans of many sheets are collected on [topografskakarta.com](https://www.topografskakarta.com/).
 
-**These maps are published with the permission of Haxhi Berisha, the owner of [topografskakarta.com](https://www.topografskakarta.com/).** We show only the part of each sheet around Rakovac. If you hold the rights to these maps and object to their publication here, please [write to us]({{< relref "author" >}}) and we will remove them.
+**These maps are published with the permission of Haxhi Berisha, the owner of [topografskakarta.com](https://www.topografskakarta.com/).** We show only the part of each sheet around Rakovac. If you have any questions about these maps, please [write to us]({{< relref "author" >}}) or contact Mr Berisha through [his website](https://www.topografskakarta.com/formular/).
 
 ### 1:25,000, sheet "Novi Sad 4-1", 1984
 

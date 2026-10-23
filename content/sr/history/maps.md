@@ -57,7 +57,7 @@ Generalnu kartu Srednje Evrope u razmeri 1:200.000 izradio je Vojnogeografski in
 
 Najdetaljnije karte doline iz druge polovine 20. veka su topografske karte Jugoslovenske narodne armije, koje je izrađivao i štampao Vojnogeografski institut u Beogradu. Decenijama su bile tajne: na marginama stoji oznaka tajnosti i napomena *„Kopiranje i umnožavanje zabranjeno”*. Danas su skenovi mnogih listova sakupljeni na sajtu [topografskakarta.com](https://www.topografskakarta.com/).
 
-**Karte su objavljene uz dozvolu vlasnika sajta [topografskakarta.com](https://www.topografskakarta.com/), Haxhi Berisha.** Prikazujemo samo deo svakog lista oko Rakovca. Ako ste nosilac prava na ove karte i ne slažete se s objavljivanjem, [pišite nam]({{< relref "author" >}}) i uklonićemo ih.
+**Karte su objavljene uz dozvolu vlasnika sajta [topografskakarta.com](https://www.topografskakarta.com/), Haxhi Berisha.** Prikazujemo samo deo svakog lista oko Rakovca. Ako imate pitanja o ovim kartama, [pišite nam]({{< relref "author" >}}) ili se obratite vlasniku sajta topografskakarta.com preko [njegovog kontakt-formulara](https://www.topografskakarta.com/formular/).
 
 ### 1:25.000, list „Novi Sad 4-1”, 1984.
 

@@ -57,7 +57,7 @@ Mit találhat Rakovac körül ezen a lapon:
 
 A völgy legrészletesebb 20. század második feléből való térképei a Jugoszláv Néphadsereg (JNA) topográfiai térképei, amelyeket a belgrádi Katonai Földrajzi Intézet (*Vojnogeografski institut*) készített és nyomtatott. Évtizedekig titkosak voltak: a lapszélen a titkossági jelzés és a *„Kopiranje i umnožavanje zabranjeno”* (másolni és sokszorosítani tilos) megjegyzés áll. Ma sok lap szkennelt változata a [topografskakarta.com](https://www.topografskakarta.com/) oldalon található.
 
-**A térképeket Haxhi Berishának, a [topografskakarta.com](https://www.topografskakarta.com/) tulajdonosának engedélyével közöljük.** Minden lapnak csak a Rakovac körüli részét mutatjuk. Ha Ön a térképek jogtulajdonosa, és nem járul hozzá a közléshez, [írjon nekünk]({{< relref "author" >}}), és eltávolítjuk őket.
+**A térképeket Haxhi Berishának, a [topografskakarta.com](https://www.topografskakarta.com/) tulajdonosának engedélyével közöljük.** Minden lapnak csak a Rakovac körüli részét mutatjuk. Ha kérdése van ezekkel a térképekkel kapcsolatban, [írjon nekünk]({{< relref "author" >}}), vagy keresse Berisha urat [a honlapján](https://www.topografskakarta.com/formular/).
 
 ### 1:25 000, „Novi Sad 4-1” lap, 1984
 

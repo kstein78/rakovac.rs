@@ -57,7 +57,7 @@ Was Sie auf diesem Blatt rund um Rakovac finden:
 
 Die genauesten Karten des Tals aus der zweiten Hälfte des 20. Jahrhunderts sind die topografischen Karten der Jugoslawischen Volksarmee (JNA), gezeichnet und gedruckt von ihrem Militärgeografischen Institut (*Vojnogeografski institut*) in Belgrad. Jahrzehntelang waren sie geheim: Am Rand stehen der Geheimhaltungsvermerk und der Hinweis *„Kopiranje i umnožavanje zabranjeno“* (Kopieren und Vervielfältigen verboten). Heute sind Scans vieler Blätter auf [topografskakarta.com](https://www.topografskakarta.com/) gesammelt.
 
-**Die Karten werden mit Genehmigung von Haxhi Berisha veröffentlicht, dem Betreiber von [topografskakarta.com](https://www.topografskakarta.com/).** Wir zeigen von jedem Blatt nur den Ausschnitt um Rakovac. Wenn Sie die Rechte an diesen Karten halten und mit der Veröffentlichung nicht einverstanden sind, [schreiben Sie uns]({{< relref "author" >}}); wir entfernen sie dann.
+**Die Karten werden mit Genehmigung von Haxhi Berisha veröffentlicht, dem Betreiber von [topografskakarta.com](https://www.topografskakarta.com/).** Wir zeigen von jedem Blatt nur den Ausschnitt um Rakovac. Wenn Sie Fragen zu diesen Karten haben, [schreiben Sie uns]({{< relref "author" >}}) oder wenden Sie sich über [seine Website](https://www.topografskakarta.com/formular/) an Herrn Berisha.
 
 ### 1:25.000, Blatt „Novi Sad 4-1“, 1984
 
