@@ -3,7 +3,7 @@ title: "Rakovac régi térképeken"
 linkTitle: "Régi térképek"
 kicker: "Térképek · 18–20. század"
 weight: 7
-summary: "Rakovac történelmi térképeken: az 1877-es „Neusatz und Peterwardein” lap a szerző gyűjteményéből, az 1915-ös részletes osztrák–magyar speciális térkép és egy 1910 körüli általános térkép, hamarosan pedig levéltári és magángyűjteményi térképek is."
+summary: "Rakovac történelmi térképeken: az 1877-es „Neusatz und Peterwardein” lap a szerző gyűjteményéből, az 1915-ös részletes osztrák–magyar speciális térkép, egy 1910 körüli általános térkép és a Jugoszláv Néphadsereg 1970-es és 1980-as évekbeli topográfiai térképei, hamarosan pedig levéltári és magángyűjteményi térképek is."
 lead: "A régi térképek azt mutatják, milyen volt a völgy Novi Rakovac létrejötte előtt: a falu a kolostor mellett a dombok között, vasútvonal a Duna mentén, és a szomszédos települések a térképészek által használt német és magyar nevükön."
 photo: map-neusatz-1877-wide
 ---
@@ -52,6 +52,33 @@ Mit találhat Rakovac körül ezen a lapon:
 - Nyugaton Beočin falu és a beočini kolostor, keleten Ledinci.
 - A Duna túlpartján Futak kétszer szerepel, „O-Futtak” és „Uj-Futtak” néven (Ó- és Újfutak), egy nyíl pedig „zu Neusatz”, azaz Újvidék felé mutat.
 - **Novi Rakovac még nem létezik.** A második világháború után épült, amikor a régi falut nem építették újjá.
+
+## A Jugoszláv Néphadsereg topográfiai térképei, 1970–1980-as évek
+
+A völgy legrészletesebb 20. század második feléből való térképei a Jugoszláv Néphadsereg (JNA) topográfiai térképei, amelyeket a belgrádi Katonai Földrajzi Intézet (*Vojnogeografski institut*) készített és nyomtatott. Évtizedekig titkosak voltak: a lapszélen a titkossági jelzés és a *„Kopiranje i umnožavanje zabranjeno”* (másolni és sokszorosítani tilos) megjegyzés áll. Ma sok lap szkennelt változata a [topografskakarta.com](https://www.topografskakarta.com/) oldalon található.
+
+**A térképeket Haxhi Berishának, a [topografskakarta.com](https://www.topografskakarta.com/) tulajdonosának engedélyével közöljük.** Minden lapnak csak a Rakovac körüli részét mutatjuk. Ha Ön a térképek jogtulajdonosa, és nem járul hozzá a közléshez, [írjon nekünk]({{< relref "author" >}}), és eltávolítjuk őket.
+
+### 1:25 000, „Novi Sad 4-1” lap, 1984
+
+{{< oldmap src="/img/jna25-rakovac.jpg" poster="/img/jna25-rakovac-960.jpg" x="560" y="700" size="1,2 MB" link="https://www.topografskakarta.com/jugo/download/srb_25/novisad_13/h119.html" alt="A JNA 1:25 000-es topográfiai térképe, Novi Sad 4-1 lap, 1984: Novi és Stari Rakovac" >}}Részlet a JNA 1:25 000-es topográfiai térképének 378-4-1 „Novi Sad 4-1” lapjáról, második kiadás, nyomtatva 1984-ben (a tartalom 1983-as kiegészítéssel). Szken: topografskakarta.com, Haxhi Berisha engedélyével.{{< /oldmap >}}
+
+Amit ezen a lapon Rakovac környékén találni:
+
+- **Novi Rakovac** a Duna felől felvezető út mentén, és **Stari Rakovac** feljebb a völgyben, a „Veliki p. (Rakovački p.)” feliratú patak mellett.
+- A falvak körüli magaslatok: Čardak (320 m), Krvavić (314 m), Kesten (366 m), Čot (280 m) és Plana (394 m).
+- Dűlőnevek a Duna árterén (*Rit*): Kupusište, Ištvanac és Salaš, a folyóban a Mačkov prud sziget.
+- A keleti szomszédok: Novi Ledinci a lakótömbjeivel, és Stari Ledinci.
+
+### 1:100 000, 378 „Novi Sad” lap
+
+{{< oldmap src="/img/jna100-rakovac.jpg" poster="/img/jna100-rakovac-960.jpg" x="470" y="420" size="0,3 MB" link="https://www.topografskakarta.com/jugo/download/html_100/novisad_100.html" alt="A JNA 1:100 000-es topográfiai térképe, 378 Novi Sad lap: Rakovac Beočin, Ledinci és Újvidék között" >}}Részlet a JNA 1:100 000-es topográfiai térképének 378 „Novi Sad” lapjáról. A szkenről hiányzik a lapszél, ezért a kiadás éve nem olvasható. Szken: topografskakarta.com, Haxhi Berisha engedélyével.{{< /oldmap >}}
+
+Amit ezen a lapon Rakovac környékén találni:
+
+- Két azonos nevű hely: **Rakovac** a dunai út mellett és **Rakovac (St. Selo)**, a régi falu.
+- **V. Gradac** (470 m), a falu fölötti legmagasabb pont.
+- Beočin és feljebb a dombok között a beočini kolostor; keletre Ledinci; a Duna túlpartján Futak és Újvidék.
 
 ## További térképek
 

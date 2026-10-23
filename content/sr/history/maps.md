@@ -3,7 +3,7 @@ title: "Stare karte Rakovca"
 linkTitle: "Stare karte"
 kicker: "Karte · 18–20. vek"
 weight: 7
-summary: "Rakovac na istorijskim kartama: list „Neusatz und Peterwardein” iz 1877. iz autorove zbirke, detaljna austrougarska specijalna karta iz 1915. i generalna karta iz oko 1910, a uskoro i karte iz arhiva i privatnih zbirki."
+summary: "Rakovac na istorijskim kartama: list „Neusatz und Peterwardein” iz 1877. iz autorove zbirke, detaljna austrougarska specijalna karta iz 1915, generalna karta iz oko 1910. i topografske karte JNA iz sedamdesetih i osamdesetih godina, a uskoro i karte iz arhiva i privatnih zbirki."
 lead: "Stare karte prikazuju dolinu pre nego što je nastao Novi Rakovac: selo kod manastira u brdima, železničku prugu duž Dunava i susedna mesta pod nemačkim i mađarskim imenima koja su koristili kartografi."
 photo: map-neusatz-1877-wide
 ---
@@ -52,6 +52,33 @@ Generalnu kartu Srednje Evrope u razmeri 1:200.000 izradio je Vojnogeografski in
 - Beočin selo i manastir Beočin na zapadu, Ledinci na istoku.
 - Preko Dunava Futog je upisan dva puta, kao „O-Futtak“ i „Uj-Futtak“ (Stari i Novi Futog), a strelica pokazuje „zu Neusatz“ – ka Novom Sadu.
 - **Novog Rakovca još nema.** Nastao je posle Drugog svetskog rata, kada staro selo nije obnovljeno.
+
+## Topografske karte JNA, sedamdesete i osamdesete godine
+
+Najdetaljnije karte doline iz druge polovine 20. veka su topografske karte Jugoslovenske narodne armije, koje je izrađivao i štampao Vojnogeografski institut u Beogradu. Decenijama su bile tajne: na marginama stoji oznaka tajnosti i napomena *„Kopiranje i umnožavanje zabranjeno”*. Danas su skenovi mnogih listova sakupljeni na sajtu [topografskakarta.com](https://www.topografskakarta.com/).
+
+**Karte su objavljene uz dozvolu vlasnika sajta [topografskakarta.com](https://www.topografskakarta.com/), Haxhi Berisha.** Prikazujemo samo deo svakog lista oko Rakovca. Ako ste nosilac prava na ove karte i ne slažete se s objavljivanjem, [pišite nam]({{< relref "author" >}}) i uklonićemo ih.
+
+### 1:25.000, list „Novi Sad 4-1”, 1984.
+
+{{< oldmap src="/img/jna25-rakovac.jpg" poster="/img/jna25-rakovac-960.jpg" x="560" y="700" size="1,2 MB" link="https://www.topografskakarta.com/jugo/download/srb_25/novisad_13/h119.html" alt="Topografska karta JNA 1:25.000, list Novi Sad 4-1, 1984: Novi i Stari Rakovac" >}}Isečak lista 378-4-1 „Novi Sad 4-1” topografske karte JNA 1:25.000, drugo izdanje, štampano 1984. (sadržaj dopunjen 1983). Sken: topografskakarta.com, objavljeno uz dozvolu Haxhi Berisha.{{< /oldmap >}}
+
+Šta se na ovom listu vidi oko Rakovca:
+
+- **Novi Rakovac** na putu koji se penje od Dunava i **Stari Rakovac** više u dolini, uz potok označen kao „Veliki p. (Rakovački p.)”.
+- Visine oko sela: Čardak (320 m), Krvavić (314 m), Kesten (366 m), Čot (280 m) i Plana (394 m).
+- Nazivi potesa u dunavskom ritu: Kupusište, Ištvanac i Salaš, a na reci ada Mačkov prud.
+- Susedi na istoku: Novi Ledinci sa stambenim blokovima i Stari Ledinci.
+
+### 1:100.000, list 378 „Novi Sad”
+
+{{< oldmap src="/img/jna100-rakovac.jpg" poster="/img/jna100-rakovac-960.jpg" x="470" y="420" size="0,3 MB" link="https://www.topografskakarta.com/jugo/download/html_100/novisad_100.html" alt="Topografska karta JNA 1:100.000, list 378 Novi Sad: Rakovac između Beočina, Ledinaca i Novog Sada" >}}Isečak lista 378 „Novi Sad” topografske karte JNA 1:100.000. Margine na skenu su odsečene, pa se godina izdanja ne vidi. Sken: topografskakarta.com, objavljeno uz dozvolu Haxhi Berisha.{{< /oldmap >}}
+
+Šta se na ovom listu vidi oko Rakovca:
+
+- Dva mesta istog imena: **Rakovac** uz dunavski put i **Rakovac (St. Selo)**, staro selo.
+- **V. Gradac** (470 m), najviša tačka iznad sela.
+- Beočin i, više u brdima, manastir Beočin; Ledinci na istoku; Futog i Novi Sad preko Dunava.
 
 ## Još karata
 

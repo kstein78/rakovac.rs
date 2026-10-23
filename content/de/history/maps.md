@@ -3,7 +3,7 @@ title: "Alte Karten von Rakovac"
 linkTitle: "Alte Karten"
 kicker: "Karten · 18.–20. Jahrhundert"
 weight: 7
-summary: "Rakovac auf historischen Karten: das Blatt „Neusatz und Peterwardein“ von 1877 aus der Sammlung des Autors, die detaillierte österreichisch-ungarische Spezialkarte von 1915 und eine Generalkarte von etwa 1910, bald ergänzt durch Karten aus Archiven und Privatsammlungen."
+summary: "Rakovac auf historischen Karten: das Blatt „Neusatz und Peterwardein“ von 1877 aus der Sammlung des Autors, die detaillierte österreichisch-ungarische Spezialkarte von 1915, eine Generalkarte von etwa 1910 und die topografischen Karten der Jugoslawischen Volksarmee aus den 1970er- und 1980er-Jahren, bald ergänzt durch Karten aus Archiven und Privatsammlungen."
 lead: "Alte Karten zeigen das Tal, bevor es Novi Rakovac gab: das Dorf beim Kloster in den Hügeln, eine Bahnlinie entlang der Donau und die Nachbarorte unter den deutschen und ungarischen Namen, die die Kartografen verwendeten."
 photo: map-neusatz-1877-wide
 ---
@@ -52,6 +52,33 @@ Was Sie auf diesem Blatt rund um Rakovac finden:
 - Beočin (Dorf) und das Kloster Beočin im Westen, Ledinci im Osten.
 - Jenseits der Donau erscheint Futog zweimal, als „O-Futtak“ und „Uj-Futtak“ (Alt- und Neu-Futog), und ein Pfeil zeigt „zu Neusatz“, nach Novi Sad.
 - **Novi Rakovac gibt es noch nicht.** Es entstand nach dem Zweiten Weltkrieg, als das alte Dorf nicht wieder aufgebaut wurde.
+
+## Topografische Karten der Jugoslawischen Volksarmee, 1970er- und 1980er-Jahre
+
+Die genauesten Karten des Tals aus der zweiten Hälfte des 20. Jahrhunderts sind die topografischen Karten der Jugoslawischen Volksarmee (JNA), gezeichnet und gedruckt von ihrem Militärgeografischen Institut (*Vojnogeografski institut*) in Belgrad. Jahrzehntelang waren sie geheim: Am Rand stehen der Geheimhaltungsvermerk und der Hinweis *„Kopiranje i umnožavanje zabranjeno“* (Kopieren und Vervielfältigen verboten). Heute sind Scans vieler Blätter auf [topografskakarta.com](https://www.topografskakarta.com/) gesammelt.
+
+**Die Karten werden mit Genehmigung von Haxhi Berisha veröffentlicht, dem Betreiber von [topografskakarta.com](https://www.topografskakarta.com/).** Wir zeigen von jedem Blatt nur den Ausschnitt um Rakovac. Wenn Sie die Rechte an diesen Karten halten und mit der Veröffentlichung nicht einverstanden sind, [schreiben Sie uns]({{< relref "author" >}}); wir entfernen sie dann.
+
+### 1:25.000, Blatt „Novi Sad 4-1“, 1984
+
+{{< oldmap src="/img/jna25-rakovac.jpg" poster="/img/jna25-rakovac-960.jpg" x="560" y="700" size="1,2 MB" link="https://www.topografskakarta.com/jugo/download/srb_25/novisad_13/h119.html" alt="Topografische Karte der JNA 1:25.000, Blatt Novi Sad 4-1, 1984: Novi und Stari Rakovac" >}}Ausschnitt aus Blatt 378-4-1 „Novi Sad 4-1“ der topografischen Karte der JNA 1:25.000, zweite Ausgabe, gedruckt 1984 (Inhalt ergänzt 1983). Scan: topografskakarta.com, veröffentlicht mit Genehmigung von Haxhi Berisha.{{< /oldmap >}}
+
+Was man auf diesem Blatt rund um Rakovac findet:
+
+- **Novi Rakovac** an der Straße, die von der Donau heraufführt, und **Stari Rakovac** weiter oben im Tal, am Bach mit der Beschriftung „Veliki p. (Rakovački p.)“.
+- Die Höhen um die Dörfer: Čardak (320 m), Krvavić (314 m), Kesten (366 m), Čot (280 m) und Plana (394 m).
+- Flurnamen in der Donauaue (*Rit*): Kupusište, Ištvanac und Salaš, im Fluss die Insel Mačkov prud.
+- Die Nachbarn im Osten: Novi Ledinci mit seinen Wohnblocks und Stari Ledinci.
+
+### 1:100.000, Blatt 378 „Novi Sad“
+
+{{< oldmap src="/img/jna100-rakovac.jpg" poster="/img/jna100-rakovac-960.jpg" x="470" y="420" size="0,3 MB" link="https://www.topografskakarta.com/jugo/download/html_100/novisad_100.html" alt="Topografische Karte der JNA 1:100.000, Blatt 378 Novi Sad: Rakovac zwischen Beočin, Ledinci und Novi Sad" >}}Ausschnitt aus Blatt 378 „Novi Sad“ der topografischen Karte der JNA 1:100.000. Der Scan hat keinen Rand, das Erscheinungsjahr ist deshalb nicht zu lesen. Scan: topografskakarta.com, veröffentlicht mit Genehmigung von Haxhi Berisha.{{< /oldmap >}}
+
+Was man auf diesem Blatt rund um Rakovac findet:
+
+- Zwei Orte desselben Namens: **Rakovac** an der Donaustraße und **Rakovac (St. Selo)**, das alte Dorf.
+- **V. Gradac** (470 m), der höchste Punkt über dem Dorf.
+- Beočin und weiter oben in den Hügeln das Kloster Beočin; Ledinci im Osten; Futog und Novi Sad jenseits der Donau.
 
 ## Weitere Karten
 

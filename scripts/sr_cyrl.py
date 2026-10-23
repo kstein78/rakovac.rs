@@ -38,6 +38,7 @@ KEEP_PHRASES = [
     'Abbas de Dombo', 'castellani de Dombo', 'Ilok und Ruma', 'zu Neusatz', 'Griechisches Kloster Rakovatz',
     'Donau-Ansichten', 'Uj-Futtak', 'O-Futtak', 'Mövenpick Resort & Spa', 'rakovac.rs', 'rakovac_rs', 'BBC News', 'DJ Mag', 'Redlich, Orenstein und Spitzer', 'The Brothers Bloom', 'City Magazine', 'Vojvodina Travel', 'Fruška Walk & Wine', 'Tour de Fruška', 'Termal Vrdnik', 'Plan Plus', 'IMDb', 'Rakovac Capital',
     'Rakovac Common', 'Claude Design', 'Fig Restaurant', 'Imperator & Salaxia', 'Robin Hood', 'Open-Meteo', 'SIL Open Font License',
+    'Haxhi Berisha', 'Kopiranje i umnožavanje zabranjeno', 'Veliki p. (Rakovački p.)', 'Rakovac (St. Selo)', 'V. Gradac',
     'Neusatz und Peterwardein', 'Eugens Weg', 'Ausg. 1877', 'Kls.', 'B92', 'Charles Eugène de Croÿ', 'Lawrence Schiller', 'Visit Distrikt', 'Kelly\'s Heroes',
 ]
 # Foreign names with an established Serbian Cyrillic spelling (not letter by letter).

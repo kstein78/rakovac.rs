@@ -3,7 +3,7 @@ title: "Old maps of Rakovac"
 linkTitle: "Old maps"
 kicker: "Maps · 18th–20th century"
 weight: 7
-summary: "Rakovac on historical maps: the 1877 sheet “Neusatz und Peterwardein” from the author's collection, the detailed Austro-Hungarian special map of 1915 and a general map from about 1910, with more maps from archives and private collections to come."
+summary: "Rakovac on historical maps: the 1877 sheet “Neusatz und Peterwardein” from the author's collection, the detailed Austro-Hungarian special map of 1915, a general map from about 1910 and the topographic maps of the Yugoslav People's Army from the 1970s and 1980s, with more maps from archives and private collections to come."
 lead: "Old maps show the valley before Novi Rakovac existed: the village by the monastery in the hills, a railway along the Danube, and the neighbouring places under the German and Hungarian names the mapmakers used."
 photo: map-neusatz-1877-wide
 ---
@@ -52,6 +52,33 @@ What you can find around Rakovac on this sheet:
 - Beočin village and Beočin Monastery to the west, Ledinci to the east.
 - Across the Danube, Futog appears twice, as "O-Futtak" and "Uj-Futtak" (Old and New Futog), and an arrow points "zu Neusatz", towards Novi Sad.
 - **Novi Rakovac is not there yet.** It was built after the Second World War, when the old village was not rebuilt.
+
+## Topographic maps of the Yugoslav People's Army, 1970s–1980s
+
+The most detailed maps of the valley from the second half of the 20th century are the topographic maps of the Yugoslav People's Army (JNA), drawn and printed by its Military Geographical Institute (*Vojnogeografski institut*) in Belgrade. For decades they were secret: the margins carry the military classification and the note *"Kopiranje i umnožavanje zabranjeno"* (copying and reproduction forbidden). Today scans of many sheets are collected on [topografskakarta.com](https://www.topografskakarta.com/).
+
+**These maps are published with the permission of Haxhi Berisha, the owner of [topografskakarta.com](https://www.topografskakarta.com/).** We show only the part of each sheet around Rakovac. If you hold the rights to these maps and object to their publication here, please [write to us]({{< relref "author" >}}) and we will remove them.
+
+### 1:25,000, sheet "Novi Sad 4-1", 1984
+
+{{< oldmap src="/img/jna25-rakovac.jpg" poster="/img/jna25-rakovac-960.jpg" x="560" y="700" size="1.2 MB" link="https://www.topografskakarta.com/jugo/download/srb_25/novisad_13/h119.html" alt="JNA topographic map 1:25,000, sheet Novi Sad 4-1, 1984: Novi and Stari Rakovac" >}}Detail of sheet 378-4-1 “Novi Sad 4-1” of the JNA topographic map 1:25,000, second edition, printed in 1984 (content updated in 1983). Scan: topografskakarta.com, published with the permission of Haxhi Berisha.{{< /oldmap >}}
+
+What you can find around Rakovac on this sheet:
+
+- **Novi Rakovac** on the road up from the Danube, and **Stari Rakovac** higher up the valley, by the stream marked "Veliki p. (Rakovački p.)".
+- The heights around the villages: Čardak (320 m), Krvavić (314 m), Kesten (366 m), Čot (280 m) and Plana (394 m).
+- Field names in the Danube floodplain (*Rit*): Kupusište, Ištvanac and Salaš, and the island of Mačkov prud in the river.
+- The neighbours to the east: Novi Ledinci with its blocks of flats, and Stari Ledinci.
+
+### 1:100,000, sheet 378 "Novi Sad"
+
+{{< oldmap src="/img/jna100-rakovac.jpg" poster="/img/jna100-rakovac-960.jpg" x="470" y="420" size="0.3 MB" link="https://www.topografskakarta.com/jugo/download/html_100/novisad_100.html" alt="JNA topographic map 1:100,000, sheet 378 Novi Sad: Rakovac between Beočin, Ledinci and Novi Sad" >}}Detail of sheet 378 “Novi Sad” of the JNA topographic map 1:100,000. The scan has no margins, so the edition year cannot be read. Scan: topografskakarta.com, published with the permission of Haxhi Berisha.{{< /oldmap >}}
+
+What you can find around Rakovac on this sheet:
+
+- Two places of the same name: **Rakovac** by the Danube road and **Rakovac (St. Selo)**, the old village.
+- **V. Gradac** (470 m), the highest point above the village.
+- Beočin and, further up in the hills, the Beočin monastery; Ledinci to the east; Futog and Novi Sad across the Danube.
 
 ## More maps
 
