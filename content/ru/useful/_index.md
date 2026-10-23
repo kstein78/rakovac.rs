@@ -181,7 +181,7 @@ groups:
     what: Русскоязычное сообщество Раковца.
     url: https://t.me/+mbrfYMKeJ3JiNzQy
     url_label: open_group
-  - name: Раковац – моје село — Facebook
+  - name: Раковац – мое село — Facebook
     what: Группа на сербском; закрытая, чтобы видеть публикации, подайте заявку на вступление.
     url: https://www.facebook.com/groups/162591316887245
     url_label: open_group
