@@ -562,6 +562,39 @@ lookout-swing-autumn:
   alt_cyr: "На љуљашци на видиковцу изнад Новог Раковца у касну јесен, на хоризонту Нови Сад"
   alt_de: "Auf der Schaukel am Aussichtspunkt über Novi Rakovac im Spätherbst, am Horizont Novi Sad"
   alt_hu: "Hintázás a Novi Rakovac feletti kilátónál késő ősszel, a láthatáron Újvidék"
+belegirska-view-valley-autumn:
+  src: img/belegirska-view-valley-autumn.jpg
+  author: Konstantin Stein
+  license: © all rights reserved
+  alt: "Autumn in the valley between Novi and Stari Rakovac, seen from Belegirska Street: young trees, orchards and wooded hills"
+  temp: false
+  alt_ru: "Осень в долине между Нови-Раковцем и Стари-Раковцем, вид с Белегирской улицы: молодые деревья, сады и лесистые холмы"
+  alt_sr: "Jesen u dolini između Novog i Starog Rakovca, pogled iz Belegirske ulice: mlado drveće, voćnjaci i šumovita brda"
+  alt_cyr: "Јесен у долини између Новог и Старог Раковца, поглед из Белегирске улице: младо дрвеће, воћњаци и шумовита брда"
+  alt_de: "Herbst im Tal zwischen Novi und Stari Rakovac, Blick von der Belegirska-Straße: junge Bäume, Obstgärten und bewaldete Hügel"
+  alt_hu: "Ősz a Novi és Stari Rakovac közötti völgyben, kilátás a Belegirska utcából: fiatal fák, gyümölcsösök és erdős dombok"
+belegirska-view-hills-autumn:
+  src: img/belegirska-view-hills-autumn.jpg
+  author: Konstantin Stein
+  license: © all rights reserved
+  alt: "The hills towards Stari Rakovac in the October sun, from Belegirska Street in Novi Rakovac: gardens and woods turning red and yellow"
+  temp: false
+  alt_ru: "Холмы в сторону Стари-Раковца на октябрьском солнце, вид с Белегирской улицы в Нови-Раковце: сады и рощи краснеют и желтеют"
+  alt_sr: "Brda prema Starom Rakovcu na oktobarskom suncu, iz Belegirske ulice u Novom Rakovcu: bašte i šumarci rumene se i žute"
+  alt_cyr: "Брда према Старом Раковцу на октобарском сунцу, из Белегирске улице у Новом Раковцу: баште и шумарци румене се и жуте"
+  alt_de: "Die Hügel Richtung Stari Rakovac in der Oktobersonne, von der Belegirska-Straße in Novi Rakovac: Gärten und Wäldchen färben sich rot und gelb"
+  alt_hu: "A Stari Rakovac felé eső dombok az októberi napsütésben, a Novi Rakovac-i Belegirska utcából: pirosodó és sárguló kertek és ligetek"
+belegirska-view-wide-autumn:
+  src: img/belegirska-view-wide-autumn.jpg
+  author: Konstantin Stein
+  license: © all rights reserved
+  alt: "Wide view from Belegirska Street in Novi Rakovac towards Stari Rakovac: a young orchard in front, the wooded ridge of Fruška Gora behind"
+  temp: false
+  alt_ru: "Широкий вид с Белегирской улицы в Нови-Раковце в сторону Стари-Раковца: впереди молодой сад, позади лесистый хребет Фрушка-Горы"
+  alt_sr: "Širok pogled iz Belegirske ulice u Novom Rakovcu prema Starom Rakovcu: napred mladi voćnjak, iza šumoviti greben Fruške gore"
+  alt_cyr: "Широк поглед из Белегирске улице у Новом Раковцу према Старом Раковцу: напред млади воћњак, иза шумовити гребен Фрушке горе"
+  alt_de: "Weiter Blick von der Belegirska-Straße in Novi Rakovac Richtung Stari Rakovac: vorn ein junger Obstgarten, dahinter der bewaldete Kamm der Fruška Gora"
+  alt_hu: "Széles kilátás a Novi Rakovac-i Belegirska utcából Stari Rakovac felé: elöl fiatal gyümölcsös, mögötte a Fruška Gora erdős gerince"
 lookout-summer-fields:
   src: img/lookout-summer-fields.jpg
   author: Konstantin Stein
