@@ -16,6 +16,8 @@ facts:
 
 Kesten („Kastanie“) ist ein Hügel östlich des Klosters. Der Aussichtspunkt blickt über Novi Sad und die südliche Ebene der Batschka. Der Weg von Rakovac oder von Stari Ledinci führt an der Einsiedelei des Isaija Parivodski und an der Quelle Neven vorbei.
 
+Der Gipfel selbst liegt höher als der Aussichtspunkt: Die jugoslawische Armeekarte von 1984 verzeichnet dort einen trigonometrischen Punkt von **366 m** ([alte Karten]({{< relref "history/maps" >}})), [OpenStreetMap](https://www.openstreetmap.org/node/3608505998) gibt **352 m** an.
+
 {{< note type="warning" title="Der Zugang hat sich möglicherweise geändert" >}}2021 berichteten Anwohner, dass Zäune und Tore in der Nähe des Kesten-Hügels den alten gelb markierten Weg zwischen Novi Rakovac und Zmajevac sowie den Pfad vom Kloster zur Kesten-Quelle unterbrochen hätten. Erkundigen Sie sich vor Ort, bevor Sie losgehen.{{< /note >}}
 
 {{< todo >}}Die Route im Herbst 2026 begehen: Ist der Aussichtspunkt erreichbar, und von welcher Seite? Das Platzhalterfoto durch den echten Ausblick ersetzen.{{< /todo >}}

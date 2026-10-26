@@ -16,6 +16,8 @@ facts:
 
 A Kesten („gesztenye”) egy domb a kolostortól keletre. A kilátóból Újvidékre és Bácska déli síkságára látni. A Rakovacból vagy Stari Ledinciből induló séta az Isaija Parivodski remetelak és a Neven-forrás mellett halad el.
 
+Maga a csúcs magasabb a kilátónál: a jugoszláv hadsereg 1984-es térképe **366 m**-es háromszögelési pontot jelöl rajta ([régi térképek]({{< relref "history/maps" >}})), az [OpenStreetMap](https://www.openstreetmap.org/node/3608505998) szerint **352 m**.
+
 {{< note type="warning" title="A megközelítés megváltozhatott" >}}2021-ben helyi lakosok arról számoltak be, hogy a Kesten-domb közelében emelt kerítések és kapuk elvágták a Novi Rakovac és Zmajevac közötti régi, sárga jelzésű ösvényt, valamint a kolostortól a Kesten-forrás felé vezető utat. Indulás előtt érdeklődjön helyben.{{< /note >}}
 
 {{< todo >}}Bejárni az útvonalat 2026 őszén: elérhető-e a kilátó, és ha igen, melyik oldalról? Az ideiglenes fotót lecserélni a valódi kilátásra.{{< /todo >}}

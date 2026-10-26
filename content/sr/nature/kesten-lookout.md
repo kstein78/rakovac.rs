@@ -16,6 +16,8 @@ facts:
 
 Kesten je brdo istočno od manastira. Sa vidikovca se vide Novi Sad i južni deo bačke ravnice. Šetnja iz Rakovca ili iz Starih Ledinaca prolazi pored Isposnice Isaije Parivodskog i izvora Neven.
 
+Sam vrh je viši od vidikovca: karta JNA iz 1984. na njemu beleži trigonometrijsku tačku od **366 m** ([stare karte]({{< relref "history/maps" >}})), a [OpenStreetMap](https://www.openstreetmap.org/node/3608505998) navodi **352 m**.
+
 {{< note type="warning" title="Pristup se možda promenio" >}}Meštani su 2021. godine prijavili da su ograde i kapije kod brda Kesten presekle staru stazu sa žutom markacijom između Novog Rakovca i Zmajevca, kao i put od manastira ka izvoru Kesten. Proverite na licu mesta pre polaska.{{< /note >}}
 
 {{< todo >}}Proći stazu na jesen 2026: da li se do vidikovca može stići i sa koje strane? Zameniti privremenu fotografiju pravim pogledom.{{< /todo >}}
