@@ -595,6 +595,134 @@ belegirska-view-wide-autumn:
   alt_cyr: "Широк поглед из Белегирске улице у Новом Раковцу према Старом Раковцу: напред млади воћњак, иза шумовити гребен Фрушке горе"
   alt_de: "Weiter Blick von der Belegirska-Straße in Novi Rakovac Richtung Stari Rakovac: vorn ein junger Obstgarten, dahinter der bewaldete Kamm der Fruška Gora"
   alt_hu: "Széles kilátás a Novi Rakovac-i Belegirska utcából Stari Rakovac felé: elöl fiatal gyümölcsös, mögötte a Fruška Gora erdős gerince"
+belegirska-sheep-spring:
+  src: img/belegirska-sheep-spring.jpg
+  author: "Ilya Vasilyev"
+  author_ru: "Илья Васильев"
+  author_sr: "Ilja Vasiljev"
+  author_cyr: "Иља Васиљев"
+  author_de: "Ilya Vasilyev"
+  author_hu: "Ilya Vasilyev"
+  license: "© all rights reserved"
+  alt: "A flock of sheep grazing on a green slope below a wooded hilltop, with a freshly ploughed field and a house among the trees, seen from Belegirska Street in spring"
+  temp: false
+  alt_ru: "Отара овец пасётся на зелёном склоне под лесистой вершиной, ниже свежевспаханное поле и дом среди деревьев: вид с Белегирской улицы весной"
+  alt_sr: "Stado ovaca pase na zelenoj padini ispod šumovitog vrha, niže sveže uzorana njiva i kuća među drvećem: pogled iz Belegirske ulice u proleće"
+  alt_cyr: "Стадо оваца пасе на зеленој падини испод шумовитог врха, ниже свеже узорана њива и кућа међу дрвећем: поглед из Белегирске улице у пролеће"
+  alt_de: "Eine Schafherde weidet am grünen Hang unter einer bewaldeten Kuppe, darunter ein frisch gepflügtes Feld und ein Haus zwischen den Bäumen: Blick von der Belegirska-Straße im Frühling"
+  alt_hu: "Birkanyáj legel a zöld lejtőn egy erdős csúcs alatt, lejjebb frissen szántott föld és egy ház a fák között: kilátás a Belegirska utcából tavasszal"
+belegirska-acacia-may:
+  src: img/belegirska-acacia-may.jpg
+  author: "Ilya Vasilyev"
+  author_ru: "Илья Васильев"
+  author_sr: "Ilja Vasiljev"
+  author_cyr: "Иља Васиљев"
+  author_de: "Ilya Vasilyev"
+  author_hu: "Ilya Vasilyev"
+  license: "© all rights reserved"
+  alt: "Acacias in bloom on the slopes towards Stari Rakovac, a hunting stand on the meadow ridge and, below, the red-roofed Lovački dom (hunting lodge), under a light spring sky"
+  temp: false
+  alt_ru: "Цветущая акация на склонах в сторону Стари-Раковца, охотничья вышка на луговом гребне, а внизу охотничий дом Lovački dom с красной крышей, под светлым весенним небом"
+  alt_sr: "Bagrem u cvetu na padinama prema Starom Rakovcu, lovačka čeka na livadskom grebenu i ispod nje Lovački dom s crvenim krovom, pod svetlim prolećnim nebom"
+  alt_cyr: "Багрем у цвету на падинама према Старом Раковцу, ловачка чека на ливадском гребену и испод ње Ловачки дом с црвеним кровом, под светлим пролећним небом"
+  alt_de: "Blühende Robinien an den Hängen Richtung Stari Rakovac, ein Hochsitz auf dem Wiesenkamm und darunter das Jagdhaus Lovački dom mit rotem Dach, unter hellem Frühlingshimmel"
+  alt_hu: "Virágzó akácok a Stari Rakovac felé eső lejtőkön, vadles a réti gerincen, alatta a piros tetős Lovački dom vadászház, világos tavaszi ég alatt"
+belegirska-orchard-overcast:
+  src: img/belegirska-orchard-overcast.jpg
+  author: "Ilya Vasilyev"
+  author_ru: "Илья Васильев"
+  author_sr: "Ilja Vasiljev"
+  author_cyr: "Иља Васиљев"
+  author_de: "Ilya Vasilyev"
+  author_hu: "Ilya Vasilyev"
+  license: "© all rights reserved"
+  alt: "A mown young orchard on an overcast day, looking across the green valley to the wooded top of Čardak hill towards Stari Rakovac"
+  temp: false
+  alt_ru: "Скошенный молодой сад в пасмурный день, за ним зелёная долина и лесистая вершина холма Чардак в сторону Стари-Раковца"
+  alt_sr: "Pokošen mladi voćnjak po oblačnom danu, iza njega zelena dolina i šumoviti vrh Čardaka prema Starom Rakovcu"
+  alt_cyr: "Покошен млади воћњак по облачном дану, иза њега зелена долина и шумовити врх Чардака према Старом Раковцу"
+  alt_de: "Ein gemähter junger Obstgarten an einem bedeckten Tag, dahinter das grüne Tal und die bewaldete Kuppe des Čardak Richtung Stari Rakovac"
+  alt_hu: "Lekaszált fiatal gyümölcsös borús napon, mögötte a zöld völgy és a Čardak erdős csúcsa Stari Rakovac felé"
+belegirska-storm-spring:
+  src: img/belegirska-storm-spring.jpg
+  author: "Ilya Vasilyev"
+  author_ru: "Илья Васильев"
+  author_sr: "Ilja Vasiljev"
+  author_cyr: "Иља Васиљев"
+  author_de: "Ilya Vasilyev"
+  author_hu: "Ilya Vasilyev"
+  license: "© all rights reserved"
+  alt: "A storm gathering over the green hills between Novi and Stari Rakovac, with scattered houses and gardens on the slopes"
+  temp: false
+  alt_ru: "Над зелёными холмами между Нови-Раковцем и Стари-Раковцем собирается гроза, на склонах редкие дома и сады"
+  alt_sr: "Nad zelenim brdima između Novog i Starog Rakovca sprema se oluja, na padinama retke kuće i bašte"
+  alt_cyr: "Над зеленим брдима између Новог и Старог Раковца спрема се олуја, на падинама ретке куће и баште"
+  alt_de: "Über den grünen Hügeln zwischen Novi und Stari Rakovac zieht ein Gewitter auf, an den Hängen vereinzelte Häuser und Gärten"
+  alt_hu: "Vihar készülődik a Novi és Stari Rakovac közötti zöld dombok fölött, a lejtőkön elszórt házak és kertek"
+belegirska-clouds-summer:
+  src: img/belegirska-clouds-summer.jpg
+  author: "Ilya Vasilyev"
+  author_ru: "Илья Васильев"
+  author_sr: "Ilja Vasiljev"
+  author_cyr: "Иља Васиљев"
+  author_de: "Ilya Vasilyev"
+  author_hu: "Ilya Vasilyev"
+  license: "© all rights reserved"
+  alt: "Summer clouds over the valley towards Stari Rakovac: meadows, orchards and red-roofed houses below the wooded hills"
+  temp: false
+  alt_ru: "Летние облака над долиной в сторону Стари-Раковца: луга, сады и дома с красными крышами под лесистыми холмами"
+  alt_sr: "Letnji oblaci nad dolinom prema Starom Rakovcu: livade, voćnjaci i kuće s crvenim krovovima ispod šumovitih brda"
+  alt_cyr: "Летњи облаци над долином према Старом Раковцу: ливаде, воћњаци и куће с црвеним крововима испод шумовитих брда"
+  alt_de: "Sommerwolken über dem Tal Richtung Stari Rakovac: Wiesen, Obstgärten und Häuser mit roten Dächern unter den bewaldeten Hügeln"
+  alt_hu: "Nyári felhők a Stari Rakovac felé eső völgy fölött: rétek, gyümölcsösök és piros tetős házak az erdős dombok alatt"
+belegirska-evening-summer:
+  src: img/belegirska-evening-summer.jpg
+  author: "Ilya Vasilyev"
+  author_ru: "Илья Васильев"
+  author_sr: "Ilja Vasiljev"
+  author_cyr: "Иља Васиљев"
+  author_de: "Ilya Vasilyev"
+  author_hu: "Ilya Vasilyev"
+  license: "© all rights reserved"
+  alt: "Evening sun over the valley towards Stari Rakovac: a fenced young orchard in front, green slopes and houses beyond, under a deep blue sky"
+  temp: false
+  alt_ru: "Вечернее солнце над долиной в сторону Стари-Раковца: впереди огороженный молодой сад, дальше зелёные склоны и дома, над ними густо-синее небо"
+  alt_sr: "Večernje sunce nad dolinom prema Starom Rakovcu: napred ograđen mladi voćnjak, dalje zelene padine i kuće, iznad njih tamnoplavo nebo"
+  alt_cyr: "Вечерње сунце над долином према Старом Раковцу: напред ограђен млади воћњак, даље зелене падине и куће, изнад њих тамноплаво небо"
+  alt_de: "Abendsonne über dem Tal Richtung Stari Rakovac: vorn ein eingezäunter junger Obstgarten, dahinter grüne Hänge und Häuser unter tiefblauem Himmel"
+  alt_hu: "Esti napfény a Stari Rakovac felé eső völgy fölött: elöl bekerített fiatal gyümölcsös, mögötte zöld lejtők és házak, mélykék ég alatt"
+belegirska-terrace-summer:
+  src: img/belegirska-terrace-summer.jpg
+  author: "Ilya Vasilyev"
+  author_ru: "Илья Васильев"
+  author_sr: "Ilja Vasiljev"
+  author_cyr: "Иља Васиљев"
+  author_de: "Ilya Vasilyev"
+  author_hu: "Ilya Vasilyev"
+  license: "© all rights reserved"
+  alt: "Two wooden chairs on a terrace above the valley: green hills, meadows and orchards towards Stari Rakovac under summer clouds"
+  temp: false
+  alt_ru: "Два деревянных кресла на террасе над долиной: зелёные холмы, луга и сады в сторону Стари-Раковца под летними облаками"
+  alt_sr: "Dve drvene stolice na terasi iznad doline: zelena brda, livade i voćnjaci prema Starom Rakovcu pod letnjim oblacima"
+  alt_cyr: "Две дрвене столице на тераси изнад долине: зелена брда, ливаде и воћњаци према Старом Раковцу под летњим облацима"
+  alt_de: "Zwei Holzstühle auf einer Terrasse über dem Tal: grüne Hügel, Wiesen und Obstgärten Richtung Stari Rakovac unter Sommerwolken"
+  alt_hu: "Két fa szék egy teraszon a völgy fölött: zöld dombok, rétek és gyümölcsösök Stari Rakovac felé nyári felhők alatt"
+belegirska-sunset-clouds:
+  src: img/belegirska-sunset-clouds.jpg
+  author: "Ilya Vasilyev"
+  author_ru: "Илья Васильев"
+  author_sr: "Ilja Vasiljev"
+  author_cyr: "Иља Васиљев"
+  author_de: "Ilya Vasilyev"
+  author_hu: "Ilya Vasilyev"
+  license: "© all rights reserved"
+  alt: "Towering clouds lit pink by the setting sun over the wooded hills towards Stari Rakovac"
+  temp: false
+  alt_ru: "Высокие облака, подсвеченные закатным солнцем, над лесистыми холмами в сторону Стари-Раковца"
+  alt_sr: "Visoki oblaci obasjani zalazećim suncem nad šumovitim brdima prema Starom Rakovcu"
+  alt_cyr: "Високи облаци обасјани залазећим сунцем над шумовитим брдима према Старом Раковцу"
+  alt_de: "Hoch aufgetürmte Wolken im Licht der untergehenden Sonne über den bewaldeten Hügeln Richtung Stari Rakovac"
+  alt_hu: "Magasra tornyosuló, lemenő nap festette felhők az erdős dombok fölött Stari Rakovac felé"
 lookout-summer-fields:
   src: img/lookout-summer-fields.jpg
   author: Konstantin Stein
