@@ -1,5 +1,6 @@
 ---
 title: Stražilovo
+seo_title: "Stražilovo, Fruška gora: grob Branka Radičevića i početak transverzale"
 kicker: Malo dalje · kod Sremskih Karlovaca
 weight: 9
 category: nature

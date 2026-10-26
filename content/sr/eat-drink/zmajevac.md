@@ -1,5 +1,7 @@
 ---
 title: Restoran Zmajevac
+seo_title: "Restoran Zmajevac, Fruška gora: planinarski dom iznad Rakovca"
+seo_description: "Restoran Zmajevac na Fruškoj gori: restoran u nekadašnjem planinarskom domu na Zmajevcu, u šumi visoko iznad Rakovca, a u blizini igralište Eko park. Lokacija i telefon."
 kicker: Šumski restoran na grebenu
 weight: 4
 category: food

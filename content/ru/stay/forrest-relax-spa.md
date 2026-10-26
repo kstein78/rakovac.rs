@@ -1,5 +1,7 @@
 ---
 title: Forrest Relax & Spa
+seo_title: "Forrest Relax & Spa (Forest Relax Spa), Раковац: дом для отдыха на Фрушка-Горе"
+seo_description: "Forrest Relax & Spa, его ищут и как Forest Relax Spa: дом для отдыха со спа на Цветной улице в Раковце, у леса Фрушка-Горы, в нескольких минутах от монастыря."
 kicker: Гостевой дом со спа · у монастыря
 weight: 2
 category: stay

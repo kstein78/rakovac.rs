@@ -1,5 +1,7 @@
 ---
 title: Beli majdan
+seo_title: "Beli majdan (Rakovačka pećina), Fruška gora: stari kamenolom"
+seo_description: "Beli majdan, poznat kao Rakovačka pećina: dvorana isečena u brdu iznad manastira Rakovac na Fruškoj gori, sa kamenim stubovima koji drže svod. Deset minuta pešice od manastira."
 kicker: Stari kamenolom · poznat i kao Rakovačka pećina
 weight: 1
 category: nature

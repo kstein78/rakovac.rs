@@ -1,5 +1,7 @@
 ---
 title: Forrest Relax & Spa
+seo_title: "Forrest Relax & Spa (Forest Relax Spa), Rakovac: kuća za odmor na Fruškoj gori"
+seo_description: "Forrest Relax & Spa, poznat i kao Forest Relax Spa: kuća za odmor sa spa sadržajem u Cvetnoj ulici u Rakovcu, uz šumu Fruške gore i nekoliko minuta od manastira."
 kicker: Kuća za odmor sa spa sadržajem · kod manastira
 weight: 2
 category: stay

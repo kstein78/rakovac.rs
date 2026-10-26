@@ -1,5 +1,7 @@
 ---
 title: Ledinci-See
+seo_title: "Ledinci-See (Ledinačko jezero), Fruška Gora: Anfahrt und Baden"
+seo_description: "Der Ledinci-See: türkisfarbenes Wasser in einem gefluteten Steinbruch oberhalb von Stari Ledinci in der Fruška Gora, 15 Minuten von Rakovac. Derzeit gesperrt, Baden ist gefährlich."
 kicker: Ledinačko jezero · etwa 15 Minuten mit dem Auto
 weight: 3
 category: nature

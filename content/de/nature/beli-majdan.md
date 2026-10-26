@@ -1,5 +1,7 @@
 ---
 title: Beli Majdan
+seo_title: "Beli Majdan (Höhle von Rakovac), Fruška Gora: alter Steinbruch"
+seo_description: "Beli Majdan, im Ort Rakovac-Höhle genannt: eine in den Hang gehauene Halle oberhalb des Klosters Rakovac in der Fruška Gora, die Decke ruht auf Steinpfeilern. Zehn Minuten zu Fuß vom Kloster."
 kicker: Alter Steinbruch · auch Höhle von Rakovac genannt
 weight: 1
 category: nature

@@ -1,5 +1,7 @@
 ---
 title: Forrest Relax & Spa
+seo_title: "Forrest Relax & Spa (Forest Relax Spa), Rakovac: holiday house on Fruška Gora"
+seo_description: "Forrest Relax & Spa, also searched as Forest Relax Spa: a holiday house with spa on Cvetna street in Rakovac, by the Fruška Gora forest and a few minutes from the monastery."
 kicker: Holiday house with spa · near the monastery
 weight: 2
 category: stay

@@ -1,5 +1,7 @@
 ---
 title: Manastir Rakovac
+seo_title: "Manastir Rakovac, Fruška gora: istorija, bogosluženja, iguman, kako stići"
+seo_description: "Manastir Rakovac na Fruškoj gori, posvećen svetim vračima Kozmi i Damjanu: muški manastir Eparhije sremske, iguman jeromonah Evgenije (Pilipović). Istorija, raspored bogosluženja, mapa."
 linkTitle: Manastir
 weight: 20
 kicker: Stari Rakovac

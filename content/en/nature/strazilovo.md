@@ -1,5 +1,6 @@
 ---
 title: "Stražilovo"
+seo_title: "Stražilovo, Fruška Gora: Branko Radičević's grave and the transversal trail"
 kicker: "Further afield · near Sremski Karlovci"
 weight: 9
 category: nature

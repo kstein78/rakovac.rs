@@ -1,5 +1,7 @@
 ---
 title: Ledinci-tó
+seo_title: "Ledinci-tó (Ledinačko jezero), Tarcal-hegység: megközelítés, fürdés"
+seo_description: "A Ledinci-tó: türkizkék víz egy elárasztott kőbányában Stari Ledinci fölött, a Tarcal-hegységben (Fruška Gora), 15 percre Rakovactól. Jelenleg nem látogatható, a fürdés veszélyes."
 kicker: Ledinačko jezero · kb. 15 perc autóval
 weight: 3
 category: nature

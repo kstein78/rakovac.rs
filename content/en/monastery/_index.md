@@ -1,5 +1,7 @@
 ---
 title: "Rakovac Monastery"
+seo_title: "Rakovac Monastery, Fruška Gora: history, services, abbot, how to get there"
+seo_description: "Rakovac Monastery on Fruška Gora, dedicated to Saints Cosmas and Damian: a men's monastery of the Eparchy of Srem, abbot Hieromonk Evgenije (Pilipović). History, service times, map."
 linkTitle: "The Monastery"
 weight: 20
 kicker: "Manastir Rakovac · Stari Rakovac"

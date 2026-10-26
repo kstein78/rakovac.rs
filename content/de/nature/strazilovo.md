@@ -1,5 +1,6 @@
 ---
 title: Stražilovo
+seo_title: "Stražilovo, Fruška Gora: Grab von Branko Radičević und der Transversale-Wanderweg"
 kicker: Etwas weiter entfernt · bei Sremski Karlovci
 weight: 9
 category: nature

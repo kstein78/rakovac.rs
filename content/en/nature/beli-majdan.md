@@ -1,5 +1,7 @@
 ---
 title: "Beli Majdan"
+seo_title: "Beli Majdan (Rakovac Cave), Fruška Gora: old stone quarry hall"
+seo_description: "Beli Majdan, known locally as the Rakovac Cave: a hall cut into the hillside above Rakovac Monastery on Fruška Gora, its roof on stone pillars. Ten minutes on foot from the monastery."
 kicker: "Old quarry · also called Rakovac Cave"
 weight: 1
 category: nature

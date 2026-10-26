@@ -1,5 +1,7 @@
 ---
 title: Ledinačko jezero
+seo_title: "Ledinačko jezero, Fruška gora: kako stići i da li se može kupati"
+seo_description: "Ledinačko jezero: tirkizno jezero u potopljenom kamenolomu iznad Starih Ledinaca na Fruškoj gori, 15 minuta od Rakovca. Trenutno zatvoreno za posetioce, kupanje je opasno."
 kicker: Oko 15 minuta automobilom
 weight: 3
 category: nature

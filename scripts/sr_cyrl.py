@@ -138,7 +138,7 @@ def tr_body(s):
 
 
 # ------------------------------------------------------------------ front matter
-TEXT_KEYS = {'title', 'linkTitle', 'kicker', 'slogan', 'summary', 'lead', 'tile', 'list_title', 'featured_title',
+TEXT_KEYS = {'title', 'seo_title', 'seo_description', 'linkTitle', 'kicker', 'slogan', 'summary', 'lead', 'tile', 'list_title', 'featured_title',
              'sections_title', 'years', 'sort_name', 'address', 'after', 'description'}
 STRUCT_KEYS = {'facts', 'videos', 'keyfacts', 'groups', 'group_titles'}
 LOCKED_LEAVES = {'id', 'url', 'url_label', 'coords', 'phone', 'website', 'email', 'key', 'map', 'photo', 'icon'}

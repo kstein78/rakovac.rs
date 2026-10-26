@@ -1,5 +1,6 @@
 ---
 title: Stražilovo
+seo_title: "Stražilovo, Tarcal-hegység: Branko Radičević sírja és a körtúra kezdete"
 kicker: Kicsit távolabb · Karlóca (Sremski Karlovci) mellett
 weight: 9
 category: nature

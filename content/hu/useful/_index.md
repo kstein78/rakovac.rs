@@ -1,5 +1,7 @@
 ---
 title: Hasznos információk
+seo_title: "Rakovac hasznos tudnivalók: posta, gyógyszertár, orvos, benzinkút, irányítószám 21299"
+seo_description: "Hasznos tudnivalók Rakovacról: megközelítés, segélyhívó számok, a beočini egészségház, gyógyszertár, posta, benzinkút, bankautomaták és a 21299-es irányítószám."
 linkTitle: Hasznos tudnivalók
 weight: 70
 kicker: Gyakorlati tudnivalók

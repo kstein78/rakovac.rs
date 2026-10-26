@@ -11,7 +11,7 @@
 {{ $lang := site.Language.Lang }}
 {{ $brand := i18n "brand_name" }}
 {{ $home := site.Home }}
-{{ $d := .Params.summary | default .Description | default .Params.lead | default .Params.tile | default .Summary | default site.Language.Params.description | markdownify | plainify | htmlUnescape | replaceRE `\s+` " " | strings.TrimSpace }}
+{{ $d := .Params.seo_description | default .Params.summary | default .Description | default .Params.lead | default .Params.tile | default .Summary | default site.Language.Params.description | markdownify | plainify | htmlUnescape | replaceRE `\s+` " " | strings.TrimSpace }}
 {{ $d = truncate 300 "…" $d }}
 
 {{/* Author: front matter "author" (key in data/authors.yaml) or the site's default author. */}}

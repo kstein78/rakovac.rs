@@ -1,5 +1,7 @@
 ---
 title: Forrest Relax & Spa
+seo_title: "Forrest Relax & Spa (Forest Relax Spa), Rakovac: nyaraló a Tarcal-hegységben"
+seo_description: "Forrest Relax & Spa, Forest Relax Spa néven is keresik: wellness-nyaraló a rakovaci Cvetna utcában, a Tarcal-hegység (Fruška Gora) erdejének szélén, pár percre a kolostortól."
 kicker: Nyaraló wellnessrészleggel · a kolostor közelében
 weight: 2
 category: stay

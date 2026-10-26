@@ -1,5 +1,7 @@
 ---
 title: Rakovaci kolostor
+seo_title: "Rakovaci kolostor, Tarcal-hegység: történet, istentiszteletek, apát, megközelítés"
+seo_description: "A rakovaci kolostor a Tarcal-hegységben (Fruška Gora), Szent Kozma és Damján tiszteletére: a szerémi egyházmegye férfikolostora, apátja Evgenije (Pilipović) hieromonachus. Történet, miserend, térkép."
 linkTitle: A kolostor
 weight: 20
 kicker: Manastir Rakovac · Stari Rakovac

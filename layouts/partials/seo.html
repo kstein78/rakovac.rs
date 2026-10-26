@@ -6,9 +6,17 @@
 {{ $brand := i18n "brand_name" }}
 {{ $sitedesc := site.Language.Params.description }}
 {{/* No " · <brand>" when the title already names the place: shorter titles, nothing cut off in search results. */}}
-{{ $title := cond .IsHome (printf "%s · %s" $brand site.Language.Params.tagline) (cond (strings.Contains (lower .Title) (lower $brand)) .Title (printf "%s · %s" .Title $brand)) }}
+{{/* seo_title (front matter, translated per language) wins. Without it, a page whose title is the same in another language
+  (proper names: "Beli majdan", "Restoran Pećina") gets its section name added, so every language has its own title. */}}
+{{ $t := .Params.seo_title | default .Title }}
+{{ if and (not .Params.seo_title) (not .IsHome) (not .IsSection) }}
+  {{ $same := false }}{{ $me := lower .Title }}
+  {{ range .Translations }}{{ if eq (lower .Title) $me }}{{ $same = true }}{{ end }}{{ end }}
+  {{ with and $same .CurrentSection }}{{ if ne .Permalink $.Permalink }}{{ $t = printf "%s · %s" $.Title .LinkTitle }}{{ end }}{{ end }}
+{{ end }}
+{{ $title := cond .IsHome (printf "%s · %s" $brand site.Language.Params.tagline) (cond (strings.Contains (lower $t) (lower $brand)) $t (printf "%s · %s" $t $brand)) }}
 {{ $d := "" }}
-{{ if .IsHome }}{{ $d = $sitedesc }}{{ else }}{{ $d = .Params.summary | default .Description | default .Params.lead | default .Params.tile | default .Summary }}{{ end }}
+{{ if .IsHome }}{{ $d = $sitedesc }}{{ else }}{{ $d = .Params.seo_description | default .Params.summary | default .Description | default .Params.lead | default .Params.tile | default .Summary }}{{ end }}
 {{ $d = $d | default $sitedesc | markdownify | plainify | htmlUnescape | replaceRE `\s+` " " | strings.TrimSpace }}
 {{ $d = truncate 160 "…" $d }}
 {{ $img := "" }}{{ $imgAlt := "" }}{{ $imgW := 0 }}{{ $imgH := 0 }}

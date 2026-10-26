@@ -1,5 +1,7 @@
 ---
 title: Beli Majdan
+seo_title: "Beli Majdan (Rakovaci-barlang), Tarcal-hegység: régi kőfejtő"
+seo_description: "A Beli Majdan, helyi nevén Rakovaci-barlang: a domboldalba vájt csarnok a rakovaci kolostor fölött a Tarcal-hegységben, mennyezetét kőoszlopok tartják. Tíz perc gyalog a kolostortól."
 kicker: Régi kőbánya · más néven Rakovaci-barlang
 weight: 1
 category: nature

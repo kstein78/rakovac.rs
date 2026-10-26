@@ -1,5 +1,7 @@
 ---
 title: Restoran Zmajevac
+seo_title: "Restoran Zmajevac, Fruška Gora: Gasthaus in der alten Berghütte über Rakovac"
+seo_description: "Restoran Zmajevac in der Fruška Gora: ein Restaurant in der ehemaligen Berghütte am Zmajevac, im Wald hoch über Rakovac, mit dem Spielplatz Eko park in der Nähe. Lage und Telefon."
 kicker: Waldgasthaus auf dem Kamm
 weight: 4
 category: food

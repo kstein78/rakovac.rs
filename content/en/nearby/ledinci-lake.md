@@ -1,5 +1,7 @@
 ---
 title: Lake Ledinci
+seo_title: "Lake Ledinci (Ledinačko jezero), Fruška Gora: how to get there, can you swim"
+seo_description: "Lake Ledinci: a turquoise lake in a flooded quarry above Stari Ledinci on Fruška Gora, 15 minutes from Rakovac. Currently closed to visitors and dangerous for swimming."
 kicker: Ledinačko jezero · about 15 minutes by car
 weight: 3
 category: nature

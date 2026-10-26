@@ -1,5 +1,7 @@
 ---
 title: Restoran Zmajevac
+seo_title: "Zmajevac étterem, Tarcal-hegység: a régi turistaház Rakovac fölött"
+seo_description: "A Zmajevac étterem a Tarcal-hegységben (Fruška Gora): a volt turistaházban működik Zmajevacon, az erdőben Rakovac fölött, a közelben az Eko park játszótér. Helyszín és telefon."
 kicker: Erdei vendéglő a gerincen
 weight: 4
 category: food

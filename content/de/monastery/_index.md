@@ -1,5 +1,7 @@
 ---
 title: Kloster Rakovac
+seo_title: "Kloster Rakovac, Fruška Gora: Geschichte, Gottesdienste, Abt, Anfahrt"
+seo_description: "Das Kloster Rakovac in der Fruška Gora, den Heiligen Kosmas und Damian geweiht: Männerkloster der Eparchie Srem, Abt Hieromonach Evgenije (Pilipović). Geschichte, Gottesdienstzeiten, Karte."
 linkTitle: Das Kloster
 weight: 20
 kicker: Manastir Rakovac · Stari Rakovac

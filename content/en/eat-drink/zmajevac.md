@@ -1,5 +1,7 @@
 ---
 title: Restoran Zmajevac
+seo_title: "Restoran Zmajevac, Fruška Gora: restaurant in the old mountain hut above Rakovac"
+seo_description: "Restoran Zmajevac on Fruška Gora: a restaurant in the former mountaineers' hut at Zmajevac, in the forest high above Rakovac, with the Eko park playground nearby. Location and phone."
 kicker: Forest inn on the ridge
 weight: 4
 category: food
