@@ -5,7 +5,7 @@ weight: 4
 category: nature
 summary: Ein Aussichtspunkt oberhalb des Dorfes mit weitem Blick über Novi Sad und die Donauebene.
 lead: Vom Aussichtspunkt Kesten, 305 m über dem Meeresspiegel, öffnet sich der Blick nach Norden über Novi Sad und die Donau.
-photo: forest-autumn
+photo: kesten-hill-autumn
 coords:
 - 45.1892018
 - 19.7804973

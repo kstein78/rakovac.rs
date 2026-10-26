@@ -5,7 +5,7 @@ weight: 4
 category: nature
 summary: Vidikovac iznad sela sa širokim pogledom na Novi Sad i podunavsku ravnicu.
 lead: Sa vidikovca Kesten, 305 m nadmorske visine, pogled se otvara ka severu, na Novi Sad i Dunav.
-photo: forest-autumn
+photo: kesten-hill-autumn
 coords:
 - 45.1892018
 - 19.7804973

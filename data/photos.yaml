@@ -723,6 +723,22 @@ belegirska-sunset-clouds:
   alt_cyr: "Високи облаци обасјани залазећим сунцем над шумовитим брдима према Старом Раковцу"
   alt_de: "Hoch aufgetürmte Wolken im Licht der untergehenden Sonne über den bewaldeten Hügeln Richtung Stari Rakovac"
   alt_hu: "Magasra tornyosuló, lemenő nap festette felhők az erdős dombok fölött Stari Rakovac felé"
+kesten-hill-autumn:
+  src: img/kesten-hill-autumn.jpg
+  author: "Ilya Vasilyev"
+  author_ru: "Илья Васильев"
+  author_sr: "Ilja Vasiljev"
+  author_cyr: "Иља Васиљев"
+  author_de: "Ilya Vasilyev"
+  author_hu: "Ilya Vasilyev"
+  license: "© all rights reserved"
+  alt: "Kesten hill above Rakovac in the autumn sun, its meadow top fenced off, under towering clouds, seen from Nikole Pašića Street (Stolice)"
+  temp: false
+  alt_ru: "Холм Кестен над Раковцем в осеннем солнце, его луговая вершина огорожена, над ним высокие облака: вид с улицы Николы Пашича (Столице)"
+  alt_sr: "Brdo Kesten iznad Rakovca na jesenjem suncu, ograđen livadski vrh pod visokim oblacima, pogled iz ulice Nikole Pašića (Stolice)"
+  alt_cyr: "Брдо Кестен изнад Раковца на јесењем сунцу, ограђен ливадски врх под високим облацима, поглед из улице Николе Пашића (Столице)"
+  alt_de: "Der Hügel Kesten über Rakovac in der Herbstsonne, die eingezäunte Wiesenkuppe unter hoch aufgetürmten Wolken, Blick von der Nikole-Pašića-Straße (Stolice)"
+  alt_hu: "A Kesten-domb Rakovac fölött őszi napfényben, bekerített réti csúcsa magasra tornyosuló felhők alatt, kilátás a Nikole Pašića utcából (Stolice)"
 lookout-summer-fields:
   src: img/lookout-summer-fields.jpg
   author: Konstantin Stein

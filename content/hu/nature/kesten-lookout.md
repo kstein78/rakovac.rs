@@ -5,7 +5,7 @@ weight: 4
 category: nature
 summary: Kilátópont a falu felett, széles kilátással Újvidékre (Novi Sad) és a Duna menti síkságra.
 lead: A tengerszint felett 305 m magasan fekvő Kesten-kilátóból északra, Újvidékre (Novi Sad) és a Dunára nyílik kilátás.
-photo: forest-autumn
+photo: kesten-hill-autumn
 coords:
 - 45.1892018
 - 19.7804973

@@ -5,7 +5,7 @@ weight: 4
 category: nature
 summary: "A viewpoint above the village with a wide view over Novi Sad and the Danube plain."
 lead: "From the Kesten viewpoint, 305 m above sea level, the view opens north over Novi Sad and the Danube."
-photo: forest-autumn
+photo: kesten-hill-autumn
 coords: [45.1892018, 19.7804973]
 altitude: 305
 facts:
