@@ -43,6 +43,9 @@ jobs:
       - name: SEO check (descriptions in each language, canonical, hreflang, Open Graph, JSON-LD)
         run: python3 scripts/seo_check.py public
 
+      - name: Card photos (warn when two cards on one page show the same photo)
+        run: python3 scripts/card_dups.py public
+
       - name: Search index (Pagefind)
         run: npx -y "pagefind@${PAGEFIND_VERSION}" --site public --quiet
 

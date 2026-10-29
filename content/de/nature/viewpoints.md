@@ -3,7 +3,7 @@ title: Aussichtspunkte rund um Rakovac
 seo_title: 'Aussichtspunkte rund um Rakovac, Fruška Gora: Blick auf Novi Sad und die Donau'
 kicker: Vidikovci · Fruška Gora
 weight: 0
-photo: lookout-slopes-novi-sad
+photo: lookout-danube-bend
 summary: 'Die schönsten Ausblicke rund um Rakovac in der Fruška Gora: der Aussichtspunkt mit Schaukel über Novi Rakovac, der Aussichtspunkt Kesten und die Wiesen von Brankovac auf dem Kamm, mit Anfahrt.'
 tile: Aussichtspunkt mit Schaukel, Kesten, Brankovac
 ---

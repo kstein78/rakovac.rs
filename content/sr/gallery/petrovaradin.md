@@ -4,7 +4,7 @@ linkTitle: "Petrovaradin"
 kicker: "Foto-album"
 weight: 20
 album: petrovaradin
-share_photo: petrovaradin-fortress-storm-light
+share_photo: petrovaradin-clock-tower
 summary: "Petrovaradinska tvrđava na steni iznad Dunava: pogledi sa zidina na Novi Sad i Donji grad, čuvena sahat-kula i tvrđava pod olujnim oblacima s druge obale."
 lead: "Tvrđava sa svojih zidina i s druge obale Dunava."
 ---

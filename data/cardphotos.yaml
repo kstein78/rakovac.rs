@@ -1,7 +1,7 @@
 # Card pictures for pages that have no photo of their own (the key is the page's path under content/<lang>/,
 # without _index.md / .md; the value is a key in photos.yaml). Used only for cards and "new on the site" covers,
 # not as a big photo on the page itself (layouts/partials/card-key.html).
-gallery: lookout-slopes-novi-sad
+gallery: night-valley-stars
 about: identity-cover
 fonts: identity-cover
 support: identity-cover

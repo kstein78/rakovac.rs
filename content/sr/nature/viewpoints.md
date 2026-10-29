@@ -4,7 +4,7 @@ seo_title: 'Vidikovci oko Rakovca, Fruška gora: pogled na Novi Sad i Dunav'
 slug: vidikovci-oko-rakovca
 kicker: Vidikovci · Fruška gora
 weight: 0
-photo: lookout-slopes-novi-sad
+photo: lookout-danube-bend
 summary: 'Najlepši pogledi oko Rakovca na Fruškoj gori: vidikovac sa ljuljaškom iznad Novog Rakovca, vidikovac Kesten i livade Brankovca na grebenu, i kako do njih stići.'
 tile: Vidikovac sa ljuljaškom, Kesten, Brankovac
 ---

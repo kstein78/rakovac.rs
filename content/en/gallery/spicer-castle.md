@@ -4,7 +4,7 @@ linkTitle: Spitzer Castle
 kicker: Photo album
 weight: 25
 album: spicer-castle
-share_photo: spicer-front
+share_photo: spicer-loggia
 summary: 'Spitzer Castle in Beočin in autumn 2026: facades with iron dragons and the turul, the double-height hall with its gallery, stained-glass windows, painted pillars, patterned floors and the cast-iron gazebo in the park.'
 lead: The castle outside and inside, October 2026.
 ---

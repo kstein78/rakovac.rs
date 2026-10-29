@@ -4,7 +4,7 @@ linkTitle: Dvorac Špicerovih
 kicker: Foto-album
 weight: 25
 album: spicer-castle
-share_photo: spicer-front
+share_photo: spicer-loggia
 summary: 'Dvorac Špicerovih u Beočinu u jesen 2026: fasade sa gvozdenim zmajevima i turulom, hol visok dve etaže sa galerijom, vitraži, oslikani stubovi, šareni podovi i gvozdena senica u parku.'
 lead: Dvorac spolja i iznutra, oktobar 2026.
 ---

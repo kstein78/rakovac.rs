@@ -4,7 +4,7 @@ linkTitle: Эко-парк Змаевац
 kicker: Фотоальбом
 weight: 15
 album: zmajevac-playground
-share_photo: zmajevac-playground-overview
+share_photo: zmajevac-playground-wooden-train
 summary: 'Деревянная детская площадка Эко-парк Змаевац на гребне Фрушка-Горы над Раковцем: брёвна для лазания, качели, деревянный паровозик, обучающие стенды и турники.'
 lead: Деревянная площадка на гребне, 8–10 минут на машине от Раковца.
 ---

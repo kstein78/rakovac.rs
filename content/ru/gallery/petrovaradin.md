@@ -4,7 +4,7 @@ linkTitle: "Петроварадин"
 kicker: "Фотоальбом"
 weight: 20
 album: petrovaradin
-share_photo: petrovaradin-fortress-storm-light
+share_photo: petrovaradin-clock-tower
 summary: "Петроварадинская крепость на скале над Дунаем: виды со стен на Нови-Сад и Нижний город, знаменитая часовая башня и крепость под грозовыми тучами с другого берега."
 lead: "Крепость со своих стен и с другого берега Дуная."
 ---

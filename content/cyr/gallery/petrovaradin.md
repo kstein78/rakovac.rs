@@ -5,7 +5,7 @@ linkTitle: Петроварадин
 kicker: Фото-албум
 weight: 20
 album: petrovaradin
-share_photo: petrovaradin-fortress-storm-light
+share_photo: petrovaradin-clock-tower
 summary: 'Петроварадинска тврђава на стени изнад Дунава: погледи са зидина на Нови Сад и Доњи град, чувена сахат-кула и тврђава под олујним облацима с друге обале.'
 lead: Тврђава са својих зидина и с друге обале Дунава.
 ---

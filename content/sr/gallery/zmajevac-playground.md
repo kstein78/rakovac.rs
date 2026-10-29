@@ -4,7 +4,7 @@ linkTitle: Eko park Zmajevac
 kicker: Foto-album
 weight: 15
 album: zmajevac-playground
-share_photo: zmajevac-playground-overview
+share_photo: zmajevac-playground-wooden-train
 summary: 'Drveno igralište Eko park Zmajevac na grebenu Fruške gore iznad Rakovca: penjalice od balvana, ljuljaške, drveni voz, edukativne table i sprave za vežbanje na otvorenom.'
 lead: Drveno igralište na grebenu, 8–10 minuta kolima od Rakovca.
 ---

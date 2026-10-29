@@ -4,7 +4,7 @@ linkTitle: "Pétervárad"
 kicker: "Fotóalbum"
 weight: 20
 album: petrovaradin
-share_photo: petrovaradin-fortress-storm-light
+share_photo: petrovaradin-clock-tower
 summary: "A péterváradi vár a sziklán a Duna felett: kilátás a falakról Újvidékre és az Alsóvárosra, a híres óratorony és a vár viharfelhők alatt a túlpartról."
 lead: "A vár a falairól és a Duna túlpartjáról."
 ---

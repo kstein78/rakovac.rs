@@ -5,7 +5,7 @@ linkTitle: Еко парк Змајевац
 kicker: Фото-албум
 weight: 15
 album: zmajevac-playground
-share_photo: zmajevac-playground-overview
+share_photo: zmajevac-playground-wooden-train
 summary: 'Дрвено игралиште Еко парк Змајевац на гребену Фрушке горе изнад Раковца: пењалице од балвана, љуљашке, дрвени воз, едукативне табле и справе за вежбање на отвореном.'
 lead: Дрвено игралиште на гребену, 8–10 минута колима од Раковца.
 ---

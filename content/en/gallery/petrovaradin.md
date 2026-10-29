@@ -4,7 +4,7 @@ linkTitle: "Petrovaradin"
 kicker: "Photo album"
 weight: 20
 album: petrovaradin
-share_photo: petrovaradin-fortress-storm-light
+share_photo: petrovaradin-clock-tower
 summary: "Petrovaradin Fortress on its rock above the Danube: views from the walls over Novi Sad and the Lower Town, the famous clock tower, and the fortress under storm clouds seen from across the river."
 lead: "The fortress from its walls and from across the Danube."
 ---

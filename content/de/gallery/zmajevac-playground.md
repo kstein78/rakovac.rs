@@ -4,7 +4,7 @@ linkTitle: Eko park Zmajevac
 kicker: Fotoalbum
 weight: 15
 album: zmajevac-playground
-share_photo: zmajevac-playground-overview
+share_photo: zmajevac-playground-wooden-train
 summary: 'Der Holzspielplatz Eko park Zmajevac auf dem Kamm der Fruška Gora oberhalb von Rakovac: Kletterstämme, Schaukeln, eine Holzeisenbahn, Lerntafeln und Trainingsgeräte im Freien.'
 lead: Ein Holzspielplatz auf dem Kamm, 8–10 Minuten mit dem Auto von Rakovac.
 ---

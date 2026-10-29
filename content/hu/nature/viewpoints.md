@@ -3,7 +3,7 @@ title: Kilátók Rakovac környékén
 seo_title: 'Kilátók Rakovac környékén, Tarcal-hegység: Újvidék és a Duna felülről'
 kicker: Vidikovci · Tarcal-hegység
 weight: 0
-photo: lookout-slopes-novi-sad
+photo: lookout-danube-bend
 summary: 'A legszebb kilátás Rakovac környékén a Tarcal-hegységben (Fruška Gora): a hintás kilátó Novi Rakovac fölött, a Kesten-kilátó és a brankovaci rétek a gerincen, megközelítéssel.'
 tile: Hintás kilátó, Kesten, Brankovac
 ---

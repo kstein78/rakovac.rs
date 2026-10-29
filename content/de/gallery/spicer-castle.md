@@ -4,7 +4,7 @@ linkTitle: Spitzer-Schloss
 kicker: Fotoalbum
 weight: 25
 album: spicer-castle
-share_photo: spicer-front
+share_photo: spicer-loggia
 summary: 'Das Spitzer-Schloss in Beočin im Herbst 2026: Fassaden mit Eisendrachen und dem Turul, die zweigeschossige Halle mit Galerie, Buntglasfenster, bemalte Pfeiler, gemusterte Böden und der gusseiserne Pavillon im Park.'
 lead: Das Schloss von außen und innen, Oktober 2026.
 ---

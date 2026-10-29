@@ -3,7 +3,7 @@ title: Viewpoints around Rakovac
 seo_title: 'Viewpoints around Rakovac, Fruška Gora: Novi Sad and the Danube from above'
 kicker: Vidikovci · Fruška Gora
 weight: 0
-photo: lookout-slopes-novi-sad
+photo: lookout-danube-bend
 summary: 'The best views around Rakovac on Fruška Gora: the lookout with the swing above Novi Rakovac, the Kesten viewpoint and the Brankovac meadows on the ridge, and how to get there.'
 tile: Lookout with the swing, Kesten, Brankovac
 ---

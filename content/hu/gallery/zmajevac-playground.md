@@ -4,7 +4,7 @@ linkTitle: Eko park Zmajevac
 kicker: Fotóalbum
 weight: 15
 album: zmajevac-playground
-share_photo: zmajevac-playground-overview
+share_photo: zmajevac-playground-wooden-train
 summary: 'Az Eko park Zmajevac fajátszótér a Tarcal-hegység gerincén Rakovac fölött: mászórönkök, hinták, favonat, oktatótáblák és szabadtéri edzőeszközök.'
 lead: Fajátszótér a gerincen, Rakovacról autóval 8–10 perc.
 ---
