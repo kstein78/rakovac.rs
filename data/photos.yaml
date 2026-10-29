@@ -3068,3 +3068,82 @@ spicer-reconstruction-back:
   alt_cyr: "Хипотетичка реконструкција Шпицеровог дворца са стране турула: заобљени забат са турулом, ложа и димњаци (3D модел)"
   alt_de: 'Hypothetische Rekonstruktion des Spitzer-Schlosses von der Turul-Seite: der geschwungene Giebel mit dem Turul, die Loggia und die Schornsteine (3D-Modell)'
   alt_hu: 'A Spitzer-kastély feltételezett rekonstrukciója a turulos oldalról: az ívelt oromzat a turullal, a loggia és a kémények (3D-modell)'
+vicentije-jovanovic-portrait:
+  src: "https://upload.wikimedia.org/wikipedia/commons/6/64/Vikentije_Jovanovi%C4%87.jpg"
+  page: "https://commons.wikimedia.org/wiki/File:Vikentije_Jovanovi%C4%87.jpg"
+  author: "unknown painter, 1732–1737"
+  license: "public domain"
+  alt: "Metropolitan Vićentije Jovanović, oil portrait painted in 1732–1737"
+  temp: false
+  alt_ru: "Митрополит Викентий Йованович, портрет маслом 1732–1737 годов"
+  alt_sr: "Mitropolit Vićentije Jovanović, portret u ulju iz 1732–1737."
+  alt_cyr: "Митрополит Вићентије Јовановић, портрет у уљу из 1732–1737."
+  alt_de: "Metropolit Vićentije Jovanović, Ölporträt aus den Jahren 1732–1737"
+  alt_hu: "Vićentije Jovanović metropolita olajportréja, 1732–1737"
+brankovac-commons:
+  src: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Fruska_gora_-_Brankovac_1.jpg/1280px-Fruska_gora_-_Brankovac_1.jpg"
+  page: "https://commons.wikimedia.org/wiki/File:Fruska_gora_-_Brankovac_1.jpg"
+  author: "Goonie Bagheera"
+  license: "CC BY-SA 4.0"
+  alt: "The view north from the Brankovac meadows over the wooded slopes of Fruška Gora"
+  temp: false
+  alt_ru: "Вид на север с лугов Бранковца на лесистые склоны Фрушка-Горы"
+  alt_sr: "Pogled na sever sa livada Brankovca preko šumovitih padina Fruške gore"
+  alt_cyr: "Поглед на север са ливада Бранковца преко шумовитих падина Фрушке горе"
+  alt_de: "Blick von den Wiesen von Brankovac nach Norden über die bewaldeten Hänge der Fruška Gora"
+  alt_hu: "Kilátás északra a brankovaci rétekről a Tarcal-hegység erdős lejtőire"
+card-pahomije:
+  src: "img/card-pahomije.jpg"
+  author: "rakovac.rs"
+  license: "illustration, © rakovac.rs"
+  alt: "Line drawings of an inkwell, an open manuscript and a quill"
+  temp: false
+  alt_ru: "Рисунки чернильницы, раскрытой рукописи и пера"
+  alt_sr: "Crteži mastionice, otvorenog rukopisa i pera"
+  alt_cyr: "Цртежи мастионице, отвореног рукописа и пера"
+  alt_de: "Strichzeichnungen eines Tintenfasses, einer aufgeschlagenen Handschrift und einer Feder"
+  alt_hu: "Vonalrajzok: tintatartó, nyitott kézirat és lúdtoll"
+card-teofan:
+  src: "img/card-teofan.jpg"
+  author: "rakovac.rs"
+  license: "illustration, © rakovac.rs"
+  alt: "Line drawings of a sealed decree, a church and an abbot’s staff"
+  temp: false
+  alt_ru: "Рисунки свитка с печатью, храма и игуменского посоха"
+  alt_sr: "Crteži povelje sa pečatom, crkve i igumanskog štapa"
+  alt_cyr: "Цртежи повеље са печатом, цркве и игуманског штапа"
+  alt_de: "Strichzeichnungen einer gesiegelten Urkunde, einer Kirche und eines Abtsstabs"
+  alt_hu: "Vonalrajzok: pecsétes oklevél, templom és apáti pásztorbot"
+card-raka-milosevic:
+  src: "img/card-raka-milosevic.jpg"
+  author: "rakovac.rs"
+  license: "illustration, © rakovac.rs"
+  alt: "Line drawings of a bow, a deer and a church, after the legend of Raka"
+  temp: false
+  alt_ru: "Рисунки лука, оленя и храма — по легенде о Раке"
+  alt_sr: "Crteži luka, jelena i crkve, po legendi o Raki"
+  alt_cyr: "Цртежи лука, јелена и цркве, по легенди о Раки"
+  alt_de: "Strichzeichnungen von Bogen, Hirsch und Kirche nach der Legende von Raka"
+  alt_hu: "Vonalrajzok: íj, szarvas és templom Raka legendája nyomán"
+card-stari-majdan-spring:
+  src: "img/card-stari-majdan-spring.jpg"
+  author: "rakovac.rs"
+  license: "illustration, © rakovac.rs"
+  alt: "Line drawings of an oak leaf, a stone-built spring and drops of water"
+  temp: false
+  alt_ru: "Рисунки дубового листа, каменного источника и капель воды"
+  alt_sr: "Crteži hrastovog lista, zidane česme i kapi vode"
+  alt_cyr: "Цртежи храстовог листа, зидане чесме и капи воде"
+  alt_de: "Strichzeichnungen eines Eichenblatts, einer gemauerten Quelle und von Wassertropfen"
+  alt_hu: "Vonalrajzok: tölgylevél, kőből rakott forrás és vízcseppek"
+card-shops:
+  src: "img/card-shops.jpg"
+  author: "rakovac.rs"
+  license: "illustration, © rakovac.rs"
+  alt: "Line drawings of a loaf of bread, a shopping basket and scales"
+  temp: false
+  alt_ru: "Рисунки хлеба, корзины для покупок и весов"
+  alt_sr: "Crteži vekne hleba, korpe za kupovinu i vage"
+  alt_cyr: "Цртежи векне хлеба, корпе за куповину и ваге"
+  alt_de: "Strichzeichnungen eines Brotlaibs, eines Einkaufskorbs und einer Waage"
+  alt_hu: "Vonalrajzok: kenyér, bevásárlókosár és mérleg"

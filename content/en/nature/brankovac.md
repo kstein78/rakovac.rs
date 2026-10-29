@@ -8,6 +8,7 @@ coords: [45.1565306, 19.7474454]
 kids: true
 facts:
   parking: "By the ridge road"
+photo: brankovac-commons
 ---
 
 Brankovac is a picnic area managed by the national park, in the central part of Fruška Gora on the road between Zmajevac and Crveni čot. On one side there are benches, tables, shelters and a **children's playground**. On the other side are open meadows, the "Beočin meadows", with a broad view north over the plain.

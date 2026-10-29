@@ -10,6 +10,7 @@ coords:
 kids: true
 facts:
   parking: Pored grebenskog puta
+photo: brankovac-commons
 ---
 
 Brankovac je izletište Nacionalnog parka u centralnom delu Fruške gore, na putu između Zmajevca i Crvenog čota. Sa jedne strane su klupe, stolovi, nadstrešnice i **dečje igralište**. Sa druge strane su otvorene „Beočinske livade“ sa širokim pogledom na ravnicu ka severu.

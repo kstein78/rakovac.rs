@@ -8,6 +8,7 @@ coords:
 - 45.16567
 - 19.77521
 altitude: 316
+cover: card-stari-majdan-spring
 ---
 
 Kőből épített forrás közvetlenül a Rakovacból Zmajevac felé kapaszkodó út mellett, 1,4 km-rel Zmajevac előtt. Mivel az út mellett van, a hegység ezen oldalának egyik legkönnyebben elérhető forrása. A közelben ágazik le az út a régi rakovaci kőbányához. Hosszú nyári hőhullámok idején a vízhozam elapadhat.

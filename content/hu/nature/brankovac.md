@@ -10,6 +10,7 @@ coords:
 kids: true
 facts:
   parking: A gerincút mellett
+photo: brankovac-commons
 ---
 
 A Brankovac a nemzeti park által kezelt pihenőhely a Tarcal-hegység (Fruška gora) középső részén, a Zmajevac és a Crveni čot közötti úton. Az egyik oldalon padok, asztalok, esőbeállók és egy **játszótér** találhatók. A másik oldalon nyílt rétek, az úgynevezett „beočini rétek” terülnek el, széles kilátással északra, a síkság felé.

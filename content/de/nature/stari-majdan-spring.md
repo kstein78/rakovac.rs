@@ -8,6 +8,7 @@ coords:
 - 45.16567
 - 19.77521
 altitude: 316
+cover: card-stari-majdan-spring
 ---
 
 Eine gemauerte Quelle direkt an der Straße, die von Rakovac nach Zmajevac hinaufführt, 1,4 km vor Zmajevac. Da sie direkt an der Straße liegt, ist sie eine der am leichtesten erreichbaren Quellen auf dieser Seite des Gebirges. Die Abzweigung zum alten Steinbruch von Rakovac ist ganz in der Nähe. Bei langen sommerlichen Hitzewellen kann die Quelle versiegen.

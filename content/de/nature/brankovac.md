@@ -10,6 +10,7 @@ coords:
 kids: true
 facts:
   parking: An der Kammstraße
+photo: brankovac-commons
 ---
 
 Brankovac ist ein vom Nationalpark betreuter Picknickplatz im zentralen Teil der Fruška Gora, an der Straße zwischen Zmajevac und Crveni čot. Auf der einen Seite gibt es Bänke, Tische, Schutzhütten und einen **Kinderspielplatz**. Auf der anderen Seite liegen offene Wiesen, die „Beočiner Wiesen“, mit weitem Blick nach Norden über die Ebene.

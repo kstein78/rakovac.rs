@@ -41,6 +41,15 @@ PHOTOS-TODO.md         shot list to replace the temporary photos
 
 ## Everyday editing
 
+### Covers and cards: no empty covers (rule for rakovac.rs, vajska.rs, provala.rs)
+
+Every page has a picture on its card: (1) our own photo; (2) otherwise a freely licensed photo (Wikimedia Commons:
+public domain, CC BY, CC BY-SA, with author, licence and source page in `data/photos.yaml`); (3) only if there is
+none, a drawn card made with `python3 scripts/card_art.py NAME` (line drawings in the site's style). Exception:
+businesses (stay, food, shops, producers) get photos when they start working with us, not drawn cards.
+Two cards on one page must not show the same photo: give an album its own `share_photo`, a page its own `photo`
+or `cover` (card only). `scripts/card_dups.py` warns about duplicates in the build.
+
 ### Add photos to the gallery (/gallery/)
 
 1. Put the JPEG into `static/img/` and register it in `data/photos.yaml` (author = the photographer's name,

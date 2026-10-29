@@ -6,6 +6,7 @@ category: nature
 summary: "A stone-built spring beside the mountain road between Rakovac and Zmajevac."
 coords: [45.16567, 19.77521]
 altitude: 316
+cover: card-stari-majdan-spring
 ---
 
 A stone-built spring right by the road that climbs from Rakovac to Zmajevac, 1.4 km before Zmajevac. Because it is next to the road it is one of the easiest springs on this side of the mountain to reach. The turn-off to the old Rakovac quarry is nearby. The flow can stop during long summer heat waves.

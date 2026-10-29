@@ -8,6 +8,7 @@ coords:
 - 45.16567
 - 19.77521
 altitude: 316
+cover: card-stari-majdan-spring
 ---
 
 Izvor ozidan kamenom, tik uz put koji se iz Rakovca penje ka Zmajevcu, 1,4 km pre Zmajevca. Pošto je pored puta, jedan je od najpristupačnijih izvora na ovoj strani planine. U blizini je skretanje ka starom rakovačkom kamenolomu. Tokom dugih letnjih vrućina može da presuši.

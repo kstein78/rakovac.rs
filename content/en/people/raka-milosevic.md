@@ -5,6 +5,7 @@ sort_name: Milosevic Raka
 years: late 15th century
 summary: Chamberlain of Despot Jovan Branković; according to legend the founder of Rakovac Monastery, which is named after him.
 weight: 10
+cover: card-raka-milosevic
 ---
 
 According to a legend written down in 1704, Raka Milošević, chief chamberlain (*veliki komornik*) of Despot Jovan Branković, killed a deer at the place where the monastery now stands. To atone, he built a church there. Tradition dates this to 1498. The monastery and later the village took their name from him.
