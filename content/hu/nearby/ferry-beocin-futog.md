@@ -9,6 +9,7 @@ lead: "Ez a kis autós komp a Szerémség és Bácska fő összeköttetése Rako
 photo: ferry-crossing
 gallery: [ferry-landing, ferry-deck-child, danube-sunset-landing, danube-sunset-houseboat, danube-sunset-island, danube-sunset-glow, danube-sunset-calm]
 coords: [45.2275493, 19.7135925]
+phone: "+381 64 28 13 481"
 facts:
   distance: "Kb. 6 km-re nyugatra Rakovactól (légvonalban)"
   time: "Az átkelés 10–15 perc"
@@ -51,7 +52,7 @@ Beočinban a komp a **Put ka skeli** utcai kikötőből indul a Duna-parton, Rak
 
 {{< photo key="ferry-landing-dredged" >}}
 
-## Kapcsolat
+## Kapcsolat {#ferry-contact}
 
 A **„Neptun”** fuvarozó (Prevoznička radnja „Neptun”) névjegykártyája szerint:
 

@@ -38,6 +38,7 @@ portrait: author-kosta
 
 - **Имејл:** [konstantin.stein@gmail.com](mailto:konstantin.stein@gmail.com)
 - **Телефон, Viber, WhatsApp, Telegram:** [+381 63 801 5320](tel:+381638015320)
+- **Скела Беочин – Футог:** ово није број скеле. Ред вожње и телефони саме скеле су [на страници о скели]({{< relref "nearby/ferry-beocin-futog" >}}#ferry-contact).
 - **Лични сајт:** [stein-1.com](https://stein-1.com)
 
 Слободно пишите или зовите на српском, руском, енглеском или немачком.

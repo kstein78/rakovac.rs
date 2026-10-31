@@ -37,6 +37,7 @@ portrait: author-kosta
 
 - **Почта:** [konstantin.stein@gmail.com](mailto:konstantin.stein@gmail.com)
 - **Телефон, Viber, WhatsApp, Telegram:** [+381 63 801 5320](tel:+381638015320)
+- **Паром Беочин – Футог:** это не телефон парома. Расписание и телефоны самого парома — [на странице о пароме]({{< relref "nearby/ferry-beocin-futog" >}}#ferry-contact).
 - **Личный сайт:** [stein-1.com](https://stein-1.com)
 
 Можно свободно писать и звонить на сербском, русском, английском и немецком.

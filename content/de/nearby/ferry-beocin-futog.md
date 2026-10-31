@@ -9,6 +9,7 @@ lead: "Diese kleine Autofähre ist die wichtigste Verbindung zwischen Syrmien un
 photo: ferry-crossing
 gallery: [ferry-landing, ferry-deck-child, danube-sunset-landing, danube-sunset-houseboat, danube-sunset-island, danube-sunset-glow, danube-sunset-calm]
 coords: [45.2275493, 19.7135925]
+phone: "+381 64 28 13 481"
 facts:
   distance: "Etwa 6 km westlich von Rakovac (Luftlinie)"
   time: "10 bis 15 Minuten Überfahrt"
@@ -51,7 +52,7 @@ Im Oktober 2026 wurde das Flussbett an der Anlegestelle ausgebaggert, um die San
 
 {{< photo key="ferry-landing-dredged" >}}
 
-## Kontakt
+## Kontakt {#ferry-contact}
 
 Fuhrunternehmen **„Neptun“** (Prevoznička radnja „Neptun“), laut Visitenkarte:
 

@@ -37,6 +37,7 @@ Ich versuche, Lebensmittel und Dienstleistungen wann immer möglich bei Erzeuger
 
 - **E-Mail:** [konstantin.stein@gmail.com](mailto:konstantin.stein@gmail.com)
 - **Telefon, Viber, WhatsApp, Telegram:** [+381 63 801 5320](tel:+381638015320)
+- **Fähre Beočin – Futog:** Das ist nicht die Nummer der Fähre. Fahrplan und Telefonnummern der Fähre stehen [auf der Seite zur Fähre]({{< relref "nearby/ferry-beocin-futog" >}}#ferry-contact).
 - **Persönliche Website:** [stein-1.com](https://stein-1.com)
 
 Schreiben oder rufen Sie gern auf Serbisch, Russisch, Englisch oder Deutsch an.

@@ -37,6 +37,7 @@ I try to buy food and services from local producers whenever I can. This site is
 
 - **Email:** [konstantin.stein@gmail.com](mailto:konstantin.stein@gmail.com)
 - **Phone, Viber, WhatsApp, Telegram:** [+381 63 801 5320](tel:+381638015320)
+- **Ferry Beočin – Futog:** this is not the ferry's number. The timetable and the ferry's own phone numbers are [on the ferry page]({{< relref "nearby/ferry-beocin-futog" >}}#ferry-contact).
 - **Personal website:** [stein-1.com](https://stein-1.com)
 
 Feel free to write or call in Serbian, Russian, English or German.

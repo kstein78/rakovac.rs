@@ -9,6 +9,7 @@ lead: "This small car ferry is the main crossing between Srem and Bačka near Ra
 photo: ferry-crossing
 gallery: [ferry-landing, ferry-deck-child, danube-sunset-landing, danube-sunset-houseboat, danube-sunset-island, danube-sunset-glow, danube-sunset-calm]
 coords: [45.2275493, 19.7135925]
+phone: "+381 64 28 13 481"
 facts:
   distance: "About 6 km west of Rakovac (straight line)"
   time: "10 to 15 minutes across"
@@ -51,7 +52,7 @@ In October 2026 the riverbed at the landing was dug out to remove the sandbank, 
 
 {{< photo key="ferry-landing-dredged" >}}
 
-## Contact
+## Contact {#ferry-contact}
 
 Carrier **"Neptun"** (Prevoznička radnja "Neptun"), from its business card:
 

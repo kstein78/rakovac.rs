@@ -37,6 +37,7 @@ Uvek se trudim da hranu i usluge kupujem od lokalnih proizvođača i majstora. O
 
 - **Imejl:** [konstantin.stein@gmail.com](mailto:konstantin.stein@gmail.com)
 - **Telefon, Viber, WhatsApp, Telegram:** [+381 63 801 5320](tel:+381638015320)
+- **Skela Beočin – Futog:** ovo nije broj skele. Red vožnje i telefoni same skele su [na stranici o skeli]({{< relref "nearby/ferry-beocin-futog" >}}#ferry-contact).
 - **Lični sajt:** [stein-1.com](https://stein-1.com)
 
 Slobodno pišite ili zovite na srpskom, ruskom, engleskom ili nemačkom.

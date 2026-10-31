@@ -9,6 +9,7 @@ lead: "Этот небольшой паром — главная перепра�
 photo: ferry-crossing
 gallery: [ferry-landing, ferry-deck-child, danube-sunset-landing, danube-sunset-houseboat, danube-sunset-island, danube-sunset-glow, danube-sunset-calm]
 coords: [45.2275493, 19.7135925]
+phone: "+381 64 28 13 481"
 facts:
   distance: "Около 6 км к западу от Раковца (по прямой)"
   time: "Переправа 10–15 минут"
@@ -51,7 +52,7 @@ facts:
 
 {{< photo key="ferry-landing-dredged" >}}
 
-## Контакт
+## Контакт {#ferry-contact}
 
 Перевозчик **«Нептун»** (Prevoznička radnja «Neptun»), по его визитке:
 

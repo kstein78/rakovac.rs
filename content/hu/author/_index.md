@@ -37,6 +37,7 @@ Amikor csak tehetem, helyi termelőktől veszem az élelmiszert és a szolgálta
 
 - **E-mail:** [konstantin.stein@gmail.com](mailto:konstantin.stein@gmail.com)
 - **Telefon, Viber, WhatsApp, Telegram:** [+381 63 801 5320](tel:+381638015320)
+- **Beočin – Futog komp:** ez nem a komp telefonszáma. A menetrend és a komp saját telefonszámai [a kompról szóló oldalon]({{< relref "nearby/ferry-beocin-futog" >}}#ferry-contact) találhatók.
 - **Személyes weboldal:** [stein-1.com](https://stein-1.com)
 
 Írjon vagy hívjon nyugodtan szerbül, oroszul, angolul vagy németül.

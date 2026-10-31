@@ -9,6 +9,7 @@ lead: "Ova mala skela je glavna veza Srema i Bačke kod Rakovca. Štedi oko 25 k
 photo: ferry-crossing
 gallery: [ferry-landing, ferry-deck-child, danube-sunset-landing, danube-sunset-houseboat, danube-sunset-island, danube-sunset-glow, danube-sunset-calm]
 coords: [45.2275493, 19.7135925]
+phone: "+381 64 28 13 481"
 facts:
   distance: "Oko 6 km zapadno od Rakovca (vazdušnom linijom)"
   time: "Prelaz 10 do 15 minuta"
@@ -51,7 +52,7 @@ U oktobru 2026. kod pristaništa je iskopano dno da bi se uklonio sprud, i skela
 
 {{< photo key="ferry-landing-dredged" >}}
 
-## Kontakt
+## Kontakt {#ferry-contact}
 
 Prevoznička radnja **„Neptun”**, prema vizitkarti:
 
