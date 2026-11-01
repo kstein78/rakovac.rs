@@ -22,6 +22,31 @@ groups:
     url_label: gsp_timetable
   - name: Fähre Beočin – Futog
     what: 'Über die Donau nach Futog und in die Batschka, stündlich, aber vorher anrufen: Sie fährt nicht immer. [Fahrplan, Preise und Telefon](/de/nearby/ferry-beocin-futog/).'
+- id: park-fee
+  title: 'Nationalpark Fruška Gora: Gebühr für Autos und Besucher'
+  intro: Der Nationalpark erhebt eine Gebühr für Besuche und für die Nutzung von Auto oder Motorrad im Park (gesetzlich; seit 2009). **Ab 5. November 2026** werden Fahrzeuge elektronisch erfasst und abgerechnet. Preise aus der Preisliste des Parks für 2026, geprüft am 1. November 2026.
+  items:
+  - name: Preise für einen Tag
+    what: Erwachsene zu Fuß 100 Dinar, Kinder 50. Auto oder Motorrad 300; Kleinbus oder Fahrzeug mit Anhänger 500; Bus oder Lkw 800; Sattelzug oder Lkw mit Anhänger 2.000. [Preisliste des Parks (PDF)](https://fruskagoranovisajt.rs/wp-content/uploads/2026/01/cenovnik.pdf).
+    url: https://fruskagoranovisajt.rs/godisnje-karte/
+  - name: Jahreskarten
+    what: Besucher 600 Dinar, Auto oder Motorrad 1.800. Sie gelten für das Kalenderjahr (bis 31. Dezember), eine im November gekaufte Karte also zwei Monate. Erhältlich im Informationszentrum auf dem Iriški Venac und in den Außenstellen des Parks in Beočin, Vrdnik, Ležimir und Erdevik.
+    url: https://enaplatafruskagora.co.rs/
+  - name: Online bezahlen
+    what: Auf dem Portal enaplatafruskagora.co.rs (am 1. November 2026 stand dort noch „Portal in Vorbereitung“) und über die Ticketseite, auf die die [Website des Parks](https://npfruskagora.co.rs/) verlinkt (Schaltfläche „Uskoro i online“).
+  - name: Informationszentrum auf dem Iriški Venac
+    what: Zahlstelle vor Ort, auch für Jahreskarten.
+    coords:
+    - 45.1496215
+    - 19.8297952
+  - name: Wer nicht zahlt
+    what: 'Laut Gesetz ([Artikel 109](https://www.paragraf.rs/propisi/zakon-o-naknadama-za-koriscenje-javnih-dobara.html)): Personen mit ständigem Wohnsitz (*prebivalište*) in einer Gemeinde, auf deren Gebiet der Park liegt, oder in einer Nachbargemeinde, für ihr Auto – dazu gehören Beočin mit Rakovac und Novi Sad; Beschäftigte im Park, für ihr Auto; Kinder im Vorschulalter; Menschen mit Behinderung; Rentner mit Mindestrente, für ihr Auto (mit dem letzten Rentenbeleg).'
+    url: https://www.paragraf.rs/propisi/zakon-o-naknadama-za-koriscenje-javnih-dobara.html
+  - name: Wohnen in Rakovac und Alltagsfahrten
+    what: 'Mit ständigem Wohnsitz in Beočin ist Ihr Auto gesetzlich befreit. Die Befreiung gilt nur für das Auto, nicht für Besuche zu Fuß. Ausländer mit nur befristetem Aufenthalt (*privremeni boravak*) haben kein *prebivalište*, für sie gilt die Befreiung womöglich nicht. Wie das elektronische System befreite Autos erkennt, ist noch nicht bekannt: Führen Sie einen Ausweis mit Ihrer Adresse im Auto mit und fragen Sie beim Park nach.'
+    phone: +381 21 463 666
+  - name: Durchfahrt, z. B. Rakovac – Ruma
+    what: 'Im April 2025 sagte der Park, dass auf den Querstraßen über das Gebirge keine Gebühr erhoben wird: Irig – Sremska Kamenica (über den Iriški Venac), Vrdnik – Rakovac, Beočin – Bešenovo und Sviloš – Ležimir, also genau auf den Straßen von Rakovac nach Ruma. Ob das elektronische System sie erfasst, ist noch nicht bekannt. Falls ja, zahlt, wer nicht befreit ist, 300 Dinar für den Tag; von einem Einstundenticket für 100 Dinar ist die Rede, es steht aber noch nicht in der offiziellen Preisliste. Für häufige Fahrten empfiehlt der Park die Jahreskarte (1.800).'
 - id: emergency
   title: Notrufnummern
   intro: Anrufe bei diesen Nummern sind kostenlos. **112** funktioniert von jedem Mobiltelefon.

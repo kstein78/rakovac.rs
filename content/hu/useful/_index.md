@@ -22,6 +22,31 @@ groups:
     url_label: gsp_timetable
   - name: Beočin–Futak komp
     what: 'Át a Dunán Futakra és Bácskába, óránként, de indulás előtt telefonáljon: nem mindig jár. [Menetrend, árak és telefon](/hu/nearby/ferry-beocin-futog/).'
+- id: park-fee
+  title: 'Tarcal-hegység (Fruška Gora) Nemzeti Park: díj autókra és látogatókra'
+  intro: A nemzeti park díjat szed a látogatásért és az autó vagy motor használatáért a park területén (törvény alapján, 2009 óta). **2026. november 5-től** a járműveket elektronikusan rögzítik és számlázzák. Árak a park 2026-os árjegyzéke szerint, ellenőrizve 2026. november 1-jén.
+  items:
+  - name: Egynapos árak
+    what: Felnőtt gyalogos 100 dinár, gyerek 50. Személyautó vagy motor 300; kisbusz vagy utánfutós jármű 500; busz vagy teherautó 800; nyerges vontató vagy pótkocsis teherautó 2000. [A park árjegyzéke (PDF)](https://fruskagoranovisajt.rs/wp-content/uploads/2026/01/cenovnik.pdf).
+    url: https://fruskagoranovisajt.rs/godisnje-karte/
+  - name: Éves jegyek
+    what: Látogató 600 dinár, autó vagy motor 1800. A naptári évre érvényesek (december 31-ig), így a novemberben vett jegy két hónapig él. Kaphatók az Iriški venac-i Információs Központban és a park beočini, vrdniki, ležimiri és erdeviki kirendeltségein.
+    url: https://enaplatafruskagora.co.rs/
+  - name: Online fizetés
+    what: Az enaplatafruskagora.co.rs portálon (2026. november 1-jén még az állt rajta, hogy „a portál előkészítés alatt“) és a jegyvásárlási oldalon, amelyre a [park honlapja](https://npfruskagora.co.rs/) mutat („Uskoro i online“ gomb).
+  - name: Információs Központ, Iriški venac
+    what: Személyes fizetési pont, éves jegyekhez is.
+    coords:
+    - 45.1496215
+    - 19.8297952
+  - name: Ki nem fizet
+    what: 'A törvény szerint ([109. cikk](https://www.paragraf.rs/propisi/zakon-o-naknadama-za-koriscenje-javnih-dobara.html)): akinek állandó lakhelye (*prebivalište*) olyan községben van, amelynek területén a park fekszik, vagy egy szomszédos községben, a saját autójáért – ide tartozik Beočin Rakovaccal és Újvidék; a parkban dolgozók a saját autójukért; az óvodáskorú gyerekek; a fogyatékossággal élők; a legkisebb nyugdíjjal rendelkező nyugdíjasok az autójukért (az utolsó nyugdíjszelvénnyel).'
+    url: https://www.paragraf.rs/propisi/zakon-o-naknadama-za-koriscenje-javnih-dobara.html
+  - name: Rakovacban élőknek, akik ügyeket intéznek
+    what: 'Beočini állandó lakhellyel az autója törvény szerint mentes. A mentesség csak az autóra vonatkozik, a gyalogos látogatásra nem. Az ideiglenes tartózkodási engedéllyel (*privremeni boravak*) rendelkező külföldieknek nincs *prebivalište*, így rájuk a mentesség talán nem vonatkozik. Hogy az elektronikus rendszer hogyan ismeri fel a mentes autókat, még nem közölték: tartson az autóban lakcímes igazolványt, és érdeklődjön a parknál.'
+    phone: +381 21 463 666
+  - name: Átutazás, pl. Rakovac – Ruma
+    what: 'A park 2025 áprilisában közölte, hogy a hegységen átvezető keresztirányú utakon nem kell fizetni: Irig – Sremska Kamenica (az Iriški venacon át), Vrdnik – Rakovac, Beočin – Bešenovo és Sviloš – Ležimir, vagyis éppen a Rakovacról Rumára vezető utakon. Hogy az elektronikus rendszer ezeken is díjat szed-e, még nem jelentették be. Ha igen, aki nem mentes, 300 dinárt fizet egy napra; szó van egy 100 dináros egyórás jegyről is, de a hivatalos árjegyzékben még nem szerepel. Gyakori átkeléshez a park az éves jegyet ajánlja (1800).'
 - id: emergency
   title: Segélyhívó számok
   intro: Ezek a számok ingyenesen hívhatók. A **112** bármely mobiltelefonról működik.

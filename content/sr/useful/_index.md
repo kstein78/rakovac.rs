@@ -22,6 +22,31 @@ groups:
     url_label: gsp_timetable
   - name: Skela Beočin – Futog
     what: 'Preko Dunava do Futoga i Bačke, svakog sata, ali pozovite pre polaska: ne radi uvek. [Red vožnje, cene i telefon](/sr/nearby/ferry-beocin-futog/).'
+- id: park-fee
+  title: 'Nacionalni park Fruška gora: naknada za vozila i posetioce'
+  intro: Nacionalni park naplaćuje naknadu za posetu i za korišćenje automobila ili motocikla u parku (po zakonu; naplata postoji od 2009). **Od 5. novembra 2026.** vozila se evidentiraju i naplata ide elektronski. Cene iz cenovnika parka za 2026, provereno 1. novembra 2026.
+  items:
+  - name: Cene za jedan dan
+    what: Odrasli pešak 100 dinara, dete 50. Automobil ili motocikl 300; kombi ili vozilo sa prikolicom 500; autobus ili kamion 800; tegljač ili kamion sa prikolicom 2.000. [Cenovnik parka (PDF)](https://fruskagoranovisajt.rs/wp-content/uploads/2026/01/cenovnik.pdf).
+    url: https://fruskagoranovisajt.rs/godisnje-karte/
+  - name: Godišnje karte
+    what: Posetilac 600 dinara, automobil ili motocikl 1.800. Karta važi za kalendarsku godinu (do 31. decembra), pa karta kupljena u novembru važi dva meseca. Prodaju se u Informativnom centru na Iriškom vencu i u radnim jedinicama parka u Beočinu, Vrdniku, Ležimiru i Erdeviku.
+    url: https://enaplatafruskagora.co.rs/
+  - name: Plaćanje onlajn
+    what: Na portalu enaplatafruskagora.co.rs (1. novembra 2026. na njemu je još pisalo „portal je u pripremi“) i preko stranice za kupovinu karata na koju vodi [sajt parka](https://npfruskagora.co.rs/) (dugme „Uskoro i online“).
+  - name: Informativni centar na Iriškom vencu
+    what: Mesto za plaćanje na licu mesta, i za godišnje karte.
+    coords:
+    - 45.1496215
+    - 19.8297952
+  - name: Ko ne plaća
+    what: 'Po zakonu ([član 109](https://www.paragraf.rs/propisi/zakon-o-naknadama-za-koriscenje-javnih-dobara.html)): lica sa prebivalištem u opštini na čijoj teritoriji se nalazi park ili u susednoj opštini, za svoje vozilo, što obuhvata Beočin sa Rakovcem i Novi Sad; zaposleni u parku, za svoje vozilo; deca predškolskog uzrasta; osobe sa invaliditetom; penzioneri sa najnižom penzijom, za vozilo (uz poslednji ček od penzije).'
+    url: https://www.paragraf.rs/propisi/zakon-o-naknadama-za-koriscenje-javnih-dobara.html
+  - name: Živite u Rakovcu i vozite se poslom
+    what: 'Sa prebivalištem u Beočinu vaše vozilo je po zakonu oslobođeno. Oslobođenje važi samo za vozilo, ne i za posetu peške. Stranci koji imaju samo privremeni boravak nemaju prebivalište, pa se na njih oslobođenje možda ne odnosi. Kako će elektronski sistem prepoznavati oslobođena vozila još nije objavljeno: držite ličnu kartu sa adresom u autu i pitajte park.'
+    phone: +381 21 463 666
+  - name: Prolaz kroz park, npr. Rakovac – Ruma
+    what: 'Park je u aprilu 2025. rekao da se na poprečnim putevima preko planine ne naplaćuje: Irig – Sremska Kamenica (preko Iriškog venca), Vrdnik – Rakovac, Beočin – Bešenovo i Sviloš – Ležimir, a to su upravo putevi od Rakovca do Rume. Da li će ih elektronski sistem naplaćivati, još nije objavljeno. Ako bude, vozač koji nije oslobođen plaća 300 dinara za dan; pominje se i karta za jedan sat od 100 dinara, ali je još nema u zvaničnom cenovniku. Za česte prelaske park preporučuje godišnju kartu (1.800).'
 - id: emergency
   title: Brojevi za hitne slučajeve
   intro: Pozivi na ove brojeve su besplatni. **112** radi sa bilo kog mobilnog telefona.
