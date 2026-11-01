@@ -41,4 +41,4 @@ Kako će novi sistem tretirati vozila meštana i da li se plaća samo prolaz pre
 
 Odgovor parka dodaćemo ovde čim ga dobijemo.
 
-Sve ovo je i u [Korisnim informacijama]({{< relref "useful" >}}#park-fee).
+Cene, mesta plaćanja, oslobođenja i kontakti redovno se ažuriraju na stranici [Naknada za Frušku goru]({{< relref "useful/fruska-gora-park-fee" >}}).

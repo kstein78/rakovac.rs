@@ -41,4 +41,4 @@ How the new system will treat local residents' cars, and whether you pay just fo
 
 We will add the park's answer here as soon as we have it.
 
-All of this is also in [Useful info]({{< relref "useful" >}}#park-fee).
+Prices, where to pay, exemptions and contacts are kept up to date on the page [Fruška Gora park fee]({{< relref "useful/fruska-gora-park-fee" >}}).

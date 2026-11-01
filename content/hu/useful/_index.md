@@ -24,28 +24,13 @@ groups:
     what: 'Át a Dunán Futakra és Bácskába, óránként, de indulás előtt telefonáljon: nem mindig jár. [Menetrend, árak és telefon](/hu/nearby/ferry-beocin-futog/).'
 - id: park-fee
   title: 'Tarcal-hegység (Fruška Gora) Nemzeti Park: díj autókra és látogatókra'
-  intro: A nemzeti park díjat szed a látogatásért és az autó vagy motor használatáért a park területén (törvény alapján, 2009 óta). **2026. november 5-től** a járműveket elektronikusan rögzítik és számlázzák. Árak a park 2026-os árjegyzéke szerint, ellenőrizve 2026. november 1-jén.
+  intro: '**2026. november 5-től** a nemzeti park elektronikusan szedi a díjat az autóktól és motoroktól: napi 300 dinár egy autóért, 100 egy felnőtt gyalogosért; éves jegy 1800 és 600. Árak, fizetési helyek, mentességek és elérhetőségek: [Fruška Gora parkdíj](/hu/useful/fruska-gora-park-fee/).'
   items:
-  - name: Egynapos árak
-    what: Felnőtt gyalogos 100 dinár, gyerek 50. Személyautó vagy motor 300; kisbusz vagy utánfutós jármű 500; busz vagy teherautó 800; nyerges vontató vagy pótkocsis teherautó 2000. [A park árjegyzéke (PDF)](https://fruskagoranovisajt.rs/wp-content/uploads/2026/01/cenovnik.pdf).
-    url: https://fruskagoranovisajt.rs/godisnje-karte/
-  - name: Éves jegyek
-    what: Látogató 600 dinár, autó vagy motor 1800. A naptári évre érvényesek (december 31-ig), így a novemberben vett jegy két hónapig él. Kaphatók az Iriški venac-i Információs Központban és a park beočini, vrdniki, ležimiri és erdeviki kirendeltségein.
-    url: https://enaplatafruskagora.co.rs/
-  - name: Online fizetés
-    what: Az enaplatafruskagora.co.rs portálon (2026. november 1-jén még az állt rajta, hogy „a portál előkészítés alatt“) és a jegyvásárlási oldalon, amelyre a [park honlapja](https://npfruskagora.co.rs/) mutat („Uskoro i online“ gomb).
   - name: Információs Központ, Iriški venac
     what: Személyes fizetési pont, éves jegyekhez is.
     coords:
     - 45.1496215
     - 19.8297952
-  - name: 'Ki nem fizet'
-    what: 'A törvény szerint ([109. cikk](https://www.paragraf.rs/propisi/zakon-o-naknadama-za-koriscenje-javnih-dobara.html)) többek között: az óvodáskorú gyermekek, a fogyatékossággal élők, a legalacsonyabb nyugdíjjal rendelkező nyugdíjasok (az autó után, az utolsó nyugdíjszelvénnyel). A törvény mentességet ír elő a park községeiben élőknek és a parkban dolgozóknak is; hogy ezt hogyan alkalmazzák az elektronikus rendszerben, még nem jelentették be.'
-    url: https://www.paragraf.rs/propisi/zakon-o-naknadama-za-koriscenje-javnih-dobara.html
-  - name: 'Helyi lakosok és átutazás'
-    what: 'Még nem világos. Hogy az elektronikus rendszer hogyan kezeli a helyi lakosok autóit, és kell-e fizetni pusztán a hegységen való áthaladásért (pl. Rakovac – Ruma), nem jelentették be. Mielőtt bármire számítana, érdeklődjön a parknál: telefon alább, [kapcsolatfelvételi űrlap](https://npfruskagora.co.rs/kontakt/), vagy személyesen az Iriški venac-i Információs Központban vagy a park beočini kirendeltségében.'
-    phone: +381 21 463 666
-    url: https://npfruskagora.co.rs/kontakt/
 - id: emergency
   title: Segélyhívó számok
   intro: Ezek a számok ingyenesen hívhatók. A **112** bármely mobiltelefonról működik.

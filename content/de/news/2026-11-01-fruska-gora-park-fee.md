@@ -41,4 +41,4 @@ Wie das neue System mit den Autos von Anwohnern umgeht und ob man schon für die
 
 Die Antwort des Parks ergänzen wir hier, sobald wir sie haben.
 
-Alles das steht auch unter [Nützliches]({{< relref "useful" >}}#park-fee).
+Preise, Zahlstellen, Befreiungen und Kontakte halten wir auf der Seite [Gebühr Fruška Gora]({{< relref "useful/fruska-gora-park-fee" >}}) aktuell.

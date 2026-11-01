@@ -24,28 +24,13 @@ groups:
     what: 'Across the Danube to Futog and Bačka, every hour, but call before you go: it does not always run. [Timetable, prices and phone](/en/nearby/ferry-beocin-futog/).'
 - id: park-fee
   title: 'Fruška Gora National Park: fee for cars and visitors'
-  intro: The national park charges a fee for visits and for driving a car or motorcycle inside it (Serbian law; charged since 2009). **From 5 November 2026** vehicles are recorded and charged electronically. Prices from the park's 2026 price list, checked on 1 November 2026.
+  intro: '**From 5 November 2026** the national park charges cars and motorcycles electronically: 300 dinars a day for a car, 100 for an adult on foot; annual cards 1,800 and 600. Prices, where to pay, who is exempt and contacts: [Fruška Gora park fee](/en/useful/fruska-gora-park-fee/).'
   items:
-  - name: Prices for one day
-    what: Adult on foot 100 dinars, child 50. Car or motorcycle 300; van or vehicle with a trailer 500; bus or truck 800; articulated lorry or truck with trailer 2,000. [Park price list (PDF)](https://fruskagoranovisajt.rs/wp-content/uploads/2026/01/cenovnik.pdf).
-    url: https://fruskagoranovisajt.rs/godisnje-karte/
-  - name: Annual cards
-    what: Visitor 600 dinars, car or motorcycle 1,800. A card is valid for the calendar year (to 31 December), so one bought in November lasts two months. Sold at the Information Centre on Iriški Venac and at the park's offices in Beočin, Vrdnik, Ležimir and Erdevik.
-    url: https://enaplatafruskagora.co.rs/
-  - name: Paying online
-    what: On the portal enaplatafruskagora.co.rs (on 1 November 2026 it still said "portal in preparation") and through the ticket page linked from the [park's website](https://npfruskagora.co.rs/) (button "Uskoro i online").
   - name: Information Centre on Iriški Venac
     what: Payment point in person, also for annual cards.
     coords:
     - 45.1496215
     - 19.8297952
-  - name: 'Who does not pay'
-    what: 'By law ([article 109](https://www.paragraf.rs/propisi/zakon-o-naknadama-za-koriscenje-javnih-dobara.html)), among others: pre-school children, people with disabilities, pensioners with the lowest pension (for the car, with the last pension slip). The law also has exemptions for people living in the park''s municipalities and for those working in the park; how they will apply in the electronic system has not been announced.'
-    url: https://www.paragraf.rs/propisi/zakon-o-naknadama-za-koriscenje-javnih-dobara.html
-  - name: 'Local residents and driving through'
-    what: 'Not clear yet. How the electronic system will treat local residents'' cars, and whether you pay just for driving across the mountain (e.g. Rakovac – Ruma), has not been announced. Ask the park before you rely on anything: phone below, [contact form](https://npfruskagora.co.rs/kontakt/), or in person at the Information Centre on Iriški Venac or the park''s office in Beočin.'
-    phone: +381 21 463 666
-    url: https://npfruskagora.co.rs/kontakt/
 - id: emergency
   title: Emergency numbers
   intro: Calls to these numbers are free. **112** works from any mobile phone.

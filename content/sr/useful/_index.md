@@ -24,28 +24,13 @@ groups:
     what: 'Preko Dunava do Futoga i Bačke, svakog sata, ali pozovite pre polaska: ne radi uvek. [Red vožnje, cene i telefon](/sr/nearby/ferry-beocin-futog/).'
 - id: park-fee
   title: 'Nacionalni park Fruška gora: naknada za vozila i posetioce'
-  intro: Nacionalni park naplaćuje naknadu za posetu i za korišćenje automobila ili motocikla u parku (po zakonu; naplata postoji od 2009). **Od 5. novembra 2026.** vozila se evidentiraju i naplata ide elektronski. Cene iz cenovnika parka za 2026, provereno 1. novembra 2026.
+  intro: '**Od 5. novembra 2026.** nacionalni park elektronski naplaćuje naknadu za automobile i motocikle: 300 dinara dnevno za automobil, 100 za odraslog pešaka; godišnje karte 1.800 i 600. Cene, gde se plaća, ko je oslobođen i kontakti: [Naknada za Frušku goru](/sr/useful/naknada-fruska-gora/).'
   items:
-  - name: Cene za jedan dan
-    what: Odrasli pešak 100 dinara, dete 50. Automobil ili motocikl 300; kombi ili vozilo sa prikolicom 500; autobus ili kamion 800; tegljač ili kamion sa prikolicom 2.000. [Cenovnik parka (PDF)](https://fruskagoranovisajt.rs/wp-content/uploads/2026/01/cenovnik.pdf).
-    url: https://fruskagoranovisajt.rs/godisnje-karte/
-  - name: Godišnje karte
-    what: Posetilac 600 dinara, automobil ili motocikl 1.800. Karta važi za kalendarsku godinu (do 31. decembra), pa karta kupljena u novembru važi dva meseca. Prodaju se u Informativnom centru na Iriškom vencu i u radnim jedinicama parka u Beočinu, Vrdniku, Ležimiru i Erdeviku.
-    url: https://enaplatafruskagora.co.rs/
-  - name: Plaćanje onlajn
-    what: Na portalu enaplatafruskagora.co.rs (1. novembra 2026. na njemu je još pisalo „portal je u pripremi“) i preko stranice za kupovinu karata na koju vodi [sajt parka](https://npfruskagora.co.rs/) (dugme „Uskoro i online“).
   - name: Informativni centar na Iriškom vencu
     what: Mesto za plaćanje na licu mesta, i za godišnje karte.
     coords:
     - 45.1496215
     - 19.8297952
-  - name: 'Ko ne plaća'
-    what: 'Po zakonu ([član 109](https://www.paragraf.rs/propisi/zakon-o-naknadama-za-koriscenje-javnih-dobara.html)), između ostalih: deca predškolskog uzrasta, osobe sa invaliditetom, penzioneri sa najnižom penzijom (za vozilo, uz poslednji ček od penzije). Zakon predviđa i oslobođenja za lica koja žive u opštinama parka i za one koji rade u parku; kako će se primenjivati u elektronskom sistemu, još nije objavljeno.'
-    url: https://www.paragraf.rs/propisi/zakon-o-naknadama-za-koriscenje-javnih-dobara.html
-  - name: 'Meštani i prolaz kroz park'
-    what: 'Još nije jasno. Kako će elektronski sistem tretirati vozila meštana i da li se plaća samo prolaz preko planine (npr. Rakovac – Ruma), nije objavljeno. Pre nego što se na nešto oslonite, pitajte park: telefon ispod, [kontakt forma](https://npfruskagora.co.rs/kontakt/) ili lično u Informativnom centru na Iriškom vencu ili u radnoj jedinici parka u Beočinu.'
-    phone: +381 21 463 666
-    url: https://npfruskagora.co.rs/kontakt/
 - id: emergency
   title: Brojevi za hitne slučajeve
   intro: Pozivi na ove brojeve su besplatni. **112** radi sa bilo kog mobilnog telefona.

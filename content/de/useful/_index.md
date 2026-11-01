@@ -24,28 +24,13 @@ groups:
     what: 'Über die Donau nach Futog und in die Batschka, stündlich, aber vorher anrufen: Sie fährt nicht immer. [Fahrplan, Preise und Telefon](/de/nearby/ferry-beocin-futog/).'
 - id: park-fee
   title: 'Nationalpark Fruška Gora: Gebühr für Autos und Besucher'
-  intro: Der Nationalpark erhebt eine Gebühr für Besuche und für die Nutzung von Auto oder Motorrad im Park (gesetzlich; seit 2009). **Ab 5. November 2026** werden Fahrzeuge elektronisch erfasst und abgerechnet. Preise aus der Preisliste des Parks für 2026, geprüft am 1. November 2026.
+  intro: '**Ab 5. November 2026** erhebt der Nationalpark die Gebühr für Autos und Motorräder elektronisch: 300 Dinar pro Tag für ein Auto, 100 für Erwachsene zu Fuß; Jahreskarten 1.800 und 600. Preise, Zahlstellen, Befreiungen und Kontakte: [Gebühr Fruška Gora](/de/useful/fruska-gora-park-fee/).'
   items:
-  - name: Preise für einen Tag
-    what: Erwachsene zu Fuß 100 Dinar, Kinder 50. Auto oder Motorrad 300; Kleinbus oder Fahrzeug mit Anhänger 500; Bus oder Lkw 800; Sattelzug oder Lkw mit Anhänger 2.000. [Preisliste des Parks (PDF)](https://fruskagoranovisajt.rs/wp-content/uploads/2026/01/cenovnik.pdf).
-    url: https://fruskagoranovisajt.rs/godisnje-karte/
-  - name: Jahreskarten
-    what: Besucher 600 Dinar, Auto oder Motorrad 1.800. Sie gelten für das Kalenderjahr (bis 31. Dezember), eine im November gekaufte Karte also zwei Monate. Erhältlich im Informationszentrum auf dem Iriški Venac und in den Außenstellen des Parks in Beočin, Vrdnik, Ležimir und Erdevik.
-    url: https://enaplatafruskagora.co.rs/
-  - name: Online bezahlen
-    what: Auf dem Portal enaplatafruskagora.co.rs (am 1. November 2026 stand dort noch „Portal in Vorbereitung“) und über die Ticketseite, auf die die [Website des Parks](https://npfruskagora.co.rs/) verlinkt (Schaltfläche „Uskoro i online“).
   - name: Informationszentrum auf dem Iriški Venac
     what: Zahlstelle vor Ort, auch für Jahreskarten.
     coords:
     - 45.1496215
     - 19.8297952
-  - name: 'Wer nicht zahlt'
-    what: 'Laut Gesetz ([Artikel 109](https://www.paragraf.rs/propisi/zakon-o-naknadama-za-koriscenje-javnih-dobara.html)) unter anderem: Kinder im Vorschulalter, Menschen mit Behinderung, Rentner mit der niedrigsten Rente (für das Auto, mit dem letzten Rentenbescheid). Das Gesetz sieht auch Befreiungen für Bewohner der Parkgemeinden und für Beschäftigte im Park vor; wie sie im elektronischen System angewendet werden, ist noch nicht bekannt.'
-    url: https://www.paragraf.rs/propisi/zakon-o-naknadama-za-koriscenje-javnih-dobara.html
-  - name: 'Anwohner und Durchfahrt'
-    what: 'Noch unklar. Wie das elektronische System mit den Autos von Anwohnern umgeht und ob man schon für die bloße Fahrt über das Gebirge zahlt (z. B. Rakovac – Ruma), ist nicht bekannt. Fragen Sie beim Park nach, bevor Sie sich auf etwas verlassen: Telefon unten, [Kontaktformular](https://npfruskagora.co.rs/kontakt/) oder persönlich im Informationszentrum auf dem Iriški Venac oder in der Außenstelle des Parks in Beočin.'
-    phone: +381 21 463 666
-    url: https://npfruskagora.co.rs/kontakt/
 - id: emergency
   title: Notrufnummern
   intro: Anrufe bei diesen Nummern sind kostenlos. **112** funktioniert von jedem Mobiltelefon.

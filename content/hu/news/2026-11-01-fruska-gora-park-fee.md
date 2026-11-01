@@ -41,4 +41,4 @@ Hogy az új rendszer hogyan kezeli a helyi lakosok autóit, és kell-e fizetni p
 
 A park válaszát itt közöljük, amint megkapjuk.
 
-Mindez a [Hasznos információk]({{< relref "useful" >}}#park-fee) között is megtalálható.
+Az árakat, a fizetési helyeket, a mentességeket és az elérhetőségeket a [Fruška Gora parkdíj]({{< relref "useful/fruska-gora-park-fee" >}}) oldalon frissítjük.
