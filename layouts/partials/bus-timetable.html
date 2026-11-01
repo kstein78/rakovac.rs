@@ -13,8 +13,8 @@
   {{ $s2 := "" }}{{ range $k, $ls := .days }}{{ range $ls }}{{ $s2 = printf "%s|%s%s%s" $s2 $k .label (jsonify .directions) }}{{ end }}{{ end }}
   {{ if ne $s2 $sig }}{{ $show = $show | append . }}{{ end }}
 {{ end }}{{ end }}
-<section class="wrap useful-group bus" id="bus">
-  <h2>{{ i18n "bus_title" }}</h2>
+<details class="wrap useful-group fold bus" id="bus">
+  <summary><h2>{{ i18n "bus_title" }}</h2><span class="fold-peek">77 · 78 SR · 78</span></summary>
   <p class="prose-width">{{ i18n "bus_intro" }}</p>
   <ul class="bus-legend">
     <li><span class="bus-tag bus-77">77</span> {{ i18n "bus_l77" }}</li>
@@ -56,5 +56,5 @@
   </div>
   {{ end }}
   <p class="small muted">{{ i18n "bus_checked" }} {{ (time.AsTime (substr $b.fetched 0 10)).Format "02.01.2006" }} · <a href="{{ $b.source }}" rel="noopener">{{ i18n "bus_source" }}</a></p>
-</section>
+</details>
 {{ end }}

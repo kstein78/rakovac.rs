@@ -2,8 +2,8 @@
   site.js fetches /danube.html, which Caddy takes from the official RHMZ report page (so visitors' browsers never
   contact a third party), and reads: level, change since yesterday, discharge, water temperature, flood-defence
   limits and the RHMZ forecast for the next days. Until then (or if that fails) only the links show. */}}
-<section class="wrap useful-group" id="danube">
-  <h2>{{ i18n "danube_title" }}</h2>
+<details class="wrap useful-group fold" id="danube">
+  <summary><h2>{{ i18n "danube_title" }}</h2></summary>
   <div class="danube" data-danube hidden
        data-l='{{ dict "cm" (i18n "danube_cm") "change" (i18n "danube_change") "flow" (i18n "danube_flow") "temp" (i18n "danube_temp") "forecast" (i18n "danube_forecast") "at" (i18n "danube_at") | jsonify }}'>
     <p class="danube-now"><span class="danube-level"></span> <span class="danube-meta"></span></p>
@@ -14,4 +14,4 @@
     <a href="https://www.hidmet.gov.rs/latin/hidrologija/izvestajne/prognoza.php?hm_id=42035" rel="noopener">{{ i18n "danube_src" }}</a>
     · <a href="https://vodostaj.rs/en/stations/dunav-novi-sad" rel="noopener">{{ i18n "danube_chart" }}</a>
   </p>
-</section>
+</details>

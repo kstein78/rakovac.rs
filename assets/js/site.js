@@ -1,5 +1,17 @@
 // Menu toggle + click-to-load YouTube (privacy: nothing loads from YouTube until the visitor presses play).
 document.addEventListener('DOMContentLoaded', function () {
+  // Folding blocks (Useful info): a link to #id opens the block that holds it, on load and on in-page links.
+  function openTarget() {
+    var id = decodeURIComponent(location.hash.slice(1)); if (!id) return;
+    var el = document.getElementById(id); if (!el) return;
+    var d = el.tagName === 'DETAILS' ? el : el.closest('details');
+    if (!d || d.open) return;
+    for (; d; d = d.parentElement && d.parentElement.closest('details')) d.open = true;
+    el.scrollIntoView();
+  }
+  openTarget();
+  window.addEventListener('hashchange', openTarget);
+
   var t = document.querySelector('.menu-toggle'), nav = document.getElementById('site-nav');
   if (t && nav) t.addEventListener('click', function () {
     var open = nav.classList.toggle('open');

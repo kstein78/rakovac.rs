@@ -2,8 +2,11 @@
 {{ partial "page-head.html" . }}
 <div class="wrap page-body"><div class="prose">{{ .Content }}</div></div>
 {{ range .Params.groups }}
-<section class="wrap useful-group" id="{{ .id }}">
-  <h2>{{ .title }}</h2>
+{{/* Every block folds: the summary shows the title and what is inside, details open on a tap.
+  Emergency numbers stay open. A link to #id (menu: #bus, #weather…) opens its block (site.js). */}}
+{{ $names := slice }}{{ range first 4 .items }}{{ $names = $names | append .name }}{{ end }}
+<details class="wrap useful-group fold" id="{{ .id }}"{{ if eq .id "emergency" }} open{{ end }}>
+  <summary><h2>{{ .title }}</h2><span class="fold-peek">{{ if and .intro (le (len .items) 1) }}{{ .intro | markdownify | plainify }}{{ else }}{{ delimit $names " · " }}{{ if gt (len .items) 4 }} …{{ end }}{{ end }}</span></summary>
   {{ with .intro }}<p class="prose-width">{{ . | markdownify }}</p>{{ end }}
   <ul class="poi-list">
     {{ range .items }}
@@ -27,7 +30,7 @@
     </li>
     {{ end }}
   </ul>
-</section>
+</details>
 {{ if eq .id "transport" }}{{ partial "bus-timetable.html" $ }}{{ end }}
 {{ end }}
 {{/* Weather, air quality and the Danube at the bottom; the header weather links here (#weather). */}}

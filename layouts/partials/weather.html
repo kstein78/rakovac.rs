@@ -6,8 +6,8 @@
 {{ $pt := "detailLat=45.1958&detailLon=19.7672" }}
 {{ $src := printf "https://embed.windy.com/embed.html?type=map&location=coordinates&metricRain=mm&metricTemp=%%C2%%B0C&metricWind=km%%2Fh&zoom=11&overlay=wind&product=ecmwf&level=surface&lat=45.17&lon=19.77&%s&detail=true&marker=true&message=true&lang=%s" $pt $wl }}
 {{ $link := "https://www.windy.com/45.1958/19.7672?45.17,19.77,11" }}
-<section class="wrap useful-group" id="weather">
-  <h2>{{ i18n "weather_title" }}</h2>
+<details class="wrap useful-group fold" id="weather">
+  <summary><h2>{{ i18n "weather_title" }}</h2></summary>
   <p class="prose-width">{{ i18n "weather_intro" }}</p>
   <figure class="windy" data-windy="{{ $src }}">
     <a class="windy-consent" href="{{ $link }}" rel="noopener">
@@ -20,4 +20,4 @@
   </figure>
   <p class="small muted"><a href="{{ $link }}" rel="noopener">{{ i18n "weather_open" }}</a></p>
   <p class="small muted">{{ i18n "weather_now_note" }}</p>
-</section>
+</details>
