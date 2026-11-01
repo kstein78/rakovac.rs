@@ -3,7 +3,7 @@ title: 'Fruška gora: od 5. novembra elektronska naplata za vozila u nacionalnom
 date: '2026-11-01T16:45:00+01:00'
 feed: local
 cover: forest-autumn
-lead: Od četvrtka 5. novembra 2026. Nacionalni park Fruška gora elektronski evidentira i naplaćuje naknadu za automobile i motocikle. Može se platiti onlajn ili u Informativnom centru na Iriškom vencu. Lica sa prebivalištem u Beočinu ili Novom Sadu po zakonu ne plaćaju za svoje vozilo.
+lead: 'Od četvrtka 5. novembra 2026. Nacionalni park Fruška gora elektronski evidentira i naplaćuje naknadu za automobile i motocikle. Može se platiti onlajn ili u Informativnom centru na Iriškom vencu. Pravila za meštane i za prolaz kroz park još nisu jasna: pitajte park.'
 related: [useful]
 ---
 
@@ -29,14 +29,16 @@ Za elektronski sistem pominje se i karta za automobil za jedan sat, **100 dinara
 
 ## Ko ne plaća
 
-Po [zakonu](https://www.paragraf.rs/propisi/zakon-o-naknadama-za-koriscenje-javnih-dobara.html) (član 109) lica sa prebivalištem u opštini na čijoj teritoriji se nalazi park ili u susednoj opštini ne plaćaju za svoje vozilo. To obuhvata **Beočin sa Rakovcem** i Novi Sad. Oslobođenje važi za vozilo, ne i za posetu peške. Oslobođeni su i deca predškolskog uzrasta, osobe sa invaliditetom i penzioneri sa najnižom penzijom (za vozilo, uz poslednji ček od penzije).
+[Zakon](https://www.paragraf.rs/propisi/zakon-o-naknadama-za-koriscenje-javnih-dobara.html) (član 109) oslobađa, između ostalih, decu predškolskog uzrasta, osobe sa invaliditetom i penzionere sa najnižom penzijom (za vozilo, uz poslednji ček od penzije). Predviđa i oslobođenja za lica koja žive u opštinama parka i za one koji rade u parku.
 
-Stranci koji imaju samo privremeni boravak nemaju prebivalište, pa se oslobođenje na njih možda ne odnosi. Park još nije objavio kako će elektronski sistem prepoznavati oslobođena vozila. Dok to ne objavi, držite ličnu kartu sa adresom u autu.
+## Meštani i prolaz kroz park
 
-## Prolaz kroz park, na primer Rakovac – Ruma
+Kako će novi sistem tretirati vozila meštana i da li se plaća samo prolaz preko Fruške gore (na primer Rakovac – Ruma), još nije jasno. Park o tome nije objavio pravila, kao ni to kako se vozila evidentiraju i kolika je kazna ako se ne plati. Pre nego što se na nešto oslonite, pitajte direktno:
 
-Za tranzit zakon nema posebno pravilo. Park je, međutim, u aprilu 2025. rekao da se na poprečnim putevima preko planine **ne naplaćuje**: Irig – Sremska Kamenica (preko Iriškog venca), Vrdnik – Rakovac, Beočin – Bešenovo i Sviloš – Ležimir ([021.rs, 2025](https://www.021.rs/novi-sad/vesti/407834/uprava-np-fruska-gora-apelujemo-na-gradjane-da-prepoznaju-znacaj-naplate-naknade)). To su upravo putevi od Rakovca do Rume. Park je tada najavio i rampe na svim putevima, a još nije rekao da li će elektronski sistem naplaćivati i poprečne puteve. Ako bude, vozač koji nije oslobođen plaća 300 dinara za dan ili 100 za sat, kad ta karta bude dostupna. Za one koji svakog dana prelaze Frušku goru park preporučuje godišnju kartu.
+- **Nacionalni park Fruška gora:** [021 463 666](tel:+38121463666), [kontakt forma](https://npfruskagora.co.rs/kontakt/)
+- **Informativni centar na Iriškom vencu:** [na mapi](https://maps.app.goo.gl/MbSNVzZF94mnHa8y8), lično
+- **Radna jedinica parka u Beočinu** (RJ Beočin), gde se prodaju i godišnje karte
 
-Još nije objavljeno kako se vozila evidentiraju i kolika je kazna ako se ne plati. Pitanja: park, [021 463 666](tel:+38121463666).
+Odgovor parka dodaćemo ovde čim ga dobijemo.
 
 Sve ovo je i u [Korisnim informacijama]({{< relref "useful" >}}#park-fee).

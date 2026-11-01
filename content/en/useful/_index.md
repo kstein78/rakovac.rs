@@ -39,14 +39,13 @@ groups:
     coords:
     - 45.1496215
     - 19.8297952
-  - name: Who does not pay
-    what: 'By law ([article 109](https://www.paragraf.rs/propisi/zakon-o-naknadama-za-koriscenje-javnih-dobara.html)): people whose permanent address (*prebivalište*) is in a municipality where the park lies or in a neighbouring one, for their car, which includes Beočin with Rakovac and Novi Sad; people who work in the park, for their car; pre-school children; people with disabilities; pensioners with the lowest pension, for their car (show the last pension slip).'
+  - name: 'Who does not pay'
+    what: 'By law ([article 109](https://www.paragraf.rs/propisi/zakon-o-naknadama-za-koriscenje-javnih-dobara.html)), among others: pre-school children, people with disabilities, pensioners with the lowest pension (for the car, with the last pension slip). The law also has exemptions for people living in the park''s municipalities and for those working in the park; how they will apply in the electronic system has not been announced.'
     url: https://www.paragraf.rs/propisi/zakon-o-naknadama-za-koriscenje-javnih-dobara.html
-  - name: Living in Rakovac and driving on errands
-    what: 'With a permanent address in Beočin your car is exempt by law. The exemption covers the car only, not visits on foot. Foreigners with only temporary residence (*privremeni boravak*) have no *prebivalište*, so it may not apply to them. How the electronic system will recognise exempt cars has not been announced: keep your ID card with your address in the car and ask the park.'
+  - name: 'Local residents and driving through'
+    what: 'Not clear yet. How the electronic system will treat local residents'' cars, and whether you pay just for driving across the mountain (e.g. Rakovac – Ruma), has not been announced. Ask the park before you rely on anything: phone below, [contact form](https://npfruskagora.co.rs/kontakt/), or in person at the Information Centre on Iriški Venac or the park''s office in Beočin.'
     phone: +381 21 463 666
-  - name: Driving through, e.g. Rakovac – Ruma
-    what: 'In April 2025 the park said the cross roads over the mountain are not charged: Irig – Sremska Kamenica (over Iriški Venac), Vrdnik – Rakovac, Beočin – Bešenovo and Sviloš – Ležimir, which are the roads from Rakovac to Ruma. Whether the electronic system will charge them has not been announced. If it does, a driver who is not exempt pays 300 dinars for the day; a one-hour ticket for 100 dinars has been reported but is not in the official price list yet. For frequent crossings the park recommends the annual card (1,800).'
+    url: https://npfruskagora.co.rs/kontakt/
 - id: emergency
   title: Emergency numbers
   intro: Calls to these numbers are free. **112** works from any mobile phone.

@@ -39,14 +39,13 @@ groups:
     coords:
     - 45.1496215
     - 19.8297952
-  - name: Ko ne plaća
-    what: 'Po zakonu ([član 109](https://www.paragraf.rs/propisi/zakon-o-naknadama-za-koriscenje-javnih-dobara.html)): lica sa prebivalištem u opštini na čijoj teritoriji se nalazi park ili u susednoj opštini, za svoje vozilo, što obuhvata Beočin sa Rakovcem i Novi Sad; zaposleni u parku, za svoje vozilo; deca predškolskog uzrasta; osobe sa invaliditetom; penzioneri sa najnižom penzijom, za vozilo (uz poslednji ček od penzije).'
+  - name: 'Ko ne plaća'
+    what: 'Po zakonu ([član 109](https://www.paragraf.rs/propisi/zakon-o-naknadama-za-koriscenje-javnih-dobara.html)), između ostalih: deca predškolskog uzrasta, osobe sa invaliditetom, penzioneri sa najnižom penzijom (za vozilo, uz poslednji ček od penzije). Zakon predviđa i oslobođenja za lica koja žive u opštinama parka i za one koji rade u parku; kako će se primenjivati u elektronskom sistemu, još nije objavljeno.'
     url: https://www.paragraf.rs/propisi/zakon-o-naknadama-za-koriscenje-javnih-dobara.html
-  - name: Živite u Rakovcu i vozite se poslom
-    what: 'Sa prebivalištem u Beočinu vaše vozilo je po zakonu oslobođeno. Oslobođenje važi samo za vozilo, ne i za posetu peške. Stranci koji imaju samo privremeni boravak nemaju prebivalište, pa se na njih oslobođenje možda ne odnosi. Kako će elektronski sistem prepoznavati oslobođena vozila još nije objavljeno: držite ličnu kartu sa adresom u autu i pitajte park.'
+  - name: 'Meštani i prolaz kroz park'
+    what: 'Još nije jasno. Kako će elektronski sistem tretirati vozila meštana i da li se plaća samo prolaz preko planine (npr. Rakovac – Ruma), nije objavljeno. Pre nego što se na nešto oslonite, pitajte park: telefon ispod, [kontakt forma](https://npfruskagora.co.rs/kontakt/) ili lično u Informativnom centru na Iriškom vencu ili u radnoj jedinici parka u Beočinu.'
     phone: +381 21 463 666
-  - name: Prolaz kroz park, npr. Rakovac – Ruma
-    what: 'Park je u aprilu 2025. rekao da se na poprečnim putevima preko planine ne naplaćuje: Irig – Sremska Kamenica (preko Iriškog venca), Vrdnik – Rakovac, Beočin – Bešenovo i Sviloš – Ležimir, a to su upravo putevi od Rakovca do Rume. Da li će ih elektronski sistem naplaćivati, još nije objavljeno. Ako bude, vozač koji nije oslobođen plaća 300 dinara za dan; pominje se i karta za jedan sat od 100 dinara, ali je još nema u zvaničnom cenovniku. Za česte prelaske park preporučuje godišnju kartu (1.800).'
+    url: https://npfruskagora.co.rs/kontakt/
 - id: emergency
   title: Brojevi za hitne slučajeve
   intro: Pozivi na ove brojeve su besplatni. **112** radi sa bilo kog mobilnog telefona.

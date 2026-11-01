@@ -39,14 +39,13 @@ groups:
     coords:
     - 45.1496215
     - 19.8297952
-  - name: Ki nem fizet
-    what: 'A törvény szerint ([109. cikk](https://www.paragraf.rs/propisi/zakon-o-naknadama-za-koriscenje-javnih-dobara.html)): akinek állandó lakhelye (*prebivalište*) olyan községben van, amelynek területén a park fekszik, vagy egy szomszédos községben, a saját autójáért – ide tartozik Beočin Rakovaccal és Újvidék; a parkban dolgozók a saját autójukért; az óvodáskorú gyerekek; a fogyatékossággal élők; a legkisebb nyugdíjjal rendelkező nyugdíjasok az autójukért (az utolsó nyugdíjszelvénnyel).'
+  - name: 'Ki nem fizet'
+    what: 'A törvény szerint ([109. cikk](https://www.paragraf.rs/propisi/zakon-o-naknadama-za-koriscenje-javnih-dobara.html)) többek között: az óvodáskorú gyermekek, a fogyatékossággal élők, a legalacsonyabb nyugdíjjal rendelkező nyugdíjasok (az autó után, az utolsó nyugdíjszelvénnyel). A törvény mentességet ír elő a park községeiben élőknek és a parkban dolgozóknak is; hogy ezt hogyan alkalmazzák az elektronikus rendszerben, még nem jelentették be.'
     url: https://www.paragraf.rs/propisi/zakon-o-naknadama-za-koriscenje-javnih-dobara.html
-  - name: Rakovacban élőknek, akik ügyeket intéznek
-    what: 'Beočini állandó lakhellyel az autója törvény szerint mentes. A mentesség csak az autóra vonatkozik, a gyalogos látogatásra nem. Az ideiglenes tartózkodási engedéllyel (*privremeni boravak*) rendelkező külföldieknek nincs *prebivalište*, így rájuk a mentesség talán nem vonatkozik. Hogy az elektronikus rendszer hogyan ismeri fel a mentes autókat, még nem közölték: tartson az autóban lakcímes igazolványt, és érdeklődjön a parknál.'
+  - name: 'Helyi lakosok és átutazás'
+    what: 'Még nem világos. Hogy az elektronikus rendszer hogyan kezeli a helyi lakosok autóit, és kell-e fizetni pusztán a hegységen való áthaladásért (pl. Rakovac – Ruma), nem jelentették be. Mielőtt bármire számítana, érdeklődjön a parknál: telefon alább, [kapcsolatfelvételi űrlap](https://npfruskagora.co.rs/kontakt/), vagy személyesen az Iriški venac-i Információs Központban vagy a park beočini kirendeltségében.'
     phone: +381 21 463 666
-  - name: Átutazás, pl. Rakovac – Ruma
-    what: 'A park 2025 áprilisában közölte, hogy a hegységen átvezető keresztirányú utakon nem kell fizetni: Irig – Sremska Kamenica (az Iriški venacon át), Vrdnik – Rakovac, Beočin – Bešenovo és Sviloš – Ležimir, vagyis éppen a Rakovacról Rumára vezető utakon. Hogy az elektronikus rendszer ezeken is díjat szed-e, még nem jelentették be. Ha igen, aki nem mentes, 300 dinárt fizet egy napra; szó van egy 100 dináros egyórás jegyről is, de a hivatalos árjegyzékben még nem szerepel. Gyakori átkeléshez a park az éves jegyet ajánlja (1800).'
+    url: https://npfruskagora.co.rs/kontakt/
 - id: emergency
   title: Segélyhívó számok
   intro: Ezek a számok ingyenesen hívhatók. A **112** bármely mobiltelefonról működik.

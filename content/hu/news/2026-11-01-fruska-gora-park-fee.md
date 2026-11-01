@@ -3,7 +3,7 @@ title: 'Tarcal-hegység: november 5-től elektronikus díjfizetés az autókra a
 date: '2026-11-01T16:45:00+01:00'
 feed: local
 cover: forest-autumn
-lead: 2026. november 5-től, csütörtöktől a Tarcal-hegység (Fruška Gora) Nemzeti Park elektronikusan rögzíti az autókat és motorokat, és beszedi a díjat. Fizetni online vagy az Iriški venac-i Információs Központban lehet. Akinek állandó lakhelye Beočinban vagy Újvidéken van, a törvény szerint nem fizet az autójáért.
+lead: '2026. november 5-től, csütörtöktől a Tarcal-hegység (Fruška Gora) Nemzeti Park elektronikusan rögzíti az autókat és motorokat, és beszedi a díjat. Fizetni online vagy az Iriški venac-i Információs Központban lehet. A helyi lakosokra és az átutazásra vonatkozó szabályok még nem világosak: érdeklődjön a parknál.'
 related: [useful]
 ---
 
@@ -29,14 +29,16 @@ Az elektronikus rendszerhez egyórás autójegyről is szó van, **100 dinárér
 
 ## Ki nem fizet
 
-A [törvény](https://www.paragraf.rs/propisi/zakon-o-naknadama-za-koriscenje-javnih-dobara.html) (109. cikk) szerint akinek állandó lakhelye (*prebivalište*) olyan községben van, amelynek területén a park fekszik, vagy szomszédos községben, az nem fizet az autójáért. Ide tartozik **Beočin Rakovaccal** és Újvidék. A mentesség az autóra vonatkozik, a gyalogos látogatásra nem. Mentesek továbbá az óvodáskorú gyerekek, a fogyatékossággal élők és a legkisebb nyugdíjjal rendelkező nyugdíjasok (az autóra, az utolsó nyugdíjszelvénnyel).
+A [törvény](https://www.paragraf.rs/propisi/zakon-o-naknadama-za-koriscenje-javnih-dobara.html) (109. cikk) többek között mentesíti az óvodáskorú gyermekeket, a fogyatékossággal élőket és a legalacsonyabb nyugdíjjal rendelkező nyugdíjasokat (az autó után, az utolsó nyugdíjszelvénnyel). Mentességet ír elő a park községeiben élőknek és a parkban dolgozóknak is.
 
-Az ideiglenes tartózkodási engedéllyel (*privremeni boravak*) rendelkező külföldieknek nincs *prebivalište*, így rájuk a mentesség talán nem vonatkozik. Hogy az elektronikus rendszer hogyan ismeri fel a mentes autókat, a park még nem közölte. Addig tartson az autóban lakcímes igazolványt.
+## Helyi lakosok és átutazás
 
-## Átutazás, például Rakovac – Ruma
+Hogy az új rendszer hogyan kezeli a helyi lakosok autóit, és kell-e fizetni pusztán a Tarcal-hegységen való áthaladásért (például Rakovac – Ruma), még nem világos. A park erről nem tett közzé szabályokat, ahogy arról sem, hogyan rögzítik a járműveket és mekkora a bírság fizetés nélkül. Mielőtt bármire számítana, érdeklődjön közvetlenül:
 
-Az átutazásra a törvényben nincs külön szabály. A park azonban 2025 áprilisában közölte, hogy a hegységen átvezető keresztirányú utakon **nem kell fizetni**: Irig – Sremska Kamenica (az Iriški venacon át), Vrdnik – Rakovac, Beočin – Bešenovo és Sviloš – Ležimir ([021.rs, 2025](https://www.021.rs/novi-sad/vesti/407834/uprava-np-fruska-gora-apelujemo-na-gradjane-da-prepoznaju-znacaj-naplate-naknade)). Éppen ezek az utak vezetnek Rakovacról Rumára. A park akkor sorompókat is ígért minden útra, azt pedig még nem közölte, hogy az elektronikus rendszer a keresztirányú utakon is díjat szed-e. Ha igen, aki nem mentes, 300 dinárt fizet egy napra, vagy 100-at egy órára, ha ez a jegy elérhető lesz. Akik naponta átkelnek a hegységen, azoknak a park az éves jegyet ajánlja.
+- **Fruška Gora Nemzeti Park:** [021 463 666](tel:+38121463666), [kapcsolatfelvételi űrlap](https://npfruskagora.co.rs/kontakt/)
+- **Információs Központ az Iriški venacon:** [a térképen](https://maps.app.goo.gl/MbSNVzZF94mnHa8y8), személyesen
+- **A park beočini kirendeltsége** (RJ Beočin), ahol éves jegyet is árulnak
 
-Még nem tették közzé, hogyan rögzítik a járműveket, és mekkora a bírság fizetés nélkül. Kérdések a parknak: [021 463 666](tel:+38121463666).
+A park válaszát itt közöljük, amint megkapjuk.
 
 Mindez a [Hasznos információk]({{< relref "useful" >}}#park-fee) között is megtalálható.

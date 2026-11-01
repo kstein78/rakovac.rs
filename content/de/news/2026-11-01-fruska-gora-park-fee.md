@@ -3,7 +3,7 @@ title: 'Fruška Gora: ab 5. November elektronische Gebühr für Autos im Nationa
 date: '2026-11-01T16:45:00+01:00'
 feed: local
 cover: forest-autumn
-lead: Ab Donnerstag, 5. November 2026, erfasst der Nationalpark Fruška Gora Autos und Motorräder elektronisch und erhebt die Gebühr. Bezahlen kann man online oder im Informationszentrum auf dem Iriški Venac. Wer seinen ständigen Wohnsitz in Beočin oder Novi Sad hat, zahlt laut Gesetz für sein Auto nicht.
+lead: 'Ab Donnerstag, 5. November 2026, erfasst der Nationalpark Fruška Gora Autos und Motorräder elektronisch und erhebt die Gebühr. Bezahlen kann man online oder im Informationszentrum auf dem Iriški Venac. Die Regeln für Anwohner und für die Durchfahrt sind noch unklar: Fragen Sie beim Park nach.'
 related: [useful]
 ---
 
@@ -29,14 +29,16 @@ Für das elektronische System ist außerdem von einem Ein-Stunden-Ticket für Au
 
 ## Wer nicht zahlt
 
-Laut [Gesetz](https://www.paragraf.rs/propisi/zakon-o-naknadama-za-koriscenje-javnih-dobara.html) (Artikel 109) zahlen Personen mit ständigem Wohnsitz (*prebivalište*) in einer Gemeinde, auf deren Gebiet der Park liegt, oder in einer Nachbargemeinde nicht für ihr Auto. Dazu gehören **Beočin mit Rakovac** und Novi Sad. Die Befreiung gilt für das Auto, nicht für Besuche zu Fuß. Befreit sind außerdem Kinder im Vorschulalter, Menschen mit Behinderung und Rentner mit Mindestrente (für das Auto, mit dem letzten Rentenbeleg).
+Das [Gesetz](https://www.paragraf.rs/propisi/zakon-o-naknadama-za-koriscenje-javnih-dobara.html) (Artikel 109) befreit unter anderem Kinder im Vorschulalter, Menschen mit Behinderung und Rentner mit der niedrigsten Rente (für das Auto, mit dem letzten Rentenbescheid). Es sieht außerdem Befreiungen für Bewohner der Parkgemeinden und für Beschäftigte im Park vor.
 
-Ausländer mit nur befristetem Aufenthalt (*privremeni boravak*) haben kein *prebivalište*, für sie gilt die Befreiung womöglich nicht. Wie das elektronische System befreite Autos erkennt, hat der Park noch nicht mitgeteilt. Bis dahin: einen Ausweis mit Adresse im Auto mitführen.
+## Anwohner und Durchfahrt
 
-## Durchfahrt, zum Beispiel Rakovac – Ruma
+Wie das neue System mit den Autos von Anwohnern umgeht und ob man schon für die bloße Fahrt über die Fruška Gora zahlt (zum Beispiel Rakovac – Ruma), ist noch unklar. Der Park hat dazu keine Regeln veröffentlicht, ebenso wenig, wie die Fahrzeuge erfasst werden und welche Strafe bei Nichtzahlung droht. Bevor Sie sich auf etwas verlassen, fragen Sie direkt nach:
 
-Eine eigene Regel für den Transit kennt das Gesetz nicht. Im April 2025 sagte der Park allerdings, dass auf den Querstraßen über das Gebirge **keine Gebühr** erhoben wird: Irig – Sremska Kamenica (über den Iriški Venac), Vrdnik – Rakovac, Beočin – Bešenovo und Sviloš – Ležimir ([021.rs, 2025](https://www.021.rs/novi-sad/vesti/407834/uprava-np-fruska-gora-apelujemo-na-gradjane-da-prepoznaju-znacaj-naplate-naknade)). Das sind genau die Straßen von Rakovac nach Ruma. Zugleich kündigte der Park Schranken an allen Straßen an, und ob das elektronische System auch die Querstraßen erfasst, ist noch nicht bekannt. Falls ja, zahlt, wer nicht befreit ist, 300 Dinar für den Tag oder 100 für eine Stunde, sobald es dieses Ticket gibt. Wer die Fruška Gora täglich überquert, dem empfiehlt der Park die Jahreskarte.
+- **Nationalpark Fruška Gora:** [021 463 666](tel:+38121463666), [Kontaktformular](https://npfruskagora.co.rs/kontakt/)
+- **Informationszentrum auf dem Iriški Venac:** [auf der Karte](https://maps.app.goo.gl/MbSNVzZF94mnHa8y8), persönlich
+- **Die Außenstelle des Parks in Beočin** (RJ Beočin), die auch Jahreskarten verkauft
 
-Noch nicht veröffentlicht: wie die Fahrzeuge erfasst werden und welche Strafe bei Nichtzahlung droht. Fragen an den Park: [021 463 666](tel:+38121463666).
+Die Antwort des Parks ergänzen wir hier, sobald wir sie haben.
 
 Alles das steht auch unter [Nützliches]({{< relref "useful" >}}#park-fee).
