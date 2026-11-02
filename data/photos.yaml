@@ -3147,3 +3147,68 @@ card-shops:
   alt_cyr: "Цртежи векне хлеба, корпе за куповину и ваге"
   alt_de: "Strichzeichnungen eines Brotlaibs, eines Einkaufskorbs und einer Waage"
   alt_hu: "Vonalrajzok: kenyér, bevásárlókosár és mérleg"
+iriski-venac-info-centre:
+  src: img/iriski-venac-info-centre.jpg
+  author: Konstantin Stein
+  author_ru: Константин Штейн
+  author_cyr: Константин Штајн
+  license: © all rights reserved
+  alt: "The entrance of the Fruška Gora National Park Information Centre on Iriški Venac in fog, doors shut, 2 November 2026"
+  temp: false
+  alt_ru: "Вход в Информационный центр нацпарка Фрушка-Гора на Иришском венце в тумане, двери закрыты, 2 ноября 2026"
+  alt_sr: "Ulaz u Informativni centar Nacionalnog parka Fruška gora na Iriškom vencu u magli, vrata zatvorena, 2. novembar 2026."
+  alt_cyr: "Улаз у Информативни центар Националног парка Фрушка гора на Иришком венцу у магли, врата затворена, 2. новембар 2026."
+  alt_de: "Eingang des Informationszentrums des Nationalparks Fruška Gora am Iriški Venac im Nebel, Türen geschlossen, 2. November 2026"
+  alt_hu: "A Fruška Gora Nemzeti Park Információs Központjának bejárata az Iriški venacon ködben, zárt ajtókkal, 2026. november 2."
+iriski-venac-info-centre-fenced:
+  src: img/iriski-venac-info-centre-fenced.jpg
+  author: Konstantin Stein
+  author_ru: Константин Штейн
+  author_cyr: Константин Штајн
+  license: © all rights reserved
+  alt: "The Information Centre on Iriški Venac behind a construction fence in fog"
+  temp: false
+  alt_ru: "Информационный центр на Иришском венце за строительным забором, туман"
+  alt_sr: "Informativni centar na Iriškom vencu iza građevinske ograde, u magli"
+  alt_cyr: "Информативни центар на Иришком венцу иза грађевинске ограде, у магли"
+  alt_de: "Das Informationszentrum am Iriški Venac hinter einem Bauzaun im Nebel"
+  alt_hu: "Az Iriški venac-i Információs Központ építési kerítés mögött, ködben"
+iriski-venac-fee-board:
+  src: img/iriski-venac-fee-board.jpg
+  author: Konstantin Stein
+  author_ru: Константин Штейн
+  author_cyr: Константин Штајн
+  license: © all rights reserved
+  alt: "Board with the Fruška Gora National Park fees: visitors 100 dinars a day, motorcycle and car 300, annual cards 600 and 1,800"
+  temp: false
+  alt_ru: "Табличка с тарифами нацпарка Фрушка-Гора: посетитель 100 динаров в день, мотоцикл и машина 300, годовые карты 600 и 1800"
+  alt_sr: "Tabla sa naknadama Nacionalnog parka Fruška gora: posetioci 100 dinara dnevno, motocikl i automobil 300, godišnje karte 600 i 1.800"
+  alt_cyr: "Табла са накнадама Националног парка Фрушка гора: посетиоци 100 динара дневно, мотоцикл и аутомобил 300, годишње карте 600 и 1.800"
+  alt_de: "Tafel mit den Gebühren des Nationalparks Fruška Gora: Besucher 100 Dinar pro Tag, Motorrad und Auto 300, Jahreskarten 600 und 1.800"
+  alt_hu: "Tábla a Fruška Gora Nemzeti Park díjaival: látogató napi 100 dinár, motor és autó 300, éves jegy 600 és 1800"
+iriski-venac-tourist-board:
+  src: img/iriski-venac-tourist-board.jpg
+  author: Konstantin Stein
+  author_ru: Константин Штейн
+  author_cyr: Константин Штајн
+  license: © all rights reserved
+  alt: "Large tourist information board on Iriški Venac with a map of Fruška Gora National Park and lists of monasteries, wineries, lakes and picnic areas"
+  temp: false
+  alt_ru: "Большой туристический стенд на Иришском венце с картой нацпарка Фрушка-Гора и списками монастырей, винодельен, озёр и мест отдыха"
+  alt_sr: "Velika turistička tabla na Iriškom vencu sa kartom Nacionalnog parka Fruška gora i spiskovima manastira, vinarija, jezera i izletišta"
+  alt_cyr: "Велика туристичка табла на Иришком венцу са картом Националног парка Фрушка гора и списковима манастира, винарија, језера и излетишта"
+  alt_de: "Große Touristeninformationstafel am Iriški Venac mit einer Karte des Nationalparks Fruška Gora und Listen von Klöstern, Weingütern, Seen und Rastplätzen"
+  alt_hu: "Nagy turisztikai tájékoztató tábla az Iriški venacon a Fruška Gora Nemzeti Park térképével, kolostorok, borászatok, tavak és pihenőhelyek listájával"
+iriski-venac-kiosk:
+  src: img/iriski-venac-kiosk.jpg
+  author: Konstantin Stein
+  author_ru: Константин Штейн
+  author_cyr: Константин Штајн
+  license: © all rights reserved
+  alt: "The closed wooden snack kiosk \"Kiosk na vencu\" among pines in fog, with a souvenir and information stand sign beside it"
+  temp: false
+  alt_ru: "Закрытый деревянный киоск «Kiosk na vencu» среди сосен в тумане, рядом указатель сувенирной лавки и инфостойки"
+  alt_sr: "Zatvoreni drveni kiosk „Kiosk na vencu“ među borovima u magli, pored njega putokaz za suvenirnicu i info pult"
+  alt_cyr: "Затворени дрвени киоск „Киоск на венцу“ међу боровима у магли, поред њега путоказ за сувенирницу и инфо пулт"
+  alt_de: "Der geschlossene hölzerne Imbiss „Kiosk na vencu“ zwischen Kiefern im Nebel, daneben ein Schild für Souvenirladen und Infostand"
+  alt_hu: "A zárt fa büfé, a „Kiosk na vencu“ fenyők között ködben, mellette a szuvenírbolt és infópult táblája"

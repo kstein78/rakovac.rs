@@ -27,10 +27,7 @@ groups:
   intro: '**Ab 5. November 2026** erhebt der Nationalpark die Gebühr für Autos und Motorräder elektronisch: 300 Dinar pro Tag für ein Auto, 100 für Erwachsene zu Fuß; Jahreskarten 1.800 und 600. Preise, Zahlstellen, Befreiungen und Kontakte: [Gebühr Fruška Gora](/de/useful/fruska-gora-park-fee/).'
   items:
   - name: Informationszentrum auf dem Iriški Venac
-    what: Zahlstelle vor Ort, auch für Jahreskarten.
-    coords:
-    - 45.1496215
-    - 19.8297952
+    what: 'Zahlstelle vor Ort, auch für Jahreskarten. Am 2. November 2026 geschlossen und eingezäunt: [Details und Fotos](/de/nearby/fruska-gora-information-centre/).'
 - id: emergency
   title: Notrufnummern
   intro: Anrufe bei diesen Nummern sind kostenlos. **112** funktioniert von jedem Mobiltelefon.

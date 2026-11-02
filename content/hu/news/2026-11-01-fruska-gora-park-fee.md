@@ -41,4 +41,6 @@ Hogy az új rendszer hogyan kezeli a helyi lakosok autóit, és kell-e fizetni p
 
 A park válaszát itt közöljük, amint megkapjuk.
 
+**Kiegészítés, november 2.:** az [Iriški venac-i Információs Központ]({{< relref "nearby/fruska-gora-information-centre" >}}) zárva volt és körbe volt kerítve, minden jel szerint felújítás miatt, a park telefonja pedig foglalt volt.
+
 Az árakat, a fizetési helyeket, a mentességeket és az elérhetőségeket a [Fruška Gora parkdíj]({{< relref "useful/fruska-gora-park-fee" >}}) oldalon frissítjük.

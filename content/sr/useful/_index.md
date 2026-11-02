@@ -27,10 +27,7 @@ groups:
   intro: '**Od 5. novembra 2026.** nacionalni park elektronski naplaćuje naknadu za automobile i motocikle: 300 dinara dnevno za automobil, 100 za odraslog pešaka; godišnje karte 1.800 i 600. Cene, gde se plaća, ko je oslobođen i kontakti: [Naknada za Frušku goru](/sr/useful/naknada-fruska-gora/).'
   items:
   - name: Informativni centar na Iriškom vencu
-    what: Mesto za plaćanje na licu mesta, i za godišnje karte.
-    coords:
-    - 45.1496215
-    - 19.8297952
+    what: 'Mesto za plaćanje uživo, i za godišnje karte. Dana 2. novembra 2026. zatvoren i ograđen: [detalji i fotografije](/sr/nearby/informativni-centar-iriski-venac/).'
 - id: emergency
   title: Brojevi za hitne slučajeve
   intro: Pozivi na ove brojeve su besplatni. **112** radi sa bilo kog mobilnog telefona.

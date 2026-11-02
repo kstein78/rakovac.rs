@@ -41,4 +41,6 @@ Kako će novi sistem tretirati vozila meštana i da li se plaća samo prolaz pre
 
 Odgovor parka dodaćemo ovde čim ga dobijemo.
 
+**Dopuna, 2. novembra:** [Informativni centar na Iriškom vencu]({{< relref "nearby/fruska-gora-information-centre" >}}) bio je zatvoren i ograđen, po svemu sudeći zbog renoviranja, a telefon parka zauzet.
+
 Cene, mesta plaćanja, oslobođenja i kontakti redovno se ažuriraju na stranici [Naknada za Frušku goru]({{< relref "useful/fruska-gora-park-fee" >}}).

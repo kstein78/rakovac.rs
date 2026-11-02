@@ -25,12 +25,12 @@ A park [2026-os árjegyzéke](https://fruskagoranovisajt.rs/wp-content/uploads/2
 | Autóbusz, teherautó | 800 dinár | 6500 dinár |
 | Nyerges vontató, pótkocsis teherautó | 2000 dinár | 18 000 dinár |
 
-Az [éves jegyek](https://fruskagoranovisajt.rs/godisnje-karte/) a naptári évre, december 31-ig érvényesek. Az elektronikus rendszerhez egyórás autójegyről is szó van, 100 dinárért; a hivatalos árjegyzékben még nem szerepel.
+Az [éves jegyek](https://fruskagoranovisajt.rs/godisnje-karte/) a naptári évre, december 31-ig érvényesek. Az elektronikus rendszerhez egyórás autójegyről is szó van, 100 dinárért; a hivatalos árjegyzékben még nem szerepel. Az Információs Központnál lévő díjtábla (határozat a *Službeni glasnik RS* 6/2024. és 121/2025. számában) autóbuszra és teherautóra más árakat ad, 700 és 6600 dinárt, nyerges vontatóra 1700 és 18 000-et; autóra és gyalogosra egyezik.
 
 ## Hol lehet fizetni
 
 - **Online:** [enaplatafruskagora.co.rs](https://enaplatafruskagora.co.rs/) (2026. november 1-jén még az állt rajta, hogy „a portál előkészítés alatt“) és a [jegyvásárlási oldal](https://app.creativedimension.us/gora/korisnickaapp/karte_kupovina.php), amelyre a [park honlapja](https://npfruskagora.co.rs/) mutat.
-- **Személyesen:** az [Iriški venac-i Információs Központban](https://maps.app.goo.gl/MbSNVzZF94mnHa8y8), a hegységen átvezető főút és a gerincút kereszteződésében.
+- **Személyesen:** az [Iriški venac-i Információs Központban]({{< relref "nearby/fruska-gora-information-centre" >}}), amely azonban 2026. november 2-án zárva volt és körbe volt kerítve, minden jel szerint felújítás miatt. Napijegyet a park természetőrei is árulnak az utakon.
 - **Éves jegyet** a park beočini, vrdniki, ležimiri és erdeviki kirendeltségén is árulnak.
 
 ## Ki nem fizet
@@ -44,7 +44,7 @@ Hogy az elektronikus rendszer hogyan kezeli a helyi lakosok autóit, és kell-e 
 ## Elérhetőségek
 
 - **Fruška Gora Nemzeti Park:** [021 463 666](tel:+38121463666), [kapcsolatfelvételi űrlap](https://npfruskagora.co.rs/kontakt/)
-- **Információs Központ az Iriški venacon:** [a térképen](https://maps.app.goo.gl/MbSNVzZF94mnHa8y8)
+- **Információs Központ az Iriški venacon:** [a központ oldala]({{< relref "nearby/fruska-gora-information-centre" >}}), 2026 novemberében zárva
 - **A park beočini kirendeltsége** (RJ Beočin), ahol éves jegyet is árulnak
 
 A park honlapjával egyeztetve 2026. november 1-jén. Az oldalt frissítjük, amint a park közzéteszi a helyi lakosokra és az átutazásra vonatkozó szabályokat.

@@ -26,12 +26,12 @@ Po [cenovniku parka za 2026](https://fruskagoranovisajt.rs/wp-content/uploads/20
 | Autobus, kamion | 800 dinara | 6.500 dinara |
 | Tegljač, kamion sa prikolicom | 2.000 dinara | 18.000 dinara |
 
-[Godišnje karte](https://fruskagoranovisajt.rs/godisnje-karte/) važe za kalendarsku godinu, do 31. decembra. Za elektronski sistem pominje se i karta za automobil za jedan sat, 100 dinara; u zvaničnom cenovniku je još nema.
+[Godišnje karte](https://fruskagoranovisajt.rs/godisnje-karte/) važe za kalendarsku godinu, do 31. decembra. Za elektronski sistem pominje se i karta za automobil za jedan sat, 100 dinara; u zvaničnom cenovniku je još nema. Tabla sa naknadama kod Informativnog centra (odluka u *Službenom glasniku RS* 6/2024 i 121/2025) navodi druge cene za autobuse i kamione, 700 i 6.600 dinara, i za šlepere, 1.700 i 18.000; za automobile i pešake se poklapa.
 
 ## Gde se plaća
 
 - **Onlajn:** [enaplatafruskagora.co.rs](https://enaplatafruskagora.co.rs/) (1. novembra 2026. tamo je još pisalo „portal je u pripremi“) i [stranica za kupovinu karata](https://app.creativedimension.us/gora/korisnickaapp/karte_kupovina.php) na koju vodi [sajt parka](https://npfruskagora.co.rs/).
-- **Lično:** [Informativni centar na Iriškom vencu](https://maps.app.goo.gl/MbSNVzZF94mnHa8y8), na raskrsnici magistralnog puta preko planine i grebenskog puta.
+- **Lično:** [Informativni centar na Iriškom vencu]({{< relref "nearby/fruska-gora-information-centre" >}}), ali 2. novembra 2026. bio je zatvoren i ograđen, po svemu sudeći zbog renoviranja. Dnevne karte prodaju i čuvari prirode na putu.
 - **Godišnje karte** prodaju se i u radnim jedinicama parka u Beočinu, Vrdniku, Ležimiru i Erdeviku.
 
 ## Ko ne plaća
@@ -45,7 +45,7 @@ Kako će elektronski sistem tretirati vozila meštana i da li se plaća samo pro
 ## Kontakti
 
 - **Nacionalni park Fruška gora:** [021 463 666](tel:+38121463666), [kontakt forma](https://npfruskagora.co.rs/kontakt/)
-- **Informativni centar na Iriškom vencu:** [na mapi](https://maps.app.goo.gl/MbSNVzZF94mnHa8y8)
+- **Informativni centar na Iriškom vencu:** [stranica centra]({{< relref "nearby/fruska-gora-information-centre" >}}), zatvoren u novembru 2026.
 - **Radna jedinica parka u Beočinu** (RJ Beočin), gde se prodaju i godišnje karte
 
 Provereno na sajtu parka 1. novembra 2026. Stranicu ćemo dopuniti kad park objavi pravila za meštane i za prolaz kroz park.

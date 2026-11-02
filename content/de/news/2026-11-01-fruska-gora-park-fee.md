@@ -41,4 +41,6 @@ Wie das neue System mit den Autos von Anwohnern umgeht und ob man schon für die
 
 Die Antwort des Parks ergänzen wir hier, sobald wir sie haben.
 
+**Nachtrag, 2. November:** Das [Informationszentrum auf dem Iriški Venac]({{< relref "nearby/fruska-gora-information-centre" >}}) war geschlossen und eingezäunt, offenbar wegen Renovierung, und das Telefon des Parks besetzt.
+
 Preise, Zahlstellen, Befreiungen und Kontakte halten wir auf der Seite [Gebühr Fruška Gora]({{< relref "useful/fruska-gora-park-fee" >}}) aktuell.

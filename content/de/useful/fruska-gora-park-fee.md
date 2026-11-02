@@ -25,12 +25,12 @@ Laut [Preisliste des Parks für 2026](https://fruskagoranovisajt.rs/wp-content/u
 | Bus, Lkw | 800 Dinar | 6.500 Dinar |
 | Sattelzug, Lkw mit Anhänger | 2.000 Dinar | 18.000 Dinar |
 
-[Jahreskarten](https://fruskagoranovisajt.rs/godisnje-karte/) gelten für das Kalenderjahr, bis 31. Dezember. Für das elektronische System ist außerdem von einem Ein-Stunden-Ticket für Autos die Rede, 100 Dinar; in der offiziellen Preisliste steht es noch nicht.
+[Jahreskarten](https://fruskagoranovisajt.rs/godisnje-karte/) gelten für das Kalenderjahr, bis 31. Dezember. Für das elektronische System ist außerdem von einem Ein-Stunden-Ticket für Autos die Rede, 100 Dinar; in der offiziellen Preisliste steht es noch nicht. Die Gebührentafel am Informationszentrum (Beschluss im *Službeni glasnik RS* 6/2024 und 121/2025) nennt für Busse und Lkw andere Preise, 700 und 6.600 Dinar, und für Sattelzüge 1.700 und 18.000; für Autos und Besucher zu Fuß stimmt sie überein.
 
 ## Wo man zahlt
 
 - **Online:** [enaplatafruskagora.co.rs](https://enaplatafruskagora.co.rs/) (am 1. November 2026 stand dort noch „Portal in Vorbereitung“) und die [Ticketseite](https://app.creativedimension.us/gora/korisnickaapp/karte_kupovina.php), auf die die [Website des Parks](https://npfruskagora.co.rs/) verlinkt.
-- **Persönlich:** im [Informationszentrum auf dem Iriški Venac](https://maps.app.goo.gl/MbSNVzZF94mnHa8y8), an der Kreuzung der Hauptstraße über das Gebirge mit der Kammstraße.
+- **Persönlich:** im [Informationszentrum auf dem Iriški Venac]({{< relref "nearby/fruska-gora-information-centre" >}}), das am 2. November 2026 allerdings geschlossen und eingezäunt war, offenbar wegen Renovierung. Tageskarten verkaufen auch die Naturwächter des Parks unterwegs.
 - **Jahreskarten** gibt es außerdem in den Außenstellen des Parks in Beočin, Vrdnik, Ležimir und Erdevik.
 
 ## Wer nicht zahlt
@@ -44,7 +44,7 @@ Wie das elektronische System mit den Autos von Anwohnern umgeht und ob man schon
 ## Kontakte
 
 - **Nationalpark Fruška Gora:** [021 463 666](tel:+38121463666), [Kontaktformular](https://npfruskagora.co.rs/kontakt/)
-- **Informationszentrum auf dem Iriški Venac:** [auf der Karte](https://maps.app.goo.gl/MbSNVzZF94mnHa8y8)
+- **Informationszentrum auf dem Iriški Venac:** [Seite des Zentrums]({{< relref "nearby/fruska-gora-information-centre" >}}), im November 2026 geschlossen
 - **Die Außenstelle des Parks in Beočin** (RJ Beočin), die auch Jahreskarten verkauft
 
 Mit der Website des Parks abgeglichen am 1. November 2026. Wir ergänzen die Seite, sobald der Park die Regeln für Anwohner und für die Durchfahrt veröffentlicht.

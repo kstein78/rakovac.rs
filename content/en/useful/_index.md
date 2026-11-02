@@ -27,10 +27,7 @@ groups:
   intro: '**From 5 November 2026** the national park charges cars and motorcycles electronically: 300 dinars a day for a car, 100 for an adult on foot; annual cards 1,800 and 600. Prices, where to pay, who is exempt and contacts: [Fruška Gora park fee](/en/useful/fruska-gora-park-fee/).'
   items:
   - name: Information Centre on Iriški Venac
-    what: Payment point in person, also for annual cards.
-    coords:
-    - 45.1496215
-    - 19.8297952
+    what: 'Payment point in person, also for annual cards. Closed and fenced off on 2 November 2026: [details and photos](/en/nearby/fruska-gora-information-centre/).'
 - id: emergency
   title: Emergency numbers
   intro: Calls to these numbers are free. **112** works from any mobile phone.
