@@ -2,6 +2,7 @@
 title: 'Fruška Gora: cars in the national park charged electronically from 5 November'
 date: '2026-11-01T16:45:00+01:00'
 feed: local
+top: true
 cover: forest-autumn
 lead: 'From Thursday 5 November 2026 Fruška Gora National Park records and charges the fee for cars and motorcycles electronically. For now you can pay online only: the Information Centre on Iriški Venac is closed for reconstruction. The rules for local residents and for driving through are not clear yet: ask the park.'
 related: [useful]

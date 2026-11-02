@@ -2,6 +2,7 @@
 title: 'Fruška Gora: ab 5. November elektronische Gebühr für Autos im Nationalpark'
 date: '2026-11-01T16:45:00+01:00'
 feed: local
+top: true
 cover: forest-autumn
 lead: 'Ab Donnerstag, 5. November 2026, erfasst der Nationalpark Fruška Gora Autos und Motorräder elektronisch und erhebt die Gebühr. Vorerst kann man nur online bezahlen: Das Informationszentrum auf dem Iriški Venac ist wegen Umbau geschlossen. Die Regeln für Anwohner und für die Durchfahrt sind noch unklar: Fragen Sie beim Park nach.'
 related: [useful]
