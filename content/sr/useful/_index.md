@@ -27,7 +27,14 @@ groups:
   intro: '**Od 5. novembra 2026.** nacionalni park elektronski naplaćuje naknadu za automobile i motocikle: 300 dinara dnevno za automobil, 100 za odraslog pešaka; godišnje karte 1.800 i 600. Cene, gde se plaća, ko je oslobođen i kontakti: [Naknada za Frušku goru](/sr/useful/naknada-fruska-gora/).'
   items:
   - name: Informativni centar na Iriškom vencu
-    what: 'Mesto za plaćanje uživo, i za godišnje karte. Dana 2. novembra 2026. zatvoren i ograđen: [detalji i fotografije](/sr/nearby/informativni-centar-iriski-venac/).'
+    what: 'Zatvoren zbog rekonstrukcije (2. novembar 2026); naknada se za sada plaća samo onlajn: [detalji i fotografije](/sr/nearby/informativni-centar-iriski-venac/).'
+  - name: 'Uprava Nacionalnog parka Fruška gora, Sremska Kamenica'
+    what: 'Savet uživo o naknadi za park dok je Informativni centar zatvoren. Od ponedeljka do petka 7:00–15:00 prema Google mapama.'
+    address: Zmajev trg 1, 21208 Sremska Kamenica
+    phone: +381 21 463 666
+    coords:
+    - 45.2232647
+    - 19.8422655
 - id: emergency
   title: Brojevi za hitne slučajeve
   intro: Pozivi na ove brojeve su besplatni. **112** radi sa bilo kog mobilnog telefona.

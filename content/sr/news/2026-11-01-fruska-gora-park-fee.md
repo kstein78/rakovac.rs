@@ -24,7 +24,7 @@ Za elektronski sistem pominje se i karta za automobil za jedan sat, **100 dinara
 ## Gde se plaća
 
 - onlajn: [enaplatafruskagora.co.rs](https://enaplatafruskagora.co.rs/) (1. novembra je tamo još pisalo „portal je u pripremi“) i [stranica za kupovinu karata](https://app.creativedimension.us/gora/korisnickaapp/karte_kupovina.php) na koju vodi [sajt parka](https://npfruskagora.co.rs/);
-- lično: [Informativni centar na Iriškom vencu](https://maps.app.goo.gl/MbSNVzZF94mnHa8y8);
+- lično: **za sada nije moguće**, Informativni centar na Iriškom vencu zatvoren je zbog rekonstrukcije ([zašto i šta umesto toga]({{< relref "nearby/fruska-gora-information-centre" >}}), vidi i dopunu ispod);
 - godišnje karte i u radnim jedinicama parka u Beočinu, Vrdniku, Ležimiru i Erdeviku.
 
 ## Ko ne plaća
@@ -41,6 +41,8 @@ Kako će novi sistem tretirati vozila meštana i da li se plaća samo prolaz pre
 
 Odgovor parka dodaćemo ovde čim ga dobijemo.
 
-**Dopuna, 2. novembra:** [Informativni centar na Iriškom vencu]({{< relref "nearby/fruska-gora-information-centre" >}}) bio je zatvoren i ograđen, po svemu sudeći zbog renoviranja, a telefon parka zauzet.
+**Dopuna, 2. novembra:** [Informativni centar na Iriškom vencu]({{< relref "nearby/fruska-gora-information-centre" >}}) zatvoren je zbog rekonstrukcije. Park je telefonom rekao da se naknada za sada može platiti samo onlajn i da elektronsko plaćanje počinje za nekoliko dana, sa detaljima o oslobođenjima. Zaposleni u parku rekao je da će verovatno važiti prelazni period do kraja godine; to nije zvanično. Za savet uživo: uprava parka u Sremskoj Kamenici, Zmajev trg 1.
+
+{{< photo key="iriski-venac-info-centre-fenced" >}}
 
 Cene, mesta plaćanja, oslobođenja i kontakti redovno se ažuriraju na stranici [Naknada za Frušku goru]({{< relref "useful/fruska-gora-park-fee" >}}).

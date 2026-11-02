@@ -27,7 +27,14 @@ groups:
   intro: '**Ab 5. November 2026** erhebt der Nationalpark die Gebühr für Autos und Motorräder elektronisch: 300 Dinar pro Tag für ein Auto, 100 für Erwachsene zu Fuß; Jahreskarten 1.800 und 600. Preise, Zahlstellen, Befreiungen und Kontakte: [Gebühr Fruška Gora](/de/useful/fruska-gora-park-fee/).'
   items:
   - name: Informationszentrum auf dem Iriški Venac
-    what: 'Zahlstelle vor Ort, auch für Jahreskarten. Am 2. November 2026 geschlossen und eingezäunt: [Details und Fotos](/de/nearby/fruska-gora-information-centre/).'
+    what: 'Wegen Umbau geschlossen (2. November 2026); die Gebühr wird vorerst nur online bezahlt: [Details und Fotos](/de/nearby/fruska-gora-information-centre/).'
+  - name: 'Verwaltung des Nationalparks Fruška Gora, Sremska Kamenica'
+    what: 'Persönliche Beratung zur Parkgebühr, solange das Informationszentrum geschlossen ist. Laut Google Maps Montag bis Freitag 7:00–15:00.'
+    address: Zmajev trg 1, 21208 Sremska Kamenica
+    phone: +381 21 463 666
+    coords:
+    - 45.2232647
+    - 19.8422655
 - id: emergency
   title: Notrufnummern
   intro: Anrufe bei diesen Nummern sind kostenlos. **112** funktioniert von jedem Mobiltelefon.

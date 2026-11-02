@@ -24,7 +24,7 @@ A one-hour ticket for a car, **100 dinars**, has been reported for the electroni
 ## Where to pay
 
 - online: [enaplatafruskagora.co.rs](https://enaplatafruskagora.co.rs/) (on 1 November it still said "portal in preparation") and the [ticket page](https://app.creativedimension.us/gora/korisnickaapp/karte_kupovina.php) linked from the [park's website](https://npfruskagora.co.rs/);
-- in person: the [Information Centre on Iriški Venac](https://maps.app.goo.gl/MbSNVzZF94mnHa8y8);
+- in person: **not possible for now**, the Information Centre on Iriški Venac is closed for reconstruction ([why and what instead]({{< relref "nearby/fruska-gora-information-centre" >}}), see also the update below);
 - annual cards also at the park's offices in Beočin, Vrdnik, Ležimir and Erdevik.
 
 ## Who does not pay
@@ -41,6 +41,8 @@ How the new system will treat local residents' cars, and whether you pay just fo
 
 We will add the park's answer here as soon as we have it.
 
-**Update, 2 November:** the [Information Centre on Iriški Venac]({{< relref "nearby/fruska-gora-information-centre" >}}) was closed and fenced off, apparently for renovation, and the park's phone was busy.
+**Update, 2 November:** the [Information Centre on Iriški Venac]({{< relref "nearby/fruska-gora-information-centre" >}}) is closed for reconstruction. By phone the park said that for now the fee can only be paid online, and that electronic payment will start in a few days, with details of the exemptions. A park employee said a grace period until the end of the year is likely; this is not official. For advice in person: the park management in Sremska Kamenica, Zmajev trg 1.
+
+{{< photo key="iriski-venac-info-centre-fenced" >}}
 
 Prices, where to pay, exemptions and contacts are kept up to date on the page [Fruška Gora park fee]({{< relref "useful/fruska-gora-park-fee" >}}).

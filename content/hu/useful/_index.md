@@ -27,7 +27,14 @@ groups:
   intro: '**2026. november 5-től** a nemzeti park elektronikusan szedi a díjat az autóktól és motoroktól: napi 300 dinár egy autóért, 100 egy felnőtt gyalogosért; éves jegy 1800 és 600. Árak, fizetési helyek, mentességek és elérhetőségek: [Fruška Gora parkdíj](/hu/useful/fruska-gora-park-fee/).'
   items:
   - name: Információs Központ, Iriški venac
-    what: 'Személyes fizetési hely, éves jegyekhez is. 2026. november 2-án zárva és körbekerítve: [részletek és fotók](/hu/nearby/fruska-gora-information-centre/).'
+    what: 'Felújítás miatt zárva (2026. november 2.); a díj egyelőre csak online fizethető: [részletek és fotók](/hu/nearby/fruska-gora-information-centre/).'
+  - name: 'A Fruška Gora Nemzeti Park igazgatósága, Sremska Kamenica'
+    what: 'Személyes tanácsadás a parkdíjról, amíg az Információs Központ zárva van. A Google Térkép szerint hétfőtől péntekig 7:00–15:00.'
+    address: Zmajev trg 1, 21208 Sremska Kamenica
+    phone: +381 21 463 666
+    coords:
+    - 45.2232647
+    - 19.8422655
 - id: emergency
   title: Segélyhívó számok
   intro: Ezek a számok ingyenesen hívhatók. A **112** bármely mobiltelefonról működik.

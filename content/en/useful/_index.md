@@ -27,7 +27,14 @@ groups:
   intro: '**From 5 November 2026** the national park charges cars and motorcycles electronically: 300 dinars a day for a car, 100 for an adult on foot; annual cards 1,800 and 600. Prices, where to pay, who is exempt and contacts: [Fruška Gora park fee](/en/useful/fruska-gora-park-fee/).'
   items:
   - name: Information Centre on Iriški Venac
-    what: 'Payment point in person, also for annual cards. Closed and fenced off on 2 November 2026: [details and photos](/en/nearby/fruska-gora-information-centre/).'
+    what: 'Closed for reconstruction (2 November 2026); for now the fee is paid online only: [details and photos](/en/nearby/fruska-gora-information-centre/).'
+  - name: 'Fruška Gora National Park management, Sremska Kamenica'
+    what: 'Advice in person about the park fee while the Information Centre is closed. Monday to Friday 7:00–15:00 according to Google Maps.'
+    address: Zmajev trg 1, 21208 Sremska Kamenica
+    phone: +381 21 463 666
+    coords:
+    - 45.2232647
+    - 19.8422655
 - id: emergency
   title: Emergency numbers
   intro: Calls to these numbers are free. **112** works from any mobile phone.

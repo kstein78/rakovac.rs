@@ -15,10 +15,12 @@ facts:
   distance: "Rakovactól mintegy 8 km-re délkeletre (légvonalban)"
   parking: "Parkoló a központ előtt"
 photo: iriski-venac-info-centre
-gallery: [iriski-venac-info-centre-fenced, iriski-venac-fee-board, iriski-venac-tourist-board, iriski-venac-kiosk]
+gallery: [iriski-venac-fee-board, iriski-venac-tourist-board, iriski-venac-kiosk]
 ---
 
-{{< note type="warning" title="Zárva 2026 novemberében" >}}**2026. november 2-án, hétfőn 8:30-kor** a központ zárva volt és minden oldalról körbe volt kerítve, minden jel szerint felújítás miatt, a park telefonja pedig folyamatosan foglalt volt. Éves jegyet a park beočini, vrdniki, ležimiri és erdeviki kirendeltségén is árulnak ([a park honlapja](https://fruskagoranovisajt.rs/godisnje-karte/)).{{< /note >}}
+{{< note type="warning" title="Felújítás miatt zárva" >}}**2026. november 2-án, hétfőn** a központ zárva volt és körbe volt kerítve. A park telefonon megerősítette, hogy felújítás miatt zárva van, és a díjat egyelőre csak online lehet kifizetni. A park egyik munkatársa a helyszínen azt mondta, hogy az újranyitás időpontja még nem ismert, a munkák idejére pedig ideiglenes konténerirodát ígértek ide, szintén határidő nélkül. Személyes tanácsért forduljon a park igazgatóságához Sremska Kamenicán, Zmajev trg 1 ([a térképen](https://www.google.com/maps/search/?api=1&query=45.2232647,19.8422655)).{{< /note >}}
+
+{{< photo key="iriski-venac-info-centre-fenced" >}}
 
 Az Iriški venac a Tarcal-hegység gerincének fő kereszteződése: itt keresztezi az Újvidékről Irigre vezető M-21-es út a gerincutat (Grebenski vagy Partizanski put). Nyitvatartás idején a központban természetrajzi kiállítás, előadóterem és a park idegenvezető szolgálata működik, és itt lehet személyesen kifizetni a parkdíjat ([a park honlapja](https://npfruskagora.co.rs/informativni-centar-za-posetioce/)).
 

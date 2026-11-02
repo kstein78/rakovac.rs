@@ -29,9 +29,9 @@ Az [éves jegyek](https://fruskagoranovisajt.rs/godisnje-karte/) a naptári évr
 
 ## Hol lehet fizetni
 
-- **Online:** [enaplatafruskagora.co.rs](https://enaplatafruskagora.co.rs/) (2026. november 1-jén még az állt rajta, hogy „a portál előkészítés alatt“) és a [jegyvásárlási oldal](https://app.creativedimension.us/gora/korisnickaapp/karte_kupovina.php), amelyre a [park honlapja](https://npfruskagora.co.rs/) mutat.
-- **Személyesen:** az [Iriški venac-i Információs Központban]({{< relref "nearby/fruska-gora-information-centre" >}}), amely azonban 2026. november 2-án zárva volt és körbe volt kerítve, minden jel szerint felújítás miatt. Napijegyet a park természetőrei is árulnak az utakon.
-- **Éves jegyet** a park beočini, vrdniki, ležimiri és erdeviki kirendeltségén is árulnak.
+- **Egyelőre csak online.** A park 2026. november 2-án telefonon azt mondta, hogy amíg az Információs Központ újra nem nyit, a díjat csak online lehet kifizetni. Az elektronikus fizetés néhány napon belül indul az [enaplatafruskagora.co.rs](https://enaplatafruskagora.co.rs/) oldalon (november 1-jén még az állt rajta, hogy „a portál előkészítés alatt“), és ott lesznek a mentességek részletei is. A [jegyvásárlási oldalra](https://app.creativedimension.us/gora/korisnickaapp/karte_kupovina.php) a [park honlapja](https://npfruskagora.co.rs/) mutat.
+- **Személyesen:** az [Iriški venac-i Információs Központ]({{< relref "nearby/fruska-gora-information-centre" >}}) felújítás miatt zárva van; a munkák idejére ideiglenes konténerirodát ígértek oda, egyelőre határidő nélkül. Személyes tanácsért a park sremska kamenicai igazgatóságához forduljon (lásd Elérhetőségek).
+- **Eddig** napijegyet a park természetőrei is árultak az utakon, éves jegyet pedig a park beočini, vrdniki, ležimiri és erdeviki kirendeltsége ([a park honlapja](https://fruskagoranovisajt.rs/godisnje-karte/)).
 
 ## Ki nem fizet
 
@@ -41,10 +41,12 @@ A [törvény](https://www.paragraf.rs/propisi/zakon-o-naknadama-za-koriscenje-ja
 
 Hogy az elektronikus rendszer hogyan kezeli a helyi lakosok autóit, és kell-e fizetni pusztán a hegységen való áthaladásért (például Rakovac – Ruma), még nem világos. A park erről nem tett közzé szabályokat, ahogy arról sem, hogyan rögzítik a járműveket és mekkora a bírság fizetés nélkül. Mielőtt bármire számítana, érdeklődjön a parknál.
 
+A park egyik munkatársa november 2-án azt mondta, hogy valószínűleg év végéig türelmi időszak lesz, amíg a rendszer be nem áll. Ez nem hivatalos bejelentés: kövesse a park híreit.
+
 ## Elérhetőségek
 
 - **Fruška Gora Nemzeti Park:** [021 463 666](tel:+38121463666), [kapcsolatfelvételi űrlap](https://npfruskagora.co.rs/kontakt/)
-- **Információs Központ az Iriški venacon:** [a központ oldala]({{< relref "nearby/fruska-gora-information-centre" >}}), 2026 novemberében zárva
-- **A park beočini kirendeltsége** (RJ Beočin), ahol éves jegyet is árulnak
+- **A park igazgatósága, Sremska Kamenica:** Zmajev trg 1, személyes tanácsadás; a Google Térkép szerint hétfőtől péntekig 7:00–15:00 ([a térképen](https://www.google.com/maps/search/?api=1&query=45.2232647,19.8422655))
+- **Iriški venac-i Információs Központ:** [a központ oldala]({{< relref "nearby/fruska-gora-information-centre" >}}), felújítás miatt zárva
 
-A park honlapjával egyeztetve 2026. november 1-jén. Az oldalt frissítjük, amint a park közzéteszi a helyi lakosokra és az átutazásra vonatkozó szabályokat.
+A park honlapjával november 1-jén, telefonon a parkkal 2026. november 2-án egyeztetve. Az oldalt frissítjük, amint a park közzéteszi a helyi lakosokra és az átutazásra vonatkozó szabályokat.

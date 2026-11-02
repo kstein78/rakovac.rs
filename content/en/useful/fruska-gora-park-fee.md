@@ -29,9 +29,9 @@ From the park's [2026 price list](https://fruskagoranovisajt.rs/wp-content/uploa
 
 ## Where to pay
 
-- **Online:** [enaplatafruskagora.co.rs](https://enaplatafruskagora.co.rs/) (on 1 November 2026 it still said "portal in preparation") and the [ticket page](https://app.creativedimension.us/gora/korisnickaapp/karte_kupovina.php) linked from the [park's website](https://npfruskagora.co.rs/).
-- **In person:** the [Information Centre on Iriški Venac]({{< relref "nearby/fruska-gora-information-centre" >}}), but on 2 November 2026 it was closed and fenced off, apparently for renovation. Day tickets are also sold by the park's nature wardens on the road.
-- **Annual cards** are also sold at the park's offices in Beočin, Vrdnik, Ležimir and Erdevik.
+- **For now online only.** The park told us by phone on 2 November 2026 that until the Information Centre reopens the fee can only be paid online. Electronic payment should start in a few days on [enaplatafruskagora.co.rs](https://enaplatafruskagora.co.rs/) (on 1 November it still said "portal in preparation"), together with details of who is exempt. The [ticket page](https://app.creativedimension.us/gora/korisnickaapp/karte_kupovina.php) is linked from the [park's website](https://npfruskagora.co.rs/).
+- **In person:** the [Information Centre on Iriški Venac]({{< relref "nearby/fruska-gora-information-centre" >}}) is closed for reconstruction; a temporary container office is promised there, with no date yet. For advice in person, go to the park management in Sremska Kamenica (see Contacts).
+- **So far** day tickets were also sold by the park's nature wardens on the road, and annual cards at the park's offices in Beočin, Vrdnik, Ležimir and Erdevik ([park website](https://fruskagoranovisajt.rs/godisnje-karte/)).
 
 ## Who does not pay
 
@@ -41,10 +41,12 @@ The [law](https://www.paragraf.rs/propisi/zakon-o-naknadama-za-koriscenje-javnih
 
 How the electronic system will treat local residents' cars, and whether you pay just for driving across Fruška Gora (for example Rakovac – Ruma), is not clear yet. The park has not published rules on this, nor how vehicles are recorded and what the fine is for not paying. Before you rely on anything, ask the park.
 
+On 2 November a park employee told us that a grace period until the end of the year is likely while the system settles in. This is not an official announcement: watch the park's news.
+
 ## Contacts
 
 - **Fruška Gora National Park:** [021 463 666](tel:+38121463666), [contact form](https://npfruskagora.co.rs/kontakt/)
-- **Information Centre on Iriški Venac:** [centre page]({{< relref "nearby/fruska-gora-information-centre" >}}), closed in November 2026
-- **The park's office in Beočin** (RJ Beočin), which also sells annual cards
+- **Park management, Sremska Kamenica:** Zmajev trg 1, for advice in person; Monday to Friday 7:00–15:00 according to Google Maps ([on the map](https://www.google.com/maps/search/?api=1&query=45.2232647,19.8422655))
+- **Information Centre on Iriški Venac:** [centre page]({{< relref "nearby/fruska-gora-information-centre" >}}), closed for reconstruction
 
-Checked against the park's website on 1 November 2026. We will update this page when the park publishes the rules for residents and for driving through.
+Checked against the park's website on 1 November and with the park by phone on 2 November 2026. We will update this page when the park publishes the rules for residents and for driving through.

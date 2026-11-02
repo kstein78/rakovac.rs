@@ -16,10 +16,12 @@ facts:
   distance: "Oko 8 km jugoistočno od Rakovca (vazdušnom linijom)"
   parking: "Parking ispred centra"
 photo: iriski-venac-info-centre
-gallery: [iriski-venac-info-centre-fenced, iriski-venac-fee-board, iriski-venac-tourist-board, iriski-venac-kiosk]
+gallery: [iriski-venac-fee-board, iriski-venac-tourist-board, iriski-venac-kiosk]
 ---
 
-{{< note type="warning" title="Zatvoren u novembru 2026." >}}U **ponedeljak, 2. novembra 2026, u 8:30** centar je bio zatvoren i ograđen sa svih strana, po svemu sudeći zbog renoviranja, a telefon parka je stalno bio zauzet. Godišnje karte prodaju se i u radnim jedinicama parka u Beočinu, Vrdniku, Ležimiru i Erdeviku ([sajt parka](https://fruskagoranovisajt.rs/godisnje-karte/)).{{< /note >}}
+{{< note type="warning" title="Zatvoren zbog rekonstrukcije" >}}U **ponedeljak, 2. novembra 2026,** centar je bio zatvoren i ograđen. Park je telefonom potvrdio da je zatvoren zbog rekonstrukcije i da se naknada za sada može platiti samo onlajn. Zaposleni u parku rekao je na licu mesta da datum ponovnog otvaranja još nije poznat i da je za vreme radova ovde obećana privremena kancelarija u kontejneru, takođe bez roka. Za savet uživo idite u upravu parka u Sremskoj Kamenici, Zmajev trg 1 ([na mapi](https://www.google.com/maps/search/?api=1&query=45.2232647,19.8422655)).{{< /note >}}
+
+{{< photo key="iriski-venac-info-centre-fenced" >}}
 
 Iriški venac je glavna raskrsnica na grebenu Fruške gore, gde se magistralni put M-21 od Novog Sada ka Irigu ukršta sa grebenskim (Partizanskim) putem. Kad radi, centar ima prirodnjačku postavku, salu za predavanja i vodičku službu parka, i mesto je za plaćanje naknade za park ([sajt parka](https://npfruskagora.co.rs/informativni-centar-za-posetioce/)).
 

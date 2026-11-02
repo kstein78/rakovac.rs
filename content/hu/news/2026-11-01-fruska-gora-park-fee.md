@@ -24,7 +24,7 @@ Az elektronikus rendszerhez egyórás autójegyről is szó van, **100 dinárér
 ## Hol lehet fizetni
 
 - online: [enaplatafruskagora.co.rs](https://enaplatafruskagora.co.rs/) (november 1-jén még az állt rajta, hogy „a portál előkészítés alatt“) és a [jegyvásárlási oldal](https://app.creativedimension.us/gora/korisnickaapp/karte_kupovina.php), amelyre a [park honlapja](https://npfruskagora.co.rs/) mutat;
-- személyesen: [Információs Központ, Iriški venac](https://maps.app.goo.gl/MbSNVzZF94mnHa8y8);
+- személyesen: **egyelőre nem lehetséges**, az Iriški venac-i Információs Központ felújítás miatt zárva van ([miért és mi helyette]({{< relref "nearby/fruska-gora-information-centre" >}}), lásd az alábbi kiegészítést is);
 - éves jegyek a park beočini, vrdniki, ležimiri és erdeviki kirendeltségein is.
 
 ## Ki nem fizet
@@ -41,6 +41,8 @@ Hogy az új rendszer hogyan kezeli a helyi lakosok autóit, és kell-e fizetni p
 
 A park válaszát itt közöljük, amint megkapjuk.
 
-**Kiegészítés, november 2.:** az [Iriški venac-i Információs Központ]({{< relref "nearby/fruska-gora-information-centre" >}}) zárva volt és körbe volt kerítve, minden jel szerint felújítás miatt, a park telefonja pedig foglalt volt.
+**Kiegészítés, november 2.:** az [Iriški venac-i Információs Központ]({{< relref "nearby/fruska-gora-information-centre" >}}) felújítás miatt zárva van. A park telefonon azt mondta, hogy a díjat egyelőre csak online lehet kifizetni, az elektronikus fizetés pedig néhány napon belül indul, a mentességek részleteivel együtt. A park egyik munkatársa szerint valószínűleg év végéig türelmi időszak lesz; ez nem hivatalos. Személyes tanácsadás: a park igazgatósága Sremska Kamenicán, Zmajev trg 1.
+
+{{< photo key="iriski-venac-info-centre-fenced" >}}
 
 Az árakat, a fizetési helyeket, a mentességeket és az elérhetőségeket a [Fruška Gora parkdíj]({{< relref "useful/fruska-gora-park-fee" >}}) oldalon frissítjük.

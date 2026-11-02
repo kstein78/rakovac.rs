@@ -15,10 +15,12 @@ facts:
   distance: "Etwa 8 km südöstlich von Rakovac (Luftlinie)"
   parking: "Parkplatz vor dem Zentrum"
 photo: iriski-venac-info-centre
-gallery: [iriski-venac-info-centre-fenced, iriski-venac-fee-board, iriski-venac-tourist-board, iriski-venac-kiosk]
+gallery: [iriski-venac-fee-board, iriski-venac-tourist-board, iriski-venac-kiosk]
 ---
 
-{{< note type="warning" title="Geschlossen im November 2026" >}}Am **Montag, 2. November 2026, um 8:30 Uhr** war das Zentrum geschlossen und rundum eingezäunt, offenbar wegen Renovierung, und das Telefon des Parks war jedes Mal besetzt. Jahreskarten gibt es auch in den Außenstellen des Parks in Beočin, Vrdnik, Ležimir und Erdevik ([Website des Parks](https://fruskagoranovisajt.rs/godisnje-karte/)).{{< /note >}}
+{{< note type="warning" title="Wegen Umbau geschlossen" >}}Am **Montag, 2. November 2026,** war das Zentrum geschlossen und eingezäunt. Am Telefon bestätigte der Park, dass es wegen Umbau geschlossen ist und die Gebühr vorerst nur online bezahlt werden kann. Ein Mitarbeiter des Parks vor Ort sagte, dass es noch keinen Termin für die Wiedereröffnung gibt und für die Bauzeit hier ein provisorisches Büro im Container versprochen ist, ebenfalls ohne Termin. Persönliche Beratung gibt es in der Parkverwaltung in Sremska Kamenica, Zmajev trg 1 ([auf der Karte](https://www.google.com/maps/search/?api=1&query=45.2232647,19.8422655)).{{< /note >}}
+
+{{< photo key="iriski-venac-info-centre-fenced" >}}
 
 Der Iriški Venac ist die wichtigste Kreuzung auf dem Kamm der Fruška Gora: Hier kreuzt die Straße M-21 von Novi Sad nach Irig die Kammstraße (Grebenski oder Partizanski put). Geöffnet bietet das Zentrum eine naturkundliche Ausstellung, einen Saal für Vorträge und den Führungsdienst des Parks, und es ist die Zahlstelle für die Parkgebühr vor Ort ([Website des Parks](https://npfruskagora.co.rs/informativni-centar-za-posetioce/)).
 

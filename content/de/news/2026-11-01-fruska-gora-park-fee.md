@@ -24,7 +24,7 @@ Für das elektronische System ist außerdem von einem Ein-Stunden-Ticket für Au
 ## Wo man zahlt
 
 - online: [enaplatafruskagora.co.rs](https://enaplatafruskagora.co.rs/) (am 1. November stand dort noch „Portal in Vorbereitung“) und die [Ticketseite](https://app.creativedimension.us/gora/korisnickaapp/karte_kupovina.php), auf die die [Website des Parks](https://npfruskagora.co.rs/) verlinkt;
-- vor Ort: [Informationszentrum auf dem Iriški Venac](https://maps.app.goo.gl/MbSNVzZF94mnHa8y8);
+- vor Ort: **vorerst nicht möglich**, das Informationszentrum auf dem Iriški Venac ist wegen Umbau geschlossen ([warum und was stattdessen]({{< relref "nearby/fruska-gora-information-centre" >}}), siehe auch den Nachtrag unten);
 - Jahreskarten auch in den Außenstellen des Parks in Beočin, Vrdnik, Ležimir und Erdevik.
 
 ## Wer nicht zahlt
@@ -41,6 +41,8 @@ Wie das neue System mit den Autos von Anwohnern umgeht und ob man schon für die
 
 Die Antwort des Parks ergänzen wir hier, sobald wir sie haben.
 
-**Nachtrag, 2. November:** Das [Informationszentrum auf dem Iriški Venac]({{< relref "nearby/fruska-gora-information-centre" >}}) war geschlossen und eingezäunt, offenbar wegen Renovierung, und das Telefon des Parks besetzt.
+**Nachtrag, 2. November:** Das [Informationszentrum auf dem Iriški Venac]({{< relref "nearby/fruska-gora-information-centre" >}}) ist wegen Umbau geschlossen. Am Telefon sagte der Park, dass die Gebühr vorerst nur online bezahlt werden kann und die elektronische Zahlung in einigen Tagen startet, mit Angaben zu den Befreiungen. Ein Mitarbeiter des Parks sagte, bis Jahresende gelte wahrscheinlich eine Übergangsfrist; das ist nicht offiziell. Persönliche Beratung: Parkverwaltung in Sremska Kamenica, Zmajev trg 1.
+
+{{< photo key="iriski-venac-info-centre-fenced" >}}
 
 Preise, Zahlstellen, Befreiungen und Kontakte halten wir auf der Seite [Gebühr Fruška Gora]({{< relref "useful/fruska-gora-park-fee" >}}) aktuell.
