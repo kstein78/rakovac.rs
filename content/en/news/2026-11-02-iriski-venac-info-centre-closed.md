@@ -7,6 +7,8 @@ lead: 'The Fruška Gora National Park Information Centre on Iriški Venac is clo
 related: [nearby/fruska-gora-information-centre, useful/fruska-gora-park-fee]
 ---
 
+**Update, 5 November:** the portal is working; residents of 20 nearby municipalities, Beočin with Rakovac among them, do not pay, and a pass through the park costs 100 dinars for up to an hour. [Details]({{< relref "news/2026-11-05-fruska-gora-residents-exempt" >}}).
+
 On Monday, 2 November 2026, we found the [Information Centre on Iriški Venac]({{< relref "nearby/fruska-gora-information-centre" >}}) closed and fenced off on all sides. By phone the park confirmed that it is closed for reconstruction. A park employee on site said there is no reopening date yet and that a temporary container office is promised here during the works, also without a date.
 
 {{< photo key="iriski-venac-info-centre-fenced" >}}

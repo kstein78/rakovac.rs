@@ -24,7 +24,7 @@ groups:
     what: 'Über die Donau nach Futog und in die Batschka, stündlich, aber vorher anrufen: Sie fährt nicht immer. [Fahrplan, Preise und Telefon](/de/nearby/ferry-beocin-futog/).'
 - id: park-fee
   title: 'Nationalpark Fruška Gora: Gebühr für Autos und Besucher'
-  intro: '**Ab 5. November 2026** erhebt der Nationalpark die Gebühr für Autos und Motorräder elektronisch: 300 Dinar pro Tag für ein Auto, 100 für Erwachsene zu Fuß; Jahreskarten 1.800 und 600. Preise, Zahlstellen, Befreiungen und Kontakte: [Gebühr Fruška Gora](/de/useful/fruska-gora-park-fee/).'
+  intro: '**Seit 5. November 2026** erhebt der Nationalpark die Gebühr für Autos elektronisch: 100 Dinar bis zu einer Stunde, 300 pro Tag. Bewohner von 20 umliegenden Gemeinden, darunter Beočin mit Rakovac, zahlen nicht und melden sich nicht an. Preise, Befreiungen, Bezahlung: [Gebühr Fruška Gora](/de/useful/fruska-gora-park-fee/).'
   items:
   - name: Informationszentrum auf dem Iriški Venac
     what: 'Wegen Umbau geschlossen (2. November 2026); die Gebühr wird vorerst nur online bezahlt: [Details und Fotos](/de/nearby/fruska-gora-information-centre/).'

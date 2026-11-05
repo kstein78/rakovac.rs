@@ -7,6 +7,8 @@ lead: 'Informativni centar Nacionalnog parka Fruška gora na Iriškom vencu zatv
 related: [nearby/fruska-gora-information-centre, useful/fruska-gora-park-fee]
 ---
 
+**Dopuna, 5. novembra:** portal radi; stanovnici 20 okolnih opština, među njima Beočin sa Rakovcem, ne plaćaju, a prolaz kroz park do jednog sata košta 100 dinara. [Detalji]({{< relref "news/2026-11-05-fruska-gora-residents-exempt" >}}).
+
 U ponedeljak, 2. novembra 2026, [Informativni centar na Iriškom vencu]({{< relref "nearby/fruska-gora-information-centre" >}}) zatekli smo zatvoren i ograđen sa svih strana. Park je telefonom potvrdio da je zatvoren zbog rekonstrukcije. Zaposleni u parku rekao je na licu mesta da datum ponovnog otvaranja još nije poznat i da je za vreme radova ovde obećana privremena kancelarija u kontejneru, takođe bez roka.
 
 {{< photo key="iriski-venac-info-centre-fenced" >}}

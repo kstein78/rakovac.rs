@@ -2,11 +2,12 @@
 title: 'Fruška Gora: cars in the national park charged electronically from 5 November'
 date: '2026-11-01T16:45:00+01:00'
 feed: local
-top: true
 cover: forest-autumn
-lead: 'From Thursday 5 November 2026 Fruška Gora National Park records and charges the fee for cars and motorcycles electronically. For now you can pay online only: the Information Centre on Iriški Venac is closed for reconstruction. The rules for local residents and for driving through are not clear yet: ask the park.'
+lead: 'From Thursday 5 November 2026 Fruška Gora National Park records and charges the fee for cars and motorcycles electronically. For now you can pay online only: the Information Centre on Iriški Venac is closed for reconstruction. Update, 5 November: residents of 20 nearby municipalities, Beočin among them, do not pay.'
 related: [useful]
 ---
+
+**Update, 5 November:** the portal is working; residents of 20 nearby municipalities, Beočin with Rakovac among them, do not pay, and a pass through the park costs 100 dinars for up to an hour. [Details]({{< relref "news/2026-11-05-fruska-gora-residents-exempt" >}}).
 
 The national park has charged a fee for visits and for driving inside it since 2009. Until now the park's nature wardens collected it on the road, mostly at weekends; neighbours say they took the fee for the car and did not charge the passengers separately. From **5 November 2026** vehicles in the park are recorded electronically ([021.rs](https://www.021.rs/novi-sad/vesti/459992/pocinje-elektronsko-evidentiranje-i-naplata-za-koriscenje-motornih-vozila-na-fruskoj-gori)).
 

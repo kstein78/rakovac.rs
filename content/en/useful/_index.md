@@ -24,7 +24,7 @@ groups:
     what: 'Across the Danube to Futog and Bačka, every hour, but call before you go: it does not always run. [Timetable, prices and phone](/en/nearby/ferry-beocin-futog/).'
 - id: park-fee
   title: 'Fruška Gora National Park: fee for cars and visitors'
-  intro: '**From 5 November 2026** the national park charges cars and motorcycles electronically: 300 dinars a day for a car, 100 for an adult on foot; annual cards 1,800 and 600. Prices, where to pay, who is exempt and contacts: [Fruška Gora park fee](/en/useful/fruska-gora-park-fee/).'
+  intro: '**Since 5 November 2026** the national park charges cars electronically: 100 dinars for up to an hour, 300 a day. Residents of 20 nearby municipalities, Beočin with Rakovac among them, do not pay and need not register. Prices, exemptions and how to pay: [Fruška Gora park fee](/en/useful/fruska-gora-park-fee/).'
   items:
   - name: Information Centre on Iriški Venac
     what: 'Closed for reconstruction (2 November 2026); for now the fee is paid online only: [details and photos](/en/nearby/fruska-gora-information-centre/).'

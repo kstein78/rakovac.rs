@@ -34,7 +34,7 @@ Iriški Venac is the main crossroads on the ridge of Fruška Gora, where the M-2
 | Bus, truck | 700 dinars | 6,600 dinars |
 | Articulated lorry, truck with a trailer | 1,700 dinars | 18,000 dinars |
 
-The board cites the decision in the *Službeni glasnik RS* no. 6/2024 and 121/2025 and says that day tickets are sold by the park's nature wardens and annual ones in the Information Centre. For buses and trucks it differs from the [price list on the park's website](https://fruskagoranovisajt.rs/wp-content/uploads/2026/01/cenovnik.pdf) (800 and 6,500; 2,000 and 18,000 dinars); for cars and visitors on foot they agree. More on the page [Fruška Gora park fee]({{< relref "useful/fruska-gora-park-fee" >}}).
+The board cites the decision in the *Službeni glasnik RS* no. 6/2024 and 121/2025 and says that day tickets are sold by the park's nature wardens and annual ones in the Information Centre. Its day prices for buses and lorries (700 and 1,700 dinars) are older: since the decision was amended on 30 December 2025 they are 800 and 2,000; since 5 November 2026 there is also a pass of up to one hour (100 dinars for a car). Current prices and exemptions: [Fruška Gora park fee]({{< relref "useful/fruska-gora-park-fee" >}}).
 
 ## When the centre is open
 

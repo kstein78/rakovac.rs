@@ -1,52 +1,54 @@
 ---
 title: "Díj a Fruška Gora Nemzeti Parkban: árak, online fizetés, mentességek"
 linkTitle: "Fruška Gora parkdíj"
-seo_title: "Fruška Gora (Tarcal-hegység) Nemzeti Park díj 2026: autó 300 dinár, gyalog 100, online"
-seo_description: "Mennyibe kerül autóval vagy gyalog a Fruška Gora Nemzeti Parkban: autó napi 300 dinár, felnőtt gyalogos 100, éves jegy 1800 és 600. Elektronikus díjszedés 2026. november 5-től, hol lehet fizetni, ki mentes, elérhetőségek."
+seo_title: "Fruška Gora (Tarcal-hegység) parkdíj 2026: óránként 100 dinár, napi 300, ki nem fizet"
+seo_description: "Járműdíj a Fruška Gora Nemzeti Parkban 2026. november 5-től: legfeljebb egy órára 100 dinár, napi 300, éves 1800. 20 környező község lakói, köztük Beočin és Újvidék, nem fizetnek. Online fizetés."
 kicker: "Hasznos · Fruška Gora Nemzeti Park"
 weight: 20
 photo: "monastery-road-winter"
-summary: "A Fruška Gora (Tarcal-hegység) Nemzeti Park díjat szed az autóktól és a gyalogos látogatóktól: napi 300 dinár egy autóért, 100 egy felnőttért. 2026. november 5-től a járműveket elektronikusan rögzítik és számlázzák. Árak, hol lehet fizetni, ki mentes és kitől érdeklődjön."
-lead: "Rakovac a Fruška Gora Nemzeti Park területén fekszik. A park díjat szed a közlekedésért és a látogatásért; 2026. november 5-től az autókat elektronikusan rögzítik és számlázzák."
+summary: "A Fruška Gora Nemzeti Park 2026. november 5-től elektronikusan szed díjat az autóktól: legfeljebb egy órára 100 dinár, napi 300. 20 környező község lakói, Rakovacot is beleértve, nem fizetnek és nem regisztrálnak. Árak, mentességek, fizetés."
+lead: "Rakovac a Fruška Gora Nemzeti Park területén fekszik. 2026. november 5-től kamerák rögzítik az autókat a parkban; 20 környező község lakói nem fizetnek, a többiek online fizetnek."
 ---
 
-A díjat 2009 óta szedik a szerb törvény alapján; a pénz a park védelmére, az ösvények és pihenőhelyek rendben tartására megy. Eddig a park természetőrei szedték az utakon, főleg hétvégén. **2026. november 5-től** a járműveket elektronikusan rögzítik, és a díj online is fizethető ([hír]({{< relref "news/2026-11-01-fruska-gora-park-fee" >}})).
+A díjat 2009 óta szedik a szerb törvény alapján; a pénz a park védelmére, az ösvények és pihenőhelyek rendben tartására megy. **2026. november 5-től** kamerák rögzítik a járműveket a parkban, felismerik a kategóriát és kiszámítják a díjat ([hír]({{< relref "news/2026-11-05-fruska-gora-residents-exempt" >}})).
 
 ## Árak
 
-A park [2026-os árjegyzéke](https://fruskagoranovisajt.rs/wp-content/uploads/2026/01/cenovnik.pdf) szerint:
+A park [díjhatározata](https://enaplatafruskagora.co.rs/Content/documents/fruskagora/Odluka-o-naknadama.pdf) szerint (utolsó módosítás: 2025. december 30.):
 
-| | Egy nap | Éves jegy |
-|---|---|---|
-| Felnőtt gyalogos | 100 dinár | 600 dinár |
-| Gyermek gyalogos | 50 dinár | |
-| Autó vagy motor | 300 dinár | 1800 dinár |
-| Kisbusz, utánfutós jármű | 500 dinár | 3300 dinár |
-| Autóbusz, teherautó | 800 dinár | 6500 dinár |
-| Nyerges vontató, pótkocsis teherautó | 2000 dinár | 18 000 dinár |
+| | 1 óra | Nap | Év |
+|---|---|---|---|
+| I: autó, motor | 100 | 300 | 1800 |
+| II: kisbusz, utánfutós | 150 | 500 | 3300 |
+| III: autóbusz, teherautó | 200 | 800 | 6500 |
+| IV: 3-nál több tengely | 300 | 2000 | 18 000 |
+| Gyalog: felnőtt / gyermek | | 100/50 | 600 |
 
-Az [éves jegyek](https://fruskagoranovisajt.rs/godisnje-karte/) a naptári évre, december 31-ig érvényesek. Az elektronikus rendszerhez egyórás autójegyről is szó van, 100 dinárért; a hivatalos árjegyzékben még nem szerepel. Az Információs Központnál lévő díjtábla (határozat a *Službeni glasnik RS* 6/2024. és 121/2025. számában) autóbuszra és teherautóra más árakat ad, 700 és 6600 dinárt, nyerges vontatóra 1700 és 18 000-et; autóra és gyalogosra egyezik.
+Dinárban. Az „1 óra“ legfeljebb egyórás áthaladás a parkon. Az I. kategória legfeljebb 1,3 m magas, a III. 1,3 m-nél magasabb.
 
-## Hol lehet fizetni
-
-- **Egyelőre csak online.** A park 2026. november 2-án telefonon azt mondta, hogy amíg az Információs Központ újra nem nyit, a díjat csak online lehet kifizetni. Az elektronikus fizetés néhány napon belül indul az [enaplatafruskagora.co.rs](https://enaplatafruskagora.co.rs/) oldalon (november 1-jén még az állt rajta, hogy „a portál előkészítés alatt“), és ott lesznek a mentességek részletei is. A [jegyvásárlási oldalra](https://app.creativedimension.us/gora/korisnickaapp/karte_kupovina.php) a [park honlapja](https://npfruskagora.co.rs/) mutat.
-- **Személyesen:** az [Iriški venac-i Információs Központ]({{< relref "nearby/fruska-gora-information-centre" >}}) felújítás miatt zárva van; a munkák idejére ideiglenes konténerirodát ígértek oda, egyelőre határidő nélkül. Személyes tanácsért a park sremska kamenicai igazgatóságához forduljon (lásd Elérhetőségek).
-- **Eddig** napijegyet a park természetőrei is árultak az utakon, éves jegyet pedig a park beočini, vrdniki, ležimiri és erdeviki kirendeltsége ([a park honlapja](https://fruskagoranovisajt.rs/godisnje-karte/)).
+Az éves jegyek a naptári évre, december 31-ig érvényesek. Az [Információs Központnál]({{< relref "nearby/fruska-gora-information-centre" >}}) lévő díjtábla még a régi napi árakat mutatja autóbuszra és nyerges vontatóra (700 és 1700 dinár).
 
 ## Ki nem fizet
 
-A [törvény](https://www.paragraf.rs/propisi/zakon-o-naknadama-za-koriscenje-javnih-dobara.html) (109. cikk) többek között mentesíti az óvodáskorú gyermekeket, a fogyatékossággal élőket és a legalacsonyabb nyugdíjjal rendelkező nyugdíjasokat (az autó után, az utolsó nyugdíjszelvénnyel). Mentességet ír elő a park községeiben élőknek és a parkban dolgozóknak is.
+Akinek állandó lakhelye (*prebivalište*) az alábbi 20 község egyikében van, nem fizet az autójáért: Irig, Beočin, Sremski Karlovci, Novi Sad, Inđija, Ruma, Sremska Mitrovica, Šid, Bačka Palanka, Bač, Bački Petrovac, Bogatić, Odžaci, Stara Pazova, Šabac, Temerin, Titel, Vrbas, Zrenjanin, Žabalj. Ide tartozik Rakovac (Beočin) is. Regisztráció nem kell: ezeket az autókat csak statisztikához rögzítik ([hivatalos lista](https://enaplatafruskagora.co.rs/Home/MunicipalityExemptionInfo), [021.rs](https://www.021.rs/novi-sad/vesti/460375/pocinje-elektronsko-evidentiranje-i-naplata-za-koriscenje-motornih-vozila-na-fruskoj-gori-ovo-su-detalji)). Egyes lapok „21 községet“ írnak, mert Ruma a táblázatban kétszer szerepel.
 
-## Helyi lakosok és átutazás
+A [törvény](https://www.parlament.gov.rs/upload/archive/files/cir/pdf/zakoni/14_saziv/153-26.pdf) szerint (a 2026-ban módosított 109. cikk) mentesek továbbá a fogyatékossággal élők, az óvodáskorú gyermekek, a legalacsonyabb nyugdíjjal rendelkezők, a parkban dolgozók és mások. Ha a rendszer nem ismeri fel, például mert az autó más régió vagy külföldi rendszámú, nyújtson be [mentességi kérelmet](https://enaplatafruskagora.co.rs/Home/ExemptionRequest) a személyi igazolvány és a forgalmi engedély (*saobraćajna dozvola*) beolvasott másolatával, és kövesse az [állapotoldalon](https://enaplatafruskagora.co.rs/Home/ExemptionRequestStatus). A jogi személyek fizetnek: a céges járművek tulajdonosai határidős értesítést kapnak.
 
-Hogy az elektronikus rendszer hogyan kezeli a helyi lakosok autóit, és kell-e fizetni pusztán a hegységen való áthaladásért (például Rakovac – Ruma), még nem világos. A park erről nem tett közzé szabályokat, ahogy arról sem, hogyan rögzítik a járműveket és mekkora a bírság fizetés nélkül. Mielőtt bármire számítana, érdeklődjön a parknál.
+Hogy a mentesség hogyan érvényes az ideiglenes tartózkodással (*privremeni boravak*) rendelkező külföldiekre, akiknek az autója helyi rendszámú, hivatalosan nem tisztázott: a rendszer a rendszám alapján különbözteti meg az autókat, a törvény viszont *prebivalište*-ről beszél. Ha terhelést kap, nyújtson be kérelmet vagy kérdezze a parkot.
 
-A park egyik munkatársa november 2-án azt mondta, hogy valószínűleg év végéig türelmi időszak lesz, amíg a rendszer be nem áll. Ez nem hivatalos bejelentés: kövesse a park híreit.
+## Átutazás, például Rakovac – Ruma
+
+Aki mentes, mint mindenki, akinek Rakovacon vagy Beočinban van az állandó lakhelye, semmit sem fizet. A többiek az egyórás jegyet fizetik, autóra 100 dinárt, vagy a napijegyet, 300-at.
+
+## Hogyan lehet fizetni
+
+- **Online:** írja be a rendszámot (szóköz és kötőjel nélkül) az [enaplatafruskagora.co.rs](https://enaplatafruskagora.co.rs/) oldalon. A „Provera zaduženja“ megmutatja a rögzített áthaladásokat idővel, hellyel, fotóval és összeggel, a „Plati unapred“ előre fizetésre szolgál. Bankkártyával vagy befizetési utalvánnyal bankban, postán vagy mobilbankban ([útmutató](https://enaplatafruskagora.co.rs/Content/documents/fruskagora/Korisnicko-uputstvo.pdf)). A portálra a [park honlapja](https://npfruskagora.co.rs/) is mutat.
+- **Személyesen:** az [Iriški venac-i Információs Központ]({{< relref "nearby/fruska-gora-information-centre" >}}) felújítás miatt zárva van. Személyes tanácsadás a park sremska kamenicai igazgatóságán (lásd Elérhetőségek).
 
 ## Elérhetőségek
 
 - **Fruška Gora Nemzeti Park:** [021 463 666](tel:+38121463666), [kapcsolatfelvételi űrlap](https://npfruskagora.co.rs/kontakt/)
-- **A park igazgatósága, Sremska Kamenica:** Zmajev trg 1, személyes tanácsadás; a Google Térkép szerint hétfőtől péntekig 7:00–15:00 ([a térképen](https://www.google.com/maps/search/?api=1&query=45.2232647,19.8422655))
+- **A park igazgatósága, Sremska Kamenica:** Zmajev trg 1; a Google Térkép szerint hétfőtől péntekig 7:00–15:00 ([a térképen](https://www.google.com/maps/search/?api=1&query=45.2232647,19.8422655))
 - **Iriški venac-i Információs Központ:** [a központ oldala]({{< relref "nearby/fruska-gora-information-centre" >}}), felújítás miatt zárva
 
-A park honlapjával november 1-jén, telefonon a parkkal 2026. november 2-án egyeztetve. Az oldalt frissítjük, amint a park közzéteszi a helyi lakosokra és az átutazásra vonatkozó szabályokat.
+A park fizetési portáljával, díjhatározatával és szerb lapokkal egyeztetve 2026. november 5-én.

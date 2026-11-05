@@ -2,11 +2,12 @@
 title: 'Fruška gora: od 5. novembra elektronska naplata za vozila u nacionalnom parku'
 date: '2026-11-01T16:45:00+01:00'
 feed: local
-top: true
 cover: forest-autumn
-lead: 'Od četvrtka 5. novembra 2026. Nacionalni park Fruška gora elektronski evidentira i naplaćuje naknadu za automobile i motocikle. Za sada se plaća samo onlajn: Informativni centar na Iriškom vencu zatvoren je zbog rekonstrukcije. Pravila za meštane i za prolaz kroz park još nisu jasna: pitajte park.'
+lead: 'Od četvrtka 5. novembra 2026. Nacionalni park Fruška gora elektronski evidentira i naplaćuje naknadu za automobile i motocikle. Za sada se plaća samo onlajn: Informativni centar na Iriškom vencu zatvoren je zbog rekonstrukcije. Dopuna 5. novembra: stanovnici 20 okolnih opština, među njima Beočin, ne plaćaju.'
 related: [useful]
 ---
+
+**Dopuna, 5. novembra:** portal radi; stanovnici 20 okolnih opština, među njima Beočin sa Rakovcem, ne plaćaju, a prolaz kroz park do jednog sata košta 100 dinara. [Detalji]({{< relref "news/2026-11-05-fruska-gora-residents-exempt" >}}).
 
 Nacionalni park naplaćuje naknadu za posetu i za vožnju kroz park još od 2009. Do sada su je čuvari prirode naplaćivali na putu, uglavnom vikendom; komšije kažu da su naplaćivali za automobil, a putnike nisu posebno. Od **5. novembra 2026.** vozila u parku se evidentiraju elektronski ([021.rs](https://www.021.rs/novi-sad/vesti/459992/pocinje-elektronsko-evidentiranje-i-naplata-za-koriscenje-motornih-vozila-na-fruskoj-gori)).
 

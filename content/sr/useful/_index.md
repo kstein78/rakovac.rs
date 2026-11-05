@@ -24,7 +24,7 @@ groups:
     what: 'Preko Dunava do Futoga i Bačke, svakog sata, ali pozovite pre polaska: ne radi uvek. [Red vožnje, cene i telefon](/sr/nearby/ferry-beocin-futog/).'
 - id: park-fee
   title: 'Nacionalni park Fruška gora: naknada za vozila i posetioce'
-  intro: '**Od 5. novembra 2026.** nacionalni park elektronski naplaćuje naknadu za automobile i motocikle: 300 dinara dnevno za automobil, 100 za odraslog pešaka; godišnje karte 1.800 i 600. Cene, gde se plaća, ko je oslobođen i kontakti: [Naknada za Frušku goru](/sr/useful/naknada-fruska-gora/).'
+  intro: '**Od 5. novembra 2026.** nacionalni park elektronski naplaćuje naknadu za vozila: 100 dinara do jednog sata, 300 dnevno. Stanovnici 20 okolnih opština, među njima Beočin sa Rakovcem, ne plaćaju i ne prijavljuju se. Cene, oslobođenja i plaćanje: [Naknada za Frušku goru](/sr/useful/naknada-fruska-gora/).'
   items:
   - name: Informativni centar na Iriškom vencu
     what: 'Zatvoren zbog rekonstrukcije (2. novembar 2026); naknada se za sada plaća samo onlajn: [detalji i fotografije](/sr/nearby/informativni-centar-iriski-venac/).'

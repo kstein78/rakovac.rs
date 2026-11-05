@@ -34,7 +34,7 @@ Az Iriški venac a Tarcal-hegység gerincének fő kereszteződése: itt kereszt
 | Autóbusz, teherautó | 700 dinár | 6600 dinár |
 | Nyerges vontató, pótkocsis teherautó | 1700 dinár | 18 000 dinár |
 
-A tábla a *Službeni glasnik RS* 6/2024. és 121/2025. számában közzétett határozatra hivatkozik, és azt írja, hogy a napijegyet a park természetőreinél, az éveset az Információs Központban lehet megvenni. Autóbuszra és teherautóra eltér a [park honlapján lévő árjegyzéktől](https://fruskagoranovisajt.rs/wp-content/uploads/2026/01/cenovnik.pdf) (800 és 6500; 2000 és 18 000 dinár); autóra és gyalogosra egyezik. Bővebben a [Fruška Gora parkdíj]({{< relref "useful/fruska-gora-park-fee" >}}) oldalon.
+A tábla a *Službeni glasnik RS* 6/2024. és 121/2025. számában közzétett határozatra hivatkozik, és azt írja, hogy a napijegyet a park természetőreinél, az éveset az Információs Központban lehet megvenni. Az autóbuszra és nyerges vontatóra vonatkozó napi árai (700 és 1700 dinár) elavultak: a határozat 2025. december 30-i módosítása óta 800 és 2000; 2026. november 5-től legfeljebb egyórás jegy is van (autóra 100 dinár). Aktuális árak és mentességek: [Fruška Gora parkdíj]({{< relref "useful/fruska-gora-park-fee" >}}).
 
 ## Amikor a központ nyitva van
 

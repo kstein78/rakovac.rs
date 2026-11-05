@@ -721,7 +721,7 @@ a[href^="tel:"] { white-space: nowrap; }
 
 
 /* Wide tables in text scroll sideways on phones instead of widening the page. */
-@media (max-width: 700px) { .prose table { display: block; overflow-x: auto; -webkit-overflow-scrolling: touch; } .prose th, .prose td { min-width: 7rem; } }
+@media (max-width: 700px) { .prose table { display: block; overflow-x: auto; -webkit-overflow-scrolling: touch; } .prose th, .prose td { min-width: 3.5rem; } .prose th:first-child, .prose td:first-child { min-width: 6.5rem; } }
 
 /* Sister sites block (data/network.yaml, the same list as on every site of the network). */
 .sister { margin-block: 2.5rem; }

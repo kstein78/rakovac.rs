@@ -24,7 +24,7 @@ groups:
     what: 'Át a Dunán Futakra és Bácskába, óránként, de indulás előtt telefonáljon: nem mindig jár. [Menetrend, árak és telefon](/hu/nearby/ferry-beocin-futog/).'
 - id: park-fee
   title: 'Tarcal-hegység (Fruška Gora) Nemzeti Park: díj autókra és látogatókra'
-  intro: '**2026. november 5-től** a nemzeti park elektronikusan szedi a díjat az autóktól és motoroktól: napi 300 dinár egy autóért, 100 egy felnőtt gyalogosért; éves jegy 1800 és 600. Árak, fizetési helyek, mentességek és elérhetőségek: [Fruška Gora parkdíj](/hu/useful/fruska-gora-park-fee/).'
+  intro: '**2026. november 5-től** a nemzeti park elektronikusan szed díjat az autóktól: legfeljebb egy órára 100 dinár, napi 300. 20 környező község lakói, köztük Beočin Rakovaccal, nem fizetnek és nem regisztrálnak. Árak, mentességek, fizetés: [Fruška Gora parkdíj](/hu/useful/fruska-gora-park-fee/).'
   items:
   - name: Információs Központ, Iriški venac
     what: 'Felújítás miatt zárva (2026. november 2.); a díj egyelőre csak online fizethető: [részletek és fotók](/hu/nearby/fruska-gora-information-centre/).'

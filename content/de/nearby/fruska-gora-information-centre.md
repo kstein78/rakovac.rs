@@ -34,7 +34,7 @@ Der Iriški Venac ist die wichtigste Kreuzung auf dem Kamm der Fruška Gora: Hie
 | Bus, Lkw | 700 Dinar | 6.600 Dinar |
 | Sattelzug, Lkw mit Anhänger | 1.700 Dinar | 18.000 Dinar |
 
-Die Tafel verweist auf den im *Službeni glasnik RS* Nr. 6/2024 und 121/2025 veröffentlichten Beschluss und sagt, dass Tageskarten bei den Naturwächtern des Parks und Jahreskarten im Informationszentrum verkauft werden. Für Busse und Lkw weicht sie von der [Preisliste auf der Website des Parks](https://fruskagoranovisajt.rs/wp-content/uploads/2026/01/cenovnik.pdf) ab (800 und 6.500; 2.000 und 18.000 Dinar); für Autos und Besucher zu Fuß stimmen die Preise überein. Mehr auf der Seite [Gebühr Fruška Gora]({{< relref "useful/fruska-gora-park-fee" >}}).
+Die Tafel verweist auf den im *Službeni glasnik RS* Nr. 6/2024 und 121/2025 veröffentlichten Beschluss und sagt, dass Tageskarten bei den Naturwächtern des Parks und Jahreskarten im Informationszentrum verkauft werden. Ihre Tagespreise für Busse und Sattelzüge (700 und 1.700 Dinar) sind veraltet: Seit der Änderung des Beschlusses am 30. Dezember 2025 betragen sie 800 und 2.000; seit 5. November 2026 gibt es außerdem ein Ticket bis zu einer Stunde (100 Dinar für ein Auto). Aktuelle Preise und Befreiungen: [Gebühr Fruška Gora]({{< relref "useful/fruska-gora-park-fee" >}}).
 
 ## Wenn das Zentrum geöffnet ist
 

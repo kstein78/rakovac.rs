@@ -35,7 +35,7 @@ Iriški venac je glavna raskrsnica na grebenu Fruške gore, gde se magistralni p
 | Autobus, kamion | 700 dinara | 6.600 dinara |
 | Šleper, kamion sa prikolicom | 1.700 dinara | 18.000 dinara |
 
-Tabla se poziva na odluku objavljenu u *Službenom glasniku RS* br. 6/2024 i 121/2025 i kaže da se dnevne karte kupuju kod čuvara prirode, a godišnje u Informativnom centru. Za autobuse i kamione razlikuje se od [cenovnika na sajtu parka](https://fruskagoranovisajt.rs/wp-content/uploads/2026/01/cenovnik.pdf) (800 i 6.500; 2.000 i 18.000 dinara); za automobile i pešake se poklapa. Više na stranici [Naknada za Frušku goru]({{< relref "useful/fruska-gora-park-fee" >}}).
+Tabla se poziva na odluku objavljenu u *Službenom glasniku RS* br. 6/2024 i 121/2025 i kaže da se dnevne karte kupuju kod čuvara prirode, a godišnje u Informativnom centru. Njene dnevne cene za autobuse i šlepere (700 i 1.700 dinara) su stare: od izmene odluke 30. decembra 2025. iznose 800 i 2.000; od 5. novembra 2026. postoji i karta do jednog sata (100 dinara za automobil). Aktuelne cene i oslobođenja: [Naknada za Frušku goru]({{< relref "useful/fruska-gora-park-fee" >}}).
 
 ## Kad centar radi
 

@@ -7,6 +7,8 @@ lead: 'A Fruška Gora Nemzeti Park Iriški venac-i Információs Központja fel�
 related: [nearby/fruska-gora-information-centre, useful/fruska-gora-park-fee]
 ---
 
+**Kiegészítés, november 5.:** a portál működik; 20 környező község lakói, köztük Beočin Rakovaccal, nem fizetnek, az áthaladás legfeljebb egy órára 100 dinár. [Részletek]({{< relref "news/2026-11-05-fruska-gora-residents-exempt" >}}).
+
 2026. november 2-án, hétfőn az [Iriški venac-i Információs Központot]({{< relref "nearby/fruska-gora-information-centre" >}}) zárva és minden oldalról körbekerítve találtuk. A park telefonon megerősítette, hogy felújítás miatt zárva van. A park egyik munkatársa a helyszínen azt mondta, hogy az újranyitás időpontja még nem ismert, a munkák idejére pedig ideiglenes konténerirodát ígértek ide, szintén határidő nélkül.
 
 {{< photo key="iriski-venac-info-centre-fenced" >}}
