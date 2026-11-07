@@ -14,6 +14,10 @@ Von den Hügeln über Rakovac öffnet sich das ganze Donautal: Novi Sad mit sein
 
 Eine Wiese auf dem Hügel über Novi Rakovac mit einer Schaukel an einem alten Baum, Luftlinie etwa 1,4 km vom Kloster. Einer der weitesten Blicke der Gegend: Novi Sad mit den Bögen der Žeželj-Brücke, die Donau und die Ebene. Mehr: [Aussichtspunkt mit Schaukel]({{< relref "nature/swing-lookout" >}}).
 
+## Hügel über Stošin Do, oberhalb von Stari Rakovac
+
+Vom Hügel über Stošin Do, am Hang oberhalb von Stari Rakovac, blickt man talabwärts auf das Kloster und das alte Dorf und durch eine Lücke im Wald hinaus nach Novi Sad. Fotos von einem Novembermorgen: [Morgen über Stošin Do]({{< relref "gallery/stosin-do-morning" >}}).
+
 ## Aussichtspunkt Kesten, 305 m
 
 Kesten ist ein Hügel östlich des Klosters; vom Aussichtspunkt blickt man nach Norden auf Novi Sad und die Donau. Der Weg von Rakovac oder von Stari Ledinci führt an der Einsiedelei des Isaija Parivodski vorbei. Zäune haben einige alte Wege unterbrochen, fragen Sie vor Ort nach. Mehr: [Aussichtspunkt Kesten]({{< relref "nature/kesten-lookout" >}}).

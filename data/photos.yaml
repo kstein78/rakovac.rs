@@ -3212,3 +3212,110 @@ iriski-venac-kiosk:
   alt_cyr: "Затворени дрвени киоск „Киоск на венцу“ међу боровима у магли, поред њега путоказ за сувенирницу и инфо пулт"
   alt_de: "Der geschlossene hölzerne Imbiss „Kiosk na vencu“ zwischen Kiefern im Nebel, daneben ein Schild für Souvenirladen und Infostand"
   alt_hu: "A zárt fa büfé, a „Kiosk na vencu“ fenyők között ködben, mellette a szuvenírbolt és infópult táblája"
+stosin-frost-brambles:
+  src: img/stosin-frost-brambles.jpg
+  author: Konstantin Stein
+  author_ru: Константин Штейн
+  author_cyr: Константин Штајн
+  license: © all rights reserved
+  alt: "Hoarfrost on bramble leaves, grass and dry stems on the hill above Stošin Do"
+  temp: false
+  alt_ru: "Иней на листьях ежевики, траве и сухих стеблях на горе над Стошин-До"
+  alt_sr: "Inje na listovima kupine, travi i suvim stabljikama na brdu iznad Stošinog Dola"
+  alt_cyr: "Иње на листовима купине, трави и сувим стабљикама на брду изнад Стошиног Дола"
+  alt_de: "Raureif auf Brombeerblättern, Gras und trockenen Halmen auf dem Hügel über Stošin Do"
+  alt_hu: "Zúzmara szederleveleken, füvön és száraz szárakon a Stošin Do feletti dombon"
+stosin-frost-leaf:
+  src: img/stosin-frost-leaf.jpg
+  author: Konstantin Stein
+  author_ru: Константин Штейн
+  author_cyr: Константин Штајн
+  license: © all rights reserved
+  alt: "Red and green bramble leaves edged with hoarfrost, close up"
+  temp: false
+  alt_ru: "Красные и зелёные листья ежевики в кайме инея, крупный план"
+  alt_sr: "Crveni i zeleni listovi kupine oivičeni injem, izbliza"
+  alt_cyr: "Црвени и зелени листови купине оивичени ињем, изблиза"
+  alt_de: "Rote und grüne Brombeerblätter mit Raureifrand, Nahaufnahme"
+  alt_hu: "Zúzmarával szegélyezett piros és zöld szederlevelek közelről"
+stosin-path-hedge:
+  src: img/stosin-path-hedge.jpg
+  author: Konstantin Stein
+  author_ru: Константин Штейн
+  author_cyr: Константин Штајн
+  license: © all rights reserved
+  alt: "A path of concrete slabs along a tall hedge of cane, with the wooded hills above Rakovac ahead"
+  temp: false
+  alt_ru: "Дорожка из бетонных плит вдоль высоких зарослей, впереди лесистые холмы над Раковцем"
+  alt_sr: "Staza od betonskih ploča uz visok živi zid od trske, ispred šumovita brda iznad Rakovca"
+  alt_cyr: "Стаза од бетонских плоча уз висок живи зид од трске, испред шумовита брда изнад Раковца"
+  alt_de: "Ein Weg aus Betonplatten an einer hohen Schilfhecke entlang, vorn die bewaldeten Hügel über Rakovac"
+  alt_hu: "Betonlapokból kirakott út egy magas nádsövény mentén, előtte a Rakovac feletti erdős dombok"
+stosin-view-trees-novi-sad:
+  src: img/stosin-view-trees-novi-sad.jpg
+  author: Konstantin Stein
+  author_ru: Константин Штейн
+  author_cyr: Константин Штајн
+  license: © all rights reserved
+  alt: "Autumn woods on the slopes of the valley, and Novi Sad in the haze in the gap between the hills"
+  temp: false
+  alt_ru: "Осенний лес на склонах долины, а в просвете между холмами — Нови-Сад в дымке"
+  alt_sr: "Jesenja šuma na padinama doline, a u procepu između brda Novi Sad u izmaglici"
+  alt_cyr: "Јесења шума на падинама долине, а у процепу између брда Нови Сад у измаглици"
+  alt_de: "Herbstwald an den Talhängen, in der Lücke zwischen den Hügeln Novi Sad im Dunst"
+  alt_hu: "Őszi erdő a völgy lejtőin, a dombok közti résben pedig Újvidék a párában"
+stosin-novi-sad-haze:
+  src: img/stosin-novi-sad-haze.jpg
+  author: Konstantin Stein
+  author_ru: Константин Штейн
+  author_cyr: Константин Штајн
+  license: © all rights reserved
+  alt: "Novi Sad in the morning haze beyond a hilltop with a few houses, with the arch of the Žeželj Bridge on the left"
+  temp: false
+  alt_ru: "Нови-Сад в утренней дымке за холмом с несколькими домами, слева арка моста Жежеля"
+  alt_sr: "Novi Sad u jutarnjoj izmaglici iza brda sa nekoliko kuća, levo luk Žeželjevog mosta"
+  alt_cyr: "Нови Сад у јутарњој измаглици иза брда са неколико кућа, лево лук Жежељевог моста"
+  alt_de: "Novi Sad im Morgendunst hinter einer Hügelkuppe mit ein paar Häusern, links der Bogen der Žeželj-Brücke"
+  alt_hu: "Újvidék a reggeli párában egy néhány házas dombtető mögött, balra a Žeželj-híd íve"
+stosin-dog-valley-sun:
+  src: img/stosin-dog-valley-sun.jpg
+  author: Konstantin Stein
+  author_ru: Константин Штейн
+  author_cyr: Константин Штајн
+  license: © all rights reserved
+  alt: "A dog on the hilltop above Stošin Do in the morning sun, with the Rakovac valley and the wooded hills of Fruška Gora beyond"
+  temp: false
+  position: "50% 55%"
+  alt_ru: "Собака на вершине горы над Стошин-До в утреннем солнце, дальше долина Раковца и лесистые холмы Фрушка-Горы"
+  alt_sr: "Pas na vrhu brda iznad Stošinog Dola na jutarnjem suncu, iza dolina Rakovca i šumovita brda Fruške gore"
+  alt_cyr: "Пас на врху брда изнад Стошиног Дола на јутарњем сунцу, иза долина Раковца и шумовита брда Фрушке горе"
+  alt_de: "Ein Hund auf der Kuppe über Stošin Do in der Morgensonne, dahinter das Tal von Rakovac und die bewaldeten Hügel der Fruška Gora"
+  alt_hu: "Kutya a Stošin Do feletti dombtetőn a reggeli napfényben, mögötte a rakovaci völgy és a Tarcal-hegység erdős dombjai"
+stosin-dog-monastery-view:
+  src: img/stosin-dog-monastery-view.jpg
+  author: Konstantin Stein
+  author_ru: Константин Штейн
+  author_cyr: Константин Штајн
+  license: © all rights reserved
+  alt: "A dog looking out from the hill above Stošin Do; below in the valley, Rakovac Monastery and Stari Rakovac"
+  temp: false
+  position: "50% 45%"
+  alt_ru: "Собака смотрит вдаль с горы над Стошин-До; внизу в долине монастырь Раковац и Стари-Раковац"
+  alt_sr: "Pas gleda sa brda iznad Stošinog Dola; dole u dolini manastir Rakovac i Stari Rakovac"
+  alt_cyr: "Пас гледа са брда изнад Стошиног Дола; доле у долини манастир Раковац и Стари Раковац"
+  alt_de: "Ein Hund blickt vom Hügel über Stošin Do; unten im Tal das Kloster Rakovac und Stari Rakovac"
+  alt_hu: "Kutya néz le a Stošin Do feletti dombról; lent a völgyben a rakovaci kolostor és Stari Rakovac"
+stosin-monastery-valley:
+  src: img/stosin-monastery-valley.jpg
+  author: Konstantin Stein
+  author_ru: Константин Штейн
+  author_cyr: Константин Штајн
+  license: © all rights reserved
+  alt: "Rakovac Monastery with its bell tower in the valley of Stari Rakovac, seen from the hill above Stošin Do in autumn"
+  temp: false
+  position: "50% 38%"
+  alt_ru: "Монастырь Раковац с колокольней в долине Стари-Раковца, вид с горы над Стошин-До осенью"
+  alt_sr: "Manastir Rakovac sa zvonikom u dolini Starog Rakovca, pogled sa brda iznad Stošinog Dola u jesen"
+  alt_cyr: "Манастир Раковац са звоником у долини Старог Раковца, поглед са брда изнад Стошиног Дола у јесен"
+  alt_de: "Das Kloster Rakovac mit seinem Glockenturm im Tal von Stari Rakovac, vom Hügel über Stošin Do im Herbst"
+  alt_hu: "A rakovaci kolostor harangtornyával Stari Rakovac völgyében, a Stošin Do feletti dombról ősszel"

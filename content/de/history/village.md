@@ -3,7 +3,7 @@ title: 'Zwei Rakovacs: Stari und Novi'
 kicker: Das Dorf heute
 weight: 6
 summary: Warum das Dorf einen alten und einen neuen Teil hat und wie es von 582 Menschen im Jahr 1948 auf heute mehr als 2.000 gewachsen ist.
-photo: village-2026
+photo: stosin-monastery-valley
 ---
 
 Rakovac entstand als **Prnjavor**, eine Siedlung von Leibeigenen, die das Land des Klosters bewirtschafteten. Das alte Dorf wuchs rund um das Kloster im Tal des Rakovac-Bachs.

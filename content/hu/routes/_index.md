@@ -5,7 +5,7 @@ weight: 15
 kicker: Négy séta 10 perctől egy egész napig
 lead: Minden itt szereplő útvonal a Stari Rakovacban álló Rakovaci kolostortól indul, ahol parkolni lehet, és ahol a 77-es busz, valamint a 78-as járat SR jelzésű járatai is megállnak. Az útvonalakat a legrövidebbtől a leghosszabbig soroljuk fel.
 tile: Négy jelzett séta a kolostortól, 10 perctől egy egész napig
-photo: forest-fog
+photo: stosin-view-trees-novi-sad
 hide_children: true
 ---
 

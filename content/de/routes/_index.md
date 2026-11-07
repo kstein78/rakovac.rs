@@ -5,7 +5,7 @@ weight: 15
 kicker: Vier Wanderungen, von 10 Minuten bis zu einem ganzen Tag
 lead: Alle Routen hier beginnen am Kloster Rakovac in Stari Rakovac, wo Sie parken können und wo der Bus 77 und die mit SR markierten Fahrten der Linie 78 halten. Sie sind von der kürzesten zur längsten geordnet.
 tile: Vier markierte Wanderungen ab dem Kloster, von 10 Minuten bis zu einem ganzen Tag
-photo: forest-fog
+photo: stosin-view-trees-novi-sad
 hide_children: true
 ---
 

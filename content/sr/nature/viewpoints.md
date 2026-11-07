@@ -15,6 +15,10 @@ Sa brda iznad Rakovca otvara se cela dunavska dolina: Novi Sad sa mostovima, rek
 
 Livada na brdu iznad Novog Rakovca sa ljuljaškom na starom drvetu, vazdušnom linijom oko 1,4 km od manastira. Jedan od najširih pogleda u okolini: Novi Sad sa lukovima Žeželjevog mosta, Dunav i ravnica. Više: [Vidikovac sa ljuljaškom]({{< relref "nature/swing-lookout" >}}).
 
+## Brdo iznad Stošinog Dola, iznad Starog Rakovca
+
+Sa brda iznad Stošinog Dola, na padini iznad Starog Rakovca, vidi se dolina sa manastirom i starim selom, a kroz procep u šumi Novi Sad. Fotografije sa novembarskog jutra: [Jutro iznad Stošinog Dola]({{< relref "gallery/stosin-do-morning" >}}).
+
 ## Vidikovac Kesten, 305 m
 
 Kesten je brdo istočno od manastira; sa vidikovca se gleda na sever, na Novi Sad i Dunav. Staza iz Rakovca ili iz Starih Ledinaca prolazi pored isposnice Isaije Parivodskog. Ograde su presekle neke stare staze, pa se pre polaska raspitajte na licu mesta. Više: [Vidikovac Kesten]({{< relref "nature/kesten-lookout" >}}).

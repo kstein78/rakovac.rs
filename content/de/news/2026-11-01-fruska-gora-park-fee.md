@@ -2,7 +2,7 @@
 title: 'Fruška Gora: ab 5. November elektronische Gebühr für Autos im Nationalpark'
 date: '2026-11-01T16:45:00+01:00'
 feed: local
-cover: forest-autumn
+cover: stosin-dog-valley-sun
 lead: 'Ab Donnerstag, 5. November 2026, erfasst der Nationalpark Fruška Gora Autos und Motorräder elektronisch und erhebt die Gebühr. Vorerst kann man nur online bezahlen: Das Informationszentrum auf dem Iriški Venac ist wegen Umbau geschlossen. Nachtrag vom 5. November: Bewohner von 20 umliegenden Gemeinden, darunter Beočin, zahlen nicht.'
 related: [useful]
 ---

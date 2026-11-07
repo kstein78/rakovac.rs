@@ -2,7 +2,7 @@
 title: 'Tarcal-hegység: november 5-től elektronikus díjfizetés az autókra a nemzeti parkban'
 date: '2026-11-01T16:45:00+01:00'
 feed: local
-cover: forest-autumn
+cover: stosin-dog-valley-sun
 lead: '2026. november 5-től, csütörtöktől a Tarcal-hegység (Fruška Gora) Nemzeti Park elektronikusan rögzíti az autókat és motorokat, és beszedi a díjat. Egyelőre csak online lehet fizetni: az Iriški venac-i Információs Központ felújítás miatt zárva van. Kiegészítés, november 5.: 20 környező község lakói, köztük Beočin, nem fizetnek.'
 related: [useful]
 ---

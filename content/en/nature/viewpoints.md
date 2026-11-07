@@ -14,6 +14,10 @@ From the hills above Rakovac the whole Danube valley opens up: Novi Sad with its
 
 A meadow on the hill above Novi Rakovac with a swing on an old tree, about 1.4 km from the monastery in a straight line. One of the widest views in the area: Novi Sad with the arches of the Žeželj Bridge, the Danube and the plain. More: [Lookout with the Swing]({{< relref "nature/swing-lookout" >}}).
 
+## Hill above Stošin Do, above Stari Rakovac
+
+From the hill above Stošin Do, on the slope above Stari Rakovac, you look down the valley onto the monastery and the old village, and out through a gap in the woods to Novi Sad. Photos from a November morning: [Morning above Stošin Do]({{< relref "gallery/stosin-do-morning" >}}).
+
 ## Kesten viewpoint, 305 m
 
 Kesten is a hill east of the monastery; from the viewpoint you look north over Novi Sad and the Danube. The path from Rakovac or from Stari Ledinci passes the hermitage of Isaija Parivodski. Fences have cut some of the old paths, so check locally before you go. More: [Kesten Lookout]({{< relref "nature/kesten-lookout" >}}).

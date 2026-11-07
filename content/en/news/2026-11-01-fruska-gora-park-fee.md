@@ -2,7 +2,7 @@
 title: 'Fruška Gora: cars in the national park charged electronically from 5 November'
 date: '2026-11-01T16:45:00+01:00'
 feed: local
-cover: forest-autumn
+cover: stosin-dog-valley-sun
 lead: 'From Thursday 5 November 2026 Fruška Gora National Park records and charges the fee for cars and motorcycles electronically. For now you can pay online only: the Information Centre on Iriški Venac is closed for reconstruction. Update, 5 November: residents of 20 nearby municipalities, Beočin among them, do not pay.'
 related: [useful]
 ---

@@ -5,7 +5,7 @@ weight: 15
 kicker: Četiri šetnje, od 10 minuta do celog dana
 lead: Sve staze ovde počinju kod manastira Rakovac u Starom Rakovcu, gde može da se parkira i gde staju autobus 77 i polasci linije 78 označeni sa SR. Poređane su od najkraće do najduže.
 tile: Četiri obeležene staze od manastira, od 10 minuta do celog dana
-photo: forest-fog
+photo: stosin-view-trees-novi-sad
 hide_children: true
 ---
 

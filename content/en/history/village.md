@@ -3,7 +3,7 @@ title: "Two Rakovacs: Stari and Novi"
 kicker: "The village today"
 weight: 6
 summary: "Why the village has an old and a new part, and how it grew from 582 people in 1948 to more than 2,000 today."
-photo: village-2026
+photo: stosin-monastery-valley
 ---
 
 Rakovac began as a **prnjavor**, a settlement of serfs who worked the monastery's land. The old village grew around the monastery, in the valley of the Rakovac stream.

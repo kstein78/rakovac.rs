@@ -3,7 +3,7 @@ title: 'Két Rakovac: Stari és Novi'
 kicker: A falu ma
 weight: 6
 summary: Miért van a falunak régi és új része, és hogyan nőtt az 1948-as 582 lakosról a mai több mint 2000-re.
-photo: village-2026
+photo: stosin-monastery-valley
 ---
 
 Rakovac **prnjavorként**, vagyis a kolostor földjeit megművelő jobbágyok településeként indult. Az öreg falu a kolostor körül, a Rakovac-patak völgyében alakult ki.

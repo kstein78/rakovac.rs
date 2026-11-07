@@ -5,7 +5,7 @@ weight: 15
 kicker: "Four walks, from 10 minutes to a full day"
 lead: "Every route here starts at Rakovac Monastery in Stari Rakovac, where you can park and where bus 77 and the SR runs of line 78 stop. They are listed from shortest to longest."
 tile: "Four marked walks from the monastery, 10 minutes to a full day"
-photo: forest-fog
+photo: stosin-view-trees-novi-sad
 hide_children: true
 ---
 

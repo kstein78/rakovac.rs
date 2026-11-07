@@ -3,7 +3,7 @@ title: 'Dva Rakovca: Stari i Novi'
 kicker: Selo danas
 weight: 6
 summary: Zašto selo ima stari i novi deo i kako je naraslo sa 582 stanovnika 1948. na više od 2.000 danas.
-photo: village-2026
+photo: stosin-monastery-valley
 ---
 
 Rakovac je nastao kao **prnjavor**, naselje kmetova koji su obrađivali manastirsku zemlju. Staro selo raslo je oko manastira, u dolini Rakovačkog potoka.

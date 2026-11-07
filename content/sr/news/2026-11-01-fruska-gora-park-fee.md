@@ -2,7 +2,7 @@
 title: 'Fruška gora: od 5. novembra elektronska naplata za vozila u nacionalnom parku'
 date: '2026-11-01T16:45:00+01:00'
 feed: local
-cover: forest-autumn
+cover: stosin-dog-valley-sun
 lead: 'Od četvrtka 5. novembra 2026. Nacionalni park Fruška gora elektronski evidentira i naplaćuje naknadu za automobile i motocikle. Za sada se plaća samo onlajn: Informativni centar na Iriškom vencu zatvoren je zbog rekonstrukcije. Dopuna 5. novembra: stanovnici 20 okolnih opština, među njima Beočin, ne plaćaju.'
 related: [useful]
 ---

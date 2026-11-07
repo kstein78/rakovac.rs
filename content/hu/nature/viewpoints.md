@@ -14,6 +14,10 @@ A Rakovac fölötti dombokról az egész Duna-völgy feltárul: Újvidék a híd
 
 Rét a Novi Rakovac fölötti dombon, egy öreg fán lógó hintával, légvonalban mintegy 1,4 km-re a kolostortól. A környék egyik legszélesebb kilátása: Újvidék a Žeželj-híd íveivel, a Duna és a síkság. Bővebben: [Kilátó a hintával]({{< relref "nature/swing-lookout" >}}).
 
+## A Stošin Do feletti domb, Stari Rakovac fölött
+
+A Stari Rakovac fölötti lejtőn, a Stošin Do feletti dombról lelátni a völgybe a kolostorra és a régi falura, az erdő egy résén át pedig Újvidékre. Fotók egy novemberi reggelről: [Reggel a Stošin Do felett]({{< relref "gallery/stosin-do-morning" >}}).
+
 ## Kesten-kilátó, 305 m
 
 A Kesten a kolostortól keletre fekvő domb; a kilátóból északra, Újvidékre és a Dunára látni. A Rakovacról vagy Stari Ledinciből induló ösvény Isaija Parivodski remetelaka mellett vezet. Kerítések elvágtak néhány régi ösvényt, ezért indulás előtt érdeklődjön helyben. Bővebben: [Kesten-kilátó]({{< relref "nature/kesten-lookout" >}}).
