@@ -4,7 +4,7 @@ date: '2026-11-09T09:55:00+01:00'
 feed: local
 top: true
 cover: iriski-venac-info-centre
-lead: 'In Telegram-Kanälen heißt es, Bewohner der befreiten Gemeinden bekämen Forderungen und müssten die Befreiung beantragen. Offiziell ist kein Antrag nötig, und einen veröffentlichten Fall haben wir nicht gefunden. Per Post kommt nichts: Forderungen sieht man nur im Portal über das Kennzeichen.'
+lead: 'In Telegram-Kanälen heißt es, Bewohner der befreiten Gemeinden bekämen Forderungen und müssten die Befreiung beantragen. Offiziell ist kein Antrag nötig, und einen veröffentlichten Fall haben wir nicht gefunden; unser Auto aus Rakovac fuhr zweimal durch den Park und hat keine Forderungen. Per Post kommt nichts: Forderungen sieht man nur im Portal über das Kennzeichen.'
 related: [useful/fruska-gora-park-fee, news/2026-11-05-fruska-gora-residents-exempt]
 ---
 
@@ -18,7 +18,7 @@ Einen Bericht serbischer Medien über einen befreiten Bewohner mit Forderung hab
 
 ## Woher kommt eine Forderung?
 
-Privatpersonen bekommen nichts zugeschickt: Die [Bedienungsanleitung des Portals](https://enaplatafruskagora.co.rs/Content/documents/fruskagora/Korisnicko-uputstvo.pdf) erwähnt weder Briefe noch SMS noch E-Mails. Einer der Redakteure dieser Seite fuhr am 8. November zweimal durch den Park und bekam nichts, was dazu passt. Forderungen sieht man nur im Portal: Kennzeichen ohne Leerzeichen auf [enaplatafruskagora.co.rs](https://enaplatafruskagora.co.rs/) eingeben und auf „Provera zaduženja“ klicken. Die Liste zeigt jede Durchfahrt mit Datum, Ort, Foto und Betrag.
+Privatpersonen bekommen nichts zugeschickt: Die [Bedienungsanleitung des Portals](https://enaplatafruskagora.co.rs/Content/documents/fruskagora/Korisnicko-uputstvo.pdf) erwähnt weder Briefe noch SMS noch E-Mails. Einer der Redakteure dieser Seite fuhr am 8. November zweimal durch den Park und bekam nichts, was dazu passt. Am 9. November zeigte das Portal für dieses in Rakovac zugelassene Auto „Nema putovanja za naplatu“ (keine Fahrten zu bezahlen). Für Rakovac griff die Befreiung also ohne Antrag; wir prüfen in ein paar Tagen erneut. Forderungen sieht man nur im Portal: Kennzeichen ohne Leerzeichen auf [enaplatafruskagora.co.rs](https://enaplatafruskagora.co.rs/) eingeben und auf „Provera zaduženja“ klicken. Die Liste zeigt jede Durchfahrt mit Datum, Ort, Foto und Betrag.
 
 Dort wird auch bezahlt: mit Karte (Visa, MasterCard, DinaCard, Maestro, American Express) oder mit einem vom Portal erzeugten Zahlschein (*uplatnica*) bei Bank, Post oder per Mobile Banking, auch per QR-Code. Firmen erhalten einen Bescheid mit Frist. Laut 021.rs und Intermagazin bekommt, wer nicht rechtzeitig zahlt, eine Mahnung (*opomena*), danach sind weitere Schritte möglich; eine Frist in Tagen und eine Strafe pro unbezahlter Durchfahrt wurden nicht veröffentlicht.
 

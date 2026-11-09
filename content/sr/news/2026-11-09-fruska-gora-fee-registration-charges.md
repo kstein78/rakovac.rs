@@ -4,7 +4,7 @@ date: '2026-11-09T09:55:00+01:00'
 feed: local
 top: true
 cover: iriski-venac-info-centre
-lead: 'Na Telegram kanalima piše da stanovnicima oslobođenih opština stižu zaduženja i da oslobođenje mora da se traži zahtevom. Zvanično zahtev nije potreban, a objavljen slučaj zaduženja stanovnika nismo našli. Poštom se ništa ne šalje: zaduženja se vide samo na portalu, po registarskoj oznaci.'
+lead: 'Na Telegram kanalima piše da stanovnicima oslobođenih opština stižu zaduženja i da oslobođenje mora da se traži zahtevom. Zvanično zahtev nije potreban, a objavljen slučaj zaduženja stanovnika nismo našli; naš automobil iz Rakovca dva puta je prošao kroz park i nema zaduženja. Poštom se ništa ne šalje: zaduženja se vide samo na portalu, po registarskoj oznaci.'
 related: [useful/fruska-gora-park-fee, news/2026-11-05-fruska-gora-residents-exempt]
 ---
 
@@ -18,7 +18,7 @@ U srpskim medijima nismo našli izveštaj da je oslobođenom stanovniku stiglo z
 
 ## Odakle stiže zaduženje?
 
-Fizičkim licima se ništa ne šalje: [korisničko uputstvo portala](https://enaplatafruskagora.co.rs/Content/documents/fruskagora/Korisnicko-uputstvo.pdf) ne pominje ni pisma, ni SMS, ni imejl. Jedan od urednika ovog sajta 8. novembra je dva puta prošao kroz park i nije dobio ništa, što se slaže. Zaduženja se vide samo na portalu: unesite oznaku bez razmaka na [enaplatafruskagora.co.rs](https://enaplatafruskagora.co.rs/) i kliknite „Provera zaduženja“. Na spisku je svaki prolazak sa datumom, mestom, fotografijom i iznosom.
+Fizičkim licima se ništa ne šalje: [korisničko uputstvo portala](https://enaplatafruskagora.co.rs/Content/documents/fruskagora/Korisnicko-uputstvo.pdf) ne pominje ni pisma, ni SMS, ni imejl. Jedan od urednika ovog sajta 8. novembra je dva puta prošao kroz park i nije dobio ništa, što se slaže. Portal je 9. novembra za taj automobil, registrovan u Rakovcu, pokazao „Nema putovanja za naplatu“. Dakle, za Rakovac je oslobođenje proradilo bez ikakvog zahteva; proverićemo ponovo za nekoliko dana. Zaduženja se vide samo na portalu: unesite oznaku bez razmaka na [enaplatafruskagora.co.rs](https://enaplatafruskagora.co.rs/) i kliknite „Provera zaduženja“. Na spisku je svaki prolazak sa datumom, mestom, fotografijom i iznosom.
 
 Tu se i plaća: karticom (Visa, MasterCard, DinaCard, Maestro, American Express) ili uplatnicom koju generiše portal, u banci, pošti ili mobilnim bankarstvom, i preko QR koda. Pravnim licima stiže obaveštenje sa rokom. Prema 021.rs i Intermagazinu, ko ne plati na vreme dobija opomenu, a mogu uslediti i dalje mere naplate; rok u danima i kazna po neplaćenom prolazu nisu objavljeni.
 

@@ -4,7 +4,7 @@ date: '2026-11-09T09:55:00+01:00'
 feed: local
 top: true
 cover: iriski-venac-info-centre
-lead: 'Telegram-csatornák szerint a mentes községek lakóinál is megjelennek terhelések, és a mentességet kérelemmel kell igényelni. Hivatalosan nem kell kérelem, és közzétett esetet nem találtunk. Postán semmit sem küldenek: a terhelések csak a portálon látszanak, rendszám alapján.'
+lead: 'Telegram-csatornák szerint a mentes községek lakóinál is megjelennek terhelések, és a mentességet kérelemmel kell igényelni. Hivatalosan nem kell kérelem, és közzétett esetet nem találtunk; saját rakovaci autónk kétszer haladt át a parkon, terhelés nincs. Postán semmit sem küldenek: a terhelések csak a portálon látszanak, rendszám alapján.'
 related: [useful/fruska-gora-park-fee, news/2026-11-05-fruska-gora-residents-exempt]
 ---
 
@@ -18,7 +18,7 @@ A szerb sajtóban nem találtunk hírt arról, hogy mentes lakónál terhelés j
 
 ## Honnan jön a terhelés?
 
-Magánszemélyeknek semmit sem küldenek: a portál [felhasználói útmutatója](https://enaplatafruskagora.co.rs/Content/documents/fruskagora/Korisnicko-uputstvo.pdf) nem említ sem levelet, sem SMS-t, sem e-mailt. A honlap egyik szerkesztője november 8-án kétszer haladt át a parkon, és semmit sem kapott, ami egybevág ezzel. A terhelések csak a portálon látszanak: írja be a rendszámot szóköz nélkül az [enaplatafruskagora.co.rs](https://enaplatafruskagora.co.rs/) oldalon, és kattintson a „Provera zaduženja“ gombra. A lista minden áthaladást mutat dátummal, hellyel, fotóval és összeggel.
+Magánszemélyeknek semmit sem küldenek: a portál [felhasználói útmutatója](https://enaplatafruskagora.co.rs/Content/documents/fruskagora/Korisnicko-uputstvo.pdf) nem említ sem levelet, sem SMS-t, sem e-mailt. A honlap egyik szerkesztője november 8-án kétszer haladt át a parkon, és semmit sem kapott, ami egybevág ezzel. November 9-én a portál erre a Rakovacon nyilvántartott autóra azt mutatta: „Nema putovanja za naplatu“ (nincs fizetendő út). Rakovac esetében tehát a mentesség kérelem nélkül működött; néhány nap múlva újra megnézzük. A terhelések csak a portálon látszanak: írja be a rendszámot szóköz nélkül az [enaplatafruskagora.co.rs](https://enaplatafruskagora.co.rs/) oldalon, és kattintson a „Provera zaduženja“ gombra. A lista minden áthaladást mutat dátummal, hellyel, fotóval és összeggel.
 
 Ott lehet fizetni is: kártyával (Visa, MasterCard, DinaCard, Maestro, American Express) vagy a portál által készített befizetési csekkel (*uplatnica*) bankban, postán vagy mobilbankon, QR-kóddal is. A cégek határidős értesítést kapnak. A 021.rs és az Intermagazin szerint aki nem fizet időben, felszólítást (*opomena*) kap, majd további behajtási lépések következhetnek; a határidőt napokban és az áthaladásonkénti bírságot nem tették közzé.
 
