@@ -43,7 +43,7 @@ Vozaču koji je oslobođen, kao svakome sa prebivalištem u Rakovcu ili Beočinu
 
 ## Kako se plaća
 
-- **Onlajn:** unesite registarsku oznaku (bez razmaka i crtica) na [enaplatafruskagora.co.rs](https://enaplatafruskagora.co.rs/). „Provera zaduženja“ prikazuje evidentirane prolaske sa vremenom, mestom, fotografijom i iznosom; „Plati unapred“ služi za plaćanje pre puta. Karticom ili uplatnicom u banci, pošti ili mobilnim bankarstvom ([uputstvo](https://enaplatafruskagora.co.rs/Content/documents/fruskagora/Korisnicko-uputstvo.pdf)). Na portal vodi i [sajt parka](https://npfruskagora.co.rs/).
+- **Onlajn:** unesite registarsku oznaku (bez razmaka i crtica) na [enaplatafruskagora.co.rs](https://enaplatafruskagora.co.rs/). „Provera zaduženja“ prikazuje evidentirane prolaske sa vremenom, mestom, fotografijom i iznosom; „Plati unapred“ služi za plaćanje pre puta. Karticom ili uplatnicom u banci, pošti ili mobilnim bankarstvom ([uputstvo](https://enaplatafruskagora.co.rs/Content/documents/fruskagora/Korisnicko-uputstvo.pdf)). Na portal vodi i [sajt parka](https://npfruskagora.co.rs/). Fizičkim licima se ništa ne šalje, ni poštom, ni SMS-om, ni imejlom; oznaku proveravajte sami, a ako se oslobođenom pojavi zaduženje, umesto plaćanja podnesite zahtev za oslobađanje ([više]({{< relref "news/2026-11-09-fruska-gora-fee-registration-charges" >}})).
 - **Lično:** [Informativni centar na Iriškom vencu]({{< relref "nearby/fruska-gora-information-centre" >}}) zatvoren je zbog rekonstrukcije. Savet uživo u upravi parka u Sremskoj Kamenici (vidi Kontakte).
 
 ## Kontakti
@@ -52,4 +52,4 @@ Vozaču koji je oslobođen, kao svakome sa prebivalištem u Rakovcu ili Beočinu
 - **Uprava parka, Sremska Kamenica:** Zmajev trg 1; od ponedeljka do petka 7:00–15:00 prema Google mapama ([na mapi](https://www.google.com/maps/search/?api=1&query=45.2232647,19.8422655))
 - **Informativni centar na Iriškom vencu:** [stranica centra]({{< relref "nearby/fruska-gora-information-centre" >}}), zatvoren zbog rekonstrukcije
 
-Provereno na portalu za plaćanje, u odluci o naknadama i u srpskim medijima 5. novembra 2026.
+Provereno na portalu za plaćanje, u odluci o naknadama i u srpskim medijima 5. novembra 2026; prikaz zaduženja 9. novembra.

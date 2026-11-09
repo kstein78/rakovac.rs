@@ -2,11 +2,12 @@
 title: 'Fruška-Gora-Gebühr ab 5. November: Bewohner von 20 umliegenden Gemeinden zahlen nicht, keine Anmeldung nötig'
 date: '2026-11-05T08:40:00+01:00'
 feed: local
-top: true
 cover: iriski-venac-tourist-board
 lead: 'Seit dem 5. November 2026 erfassen Kameras die Fahrzeuge im Nationalpark Fruška Gora. Wer seinen ständigen Wohnsitz in Beočin, Novi Sad oder 18 weiteren Gemeinden hat, zahlt nicht und muss sich nicht anmelden. Für alle anderen kostet die Durchfahrt bis zu einer Stunde 100 Dinar.'
 related: [useful/fruska-gora-park-fee, nearby/fruska-gora-information-centre]
 ---
+
+**Nachtrag, 9. November:** Offiziell ist keine Registrierung nötig, aber per Post kommt auch nichts: Kennzeichen im Portal selbst prüfen. [Was über Forderungen bekannt ist]({{< relref "news/2026-11-09-fruska-gora-fee-registration-charges" >}}).
 
 Die elektronische Erfassung und Abrechnung im Nationalpark Fruška Gora hat am Donnerstag, 5. November 2026, begonnen. Das Zahlungsportal [enaplatafruskagora.co.rs](https://enaplatafruskagora.co.rs/) ist jetzt in Betrieb.
 

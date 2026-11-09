@@ -42,7 +42,7 @@ For a driver who is exempt, as anyone registered in Rakovac or Beočin, it costs
 
 ## How to pay
 
-- **Online:** enter your plate (no spaces or dashes) on [enaplatafruskagora.co.rs](https://enaplatafruskagora.co.rs/). "Provera zaduženja" shows recorded passes with time, place, photo and amount; "Plati unapred" pays before the trip. By card or with a payment slip at a bank, the post office or by mobile banking ([user guide](https://enaplatafruskagora.co.rs/Content/documents/fruskagora/Korisnicko-uputstvo.pdf)). The portal is also linked from the [park's website](https://npfruskagora.co.rs/).
+- **Online:** enter your plate (no spaces or dashes) on [enaplatafruskagora.co.rs](https://enaplatafruskagora.co.rs/). "Provera zaduženja" shows recorded passes with time, place, photo and amount; "Plati unapred" pays before the trip. By card or with a payment slip at a bank, the post office or by mobile banking ([user guide](https://enaplatafruskagora.co.rs/Content/documents/fruskagora/Korisnicko-uputstvo.pdf)). The portal is also linked from the [park's website](https://npfruskagora.co.rs/). Nothing is sent to private owners by post, text message or e-mail; check your plate yourself, and if a charge appears although you are exempt, file the exemption request instead of paying ([more]({{< relref "news/2026-11-09-fruska-gora-fee-registration-charges" >}})).
 - **In person:** the [Information Centre on Iriški Venac]({{< relref "nearby/fruska-gora-information-centre" >}}) is closed for reconstruction. Advice in person at the park management in Sremska Kamenica (see Contacts).
 
 ## Contacts
@@ -51,4 +51,4 @@ For a driver who is exempt, as anyone registered in Rakovac or Beočin, it costs
 - **Park management, Sremska Kamenica:** Zmajev trg 1; Monday to Friday 7:00–15:00 according to Google Maps ([on the map](https://www.google.com/maps/search/?api=1&query=45.2232647,19.8422655))
 - **Information Centre on Iriški Venac:** [centre page]({{< relref "nearby/fruska-gora-information-centre" >}}), closed for reconstruction
 
-Checked against the park's payment portal, its fee decision and Serbian media on 5 November 2026.
+Checked against the park's payment portal, its fee decision and Serbian media on 5 November 2026; how charges are shown, on 9 November.

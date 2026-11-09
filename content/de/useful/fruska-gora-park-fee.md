@@ -42,7 +42,7 @@ Wer befreit ist, wie alle mit Wohnsitz in Rakovac oder Beočin, zahlt nichts. Al
 
 ## Wie man zahlt
 
-- **Online:** Kennzeichen (ohne Leerzeichen und Bindestriche) auf [enaplatafruskagora.co.rs](https://enaplatafruskagora.co.rs/) eingeben. „Provera zaduženja“ zeigt erfasste Durchfahrten mit Zeit, Ort, Foto und Betrag, „Plati unapred“ dient zum Bezahlen vor der Fahrt. Mit Karte oder per Zahlschein bei Bank, Post oder im Mobile Banking ([Anleitung](https://enaplatafruskagora.co.rs/Content/documents/fruskagora/Korisnicko-uputstvo.pdf)). Auch die [Website des Parks](https://npfruskagora.co.rs/) verlinkt das Portal.
+- **Online:** Kennzeichen (ohne Leerzeichen und Bindestriche) auf [enaplatafruskagora.co.rs](https://enaplatafruskagora.co.rs/) eingeben. „Provera zaduženja“ zeigt erfasste Durchfahrten mit Zeit, Ort, Foto und Betrag, „Plati unapred“ dient zum Bezahlen vor der Fahrt. Mit Karte oder per Zahlschein bei Bank, Post oder im Mobile Banking ([Anleitung](https://enaplatafruskagora.co.rs/Content/documents/fruskagora/Korisnicko-uputstvo.pdf)). Auch die [Website des Parks](https://npfruskagora.co.rs/) verlinkt das Portal. Privatpersonen bekommen nichts zugeschickt, weder per Post noch per SMS oder E-Mail; prüfen Sie Ihr Kennzeichen selbst, und erscheint trotz Befreiung eine Forderung, stellen Sie statt zu zahlen den Befreiungsantrag ([mehr]({{< relref "news/2026-11-09-fruska-gora-fee-registration-charges" >}})).
 - **Persönlich:** Das [Informationszentrum auf dem Iriški Venac]({{< relref "nearby/fruska-gora-information-centre" >}}) ist wegen Umbau geschlossen. Persönliche Beratung in der Parkverwaltung in Sremska Kamenica (siehe Kontakte).
 
 ## Kontakte
@@ -51,4 +51,4 @@ Wer befreit ist, wie alle mit Wohnsitz in Rakovac oder Beočin, zahlt nichts. Al
 - **Parkverwaltung, Sremska Kamenica:** Zmajev trg 1; laut Google Maps Montag bis Freitag 7:00–15:00 ([auf der Karte](https://www.google.com/maps/search/?api=1&query=45.2232647,19.8422655))
 - **Informationszentrum auf dem Iriški Venac:** [Seite des Zentrums]({{< relref "nearby/fruska-gora-information-centre" >}}), wegen Umbau geschlossen
 
-Abgeglichen mit dem Zahlungsportal des Parks, seinem Gebührenbeschluss und serbischen Medien am 5. November 2026.
+Abgeglichen mit dem Zahlungsportal des Parks, seinem Gebührenbeschluss und serbischen Medien am 5. November 2026; die Anzeige der Forderungen am 9. November.

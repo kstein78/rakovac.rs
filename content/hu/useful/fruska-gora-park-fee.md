@@ -42,7 +42,7 @@ Aki mentes, mint mindenki, akinek Rakovacon vagy Beočinban van az állandó lak
 
 ## Hogyan lehet fizetni
 
-- **Online:** írja be a rendszámot (szóköz és kötőjel nélkül) az [enaplatafruskagora.co.rs](https://enaplatafruskagora.co.rs/) oldalon. A „Provera zaduženja“ megmutatja a rögzített áthaladásokat idővel, hellyel, fotóval és összeggel, a „Plati unapred“ előre fizetésre szolgál. Bankkártyával vagy befizetési utalvánnyal bankban, postán vagy mobilbankban ([útmutató](https://enaplatafruskagora.co.rs/Content/documents/fruskagora/Korisnicko-uputstvo.pdf)). A portálra a [park honlapja](https://npfruskagora.co.rs/) is mutat.
+- **Online:** írja be a rendszámot (szóköz és kötőjel nélkül) az [enaplatafruskagora.co.rs](https://enaplatafruskagora.co.rs/) oldalon. A „Provera zaduženja“ megmutatja a rögzített áthaladásokat idővel, hellyel, fotóval és összeggel, a „Plati unapred“ előre fizetésre szolgál. Bankkártyával vagy befizetési utalvánnyal bankban, postán vagy mobilbankban ([útmutató](https://enaplatafruskagora.co.rs/Content/documents/fruskagora/Korisnicko-uputstvo.pdf)). A portálra a [park honlapja](https://npfruskagora.co.rs/) is mutat. Magánszemélyeknek semmit sem küldenek, sem postán, sem SMS-ben, sem e-mailben; a rendszámot ellenőrizze saját maga, és ha mentesként terhelést lát, fizetés helyett nyújtsa be a mentességi kérelmet ([bővebben]({{< relref "news/2026-11-09-fruska-gora-fee-registration-charges" >}})).
 - **Személyesen:** az [Iriški venac-i Információs Központ]({{< relref "nearby/fruska-gora-information-centre" >}}) felújítás miatt zárva van. Személyes tanácsadás a park sremska kamenicai igazgatóságán (lásd Elérhetőségek).
 
 ## Elérhetőségek
@@ -51,4 +51,4 @@ Aki mentes, mint mindenki, akinek Rakovacon vagy Beočinban van az állandó lak
 - **A park igazgatósága, Sremska Kamenica:** Zmajev trg 1; a Google Térkép szerint hétfőtől péntekig 7:00–15:00 ([a térképen](https://www.google.com/maps/search/?api=1&query=45.2232647,19.8422655))
 - **Iriški venac-i Információs Központ:** [a központ oldala]({{< relref "nearby/fruska-gora-information-centre" >}}), felújítás miatt zárva
 
-A park fizetési portáljával, díjhatározatával és szerb lapokkal egyeztetve 2026. november 5-én.
+A park fizetési portáljával, díjhatározatával és szerb lapokkal egyeztetve 2026. november 5-én; a terhelések megjelenítését november 9-én.

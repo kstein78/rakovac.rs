@@ -2,11 +2,12 @@
 title: 'Naknada za Frušku goru od 5. novembra: stanovnici 20 okolnih opština ne plaćaju, prijava nije potrebna'
 date: '2026-11-05T08:40:00+01:00'
 feed: local
-top: true
 cover: iriski-venac-tourist-board
 lead: 'Od 5. novembra 2026. kamere evidentiraju vozila u Nacionalnom parku Fruška gora. Lica sa prebivalištem u Beočinu, Novom Sadu ili još 18 opština ne plaćaju i ne moraju da se prijavljuju. Za ostale prolaz kroz park košta 100 dinara do jednog sata.'
 related: [useful/fruska-gora-park-fee, nearby/fruska-gora-information-centre]
 ---
+
+**Dopuna, 9. novembra:** zvanično registracija nije potrebna, ali se ni poštom ništa ne šalje: oznaku na portalu proveravajte sami. [Šta se zna o zaduženjima]({{< relref "news/2026-11-09-fruska-gora-fee-registration-charges" >}}).
 
 Elektronsko evidentiranje i naplata u Nacionalnom parku Fruška gora počeli su u četvrtak, 5. novembra 2026. Portal za plaćanje [enaplatafruskagora.co.rs](https://enaplatafruskagora.co.rs/) sada radi.
 

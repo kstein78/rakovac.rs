@@ -2,11 +2,12 @@
 title: 'Fruška Gora parkdíj november 5-től: 20 környező község lakói nem fizetnek, regisztráció nem kell'
 date: '2026-11-05T08:40:00+01:00'
 feed: local
-top: true
 cover: iriski-venac-tourist-board
 lead: '2026. november 5-től kamerák rögzítik a járműveket a Fruška Gora Nemzeti Parkban. Akinek állandó lakhelye Beočinban, Újvidéken vagy további 18 községben van, nem fizet, és regisztrálnia sem kell. Mindenki másnak az áthaladás legfeljebb egy órára 100 dinár.'
 related: [useful/fruska-gora-park-fee, nearby/fruska-gora-information-centre]
 ---
+
+**Kiegészítés, november 9.:** hivatalosan nem kell regisztráció, de postán sem jön semmi: a rendszámot a portálon saját maga ellenőrizze. [Mit tudni a terhelésekről]({{< relref "news/2026-11-09-fruska-gora-fee-registration-charges" >}}).
 
 A Fruška Gora Nemzeti Parkban 2026. november 5-én, csütörtökön elindult az elektronikus rögzítés és díjszedés. Az [enaplatafruskagora.co.rs](https://enaplatafruskagora.co.rs/) fizetési portál már működik.
 
