@@ -3,8 +3,8 @@ title: 'Aktív pihenés Rakovacon'
 linkTitle: 'Aktív pihenés'
 weight: 39
 kicker: 'Hegyikerékpározás és más'
-lead: 'Bike park Stari Rakovacon, könnyűtől a downhillig terjedő pályákkal a kolostor feletti dombokon.'
-tile: 'Bike park Stari Rakovacon'
+lead: 'Bike park Stari Rakovacon, lovaglás Ledinciben és Beočinban, quadok közvetlenül a gerinc mögött.'
+tile: 'Bike park, lovaglás, quadok'
 list_title: 'Helyek'
 ---
 

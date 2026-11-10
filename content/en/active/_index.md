@@ -3,8 +3,8 @@ title: 'Active leisure in Rakovac'
 linkTitle: 'Active leisure'
 weight: 39
 kicker: 'Mountain biking and more'
-lead: 'A mountain bike park in Stari Rakovac, with trails from easy to downhill in the hills above the monastery.'
-tile: 'Mountain bike park in Stari Rakovac'
+lead: 'A mountain bike park in Stari Rakovac, horse riding in Ledinci and Beočin, and quad bikes just over the ridge.'
+tile: 'Bike park, horse riding, quad bikes'
 list_title: 'Places'
 ---
 

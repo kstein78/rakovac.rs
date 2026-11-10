@@ -3,8 +3,8 @@ title: 'Aktivan odmor u Rakovcu'
 linkTitle: 'Aktivan odmor'
 weight: 39
 kicker: 'Brdski biciklizam i ostalo'
-lead: 'Bajk park u Starom Rakovcu, sa stazama od lakih do spusta, na brdima iznad manastira.'
-tile: 'Bajk park u Starom Rakovcu'
+lead: 'Bajk park u Starom Rakovcu, jahanje u Ledincima i Beočinu i kvadovi odmah preko grebena.'
+tile: 'Bajk park, jahanje, kvadovi'
 list_title: 'Mesta'
 ---
 

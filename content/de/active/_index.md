@@ -3,8 +3,8 @@ title: 'Aktive Freizeit in Rakovac'
 linkTitle: 'Aktive Freizeit'
 weight: 39
 kicker: 'Mountainbiken und mehr'
-lead: 'Ein Bikepark in Stari Rakovac, mit Strecken von leicht bis Downhill in den Hügeln über dem Kloster.'
-tile: 'Bikepark in Stari Rakovac'
+lead: 'Ein Bikepark in Stari Rakovac, Reiten in Ledinci und Beočin und Quads gleich hinter dem Kamm.'
+tile: 'Bikepark, Reiten, Quads'
 list_title: 'Orte'
 ---
 
