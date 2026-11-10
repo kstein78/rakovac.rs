@@ -2,7 +2,7 @@
 title: 'Bike Park Rakovac'
 kicker: 'Bike park · Stari Rakovac'
 weight: 1
-category: sport
+category: active
 summary: 'Bike park Stari Rakovacon, amelyet nonprofit egyesület működtet: négy pálya a könnyűtől a downhillig, ingyenes belépés, fizetős felvivő shuttle.'
 coords:
 - 45.1810367

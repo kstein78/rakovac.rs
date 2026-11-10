@@ -1,8 +1,8 @@
 ---
-title: 'Sport Rakovacon'
-linkTitle: 'Sport'
+title: 'Aktív pihenés Rakovacon'
+linkTitle: 'Aktív pihenés'
 weight: 39
-kicker: 'Hegyikerékpározás és aktív kikapcsolódás'
+kicker: 'Hegyikerékpározás és más'
 lead: 'Bike park Stari Rakovacon, könnyűtől a downhillig terjedő pályákkal a kolostor feletti dombokon.'
 tile: 'Bike park Stari Rakovacon'
 list_title: 'Helyek'

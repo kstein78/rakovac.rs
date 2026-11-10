@@ -2,7 +2,7 @@
 title: 'Bikepark Rakovac'
 kicker: 'Bikepark · Stari Rakovac'
 weight: 1
-category: sport
+category: active
 summary: 'Ein Bikepark in Stari Rakovac, betrieben von einem gemeinnützigen Verein: vier Strecken von leicht bis Downhill, freier Eintritt, kostenpflichtiger Shuttle bergauf.'
 coords:
 - 45.1810367

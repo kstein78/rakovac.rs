@@ -2,7 +2,7 @@
 title: 'Bike Park Rakovac'
 kicker: 'Mountain bike park · Stari Rakovac'
 weight: 1
-category: sport
+category: active
 summary: 'A mountain bike park in Stari Rakovac run by a non-profit association: four trails from easy to downhill, free entry, a paid uplift shuttle.'
 coords:
 - 45.1810367

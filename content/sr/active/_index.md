@@ -1,8 +1,8 @@
 ---
-title: 'Sport u Rakovcu'
-linkTitle: 'Sport'
+title: 'Aktivan odmor u Rakovcu'
+linkTitle: 'Aktivan odmor'
 weight: 39
-kicker: 'Brdski biciklizam i aktivan odmor'
+kicker: 'Brdski biciklizam i ostalo'
 lead: 'Bajk park u Starom Rakovcu, sa stazama od lakih do spusta, na brdima iznad manastira.'
 tile: 'Bajk park u Starom Rakovcu'
 list_title: 'Mesta'

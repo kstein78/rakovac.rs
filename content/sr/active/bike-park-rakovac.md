@@ -2,7 +2,7 @@
 title: 'Bajk park Rakovac'
 kicker: 'Bajk park · Stari Rakovac'
 weight: 1
-category: sport
+category: active
 summary: 'Bajk park u Starom Rakovcu koji vodi neprofitno udruženje: četiri staze od lake do spusta, ulaz besplatan, šatl uzbrdo se plaća.'
 coords:
 - 45.1810367

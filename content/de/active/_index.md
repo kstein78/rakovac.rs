@@ -1,8 +1,8 @@
 ---
-title: 'Sport in Rakovac'
-linkTitle: 'Sport'
+title: 'Aktive Freizeit in Rakovac'
+linkTitle: 'Aktive Freizeit'
 weight: 39
-kicker: 'Mountainbiken und aktive Erholung'
+kicker: 'Mountainbiken und mehr'
 lead: 'Ein Bikepark in Stari Rakovac, mit Strecken von leicht bis Downhill in den Hügeln über dem Kloster.'
 tile: 'Bikepark in Stari Rakovac'
 list_title: 'Orte'
