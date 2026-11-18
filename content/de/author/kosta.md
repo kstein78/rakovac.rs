@@ -1,36 +1,19 @@
 ---
-title: "Kosta Stein: meine Familie und was ich in Rakovac ändern möchte"
-linkTitle: "Mehr über mich"
+title: "Kosta Stein: was ich in Rakovac gemeinsam lösen möchte"
+linkTitle: "Meine Vorschläge für Rakovac"
 weight: 1
-photo: dogs-terrace
-gallery:
-- zoja-ralf
-- cats-sofa
+photo: stosin-monastery-valley
 kicker: "Konstantin (Kosta) Stein"
-lead: "Nachbarn, eine Familie, sechs Katzen und drei Hunde – und was ich im Dorf gern gemeinsam verbessern würde."
-summary: "Konstantin (Kosta) Stein, der rakovac.rs macht: Familie und Tiere in Stari Rakovac, seine Herkunft und seine Vorschläge für das Dorf zu Luft, Wasser, Bussen und Müll."
+lead: "Luft, Wasser, Busse, Spielplätze, Gehwege und Müll: was ich bisher getan habe und was ich Nachbarn und Gemeinde vorschlage."
+summary: "Konstantin (Kosta) Stein, der rakovac.rs macht, über die Probleme des Dorfes und seine Vorschläge: Luft, Wasser, Busse, Spielplätze, Gehwege, Mülltrennung und sauberer Verkehr."
 ---
 
-Ich kam im Juni 2023 nach Rakovac. Wir wohnen in Stari Rakovac mit meiner Frau und unseren zwei Töchtern: Die ältere kam 2020 zur Welt, die jüngere 2025, schon hier in Serbien. Kontakte stehen auf der Seite [Über den Autor]({{< relref "author" >}}).
-
-## Familie und Tiere
-
-Bei uns leben sechs Katzen und drei Hunde. Drei davon kamen mit uns aus Russland: der Sphynx-Kater Simba, der graue, flauschige 17-jährige Kater Puša und der Hund Ralf. Simba und Ralf sind Freunde, ganz und gar nicht wie Hund und Katze. Unsere zweite Hündin ist die schwarze Zoja. Der dritte Hund hat irgendwo in der Nachbarschaft Besitzer, kommt aber zu uns und bleibt wochenlang.
-
-{{< photo key="simba-ralf" class="inline-tall" >}}
-
-Ralf war schon einmal auf dieser Seite: Am Morgen nach dem Brand im Februar 2024 ging er mit mir über den verbrannten Hang über dem Dorf.
-
-{{< photo key="fire-2024-ralf" >}}
-
-## Woher ich komme
-
-Ich bin in Charkiw geboren. Viele Jahre habe ich große digitale Medien geleitet; heute arbeite ich an kreativen Projekten, Promotion und neuen Projekten, die ich mit Hilfe künstlicher Intelligenz aufbaue. Meine Mutter ist Chemikerin, und fast 15 Jahre lang war ich jede Woche in ihrem Labor, wo sie Schadstoffe in der Umwelt analysierte. Darum ist mir saubere Luft so wichtig. Ich spreche Serbisch, Russisch, Englisch und Deutsch.
+Ich bin Kosta Stein und lebe seit Juni 2023 in Stari Rakovac. Mehr über mich und meine Familie: [Über den Autor]({{< relref "author" >}}). Hier steht, was ich bisher für das Dorf getan habe und was ich vorschlage.
 
 ## Was ich für Rakovac tue
 
 - **Diese Website.** [rakovac.rs]({{< relref "/" >}}) gehört allen, die hier leben: Jeder kann Neuigkeiten, alte Fotos oder Korrekturen schicken.
-- **Der russischsprachige Chat von Rakovac.** Ich habe ihn gegründet, damit russischsprachige Nachbarn wichtige Nachrichten bekommen und sich absprechen können.
+- **[Der russischsprachige Chat von Rakovac](https://t.me/+mbrfYMKeJ3JiNzQy).** Ich habe ihn gegründet, damit russischsprachige Nachbarn wichtige Nachrichten bekommen und sich absprechen können.
 - **Luft.** Seit Frühjahr 2026 schreibe ich der Gemeinde, dem Ministerium und der Provinz über den chemischen Gestank über dem Dorf, war beim Umweltamt der Gemeinde und arbeite mit Nachbarn an einem zertifizierten Luftsensor für die Gemeinde (mehr unten).
 - **Wasserausfälle.** 2026 war ich beim JKP Beočin, im Wasserwerk und bei der Gemeinde und habe die Nachrichten über Tankwagen an russischsprachige und serbische Nachbarn weitergegeben.
 

@@ -1,36 +1,19 @@
 ---
-title: "Kosta Stein: my family and what I would like to change in Rakovac"
-linkTitle: "More about me"
+title: "Kosta Stein: what I would like us to solve in Rakovac"
+linkTitle: "My proposals for Rakovac"
 weight: 1
-photo: dogs-terrace
-gallery:
-- zoja-ralf
-- cats-sofa
+photo: stosin-monastery-valley
 kicker: "Konstantin (Kosta) Stein"
-lead: "Neighbours, a family, six cats and three dogs, and the things I would like us to fix in the village together."
-summary: "Konstantin (Kosta) Stein, who makes rakovac.rs: his family and animals in Stari Rakovac, his background, and his proposals for the village on air, water, buses and waste."
+lead: "Air, water, buses, playgrounds, sidewalks and waste: what I have done so far and what I propose to neighbours and the municipality."
+summary: "Konstantin (Kosta) Stein, who makes rakovac.rs, on the problems of the village and his proposals: air, water, buses, playgrounds, sidewalks, separate waste and clean transport."
 ---
 
-I came to Rakovac in June 2023. We live in Stari Rakovac with my wife and our two daughters: the elder was born in 2020, the younger in 2025, already here in Serbia. Contacts are on the [About the author]({{< relref "author" >}}) page.
-
-## Family and animals
-
-Six cats and three dogs live with us. Three of them came with us from Russia: Simba the sphynx cat, Puša, a grey fluffy cat who is 17, and Ralf the dog. Simba and Ralf are friends, and not at all the way cats and dogs usually are. Our second dog is Zoya, who is black. The third has owners somewhere in the neighbourhood, but comes to live with us for weeks at a time.
-
-{{< photo key="simba-ralf" class="inline-tall" >}}
-
-Ralf has been on this site before: on the morning after the February 2024 fire he walked the burnt slope above the village with me.
-
-{{< photo key="fire-2024-ralf" >}}
-
-## Where I come from
-
-I was born in Kharkiv. For many years I led large digital media; today I work on creative projects, promotion and new projects built with the help of artificial intelligence. My mother is a chemist, and for almost 15 years I spent every week in her laboratory, where she analysed harmful substances in the environment. That is why clean air matters so much to me. I speak Serbian, Russian, English and German.
+I am Kosta Stein and I have lived in Stari Rakovac since June 2023. More about me and my family: [About the author]({{< relref "author" >}}). Here is what I have done so far for the village and what I propose.
 
 ## What I do for Rakovac
 
 - **This website.** [rakovac.rs]({{< relref "/" >}}) belongs to everyone who lives here: anyone can send news, an old photo or a correction.
-- **The Russian-speaking chat of Rakovac.** I started it, so that Russian-speaking neighbours get important news and can agree on things together.
+- **[The Russian-speaking chat of Rakovac](https://t.me/+mbrfYMKeJ3JiNzQy).** I started it, so that Russian-speaking neighbours get important news and can agree on things together.
 - **Air.** Since spring 2026 I have been writing to the municipality, the Ministry and the Province about the chemical smell over the village, have met the municipality's environmental office, and with neighbours I am working on a certified air sensor for the municipality (more below).
 - **Water cuts.** In 2026 I went to JKP Beočin, the water plant and the municipality, and passed the news about water tankers to Russian-speaking and Serbian neighbours.
 

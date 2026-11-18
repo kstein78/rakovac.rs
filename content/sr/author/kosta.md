@@ -1,36 +1,19 @@
 ---
-title: "Kosta Stein: moja porodica i šta bih voleo da promenimo u Rakovcu"
-linkTitle: "Više o meni"
+title: "Kosta Stein: šta bih voleo da zajedno rešimo u Rakovcu"
+linkTitle: "Moji predlozi za Rakovac"
 weight: 1
-photo: dogs-terrace
-gallery:
-- zoja-ralf
-- cats-sofa
+photo: stosin-monastery-valley
 kicker: "Konstantin (Kosta) Stein"
-lead: "Komšije, porodica, šest mačaka i tri psa, i ono što bih voleo da zajedno popravimo u selu."
-summary: "Konstantin (Kosta) Stein, autor sajta rakovac.rs: porodica i životinje u Starom Rakovcu, odakle dolazi i njegovi predlozi za selo o vazduhu, vodi, autobusima i otpadu."
+lead: "Vazduh, voda, autobusi, igrališta, trotoari i otpad: šta sam do sada uradio i šta predlažem komšijama i opštini."
+summary: "Konstantin (Kosta) Stein, autor sajta rakovac.rs, o problemima sela i svojim predlozima: vazduh, voda, autobusi, igrališta, trotoari, selektivni otpad i čist prevoz."
 ---
 
-U Rakovac sam došao u junu 2023. Živimo u Starom Rakovcu sa suprugom i dve ćerke: starija je rođena 2020, a mlađa 2025, već ovde, u Srbiji. Kontakti su na stranici [O autoru]({{< relref "author" >}}).
-
-## Porodica i životinje
-
-Sa nama žive šest mačaka i tri psa. Troje je došlo sa nama iz Rusije: mačak sfinks Simba, sivi čupavi mačak Puša, koji ima 17 godina, i pas Ralf. Simba i Ralf su prijatelji, i to nimalo kao mačka i pas. Naša druga kuja je crna Zoja. Treći pas ima neke vlasnike u komšiluku, ali dolazi da živi kod nas i ostaje nedeljama.
-
-{{< photo key="simba-ralf" class="inline-tall" >}}
-
-Ralf se već pojavio na ovom sajtu: jutro posle požara u februaru 2024. sa mnom je prošao izgorelu padinu iznad sela.
-
-{{< photo key="fire-2024-ralf" >}}
-
-## Odakle dolazim
-
-Rođen sam u Harkovu. Dugo sam vodio velike digitalne medije; danas radim na kreativnim projektima, promociji i novim projektima koje gradim uz pomoć veštačke inteligencije. Moja majka je hemičarka, i skoro 15 godina sam svake nedelje provodio u njenoj laboratoriji, gde je analizirala štetne materije u životnoj sredini. Zato mi je čist vazduh toliko važan. Govorim srpski, ruski, engleski i nemački.
+Ja sam Kosta Stein i u Starom Rakovcu živim od juna 2023. Više o meni i mojoj porodici: [O autoru]({{< relref "author" >}}). Evo šta sam do sada uradio za selo i šta predlažem.
 
 ## Šta radim za Rakovac
 
 - **Ovaj sajt.** [rakovac.rs]({{< relref "/" >}}) pripada svima koji ovde žive: svako može da pošalje vest, staru fotografiju ili ispravku.
-- **Ruskojezični čet Rakovca.** Pokrenuo sam ga da bi ruskojezične komšije dobijale važne vesti i mogle zajedno da se dogovaraju.
+- **[Ruskojezični čet Rakovca](https://t.me/+mbrfYMKeJ3JiNzQy).** Pokrenuo sam ga da bi ruskojezične komšije dobijale važne vesti i mogle zajedno da se dogovaraju.
 - **Vazduh.** Od proleća 2026. pišem opštini, Ministarstvu i Pokrajini o hemijskom smradu nad selom, bio sam na sastanku u opštinskoj službi za zaštitu životne sredine, a sa komšijama radim na sertifikovanom senzoru vazduha za opštinu (više ispod).
 - **Prekidi vode.** U 2026. sam išao u JKP „Beočin“, Fabriku vode i opštinu, i prenosio vesti o cisternama ruskojezičnim i srpskim komšijama.
 

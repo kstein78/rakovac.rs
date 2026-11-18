@@ -11,14 +11,26 @@ portrait: author-kosta
 
 Konstantin Stein vagyok, a szomszédaimnak egyszerűen Kosta. Mostanában a munkám a kreativitásról, a promócióról és arról szól, hogy mesterséges intelligencia segítségével új projekteket építsek. Ez a weboldal is ezek egyike: Claude-dal, az Anthropic MI-modelljével együtt készítem. A projektjeimről bővebben a személyes weboldalamon olvashat: [stein-1.com](https://stein-1.com).
 
-Bővebben rólam, a családomról és arról, amit Rakovacon változtatnék: [Bővebben rólam]({{< relref "author/kosta" >}}).
+Harkivban születtem, és sok évig nagy digitális médiumokat vezettem. 2023 júniusa óta Stari Rakovacon élek a feleségemmel és két lányunkkal: az idősebb 2020-ban, a fiatalabb 2025-ben született, már itt, Szerbiában. Mit teszek a faluért, és mit oldanék meg közösen: [Javaslataim Rakovacnak]({{< relref "author/kosta" >}}).
+
+## Család és állatok
+
+Hat macska és három kutya él velünk. Hárman velünk jöttek Oroszországból: Simba, a szfinx macska, a szürke, bundás, 17 éves Puša és Ralf, a kutya. Simba és Ralf barátok, egyáltalán nem úgy, ahogy kutya és macska szokott. Második kutyánk a fekete Zoja. A harmadiknak valahol a szomszédságban vannak gazdái, mégis hozzánk jön lakni, és hetekig marad.
+
+{{< photo key="simba-ralf" class="inline-tall" >}}
+
+Ralf már szerepelt ezen az oldalon: a 2024. februári tűz utáni reggelen velem járta be a falu feletti leégett lejtőt.
+
+{{< photo key="fire-2024-ralf" >}}
+
+{{< photos "zoja-ralf cats-sofa dogs-terrace" >}}
 
 ## Honnan ered mindez
 
 A helytörténet, a körülöttem lévő világ felfedezése és az utazás iránti szeretet korán gyökeret vert bennem.
 
 - **Apám.** Kisgyerekkorom óta együtt fedeztük fel mindazokat a helyeket, ahová csak kerültünk. Így ismertem meg a geológiát, a köveket és a kövületeket, és így tanultam meg, hogyan lehet az erdőben élni.
-- **Anyám.** Szerves kémikus, disszertációját a gyógy- és aromanövényekről írta. Megtanította, mely növények ehetők, melyekből lesz jó tea, és melyeket használják a gyógyászatban.
+- **Anyám.** Szerves kémikus, disszertációját a gyógy- és aromanövényekről írta. Megtanította, mely növények ehetők, melyekből lesz jó tea, és melyeket használják a gyógyászatban. Csaknem 15 évig minden héten a laboratóriumában töltöttem időt, ahol a környezet káros anyagait elemezte; ezért olyan fontos nekem a tiszta levegő.
 - **Nagyapám.** Szenvedélyes gomba- és bogyógyűjtő volt.
 
 Bárhol élek is, igyekszem megismerni az ország és a hely történetét. Rakovacban, ahol egyetlen kis völgyben hétezer év története sűrűsödik, ebből lett ez a weboldal. Local Guide-ként (8. szint) helyeket és fotókat is feltöltök a Google Mapsre.

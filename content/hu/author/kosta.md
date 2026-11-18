@@ -1,36 +1,19 @@
 ---
-title: "Kosta Stein: a családom, és amit Rakovacon változtatnék"
-linkTitle: "Bővebben rólam"
+title: "Kosta Stein: amit Rakovacon közösen megoldanék"
+linkTitle: "Javaslataim Rakovacnak"
 weight: 1
-photo: dogs-terrace
-gallery:
-- zoja-ralf
-- cats-sofa
+photo: stosin-monastery-valley
 kicker: "Konstantin (Kosta) Stein"
-lead: "Szomszédok, egy család, hat macska és három kutya – és amit a faluban szívesen közösen rendbe tennék."
-summary: "Konstantin (Kosta) Stein, a rakovac.rs készítője: családja és állatai Stari Rakovacon, honnan jött, és javaslatai a falunak levegőről, vízről, buszokról és hulladékról."
+lead: "Levegő, víz, buszok, játszóterek, járdák és hulladék: mit tettem eddig, és mit javaslok a szomszédoknak és a községnek."
+summary: "Konstantin (Kosta) Stein, a rakovac.rs készítője a falu gondjairól és javaslatairól: levegő, víz, buszok, játszóterek, járdák, szelektív hulladék és tiszta közlekedés."
 ---
 
-2023 júniusában érkeztem Rakovacra. Stari Rakovacon élünk a feleségemmel és két lányunkkal: az idősebb 2020-ban született, a fiatalabb 2025-ben, már itt, Szerbiában. Az elérhetőségek [A szerzőről]({{< relref "author" >}}) oldalon vannak.
-
-## Család és állatok
-
-Hat macska és három kutya él velünk. Hárman velünk jöttek Oroszországból: Simba, a szfinx macska, a szürke, bundás, 17 éves Puša és Ralf, a kutya. Simba és Ralf barátok, egyáltalán nem úgy, ahogy kutya és macska szokott. Második kutyánk a fekete Zoja. A harmadiknak valahol a szomszédságban vannak gazdái, mégis hozzánk jön lakni, és hetekig marad.
-
-{{< photo key="simba-ralf" class="inline-tall" >}}
-
-Ralf már szerepelt ezen az oldalon: a 2024. februári tűz utáni reggelen velem járta be a falu feletti leégett lejtőt.
-
-{{< photo key="fire-2024-ralf" >}}
-
-## Honnan jövök
-
-Harkivban születtem. Sok évig nagy digitális médiumokat vezettem; ma kreatív projekteken, promóción és mesterséges intelligencia segítségével épített új projekteken dolgozom. Az anyám vegyész, és csaknem 15 évig minden héten a laboratóriumában töltöttem időt, ahol a környezet káros anyagait elemezte. Ezért olyan fontos nekem a tiszta levegő. Szerbül, oroszul, angolul és németül beszélek.
+Kosta Stein vagyok, 2023 júniusa óta élek Stari Rakovacon. Bővebben rólam és a családomról: [A szerzőről]({{< relref "author" >}}). Íme, mit tettem eddig a faluért, és mit javaslok.
 
 ## Mit teszek Rakovacért
 
 - **Ez a honlap.** A [rakovac.rs]({{< relref "/" >}}) mindenkié, aki itt él: bárki küldhet hírt, régi fényképet vagy javítást.
-- **Rakovac orosz nyelvű csevegőcsoportja.** Én indítottam, hogy az orosz ajkú szomszédok megkapják a fontos híreket, és közösen egyeztethessenek.
+- **[Rakovac orosz nyelvű csevegőcsoportja](https://t.me/+mbrfYMKeJ3JiNzQy).** Én indítottam, hogy az orosz ajkú szomszédok megkapják a fontos híreket, és közösen egyeztethessenek.
 - **Levegő.** 2026 tavasza óta írok a községnek, a minisztériumnak és a Tartománynak a falu feletti vegyszerbűzről, találkoztam a község környezetvédelmi osztályával, és a szomszédokkal egy tanúsított levegőérzékelőn dolgozunk a község számára (bővebben lent).
 - **Vízkimaradások.** 2026-ban elmentem a JKP Beočinhoz, a vízműbe és a községhez, és továbbadtam a lajtoskocsikról szóló híreket orosz ajkú és szerb szomszédainknak.
 
