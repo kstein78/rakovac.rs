@@ -3,6 +3,9 @@ title: "Kosta Stein: my family and what I would like to change in Rakovac"
 linkTitle: "More about me"
 weight: 1
 photo: dogs-terrace
+gallery:
+- zoja-ralf
+- cats-sofa
 kicker: "Konstantin (Kosta) Stein"
 lead: "Neighbours, a family, six cats and three dogs, and the things I would like us to fix in the village together."
 summary: "Konstantin (Kosta) Stein, who makes rakovac.rs: his family and animals in Stari Rakovac, his background, and his proposals for the village on air, water, buses and waste."
@@ -13,10 +16,6 @@ I came to Rakovac in June 2023. We live in Stari Rakovac with my wife and our tw
 ## Family and animals
 
 Six cats and three dogs live with us. Three of them came with us from Russia: Simba the sphynx cat, Puša, a grey fluffy cat who is 17, and Ralf the dog. Simba and Ralf are friends, and not at all the way cats and dogs usually are. Our second dog is Zoya, who is black. The third has owners somewhere in the neighbourhood, but comes to live with us for weeks at a time.
-
-{{< photo key="zoja-ralf" >}}
-
-{{< photo key="cats-sofa" >}}
 
 {{< photo key="simba-ralf" class="inline-tall" >}}
 
