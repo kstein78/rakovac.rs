@@ -17,7 +17,7 @@ Ein Spielplatz ganz aus Holz am Picknickplatz Zmajevac auf dem Kamm, 8–10 Minu
 
 ## Spielplatz an der Gedenkstätte Kamenolom
 
-Ein kleiner, etwas vernachlässigter Spielplatz auf dem Rasen direkt neben der [Gedenkstätte Kamenolom]({{< relref "history/kamenolom-memorial" >}}), etwa 500 m die Straße hinauf vom Kloster: eine Holzschaukel mit Babysitz, eine Wippe, ein Klettergerüst aus Metall und ein paar Bänke. Dahinter weist ein Schild an einigen Stufen den Weg zum [Beli Majdan]({{< relref "nature/beli-majdan" >}}).
+Ein kleiner, etwas vernachlässigter Spielplatz auf dem Rasen direkt neben der [Gedenkstätte Kamenolom]({{< relref "history/kamenolom-memorial" >}}), etwa 500 m die Straße hinauf vom Kloster: eine Holzschaukel mit Babysitz, eine Wippe, ein Klettergerüst aus Metall und ein paar Bänke. Dahinter weist ein Schild an einigen Stufen den Weg zum [Beli Majdan]({{< relref "nature/beli-majdan" >}}). **Vorsicht mit kleinen Kindern:** Mitten über den Spielplatz fließt ein nicht eingezäunter Bach, ein Kleinkind kann leicht hineinfallen, deshalb ist der Platz praktisch kaum nutzbar.
 
 {{< photos "kamenolom-playground-swing kamenolom-playground-lawn" >}}
 

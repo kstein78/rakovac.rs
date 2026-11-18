@@ -17,7 +17,7 @@ Igralište napravljeno potpuno od drveta na izletištu Zmajevac na grebenu, 8–
 
 ## Igralište kod spomen-obeležja Kamenolom
 
-Malo i pomalo zapušteno igralište na travnjaku odmah pored [spomen-obeležja Kamenolom]({{< relref "history/kamenolom-memorial" >}}), oko 500 m uzbrdo od manastira: drvena ljuljaška sa sedištem za bebe, klackalica, metalna penjalica i nekoliko klupa. Iza njega tabla kod stepenica pokazuje put ka [Belom majdanu]({{< relref "nature/beli-majdan" >}}).
+Malo i pomalo zapušteno igralište na travnjaku odmah pored [spomen-obeležja Kamenolom]({{< relref "history/kamenolom-memorial" >}}), oko 500 m uzbrdo od manastira: drvena ljuljaška sa sedištem za bebe, klackalica, metalna penjalica i nekoliko klupa. Iza njega tabla kod stepenica pokazuje put ka [Belom majdanu]({{< relref "nature/beli-majdan" >}}). **Oprez sa malom decom:** preko igrališta teče potok koji nije ograđen, i malo dete lako može da upadne, pa se igralište zapravo teško može koristiti.
 
 {{< photos "kamenolom-playground-swing kamenolom-playground-lawn" >}}
 

@@ -17,7 +17,7 @@ A playground made entirely of wood at the Zmajevac picnic area on the ridge, 8â€
 
 ## Playground at the Kamenolom memorial
 
-A small and rather neglected playground on the lawn right next to the [Kamenolom memorial]({{< relref "history/kamenolom-memorial" >}}), about 500 m up the road from the monastery: a wooden swing with a baby seat, a seesaw, a metal climbing frame and a few benches. Behind it, a sign by some steps points up towards [Beli Majdan]({{< relref "nature/beli-majdan" >}}).
+A small and rather neglected playground on the lawn right next to the [Kamenolom memorial]({{< relref "history/kamenolom-memorial" >}}), about 500 m up the road from the monastery: a wooden swing with a baby seat, a seesaw, a metal climbing frame and a few benches. Behind it, a sign by some steps points up towards [Beli Majdan]({{< relref "nature/beli-majdan" >}}). **Careful with small children:** an unfenced stream runs right across the playground, and a toddler can easily fall in, so in practice it is hardly usable.
 
 {{< photos "kamenolom-playground-swing kamenolom-playground-lawn" >}}
 

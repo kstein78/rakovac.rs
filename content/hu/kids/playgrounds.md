@@ -17,7 +17,7 @@ Teljesen fából készült játszótér a gerincen lévő Zmajevac pihenőhelyen
 
 ## Játszótér a Kamenolom-emlékműnél
 
-Kicsi, kissé elhanyagolt játszótér a gyepen, közvetlenül a [Kamenolom-emlékmű]({{< relref "history/kamenolom-memorial" >}}) mellett, a kolostortól mintegy 500 méterrel feljebb az úton: fahinta babaüléssel, mérleghinta, fém mászóka és néhány pad. Mögötte egy tábla a lépcsőnél a [Beli Majdan]({{< relref "nature/beli-majdan" >}}) felé mutat.
+Kicsi, kissé elhanyagolt játszótér a gyepen, közvetlenül a [Kamenolom-emlékmű]({{< relref "history/kamenolom-memorial" >}}) mellett, a kolostortól mintegy 500 méterrel feljebb az úton: fahinta babaüléssel, mérleghinta, fém mászóka és néhány pad. Mögötte egy tábla a lépcsőnél a [Beli Majdan]({{< relref "nature/beli-majdan" >}}) felé mutat. **Vigyázat kisgyerekkel:** a játszótéren keresztül bekerítetlen patak folyik, egy kisgyerek könnyen beleeshet, így gyakorlatilag alig használható.
 
 {{< photos "kamenolom-playground-swing kamenolom-playground-lawn" >}}
 
