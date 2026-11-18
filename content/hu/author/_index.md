@@ -11,6 +11,8 @@ portrait: author-kosta
 
 Konstantin Stein vagyok, a szomszédaimnak egyszerűen Kosta. Mostanában a munkám a kreativitásról, a promócióról és arról szól, hogy mesterséges intelligencia segítségével új projekteket építsek. Ez a weboldal is ezek egyike: Claude-dal, az Anthropic MI-modelljével együtt készítem. A projektjeimről bővebben a személyes weboldalamon olvashat: [stein-1.com](https://stein-1.com).
 
+Bővebben rólam, a családomról és arról, amit Rakovacon változtatnék: [Bővebben rólam]({{< relref "author/kosta" >}}).
+
 ## Honnan ered mindez
 
 A helytörténet, a körülöttem lévő világ felfedezése és az utazás iránti szeretet korán gyökeret vert bennem.

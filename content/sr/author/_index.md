@@ -11,6 +11,8 @@ portrait: author-kosta
 
 Zovem se Konstantin Stein, a komšijama sam Kosta. Danas se bavim kreativnim radom, promocijom i stvaranjem novih projekata uz pomoć veštačke inteligencije. Ovaj sajt je jedan od njih: pravim ga zajedno sa Claude-om, AI modelom kompanije Anthropic. Više o mojim projektima nalazi se na mom ličnom sajtu, [stein-1.com](https://stein-1.com).
 
+Više o meni, mojoj porodici i onome što bih voleo da promenimo u Rakovcu: [Više o meni]({{< relref "author/kosta" >}}).
+
 ## Odakle sve ovo
 
 Ljubav prema zavičajnoj istoriji, upoznavanju sveta oko sebe i putovanjima usadili su mi još u detinjstvu.

@@ -3319,3 +3319,16 @@ stosin-monastery-valley:
   alt_cyr: "Манастир Раковац са звоником у долини Старог Раковца, поглед са брда изнад Стошиног Дола у јесен"
   alt_de: "Das Kloster Rakovac mit seinem Glockenturm im Tal von Stari Rakovac, vom Hügel über Stošin Do im Herbst"
   alt_hu: "A rakovaci kolostor harangtornyával Stari Rakovac völgyében, a Stošin Do feletti dombról ősszel"
+simba-ralf:
+  src: img/simba-ralf.jpg
+  author: Konstantin Stein
+  author_ru: Константин Штейн
+  author_cyr: Константин Штајн
+  license: © all rights reserved
+  alt: "Simba the sphynx cat and Ralf the dog asleep side by side on the sofa"
+  temp: false
+  alt_ru: "Кот-сфинкс Симба и пёс Ральф спят рядом на диване"
+  alt_sr: "Mačak sfinks Simba i pas Ralf spavaju jedan uz drugog na kauču"
+  alt_cyr: "Мачак сфинкс Симба и пас Ралф спавају један уз другог на каучу"
+  alt_de: "Sphynx-Kater Simba und Hund Ralf schlafen nebeneinander auf dem Sofa"
+  alt_hu: "Simba, a szfinx macska és Ralf, a kutya egymás mellett alszanak a kanapén"

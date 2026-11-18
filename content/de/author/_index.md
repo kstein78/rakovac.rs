@@ -11,6 +11,8 @@ portrait: author-kosta
 
 Ich bin Konstantin Stein, für meine Nachbarn Kosta. Heute dreht sich meine Arbeit um Kreativität, Promotion und den Aufbau neuer Projekte mit Hilfe künstlicher Intelligenz. Diese Website ist eines davon: Ich mache sie gemeinsam mit Claude, einem KI-Modell von Anthropic. Mehr über meine Projekte finden Sie auf meiner persönlichen Website, [stein-1.com](https://stein-1.com).
 
+Mehr über mich, meine Familie und was ich in Rakovac ändern möchte: [Mehr über mich]({{< relref "author/kosta" >}}).
+
 ## Woher das kommt
 
 Meine Liebe zur Lokalgeschichte, zum Erkunden der Welt um mich herum und zum Reisen wurde früh geweckt.
