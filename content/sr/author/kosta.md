@@ -32,6 +32,7 @@ Rođen sam u Harkovu. Dugo sam vodio velike digitalne medije; danas radim na kre
 
 - **Ovaj sajt.** [rakovac.rs]({{< relref "/" >}}) pripada svima koji ovde žive: svako može da pošalje vest, staru fotografiju ili ispravku.
 - **Ruskojezični čet Rakovca.** Pokrenuo sam ga da bi ruskojezične komšije dobijale važne vesti i mogle zajedno da se dogovaraju.
+- **Vazduh.** Od proleća 2026. pišem opštini, Ministarstvu i Pokrajini o hemijskom smradu nad selom, bio sam na sastanku u opštinskoj službi za zaštitu životne sredine, a sa komšijama radim na sertifikovanom senzoru vazduha za opštinu (više ispod).
 - **Prekidi vode.** U 2026. sam išao u JKP „Beočin“, Fabriku vode i opštinu, i prenosio vesti o cisternama ruskojezičnim i srpskim komšijama.
 
 ## Šta bih voleo da zajedno rešimo

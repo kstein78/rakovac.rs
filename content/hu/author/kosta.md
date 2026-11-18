@@ -32,6 +32,7 @@ Harkivban születtem. Sok évig nagy digitális médiumokat vezettem; ma kreatí
 
 - **Ez a honlap.** A [rakovac.rs]({{< relref "/" >}}) mindenkié, aki itt él: bárki küldhet hírt, régi fényképet vagy javítást.
 - **Rakovac orosz nyelvű csevegőcsoportja.** Én indítottam, hogy az orosz ajkú szomszédok megkapják a fontos híreket, és közösen egyeztethessenek.
+- **Levegő.** 2026 tavasza óta írok a községnek, a minisztériumnak és a Tartománynak a falu feletti vegyszerbűzről, találkoztam a község környezetvédelmi osztályával, és a szomszédokkal egy tanúsított levegőérzékelőn dolgozunk a község számára (bővebben lent).
 - **Vízkimaradások.** 2026-ban elmentem a JKP Beočinhoz, a vízműbe és a községhez, és továbbadtam a lajtoskocsikról szóló híreket orosz ajkú és szerb szomszédainknak.
 
 ## Amit közösen megoldanék

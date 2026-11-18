@@ -32,6 +32,7 @@ Ich bin in Charkiw geboren. Viele Jahre habe ich große digitale Medien geleitet
 
 - **Diese Website.** [rakovac.rs]({{< relref "/" >}}) gehört allen, die hier leben: Jeder kann Neuigkeiten, alte Fotos oder Korrekturen schicken.
 - **Der russischsprachige Chat von Rakovac.** Ich habe ihn gegründet, damit russischsprachige Nachbarn wichtige Nachrichten bekommen und sich absprechen können.
+- **Luft.** Seit Frühjahr 2026 schreibe ich der Gemeinde, dem Ministerium und der Provinz über den chemischen Gestank über dem Dorf, war beim Umweltamt der Gemeinde und arbeite mit Nachbarn an einem zertifizierten Luftsensor für die Gemeinde (mehr unten).
 - **Wasserausfälle.** 2026 war ich beim JKP Beočin, im Wasserwerk und bei der Gemeinde und habe die Nachrichten über Tankwagen an russischsprachige und serbische Nachbarn weitergegeben.
 
 ## Was ich gemeinsam lösen möchte

@@ -32,6 +32,7 @@ I was born in Kharkiv. For many years I led large digital media; today I work on
 
 - **This website.** [rakovac.rs]({{< relref "/" >}}) belongs to everyone who lives here: anyone can send news, an old photo or a correction.
 - **The Russian-speaking chat of Rakovac.** I started it, so that Russian-speaking neighbours get important news and can agree on things together.
+- **Air.** Since spring 2026 I have been writing to the municipality, the Ministry and the Province about the chemical smell over the village, have met the municipality's environmental office, and with neighbours I am working on a certified air sensor for the municipality (more below).
 - **Water cuts.** In 2026 I went to JKP Beočin, the water plant and the municipality, and passed the news about water tankers to Russian-speaking and Serbian neighbours.
 
 ## What I would like us to solve together
