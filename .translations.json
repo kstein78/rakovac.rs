@@ -1252,7 +1252,7 @@
    "active/sumska-stala.md": "690807df06426e8c",
    "activities/_index.md": "63d4dce013e15e3e",
    "author/_index.md": "d52faa7e488f6904",
-   "author/kosta.md": "137336002616d8dc",
+   "author/kosta.md": "172a442f6e2b7495",
    "business/7pro8.md": "8a5aba97e8f81ac5",
    "business/_index.md": "8ba2a0829666b677",
    "business/invent.md": "4f0b61185745f0f4",
@@ -1373,7 +1373,7 @@
    "active/sumska-stala.md": "690807df06426e8c",
    "activities/_index.md": "63d4dce013e15e3e",
    "author/_index.md": "d52faa7e488f6904",
-   "author/kosta.md": "137336002616d8dc",
+   "author/kosta.md": "172a442f6e2b7495",
    "business/7pro8.md": "8a5aba97e8f81ac5",
    "business/_index.md": "8ba2a0829666b677",
    "business/invent.md": "4f0b61185745f0f4",
@@ -1494,7 +1494,7 @@
    "active/sumska-stala.md": "690807df06426e8c",
    "activities/_index.md": "63d4dce013e15e3e",
    "author/_index.md": "d52faa7e488f6904",
-   "author/kosta.md": "137336002616d8dc",
+   "author/kosta.md": "172a442f6e2b7495",
    "business/7pro8.md": "8a5aba97e8f81ac5",
    "business/_index.md": "8ba2a0829666b677",
    "business/invent.md": "4f0b61185745f0f4",
@@ -1615,7 +1615,7 @@
    "active/sumska-stala.md": "690807df06426e8c",
    "activities/_index.md": "63d4dce013e15e3e",
    "author/_index.md": "d52faa7e488f6904",
-   "author/kosta.md": "137336002616d8dc",
+   "author/kosta.md": "172a442f6e2b7495",
    "business/7pro8.md": "8a5aba97e8f81ac5",
    "business/_index.md": "8ba2a0829666b677",
    "business/invent.md": "4f0b61185745f0f4",
@@ -1757,6 +1757,7 @@
    "card-shops": "2180a7e23ceec5cb",
    "card-stari-majdan-spring": "617ef7a261a07076",
    "card-teofan": "c89d1c4aa7fe8cf8",
+   "cats-sofa": "916a81449b5b6ba9",
    "cheese-cut": "cd047c176ad5789e",
    "cheese-slice": "f47349e8ae7a533a",
    "cheese-wheel": "8846e742dc1b3c14",
@@ -1765,6 +1766,7 @@
    "danube-sunset-houseboat": "081e79fc41ea8294",
    "danube-sunset-island": "09de79f899586062",
    "danube-sunset-landing": "1bf5e88425a942fe",
+   "dogs-terrace": "0692e51c9b6823f6",
    "dumbovac-waterfall": "d63461efc725e6b9",
    "ferry-crossing": "bd1b0f7f9fc740f5",
    "ferry-deck-child": "da60428e94bede60",
@@ -1989,7 +1991,8 @@
    "zmajevac-playground-pullup-frame": "9ffd73c25f79f874",
    "zmajevac-playground-tracks-leaves": "d7b2581856ad992a",
    "zmajevac-playground-wooden-train": "c92b093a27d317c6",
-   "zmajevac-playground-workout": "3f86144c20b2f642"
+   "zmajevac-playground-workout": "3f86144c20b2f642",
+   "zoja-ralf": "ce8cd8c91e4fa6db"
   },
   "hu": {
    "author-kosta": "86d998b728bcc7e7",
@@ -2020,6 +2023,7 @@
    "card-shops": "2180a7e23ceec5cb",
    "card-stari-majdan-spring": "617ef7a261a07076",
    "card-teofan": "c89d1c4aa7fe8cf8",
+   "cats-sofa": "916a81449b5b6ba9",
    "cheese-cut": "cd047c176ad5789e",
    "cheese-slice": "f47349e8ae7a533a",
    "cheese-wheel": "8846e742dc1b3c14",
@@ -2028,6 +2032,7 @@
    "danube-sunset-houseboat": "081e79fc41ea8294",
    "danube-sunset-island": "09de79f899586062",
    "danube-sunset-landing": "1bf5e88425a942fe",
+   "dogs-terrace": "0692e51c9b6823f6",
    "dumbovac-waterfall": "d63461efc725e6b9",
    "ferry-crossing": "bd1b0f7f9fc740f5",
    "ferry-deck-child": "da60428e94bede60",
@@ -2252,7 +2257,8 @@
    "zmajevac-playground-pullup-frame": "9ffd73c25f79f874",
    "zmajevac-playground-tracks-leaves": "d7b2581856ad992a",
    "zmajevac-playground-wooden-train": "c92b093a27d317c6",
-   "zmajevac-playground-workout": "3f86144c20b2f642"
+   "zmajevac-playground-workout": "3f86144c20b2f642",
+   "zoja-ralf": "ce8cd8c91e4fa6db"
   },
   "ru": {
    "author-kosta": "86d998b728bcc7e7",
@@ -2283,6 +2289,7 @@
    "card-shops": "2180a7e23ceec5cb",
    "card-stari-majdan-spring": "617ef7a261a07076",
    "card-teofan": "c89d1c4aa7fe8cf8",
+   "cats-sofa": "916a81449b5b6ba9",
    "cheese-cut": "cd047c176ad5789e",
    "cheese-slice": "f47349e8ae7a533a",
    "cheese-wheel": "8846e742dc1b3c14",
@@ -2291,6 +2298,7 @@
    "danube-sunset-houseboat": "081e79fc41ea8294",
    "danube-sunset-island": "09de79f899586062",
    "danube-sunset-landing": "1bf5e88425a942fe",
+   "dogs-terrace": "0692e51c9b6823f6",
    "dumbovac-waterfall": "d63461efc725e6b9",
    "ferry-crossing": "bd1b0f7f9fc740f5",
    "ferry-deck-child": "da60428e94bede60",
@@ -2515,7 +2523,8 @@
    "zmajevac-playground-pullup-frame": "9ffd73c25f79f874",
    "zmajevac-playground-tracks-leaves": "d7b2581856ad992a",
    "zmajevac-playground-wooden-train": "c92b093a27d317c6",
-   "zmajevac-playground-workout": "3f86144c20b2f642"
+   "zmajevac-playground-workout": "3f86144c20b2f642",
+   "zoja-ralf": "ce8cd8c91e4fa6db"
   },
   "sr": {
    "author-kosta": "86d998b728bcc7e7",
@@ -2546,6 +2555,7 @@
    "card-shops": "2180a7e23ceec5cb",
    "card-stari-majdan-spring": "617ef7a261a07076",
    "card-teofan": "c89d1c4aa7fe8cf8",
+   "cats-sofa": "916a81449b5b6ba9",
    "cheese-cut": "cd047c176ad5789e",
    "cheese-slice": "f47349e8ae7a533a",
    "cheese-wheel": "8846e742dc1b3c14",
@@ -2554,6 +2564,7 @@
    "danube-sunset-houseboat": "081e79fc41ea8294",
    "danube-sunset-island": "09de79f899586062",
    "danube-sunset-landing": "1bf5e88425a942fe",
+   "dogs-terrace": "0692e51c9b6823f6",
    "dumbovac-waterfall": "d63461efc725e6b9",
    "ferry-crossing": "bd1b0f7f9fc740f5",
    "ferry-deck-child": "da60428e94bede60",
@@ -2778,7 +2789,8 @@
    "zmajevac-playground-pullup-frame": "9ffd73c25f79f874",
    "zmajevac-playground-tracks-leaves": "d7b2581856ad992a",
    "zmajevac-playground-wooden-train": "c92b093a27d317c6",
-   "zmajevac-playground-workout": "3f86144c20b2f642"
+   "zmajevac-playground-workout": "3f86144c20b2f642",
+   "zoja-ralf": "ce8cd8c91e4fa6db"
   }
  },
  "version": 1

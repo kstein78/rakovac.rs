@@ -2,6 +2,7 @@
 title: "Kosta Stein: moja porodica i šta bih voleo da promenimo u Rakovcu"
 linkTitle: "Više o meni"
 weight: 1
+photo: dogs-terrace
 kicker: "Konstantin (Kosta) Stein"
 lead: "Komšije, porodica, šest mačaka i tri psa, i ono što bih voleo da zajedno popravimo u selu."
 summary: "Konstantin (Kosta) Stein, autor sajta rakovac.rs: porodica i životinje u Starom Rakovcu, odakle dolazi i njegovi predlozi za selo o vazduhu, vodi, autobusima i otpadu."
@@ -11,7 +12,11 @@ U Rakovac sam došao u junu 2023. Živimo u Starom Rakovcu sa suprugom i dve će
 
 ## Porodica i životinje
 
-Sa nama žive šest mačaka i tri psa. Troje je došlo sa nama iz Rusije: mačak sfinks Simba, mačak Puša, koji ima 17 godina, i pas Ralf. Simba i Ralf su prijatelji, i to nimalo kao mačka i pas.
+Sa nama žive šest mačaka i tri psa. Troje je došlo sa nama iz Rusije: mačak sfinks Simba, sivi čupavi mačak Puša, koji ima 17 godina, i pas Ralf. Simba i Ralf su prijatelji, i to nimalo kao mačka i pas. Naša druga kuja je crna Zoja. Treći pas ima neke vlasnike u komšiluku, ali dolazi da živi kod nas i ostaje nedeljama.
+
+{{< photo key="zoja-ralf" >}}
+
+{{< photo key="cats-sofa" >}}
 
 {{< photo key="simba-ralf" class="inline-tall" >}}
 

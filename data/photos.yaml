@@ -3332,3 +3332,42 @@ simba-ralf:
   alt_cyr: "Мачак сфинкс Симба и пас Ралф спавају један уз другог на каучу"
   alt_de: "Sphynx-Kater Simba und Hund Ralf schlafen nebeneinander auf dem Sofa"
   alt_hu: "Simba, a szfinx macska és Ralf, a kutya egymás mellett alszanak a kanapén"
+zoja-ralf:
+  src: img/zoja-ralf.jpg
+  author: Konstantin Stein
+  author_ru: Константин Штейн
+  author_cyr: Константин Штајн
+  license: © all rights reserved
+  alt: "Zoya, our black dog, and Ralf, nose to nose on the terrace"
+  temp: false
+  alt_ru: "Наша чёрная собака Зоя и Ральф нос к носу на террасе"
+  alt_sr: "Naša crna kuja Zoja i Ralf, nos uz nos na terasi"
+  alt_cyr: "Наша црна куја Зоја и Ралф, нос уз нос на тераси"
+  alt_de: "Unsere schwarze Hündin Zoja und Ralf, Nase an Nase auf der Terrasse"
+  alt_hu: "Zoja, a fekete kutyánk és Ralf orr az orrhoz a teraszon"
+cats-sofa:
+  src: img/cats-sofa.jpg
+  author: Konstantin Stein
+  author_ru: Константин Штейн
+  author_cyr: Константин Штајн
+  license: © all rights reserved
+  alt: "Our cats asleep on the sofa before spring 2026: a calico, Simba the sphynx, grey fluffy Puša and a black-and-white cat"
+  temp: false
+  alt_ru: "Наши кошки спят на диване, ещё до весны 2026 года: трёхцветная, сфинкс Симба, серый пушистый Пуша и чёрно-белый кот"
+  alt_sr: "Naše mačke spavaju na kauču, još pre proleća 2026: trobojna mačka, sfinks Simba, sivi čupavi Puša i crno-beli mačak"
+  alt_cyr: "Наше мачке спавају на каучу, још пре пролећа 2026: тробојна мачка, сфинкс Симба, сиви чупави Пуша и црно-бели мачак"
+  alt_de: "Unsere Katzen schlafen auf dem Sofa, noch vor dem Frühjahr 2026: eine Glückskatze, Sphynx Simba, der graue, flauschige Puša und ein schwarz-weißer Kater"
+  alt_hu: "Macskáink a kanapén alszanak, még 2026 tavasza előtt: egy háromszínű, Simba, a szfinx, a szürke, bundás Puša és egy fekete-fehér kandúr"
+dogs-terrace:
+  src: img/dogs-terrace.jpg
+  author: Konstantin Stein
+  author_ru: Константин Штейн
+  author_cyr: Константин Штајн
+  license: © all rights reserved
+  alt: "Three dogs on our terrace in the sun: Ralf in the wicker armchair, a guest from the neighbourhood on a blanket and Zoya by the door"
+  temp: false
+  alt_ru: "Три собаки на нашей террасе на солнце: Ральф в плетёном кресле, гость от соседей на пледе и Зоя у двери"
+  alt_sr: "Tri psa na našoj terasi na suncu: Ralf u pletenoj fotelji, gost iz komšiluka na ćebetu i Zoja kod vrata"
+  alt_cyr: "Три пса на нашој тераси на сунцу: Ралф у плетеној фотељи, гост из комшилука на ћебету и Зоја код врата"
+  alt_de: "Drei Hunde in der Sonne auf unserer Terrasse: Ralf im Korbsessel, ein Gast aus der Nachbarschaft auf einer Decke und Zoja an der Tür"
+  alt_hu: "Három kutya a napos teraszunkon: Ralf a fonott karosszékben, egy vendég a szomszédságból a takarón és Zoja az ajtónál"

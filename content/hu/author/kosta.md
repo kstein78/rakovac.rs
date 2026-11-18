@@ -2,6 +2,7 @@
 title: "Kosta Stein: a családom, és amit Rakovacon változtatnék"
 linkTitle: "Bővebben rólam"
 weight: 1
+photo: dogs-terrace
 kicker: "Konstantin (Kosta) Stein"
 lead: "Szomszédok, egy család, hat macska és három kutya – és amit a faluban szívesen közösen rendbe tennék."
 summary: "Konstantin (Kosta) Stein, a rakovac.rs készítője: családja és állatai Stari Rakovacon, honnan jött, és javaslatai a falunak levegőről, vízről, buszokról és hulladékról."
@@ -11,7 +12,11 @@ summary: "Konstantin (Kosta) Stein, a rakovac.rs készítője: családja és ál
 
 ## Család és állatok
 
-Hat macska és három kutya él velünk. Hárman velünk jöttek Oroszországból: Simba, a szfinx macska, a 17 éves Puša macska és Ralf, a kutya. Simba és Ralf barátok, egyáltalán nem úgy, ahogy kutya és macska szokott.
+Hat macska és három kutya él velünk. Hárman velünk jöttek Oroszországból: Simba, a szfinx macska, a szürke, bundás, 17 éves Puša és Ralf, a kutya. Simba és Ralf barátok, egyáltalán nem úgy, ahogy kutya és macska szokott. Második kutyánk a fekete Zoja. A harmadiknak valahol a szomszédságban vannak gazdái, mégis hozzánk jön lakni, és hetekig marad.
+
+{{< photo key="zoja-ralf" >}}
+
+{{< photo key="cats-sofa" >}}
 
 {{< photo key="simba-ralf" class="inline-tall" >}}
 
