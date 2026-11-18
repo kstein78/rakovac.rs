@@ -1,4 +1,66 @@
 {
-  "_format": "items: one entry per proposed or skipped news item. key = source URL (or 'elektro:<date>:<area>'). status: proposed | published | declined | skipped. draft = branch name if a draft exists.",
-  "items": []
+ "_format": "items: one entry per proposed or skipped news item. key = source URL (or 'elektro:<date>:<area>'). status: proposed | published | declined | skipped. draft = branch name if a draft exists.",
+ "items": [
+  {
+   "key": "https://www.beocin.rs/sr/?id=2567",
+   "date": "2026-11-09",
+   "seen": "2026-11-18",
+   "title": "Opština Beočin raspisala konkurs za dodelu studentskih stipendija (12.000 din × 10, prijave 12–26.11.2026)",
+   "status": "proposed",
+   "draft": "draft/2026-11-18-beocin-student-scholarships",
+   "also": [
+    "https://nsuzivo.rs/srbija/opstina-beocin-dodeljuje-studentske-stipendije-120-hiljada-dinara-po-studentu-prijave-od-12-novembra/",
+    "https://www.dnevnik.rs/vojvodina/backa/sudenti-javite-opstina-beocin-raspisala-konkurs-za-dodelu-stipendija-2026-11-09",
+    "https://www.kurir.rs/vesti/drustvo/10158360/stipendije-za-studente-u-beocinu-prijavite-se-do-26-novembra"
+   ]
+  },
+  {
+   "key": "https://beocinuzivo.rs/servisne-informacije/novi-rok-za-normalizaciju-vodosnabdevanja-u-beocinu/",
+   "date": "2026-11-12",
+   "seen": "2026-11-18",
+   "title": "Novi rok za normalizaciju vodosnabdevanja u Beočinu (13.11, 8h)",
+   "status": "skipped",
+   "reason": "older than 3 days, deadline already passed, no newer official info; Rakovac only in the original 5 Nov notice. Propose again if new outages are announced."
+  },
+  {
+   "key": "https://beocinuzivo.rs/servisne-informacije/nestanak-vode-u-beocinu-i-nakon-najavljenog-roka/",
+   "date": "2026-11-11",
+   "seen": "2026-11-18",
+   "title": "Nestanci vode u opštini Beočin i nakon najavljenog roka",
+   "status": "skipped",
+   "reason": "older than 3 days; Gornji Šakotinac, not Rakovac"
+  },
+  {
+   "key": "https://beocinuzivo.rs/servisne-informacije/prekidi-vode-od-rakovca-do-cerevica/",
+   "date": "2026-11-05",
+   "seen": "2026-11-18",
+   "title": "Mogući prekidi vode od Rakovca do Čerevića do 9. novembra",
+   "status": "skipped",
+   "reason": "past (before monitor started)"
+  },
+  {
+   "key": "https://beocinuzivo.rs/vesti/vesti-iz-drustva-beocin/zborovi-gradana-u-rakovcu-i-lugu/",
+   "date": "2026-11-11",
+   "seen": "2026-11-18",
+   "title": "Zbor građana u Rakovcu 14.11.2026 (izbori za savet MZ)",
+   "status": "skipped",
+   "reason": "event already past (14 Nov); no published report of its outcome yet — propose if results appear"
+  },
+  {
+   "key": "https://beocinuzivo.rs/desavanja/manifestacije/odrzan-17-sajam-stvaralastva-seoskih-zena-u-beocinu-2026/",
+   "date": "2026-11-17",
+   "seen": "2026-11-18",
+   "title": "Održan 17. Sajam stvaralaštva seoskih žena u Beočinu (15.11)",
+   "status": "skipped",
+   "reason": "past event, no Rakovac participants named"
+  },
+  {
+   "key": "elektro:2026-11-18..21:Beocin",
+   "date": "2026-11-18",
+   "seen": "2026-11-18",
+   "title": "Planned power cuts 18–21 Nov: no Beočin rows",
+   "status": "skipped",
+   "reason": "nothing planned"
+  }
+ ]
 }
