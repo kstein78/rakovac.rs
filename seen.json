@@ -1,0 +1,4 @@
+{
+  "_format": "items: one entry per proposed or skipped news item. key = source URL (or 'elektro:<date>:<area>'). status: proposed | published | declined | skipped. draft = branch name if a draft exists.",
+  "items": []
+}
