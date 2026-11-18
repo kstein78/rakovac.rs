@@ -32,6 +32,10 @@ EXTRA = {
  'scales': ["M32 8 V52", "M22 56 H42 M26 52 H38", "M12 16 H52", "M12 16 L6 34 M12 16 L18 34 M52 16 L46 34 M52 16 L58 34",
             "M4 34 C4 42 20 42 20 34Z", "M44 34 C44 42 60 42 60 34Z", ("c", 32, 8, 2.5, 1)],
  'bow': ["M16 6 C40 18 40 46 16 58", "M16 6 V58", "M8 32 H54", "M48 26 L56 32 L48 38", "M12 28 L8 32 L12 36"],
+ 'gradcap': ["M4 26 L32 14 L60 26 L32 38Z", "M16 32 V46 C16 52 48 52 48 46 V32", "M54 29 V44", ("c", 54, 47, 3, 1)],
+ 'coins': ["M14 52 C14 48 50 48 50 52 C50 56 14 56 14 52Z", "M14 52 V46 C14 42 50 42 50 46 V52",
+           "M14 46 C14 50 50 50 50 46", "M18 40 V34 C18 30 46 30 46 34 V40 M18 34 C18 38 46 38 46 34",
+           "M18 40 C18 43 46 43 46 40", "M22 28 V22 C22 18 42 18 42 22 V28 M22 22 C22 26 42 26 42 22", "M22 28 C22 31 42 31 42 28"],
  'crosier': ["M32 14 V60", "M32 14 C32 6 22 4 18 10 C16 14 20 18 24 16", "M32 14 C32 6 42 4 46 10 C48 14 44 18 40 16",
              "M26 24 H38"],
 }
@@ -41,6 +45,7 @@ CARDS = {  # name -> glyphs left to right (the middle one is drawn larger)
  'raka-milosevic': ['bow', 'deer', 'church'],
  'stari-majdan-spring': ['oakleaf', 'fountain', 'drops'],
  'shops': ['bread', 'basket', 'scales'],
+ 'student-scholarships': ['book', 'gradcap', 'coins'],
 }
 
 def svg(glyphs, bg=('#2b4a3c', '#1d382c'), ink='#f2ead8'):
