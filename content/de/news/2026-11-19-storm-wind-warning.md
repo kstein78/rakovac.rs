@@ -7,6 +7,8 @@ cover: card-storm-wind
 lead: 'Der Hydrometeorologische Dienst Serbiens (RHMZ) hat am 19. November eine dringende Warnung herausgegeben: Heute Abend bringt eine Kaltfront der Vojvodina, Belgrad sowie West- und Zentralserbien Sturm- und Orkanböen aus West und Nordwest von 80 bis 110 km/h. Syrmien und die Batschka, und damit Rakovac, stehen unter Warnstufe Rot, der höchsten Stufe. Unten steht, wie Sie Haus und Hof bis zum Abend vorbereiten.'
 ---
 
+**Nachtrag, 19. November, 16 Uhr:** Laut RHMZ-Meteorologe Slobodan Sovilj nimmt der Wind im Lauf des Tages weiter zu, die stärksten Böen werden **zwischen 21 Uhr und Mitternacht** erwartet. In der Nacht zum Freitag hört der Regen auf, es klart auf und der Wind lässt nach ([Danas](https://www.danas.rs/vesti/drustvo/meteorolog-slobodan-sovilj-rhmz-vetar-oluja/)).
+
 Am Donnerstag, 19. November, um 9:10 Uhr hat der RHMZ eine dringende Wetterwarnung herausgegeben und Notfall-SMS an die Menschen in den betroffenen Gebieten geschickt. **Heute Abend** werden mit dem Durchzug einer Kaltfront in der Vojvodina, in Belgrad sowie in West- und Zentralserbien **Sturm- und Orkanböen aus West und Nordwest von 80 bis 110 km/h** erwartet.
 
 Warnstufe **Rot** („besonders gefährliche Wetterlage, die große Sachschäden verursachen kann“) gilt für Belgrad, **Syrmien (Srem)**, das Banat und die **Batschka**; Pomoravlje, Westserbien und die Šumadija stehen auf Orange. Rakovac liegt in Syrmien, an den Hängen der Fruška Gora, wo die Böen meist stärker sind und entlang der Waldstraßen alte Bäume umstürzen.

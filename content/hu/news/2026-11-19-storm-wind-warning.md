@@ -7,6 +7,8 @@ cover: card-storm-wind
 lead: 'A Szerbiai Hidrometeorológiai Intézet (RHMZ) november 19-én sürgős figyelmeztetést adott ki: ma este egy hidegfront 80–110 km/h-s, nyugati és északnyugati viharos és orkánerejű széllökéseket hoz a Vajdaságba, Belgrádba, valamint Nyugat- és Közép-Szerbiába. A Szerémség és a Bácska, így Rakovac is, piros, azaz a legmagasabb fokozatú riasztás alatt áll. Lent olvasható, hogyan készítse fel házát és udvarát estig.'
 ---
 
+**Kiegészítés, november 19., 16 óra:** Slobodan Sovilj, az RHMZ meteorológusa szerint a szél napközben tovább erősödik, a legerősebb széllökések **21 óra és éjfél között** várhatók. Péntekre virradó éjjel eláll az eső, kitisztul az ég, és gyengül a szél ([Danas](https://www.danas.rs/vesti/drustvo/meteorolog-slobodan-sovilj-rhmz-vetar-oluja/)).
+
 Csütörtökön, november 19-én 9:10-kor az RHMZ sürgős meteorológiai figyelmeztetést adott ki, és vészhelyzeti SMS-t küldött az érintett területek lakóinak. **Ma este** a hidegfront átvonulásával a Vajdaságban, Belgrádban, valamint Nyugat- és Közép-Szerbiában **80–110 km/h-s nyugati és északnyugati viharos és orkánerejű széllökések** várhatók.
 
 A **piros** fokozat („különösen veszélyes időjárás, amely nagy anyagi kárt okozhat”) Belgrádra, a **Szerémségre**, a Bánságra és a **Bácskára** érvényes; a Morava-vidék, Nyugat-Szerbia és a Šumadija narancssárga fokozat alatt áll. Rakovac a Szerémségben, a Tarcal-hegy (Fruška gora) lejtőin fekszik, ahol a széllökések általában erősebbek, és az erdei utak mentén öreg fák dőlnek ki.

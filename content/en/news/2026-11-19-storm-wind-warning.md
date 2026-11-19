@@ -7,6 +7,8 @@ cover: card-storm-wind
 lead: 'The Republic Hydrometeorological Service of Serbia (RHMZ) issued an urgent warning on 19 November: this evening a cold front will bring storm and hurricane-force gusts of westerly and north-westerly wind, 80 to 110 km/h, to Vojvodina, Belgrade and western and central Serbia. Srem and Bačka, and so Rakovac, are under the red alert, the highest level. Below is how to get your house and yard ready before evening.'
 ---
 
+**Update, 19 November, 16:00:** according to RHMZ meteorologist Slobodan Sovilj, the wind will keep strengthening during the day, with the strongest gusts expected **between 21:00 and midnight**. Overnight into Friday the rain stops, the sky clears and the wind weakens ([Danas](https://www.danas.rs/vesti/drustvo/meteorolog-slobodan-sovilj-rhmz-vetar-oluja/)).
+
 On Thursday, 19 November, at 9:10 the RHMZ issued an urgent weather warning and sent emergency SMS messages to people in the affected areas. **This evening**, as a cold front passes, **storm and hurricane-force gusts of westerly and north-westerly wind of 80 to 110 km/h** are expected in Vojvodina, Belgrade and western and central Serbia.
 
 The **red** alert ("particularly dangerous weather that can cause great material damage") covers Belgrade, **Srem**, Banat and **Bačka**; Pomoravlje, western Serbia and Šumadija are on orange. Rakovac lies in Srem, on the slopes of Fruška Gora, where gusts are usually stronger and old trees come down along the forest roads.

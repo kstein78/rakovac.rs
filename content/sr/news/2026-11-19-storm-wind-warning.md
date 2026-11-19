@@ -7,6 +7,8 @@ cover: card-storm-wind
 lead: 'Republički hidrometeorološki zavod (RHMZ) izdao je 19. novembra hitno upozorenje: večeras će hladni front doneti olujne i orkanske udare zapadnog i severozapadnog vetra, od 80 do 110 km/h, Vojvodini, Beogradu, zapadnoj i centralnoj Srbiji. Srem i Bačka, a time i Rakovac, su pod crvenim alarmom, najvišim nivoom. U nastavku je kako pripremiti kuću i dvorište do večeri.'
 ---
 
+**Dopuna, 19. novembra, 16 h:** prema meteorologu RHMZ-a Slobodanu Sovilju, vetar će jačati tokom dana, a najjači udari očekuju se **između 21 h i ponoći**. U noći ka petku kiša prestaje, razvedrava se i vetar slabi ([Danas](https://www.danas.rs/vesti/drustvo/meteorolog-slobodan-sovilj-rhmz-vetar-oluja/)).
+
 U četvrtak, 19. novembra, u 9.10 RHMZ je izdao hitno meteorološko upozorenje i poslao hitne SMS poruke građanima na ugroženim područjima. **Večeras** se, sa prolaskom hladnog fronta, u Vojvodini, Beogradu, zapadnoj i centralnoj Srbiji očekuju **olujni i orkanski udari zapadnog i severozapadnog vetra od 80 do 110 km/h**.
 
 **Crveni** alarm („naročito opasne vremenske pojave koje mogu prouzrokovati veliku materijalnu štetu“) važi za Beograd, **Srem**, Banat i **Bačku**; Pomoravlje, zapadna Srbija i Šumadija su pod narandžastim. Rakovac je u Sremu, na padinama Fruške gore, gde su udari obično jači, a duž šumskih puteva padaju stara stabla.
