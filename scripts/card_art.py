@@ -36,6 +36,10 @@ EXTRA = {
  'coins': ["M14 52 C14 48 50 48 50 52 C50 56 14 56 14 52Z", "M14 52 V46 C14 42 50 42 50 46 V52",
            "M14 46 C14 50 50 50 50 46", "M18 40 V34 C18 30 46 30 46 34 V40 M18 34 C18 38 46 38 46 34",
            "M18 40 C18 43 46 43 46 40", "M22 28 V22 C22 18 42 18 42 22 V28 M22 22 C22 26 42 26 42 22", "M22 28 C22 31 42 31 42 28"],
+ 'wind': ["M6 20 H38 C46 20 48 10 42 8 C38 6 34 9 35 13", "M4 32 H50 C58 32 60 42 54 45 C49 47 45 43 47 39",
+          "M10 44 H30 C37 44 39 52 34 54 C30 56 27 53 28 50", "M44 22 H58 M40 26 H52"],
+ 'lantern': ["M24 14 H40 L44 22 H20Z", "M32 14 V8 M28 8 H36", "M22 22 H42 V50 H22Z", "M18 50 H46 V56 H18Z",
+             "M32 30 C28 36 29 42 32 44 C35 42 36 36 32 30Z", "M22 22 L26 50 M42 22 L38 50"],
  'crosier': ["M32 14 V60", "M32 14 C32 6 22 4 18 10 C16 14 20 18 24 16", "M32 14 C32 6 42 4 46 10 C48 14 44 18 40 16",
              "M26 24 H38"],
 }
@@ -46,6 +50,7 @@ CARDS = {  # name -> glyphs left to right (the middle one is drawn larger)
  'stari-majdan-spring': ['oakleaf', 'fountain', 'drops'],
  'shops': ['bread', 'basket', 'scales'],
  'student-scholarships': ['book', 'gradcap', 'coins'],
+ 'storm-wind': ['tree', 'wind', 'lantern'],
 }
 
 def svg(glyphs, bg=('#2b4a3c', '#1d382c'), ink='#f2ead8'):

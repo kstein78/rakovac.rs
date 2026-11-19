@@ -3147,6 +3147,17 @@ card-shops:
   alt_cyr: "Цртежи векне хлеба, корпе за куповину и ваге"
   alt_de: "Strichzeichnungen eines Brotlaibs, eines Einkaufskorbs und einer Waage"
   alt_hu: "Vonalrajzok: kenyér, bevásárlókosár és mérleg"
+card-storm-wind:
+  src: "img/card-storm-wind.jpg"
+  author: "rakovac.rs"
+  license: "illustration, © rakovac.rs"
+  alt: "Line drawings of a tree, gusts of wind and a lantern"
+  temp: false
+  alt_ru: "Рисунки дерева, порывов ветра и фонаря"
+  alt_sr: "Crteži drveta, naleta vetra i fenjera"
+  alt_cyr: "Цртежи дрвета, налета ветра и фењера"
+  alt_de: "Strichzeichnungen eines Baums, von Windböen und einer Laterne"
+  alt_hu: "Vonalrajzok: fa, széllökések és egy lámpás"
 card-student-scholarships:
   src: "img/card-student-scholarships.jpg"
   author: "rakovac.rs"
