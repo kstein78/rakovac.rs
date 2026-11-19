@@ -1,0 +1,35 @@
+#!/usr/bin/env bash
+# stein.today on this server. Its repo (github.com/kstein78/stein.today) builds the site in GitHub Actions
+# and puts the ready files on branch "live" (with version.txt). This script pulls that branch and switches
+# $BASE/current, which Caddy serves (see the stein.today block in deploy/Caddyfile). Nothing is built here.
+# Runs every minute from the deploy user's cron (installed by deploy/build.sh). Never touches rakovac.rs.
+# Log: /srv/rakovac/stein/update.log
+set -euo pipefail
+BASE=${STEIN_BASE:-/srv/rakovac/stein}
+REPO=${STEIN_REPO:-https://github.com/kstein78/stein.today.git}
+BRANCH=live
+KEEP=3
+mkdir -p "$BASE/releases"
+cd "$BASE"
+exec 9>"$BASE/.lock"
+flock -n 9 || exit 0
+
+[ -d repo/.git ] || git clone -q --depth 1 --branch "$BRANCH" "$REPO" repo
+git -C repo fetch -q --depth 1 origin "$BRANCH"
+new=$(git -C repo rev-parse FETCH_HEAD)
+[ "$new" = "$(cat deployed 2>/dev/null || true)" ] && exit 0
+[ "$new" = "$(cat failed 2>/dev/null || true)" ] && exit 0  # a broken build is not retried until a new one arrives
+
+out=$BASE/releases/$new
+rm -rf "$out" && mkdir -p "$out"
+git -C repo archive "$new" | tar -x -C "$out"
+if [ ! -f "$out/index.html" ]; then
+  echo "$(date -Is) $new has no index.html, the previous version stays live" >&2
+  rm -rf "$out"; echo "$new" > failed; exit 1
+fi
+ln -sfn "$out" "$BASE/current.new"
+mv -Tf "$BASE/current.new" "$BASE/current"
+echo "$new" > deployed; rm -f failed
+echo "$(date -Is) live: $new ($(cat "$out/version.txt" 2>/dev/null || echo 'no version.txt'))"
+git -C repo reset -q --hard "$new"
+ls -1dt "$BASE"/releases/*/ | tail -n +$((KEEP + 1)) | xargs -r rm -rf

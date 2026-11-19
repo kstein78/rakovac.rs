@@ -170,3 +170,48 @@ http:// {
 # /srv/rakovac/selo/caddy/ by the engine's hosting/selo-update (github.com/kstein78/selo), started from
 # deploy/build.sh and then every minute by the deploy user's cron. With no files there this line does nothing.
 import /srv/rakovac/selo/caddy/*.caddy
+
+# stein.today (Kosta's personal site, repo github.com/kstein78/stein.today): ready-made static files,
+# switched every minute by deploy/stein-update into /srv/rakovac/stein/current.
+stein.today {
+	root * /srv/rakovac/stein/current
+	encode zstd gzip
+
+	# "/" picks the visitor's language from the browser (the page also does it in JS as a fallback).
+	@steinhome path /
+	map {header.Accept-Language} {steinlang} {
+		~^(ru|uk|be|kk)\b ru
+		~^(sr|hr|bs|sh|cnr|me|mk|sl)\b sr
+		~^de\b de
+		default en
+	}
+	handle @steinhome {
+		header Vary Accept-Language
+		redir * /{steinlang}/ 302
+	}
+	handle {
+		file_server
+	}
+
+	header {
+		Strict-Transport-Security "max-age=31536000"
+		X-Content-Type-Options "nosniff"
+		Referrer-Policy "strict-origin-when-cross-origin"
+		-Server
+	}
+	@steinhtml path / *.html */
+	header @steinhtml Cache-Control "no-cache"
+	header /version.txt Cache-Control "no-store"
+	header /_astro/* Cache-Control "public, max-age=31536000, immutable"
+	@steinimg path *.jpg *.png *.svg
+	header @steinimg Cache-Control "public, max-age=604800"
+
+	handle_errors 404 {
+		rewrite * /404.html
+		file_server
+	}
+}
+
+www.stein.today {
+	redir https://stein.today{uri} permanent
+}

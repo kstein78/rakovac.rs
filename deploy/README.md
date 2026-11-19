@@ -10,7 +10,8 @@ passwords, and there are no secrets in GitHub.
 |---|---|
 | `cloud-init.yaml` | Pasted once into Hetzner when creating the server. Installs Caddy, firewall, auto-updates, the update timer. |
 | `build.sh` | Builds one commit (same Hugo version as GitHub Actions), switches `/srv/rakovac/current`, keeps the last 3 builds. |
-| `Caddyfile` | Web server config: HTTPS, www → rakovac.rs, language redirect on `/`, caching, 404 pages. Changes here reach the server automatically. |
+| `Caddyfile` | Web server config: HTTPS, www → rakovac.rs, language redirect on `/`, caching, 404 pages. Changes here reach the server automatically. Also serves stein.today. |
+| `stein-update` | Pulls the ready-made stein.today site (branch `live` of github.com/kstein78/stein.today) every minute from the deploy user's cron, installed by `build.sh`. Log: `/srv/rakovac/stein/update.log`. |
 
 ## One-time setup (about 15 minutes of clicks)
 

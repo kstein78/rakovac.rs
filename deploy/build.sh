@@ -82,3 +82,15 @@ if [ -z "${SELO_SKIP:-}" ] && [ "$(id -un)" = deploy ]; then
     && timeout 15m bash engine/hosting/selo-update ) \
     || echo "warning: selo sites update failed, see $HOME/selo/update.log (rakovac.rs is live anyway)" >&2
 fi
+
+# stein.today (ready-made static files from its own repo, see deploy/stein-update): make sure the deploy user's
+# cron runs it every minute, and run it once now. Never blocks or breaks rakovac.rs: errors are only logged.
+if [ -z "${STEIN_SKIP:-}" ] && [ "$(id -un)" = deploy ]; then
+  mkdir -p "$BASE/stein"
+  cronline="* * * * * bash $repo/deploy/stein-update >> $BASE/stein/update.log 2>&1"
+  { crontab -l 2>/dev/null | grep -F 'deploy/stein-update' >/dev/null; } \
+    || { { crontab -l 2>/dev/null || true; echo "$cronline"; } | crontab -; } \
+    || echo "warning: could not install the stein.today cron entry" >&2
+  timeout 5m bash "$repo/deploy/stein-update" >> "$BASE/stein/update.log" 2>&1 \
+    || echo "warning: stein.today update failed, see $BASE/stein/update.log (rakovac.rs is live anyway)" >&2
+fi
