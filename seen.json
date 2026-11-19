@@ -106,6 +106,22 @@
    "title": "Novi Sad emergency staff convened, services on standby",
    "status": "skipped",
    "reason": "city of Novi Sad only; advice already in the storm news"
+  },
+  {
+   "key": "elektro:2026-11-20..23:Beocin",
+   "date": "2026-11-19",
+   "seen": "2026-11-19",
+   "title": "Planned power cuts 20–23 Nov: no Beočin rows found in secondary sources",
+   "status": "skipped",
+   "reason": "official elektrodistribucija.rs pages not readable (fetch permission prompt unanswered); 021.rs (Novi Sad, Sremska Kamenica 20 Nov) and sremskenovine.co.rs (20 Nov) list nothing for Beočin/Rakovac"
+  },
+  {
+   "key": "https://www.novosti.rs/drustvo/vesti/1672846/hitna-sednica-novom-sadu-zbog-orkanskog-vetra-sve-sluzbe-nogama-skole-obustavljaju-nastavu-grad-izdao-vazno-upozorenje-gradjanima",
+   "date": "2026-11-19",
+   "seen": "2026-11-19",
+   "title": "Novi Sad schools cancel afternoon classes because of the storm",
+   "status": "skipped",
+   "reason": "Novi Sad only; no report of Beočin schools cancelling; storm already covered"
   }
  ]
 }
