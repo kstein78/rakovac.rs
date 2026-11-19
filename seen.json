@@ -72,6 +72,24 @@
    "title": "Planned power cuts 19–22 Nov: no Beočin rows found in secondary sources",
    "status": "skipped",
    "reason": "official elektrodistribucija.rs pages not readable this run (fetch permission prompt unanswered); 021.rs servisne informacije and mojnovisad.com (outages up to 19 Nov) list nothing for Beočin/Rakovac"
+  },
+  {
+   "key": "https://www.hidmet.gov.rs/ciril/upozorenja/index.php#2026-11-19",
+   "date": "2026-11-19",
+   "seen": "2026-11-19",
+   "title": "RHMZ red alert for Vojvodina (Srem, Bačka): storm/hurricane gusts 80–110 km/h on the evening of 19 Nov",
+   "status": "published",
+   "published": "2026-11-19",
+   "commit": "308f09c",
+   "draft": "draft/2026-11-19-storm-wind-warning",
+   "url": "https://rakovac.rs/ru/news/2026-11-19-storm-wind-warning/",
+   "also": [
+    "https://www.hidmet.gov.rs/ciril/upozorenja/najava.php",
+    "https://www.021.rs/novi-sad/vesti/461842/cela-vojvodina-u-crvenom-meteo-alarmu-upozorenje-na-orkanski-vetar-i-obilne-pljuskove",
+    "https://sremska.tv/2026/11/19/rhmz-se-hitno-oglasio-stigle-i-sms-poruke/",
+    "https://insajder.net/prenosimo/rhmz-i-mup-upozoravaju-na-olujni-vetar-preporuka-da-se-ne-krece-na-put-i-da-se-zastiti-imovina"
+   ],
+   "note": "suggested by owner in chat; published at his request"
   }
  ]
 }
