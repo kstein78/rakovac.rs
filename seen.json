@@ -61,6 +61,14 @@
    "title": "Planned power cuts 18–21 Nov: no Beočin rows",
    "status": "skipped",
    "reason": "nothing planned"
+  },
+  {
+   "key": "elektro:2026-11-19..22:Beocin",
+   "date": "2026-11-19",
+   "seen": "2026-11-19",
+   "title": "Planned power cuts 19–22 Nov: no Beočin rows found in secondary sources",
+   "status": "skipped",
+   "reason": "official elektrodistribucija.rs pages not readable this run (fetch permission prompt unanswered); 021.rs servisne informacije and mojnovisad.com (outages up to 19 Nov) list nothing for Beočin/Rakovac"
   }
  ]
 }
