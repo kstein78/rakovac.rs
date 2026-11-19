@@ -2,6 +2,7 @@
 title: 'Rote Wetterwarnung für die Vojvodina heute Abend: Sturm- und Orkanböen von 80 bis 110 km/h'
 date: '2026-11-19T12:55:00+01:00'
 feed: local
+top: true
 cover: card-storm-wind
 lead: 'Der Hydrometeorologische Dienst Serbiens (RHMZ) hat am 19. November eine dringende Warnung herausgegeben: Heute Abend bringt eine Kaltfront der Vojvodina, Belgrad sowie West- und Zentralserbien Sturm- und Orkanböen aus West und Nordwest von 80 bis 110 km/h. Syrmien und die Batschka, und damit Rakovac, stehen unter Warnstufe Rot, der höchsten Stufe. Unten steht, wie Sie Haus und Hof bis zum Abend vorbereiten.'
 ---

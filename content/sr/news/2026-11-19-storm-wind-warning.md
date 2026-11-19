@@ -2,6 +2,7 @@
 title: 'Crveni meteo-alarm za Vojvodinu večeras: olujni i orkanski udari vetra od 80 do 110 km/h'
 date: '2026-11-19T12:55:00+01:00'
 feed: local
+top: true
 cover: card-storm-wind
 lead: 'Republički hidrometeorološki zavod (RHMZ) izdao je 19. novembra hitno upozorenje: večeras će hladni front doneti olujne i orkanske udare zapadnog i severozapadnog vetra, od 80 do 110 km/h, Vojvodini, Beogradu, zapadnoj i centralnoj Srbiji. Srem i Bačka, a time i Rakovac, su pod crvenim alarmom, najvišim nivoom. U nastavku je kako pripremiti kuću i dvorište do večeri.'
 ---
