@@ -1,7 +1,7 @@
 <footer class="site-footer">
   <div class="wrap footer-grid">
     <div>
-      <p class="footer-brand"><img class="brand-shield" src="{{ "img/brand-shield-mono.svg" | relURL }}" alt="" width="43" height="56">{{ i18n "brand_name" }}</p>
+      <p class="footer-brand"><img class="brand-shield" src="{{ cond (eq site.Language.Lang "cyr") "img/brand-shield-mono-cyr.svg" "img/brand-shield-mono.svg" | relURL }}" alt="" width="43" height="56">{{ i18n "brand_name" }}</p>
       <p>{{ i18n "unofficial_note" }}</p>
       <p class="muted small">{{ i18n "footer_region" }}</p>
       {{ with site.GetPage "fonts" }}<p class="small"><a href="{{ .RelPermalink }}">{{ i18n "fonts_footer" }} →</a> · <a href="{{ "downloads/rakovac-fonts.zip" | relURL }}" download>ZIP</a></p>{{ end }}

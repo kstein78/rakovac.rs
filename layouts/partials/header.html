@@ -3,7 +3,7 @@
 <header class="site-header">
   <div class="wrap header-row">
     <a class="brand" href="{{ site.Home.RelPermalink }}">
-      <span class="brand-name"><img class="brand-shield" src="{{ "img/brand-shield-mono.svg" | relURL }}" alt="" width="43" height="56">{{ i18n "brand_name" }}</span>
+      <span class="brand-name"><img class="brand-shield" src="{{ cond (eq site.Language.Lang "cyr") "img/brand-shield-mono-cyr.svg" "img/brand-shield-mono.svg" | relURL }}" alt="" width="43" height="56">{{ i18n "brand_name" }}</span>
     </a>
     <div class="header-tools">
       {{ partial "lang-switch.html" $cur }}
