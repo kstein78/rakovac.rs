@@ -90,6 +90,22 @@
     "https://insajder.net/prenosimo/rhmz-i-mup-upozoravaju-na-olujni-vetar-preporuka-da-se-ne-krece-na-put-i-da-se-zastiti-imovina"
    ],
    "note": "suggested by owner in chat; published at his request"
+  },
+  {
+   "key": "https://www.danas.rs/vesti/drustvo/meteorolog-slobodan-sovilj-rhmz-vetar-oluja/",
+   "date": "2026-11-19",
+   "seen": "2026-11-19",
+   "title": "RHMZ meteorologist: strongest gusts 21:00–midnight, wind weakens overnight (addendum to storm news on rakovac/vajska/provala)",
+   "status": "proposed",
+   "draft": "draft/2026-11-19-storm-update-timing (rakovac.rs, vajska.rs, provala.rs)"
+  },
+  {
+   "key": "https://www.b92.net/lokal/novi-sad/drustvo/286408/novi-sad-na-udaru-orkanskog-vetra-gradjanima-upuceno-ozbiljno-upozorenje-sve-sluzbe-u-pripravnosti/vest",
+   "date": "2026-11-19",
+   "seen": "2026-11-19",
+   "title": "Novi Sad emergency staff convened, services on standby",
+   "status": "skipped",
+   "reason": "city of Novi Sad only; advice already in the storm news"
   }
  ]
 }
