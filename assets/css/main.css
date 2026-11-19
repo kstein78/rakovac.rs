@@ -683,7 +683,9 @@ a[href^="tel:"] { white-space: nowrap; }
 .home-news-grid > .ncard-big .ncard-img { aspect-ratio: 16 / 9; }
 .home-news-side { display: grid; gap: 1rem; align-content: start; }
 .home-news-side .ncard { display: grid; grid-template-columns: 7.5rem minmax(0, 1fr); }
-.home-news-side .ncard-img { aspect-ratio: 1; }
+/* The picture fills the whole left column, as tall as the card (no empty strip under it when the title runs to 4-5 lines) */
+.home-news-side .ncard-img { aspect-ratio: auto; position: relative; min-height: 7.5rem; }
+.home-news-side .ncard-img img { position: absolute; inset: 0; }
 .home-news-side .ncard-body { padding: .6rem .8rem; }
 .home-news-side h3 { font-size: 1rem; }
 .home-news-side .nlead { display: none; }
