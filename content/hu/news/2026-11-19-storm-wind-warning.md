@@ -33,13 +33,16 @@ Az RHMZ november 18-i előrejelzése szerint pénteken ismét meleg lesz (16–2
 
 - **Maradjon bent**, távol az ablakoktól. Csak akkor induljon útnak, ha muszáj, különösen ne az erdőn át a Fruška gorán.
 - **Ne álljon fák**, vezetékek, rossz állapotú falak és kerítések alá vagy mellé.
-- **Ne érjen a leszakadt vezetékekhez**, tartson tőlük távolságot, és jelentse őket.
+- **Ne érjen a leszakadt vezetékekhez**, tartson tőlük távolságot, és jelentse őket az Elektrodistribucijának (a számok lent).
 - Nézzen rá az egyedül élő idős szomszédokra.
 
 ## Segélyhívó számok
 
 - **112** — egységes segélyhívó szám
 - **192** — rendőrség, **193** — tűzoltók és mentők, **194** — mentőszolgálat
+- **Áramszünet és leszakadt vezetékek**: Elektrodistribucija Srbije, újvidéki kirendeltség — [021 421 066](tel:+38121421066), [021 421 068](tel:+38121421068), [0800 360 300](tel:0800360300) (ingyenes országos szám)
+
+Minden hasznos telefonszám a [Hasznos információk]({{< relref "useful" >}}) oldalon található.
 
 Kövesse az RHMZ és a Belügyminisztérium (MUP) figyelmeztetéseit és a hatóságok utasításait.
 

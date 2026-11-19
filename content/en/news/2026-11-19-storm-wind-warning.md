@@ -33,13 +33,16 @@ The RHMZ forecast from 18 November also says that the weather turns warm again o
 
 - **Stay indoors** and away from windows. Do not set off on the road unless you must, especially through the forest over Fruška Gora.
 - **Do not stand under trees**, power lines or near walls and fences in poor condition.
-- **Do not touch fallen wires**, keep well away from them and report them.
+- **Do not touch fallen wires**, keep well away from them and report them to Elektrodistribucija (numbers below).
 - Check on older neighbours who live alone.
 
 ## Emergency numbers
 
 - **112** — single emergency number
 - **192** — police, **193** — firefighters and rescue, **194** — ambulance
+- **Power cuts and fallen wires**: Elektrodistribucija Srbije, Novi Sad branch — [021 421 066](tel:+38121421066), [021 421 068](tel:+38121421068), [0800 360 300](tel:0800360300) (free national number)
+
+All useful numbers are on the [Useful information]({{< relref "useful" >}}) page.
 
 Follow the warnings of the RHMZ and the Ministry of the Interior (MUP), and the instructions of the authorities.
 

@@ -33,13 +33,16 @@ Laut der RHMZ-Prognose vom 18. November wird es am Freitag wieder warm (16–20 
 
 - **Bleiben Sie im Haus** und weg von den Fenstern. Fahren Sie nur, wenn es sein muss, besonders nicht durch den Wald über die Fruška Gora.
 - **Stellen Sie sich nicht unter Bäume**, Leitungen oder an marode Mauern und Zäune.
-- **Berühren Sie keine herabgefallenen Leitungen**, halten Sie Abstand und melden Sie sie.
+- **Berühren Sie keine herabgefallenen Leitungen**, halten Sie Abstand und melden Sie sie der Elektrodistribucija (Nummern unten).
 - Schauen Sie nach älteren Nachbarn, die allein leben.
 
 ## Notrufnummern
 
 - **112** — einheitliche Notrufnummer
 - **192** — Polizei, **193** — Feuerwehr und Rettung, **194** — Rettungsdienst
+- **Stromausfall und herabgefallene Leitungen**: Elektrodistribucija Srbije, Niederlassung Novi Sad — [021 421 066](tel:+38121421066), [021 421 068](tel:+38121421068), [0800 360 300](tel:0800360300) (kostenlose landesweite Nummer)
+
+Alle nützlichen Nummern finden Sie auf der Seite [Nützliche Informationen]({{< relref "useful" >}}).
 
 Verfolgen Sie die Warnungen des RHMZ und des Innenministeriums (MUP) und folgen Sie den Anweisungen der Behörden.
 

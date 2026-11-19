@@ -33,13 +33,16 @@ Prema prognozi RHMZ-a od 18. novembra, u petak će ponovo biti toplo (16–20 °
 
 - **Ostanite u kući** i dalje od prozora. Ne krećite na put ako ne morate, naročito kroz šumu preko Fruške gore.
 - **Ne stojte ispod drveća**, žica, uz trošne zidove i ograde.
-- **Ne dirajte pokidane žice**, držite se podalje od njih i prijavite ih.
+- **Ne dirajte pokidane žice**, držite se podalje od njih i prijavite ih Elektrodistribuciji (brojevi su ispod).
 - Obiđite starije komšije koji žive sami.
 
 ## Brojevi za hitne slučajeve
 
 - **112** — jedinstveni broj za hitne službe
 - **192** — policija, **193** — vatrogasci i spasioci, **194** — hitna pomoć
+- **Nestanak struje i pokidane žice**: Elektrodistribucija Srbije, ogranak Novi Sad — [021 421 066](tel:+38121421066), [021 421 068](tel:+38121421068), [0800 360 300](tel:0800360300) (besplatan nacionalni broj)
+
+Svi korisni brojevi su na stranici [Korisne informacije]({{< relref "useful" >}}).
 
 Pratite upozorenja RHMZ-a i MUP-a i slušajte uputstva nadležnih službi.
 
