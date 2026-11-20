@@ -27,6 +27,10 @@ Kesten je brdo istočno od manastira; sa vidikovca se gleda na sever, na Novi Sa
 
 Izletište nacionalnog parka na grebenskom putu između Zmajevca i Crvenog čota, sa stolovima, nadstrešnicama i igralištem, i otvorenim „Beočinskim livadama” sa širokim pogledom na sever. Kolima: pored manastira do Zmajevca, pa grebenom na zapad. Više: [Izletište Brankovac]({{< relref "nature/brankovac" >}}).
 
+## Padine sela, prema Dunavu
+
+Sa puteljaka na gornjim padinama Rakovca krovovi se spuštaju prema Dunavu i mostovima Novog Sada. Fotografije sa jesenje šetnje: [Šetnja kroz Rakovac, 17. novembar]({{< relref "gallery/rakovac-walk-november" >}}).
+
 ## Pogled preko doline
 
 Kako brda između Novog i Starog Rakovca izgledaju kroz godišnja doba, sa jednog mesta u Belegirskoj ulici: [Pogledi iz Belegirske ulice]({{< relref "gallery/belegirska-views" >}}).

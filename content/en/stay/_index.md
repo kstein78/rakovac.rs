@@ -5,7 +5,7 @@ weight: 40
 kicker: Villas, holiday houses, apartments
 lead: Holiday houses and villas in the hills of Rakovac, on the edge of the national park. The centre of Novi Sad is 13 km away.
 tile: Villas and holiday houses in the hills
-photo: street-manastirska
+photo: rakovac-valley-autumn
 list_title: Places to stay
 ---
 

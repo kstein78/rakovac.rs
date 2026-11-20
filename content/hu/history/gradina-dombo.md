@@ -5,7 +5,7 @@ kicker: Régészeti lelőhely · védett kulturális örökség
 weight: 1
 category: heritage
 summary: 'Hétezer év egyetlen helyen: újkőkori falu, római villa, erőddé alakított középkori bencés apátság, ma pedig ásatási terület Rakovac szélén.'
-photo: gradina-2018
+photo: gradina-gate
 coords:
 - 45.205573
 - 19.766519
@@ -41,5 +41,9 @@ Az apátságot először egy **1237**-es oklevél említi („Abbas de Dombo”)
 ## Ásatások
 
 A Vajdasági Múzeum 1963 és 1978 között rendszeres ásatásokat végzett a Gradinán, és azóta többször is folytatták a munkát. A rakovaci leletek, köztük egy tizenkét bizánci bronzikonból álló kincslelet és faragott kövek, az újvidéki (Novi Sad) **Vajdasági Múzeumban** (Dunavska 35) láthatók.
+
+2026. november 17-én a lelőhely kapuja nyitva állt, és az emberek szabadon sétáltak a falak között; a magas téglafalon nagy „Раковац” feliratú molinó lóg a szerb zászló előtt. Ilya Vasilyev fotói, továbbiak a [Séta Rakovacon, november 17.]({{< relref "gallery/rakovac-walk-november" >}}) albumban.
+
+{{< photos "gradina-wall-banner gradina-ruins-view" >}}
 
 {{< todo >}}Látogatható-e a lelőhely, és van-e ott bármilyen tájékoztató tábla? Le kell filmezni a falakat, köztük azt a hat faragott követ, amelyet Kosta az alsó kősorokban talált (pontos helyüket rögzíteni kell).{{< /todo >}}

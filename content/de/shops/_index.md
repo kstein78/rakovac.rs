@@ -1,4 +1,5 @@
 ---
+photo: rakovac-post-office-bus-stop
 title: Geschäfte und Dienstleistungen
 linkTitle: Geschäfte & Dienstleistungen
 weight: 55

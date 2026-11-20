@@ -10,8 +10,9 @@ coords:
 address: Rakovac
 phone: +381 64 8731172
 status: unconfirmed
+photo: rakovac-mikromarket
 ---
 
 Élelmiszerbolt Novi Rakovacban.
 
-{{< todo >}}Egyeztetni az adatokat és a nyitvatartást az üzlettel; lefényképezni a bolt homlokzatát.{{< /todo >}}
+{{< todo >}}Egyeztetni az adatokat és a nyitvatartást az üzlettel.{{< /todo >}}

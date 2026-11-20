@@ -1,4 +1,5 @@
 ---
+photo: rakovac-bus-78
 title: Useful information
 seo_title: "Rakovac useful info: post office, pharmacy, doctor, petrol, postal code 21299"
 seo_description: "Useful information for Rakovac: getting here, emergency numbers, the health centre in Beočin, pharmacy, post office, petrol station, cash machines and the postal code 21299."

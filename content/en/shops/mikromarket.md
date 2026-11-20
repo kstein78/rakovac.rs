@@ -10,9 +10,10 @@ coords:
 address: Rakovac
 phone: +381 64 8731172
 status: unconfirmed
+photo: rakovac-mikromarket
 ---
 
 
 A grocery shop in Novi Rakovac.
 
-{{< todo >}}Confirm details and opening hours with the shop; take a photo of the shopfront.{{< /todo >}}
+{{< todo >}}Confirm details and opening hours with the shop.{{< /todo >}}

@@ -1,4 +1,5 @@
 ---
+photo: rakovac-post-office-bus-stop
 title: Üzletek és szolgáltatások
 linkTitle: Üzletek és szolgáltatások
 weight: 55

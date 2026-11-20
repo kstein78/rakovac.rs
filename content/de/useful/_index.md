@@ -1,4 +1,5 @@
 ---
+photo: rakovac-bus-78
 title: Nützliche Informationen
 seo_title: "Rakovac praktisch: Post, Apotheke, Arzt, Tankstelle, Postleitzahl 21299"
 seo_description: "Praktische Infos zu Rakovac: Anreise, Notrufnummern, Gesundheitszentrum Beočin, Apotheke, Post, Tankstelle, Geldautomaten und die Postleitzahl 21299."

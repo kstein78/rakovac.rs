@@ -26,6 +26,10 @@ Kesten is a hill east of the monastery; from the viewpoint you look north over N
 
 A national park picnic area on the ridge road between Zmajevac and Crveni čot, with tables, shelters and a playground, and the open "Beočin meadows" with a broad view north. By car: up past the monastery to Zmajevac, then west along the ridge. More: [Brankovac Picnic Area]({{< relref "nature/brankovac" >}}).
 
+## The slopes of the village, towards the Danube
+
+From the lanes on the upper slopes of Rakovac the roofs run down towards the Danube and the bridges of Novi Sad. Photos from an autumn walk: [A walk through Rakovac, 17 November]({{< relref "gallery/rakovac-walk-november" >}}).
+
 ## The view across the valley
 
 How the hills between Novi and Stari Rakovac look through the seasons, from one spot on Belegirska Street: [Views from Belegirska Street]({{< relref "gallery/belegirska-views" >}}).

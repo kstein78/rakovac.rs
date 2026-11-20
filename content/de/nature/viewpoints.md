@@ -26,6 +26,10 @@ Kesten ist ein Hügel östlich des Klosters; vom Aussichtspunkt blickt man nach 
 
 Ein Picknickplatz des Nationalparks an der Kammstraße zwischen Zmajevac und Crveni čot, mit Tischen, Unterständen und Spielplatz, dazu die offenen „Beočiner Wiesen“ mit weitem Blick nach Norden. Mit dem Auto: am Kloster vorbei hinauf nach Zmajevac, dann auf dem Kamm nach Westen. Mehr: [Picknickplatz Brankovac]({{< relref "nature/brankovac" >}}).
 
+## Die Hänge des Dorfes, zur Donau hin
+
+Von den Wegen an den oberen Hängen von Rakovac ziehen sich die Dächer hinab zur Donau und zu den Brücken von Novi Sad. Fotos von einem Herbstspaziergang: [Ein Spaziergang durch Rakovac, 17. November]({{< relref "gallery/rakovac-walk-november" >}}).
+
 ## Der Blick über das Tal
 
 Wie die Hügel zwischen Novi und Stari Rakovac im Lauf der Jahreszeiten aussehen, von einer Stelle an der Belegirska-Straße: [Ausblicke von der Belegirska-Straße]({{< relref "gallery/belegirska-views" >}}).

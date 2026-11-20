@@ -16,6 +16,8 @@ Miután az öreg falut 1943-ban felgyújtották, nem ugyanazon a helyen építet
 
 Ma Rakovac Beočin község egyik legnagyobb helyi közössége. Van itt a beočini általános iskola kihelyezett tagozata (1–4. osztály), egy óvodai csoport és jó néhány kis- és középvállalkozás.
 
+{{< photo key="rakovac-school-street" >}}
+
 ## Népesség
 
 | Népszámlálás | Lakosok |

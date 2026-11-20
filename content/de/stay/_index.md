@@ -5,7 +5,7 @@ weight: 40
 kicker: Villen, Ferienhäuser, Apartments
 lead: Ferienhäuser und Villen in den Hügeln von Rakovac, am Rand des Nationalparks. Das Zentrum von Novi Sad ist 13 km entfernt.
 tile: Villen und Ferienhäuser in den Hügeln
-photo: street-manastirska
+photo: rakovac-valley-autumn
 list_title: Unterkünfte
 ---
 

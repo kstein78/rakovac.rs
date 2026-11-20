@@ -10,8 +10,9 @@ coords:
 address: Rakovac
 phone: +381 64 8731172
 status: unconfirmed
+photo: rakovac-mikromarket
 ---
 
 Prodavnica namirnica u Novom Rakovcu.
 
-{{< todo >}}Potvrditi podatke i radno vreme sa prodavnicom; fotografisati izlog.{{< /todo >}}
+{{< todo >}}Potvrditi podatke i radno vreme sa prodavnicom.{{< /todo >}}

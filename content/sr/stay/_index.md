@@ -5,7 +5,7 @@ weight: 40
 kicker: Vile, kuće za odmor, apartmani
 lead: Kuće za odmor i vile u brdima Rakovca, na ivici nacionalnog parka. Centar Novog Sada udaljen je 13 km.
 tile: Vile i kuće za odmor u brdima
-photo: street-manastirska
+photo: rakovac-valley-autumn
 list_title: Gde odsesti
 ---
 

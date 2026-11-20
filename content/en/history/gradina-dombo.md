@@ -5,7 +5,7 @@ kicker: "Archaeological site · protected cultural property"
 weight: 1
 category: heritage
 summary: "Seven thousand years in one place: a Neolithic village, a Roman villa, a medieval Benedictine abbey that became a fortress, and today an excavation site on the edge of Rakovac."
-photo: gradina-2018
+photo: gradina-gate
 coords: [45.205573, 19.766519]
 ---
 
@@ -39,5 +39,9 @@ Between **1467 and 1473** the abbey was converted into a fortress with walls, ga
 ## Excavations
 
 The Museum of Vojvodina excavated Gradina systematically between 1963 and 1978, and work has resumed several times since. Finds from Rakovac, including a hoard of twelve Byzantine bronze icons and carved stone, are on display at the **Museum of Vojvodina** in Novi Sad (Dunavska 35).
+
+On 17 November 2026 the gate of the site stood open and people walked freely among the walls; a large banner reading «Раковац» over the Serbian flag hangs on the tall brick wall. Photos by Ilya Vasilyev, more in the album [A walk through Rakovac, 17 November]({{< relref "gallery/rakovac-walk-november" >}}).
+
+{{< photos "gradina-wall-banner gradina-ruins-view" >}}
 
 {{< todo >}}Is the site open to visitors and is there any signage on site? Film the walls, including the six carved stones Kosta found in the lower courses (record their exact position).{{< /todo >}}

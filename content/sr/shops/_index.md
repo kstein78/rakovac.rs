@@ -1,4 +1,5 @@
 ---
+photo: rakovac-post-office-bus-stop
 title: Prodavnice i usluge
 linkTitle: Prodavnice i usluge
 weight: 55

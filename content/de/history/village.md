@@ -16,6 +16,8 @@ Nachdem das alte Dorf 1943 niedergebrannt worden war, wurde es nicht an derselbe
 
 Heute ist Rakovac eine der größten Ortsgemeinschaften der Gemeinde Beočin. Es gibt eine Außenstelle der Grundschule Beočin (Klassen 1–4), eine Kindergartengruppe und eine ganze Reihe kleiner und mittlerer Unternehmen.
 
+{{< photo key="rakovac-school-street" >}}
+
 ## Einwohner
 
 | Volkszählung | Einwohner |

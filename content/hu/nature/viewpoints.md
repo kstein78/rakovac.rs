@@ -26,6 +26,10 @@ A Kesten a kolostortól keletre fekvő domb; a kilátóból északra, Újvidékr
 
 A nemzeti park pihenőhelye a Zmajevac és a Crveni čot közötti gerincúton, asztalokkal, esőbeállókkal és játszótérrel, valamint a nyitott „beočini rétekkel”, ahonnan messzire látni észak felé. Autóval: a kolostor mellett fel Zmajevacig, onnan a gerincen nyugatra. Bővebben: [Brankovac pihenőhely]({{< relref "nature/brankovac" >}}).
 
+## A falu lejtői, a Duna felé
+
+Rakovac felső lejtőinek ösvényeiről a tetők a Duna és Újvidék hídjai felé futnak le. Fotók egy őszi sétáról: [Séta Rakovacon, november 17.]({{< relref "gallery/rakovac-walk-november" >}}).
+
 ## Kilátás a völgyön át
 
 Milyenek a Novi és Stari Rakovac közötti dombok évszakról évszakra, a Belegirska utca egyetlen pontjáról: [Kilátás a Belegirska utcából]({{< relref "gallery/belegirska-views" >}}).

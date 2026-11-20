@@ -16,6 +16,8 @@ Pošto je staro selo spaljeno 1943, nije obnovljeno na istom mestu. Niže u doli
 
 Danas je Rakovac jedna od najvećih mesnih zajednica opštine Beočin. Ima izdvojeno odeljenje beočinske osnovne škole (od 1. do 4. razreda), grupu vrtića i dobar broj malih i srednjih preduzeća.
 
+{{< photo key="rakovac-school-street" >}}
+
 ## Stanovništvo
 
 | Popis | Stanovnika |

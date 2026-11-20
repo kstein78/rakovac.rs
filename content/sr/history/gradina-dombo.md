@@ -5,7 +5,7 @@ kicker: Arheološko nalazište · zaštićeno kulturno dobro
 weight: 1
 category: heritage
 summary: 'Sedam hiljada godina na jednom mestu: neolitsko naselje, rimska vila, srednjovekovna benediktinska opatija koja je postala tvrđava, a danas arheološko nalazište na ivici Rakovca.'
-photo: gradina-2018
+photo: gradina-gate
 coords:
 - 45.205573
 - 19.766519
@@ -41,5 +41,9 @@ Između **1467. i 1473.** opatija je pretvorena u tvrđavu sa zidinama, kapijama
 ## Iskopavanja
 
 Muzej Vojvodine sistematski je istraživao Gradinu od 1963. do 1978, a radovi su kasnije više puta nastavljani. Nalazi iz Rakovca, među njima ostava od dvanaest vizantijskih bronzanih ikona i klesani kamen, izloženi su u **Muzeju Vojvodine** u Novom Sadu (Dunavska 35).
+
+Kapija nalazišta je 17. novembra 2026. bila otvorena i ljudi su slobodno šetali među zidovima; na visokom zidu od cigle visi veliki transparent „Раковац” preko srpske zastave. Fotografije Ilje Vasiljeva, još u albumu [Šetnja kroz Rakovac, 17. novembar]({{< relref "gallery/rakovac-walk-november" >}}).
+
+{{< photos "gradina-wall-banner gradina-ruins-view" >}}
 
 {{< todo >}}Da li je nalazište otvoreno za posetioce i ima li table na licu mesta? Snimiti zidove, uključujući šest klesanih kamenova koje je Kosta našao u donjim redovima (zabeležiti tačan položaj).{{< /todo >}}

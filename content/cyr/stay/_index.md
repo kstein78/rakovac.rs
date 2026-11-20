@@ -6,7 +6,7 @@ weight: 40
 kicker: Виле, куће за одмор, апартмани
 lead: Куће за одмор и виле у брдима Раковца, на ивици националног парка. Центар Новог Сада удаљен је 13 км.
 tile: Виле и куће за одмор у брдима
-photo: street-manastirska
+photo: rakovac-valley-autumn
 list_title: Где одсести
 ---
 

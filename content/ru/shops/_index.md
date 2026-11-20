@@ -1,4 +1,5 @@
 ---
+photo: rakovac-post-office-bus-stop
 title: Магазины и услуги
 linkTitle: Магазины и услуги
 weight: 55

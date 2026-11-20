@@ -1,4 +1,5 @@
 ---
+photo: rakovac-bus-78
 title: Korisne informacije
 seo_title: "Rakovac korisne informacije: pošta, apoteka, dom zdravlja, pumpa, poštanski broj 21299"
 seo_description: "Korisne informacije za Rakovac: kako stići, hitni brojevi, Dom zdravlja Beočin, apoteka, pošta, benzinska pumpa, bankomati i poštanski broj 21299."

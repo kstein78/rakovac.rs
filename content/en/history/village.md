@@ -16,6 +16,8 @@ After the old village was burned in 1943, it was not rebuilt in the same place. 
 
 Today Rakovac is one of the largest local communities of Beočin municipality. It has a branch of the Beočin primary school (grades 1–4), a kindergarten group and a good number of small and medium-sized firms.
 
+{{< photo key="rakovac-school-street" >}}
+
 ## Population
 
 | Census | Residents |

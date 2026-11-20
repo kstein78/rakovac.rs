@@ -5,7 +5,7 @@ weight: 40
 kicker: Villák, nyaralók, apartmanok
 lead: Nyaralók és villák Rakovac dombjai között, a nemzeti park szélén. Újvidék (Novi Sad) központja 13 km-re van.
 tile: Villák és nyaralók a dombok között
-photo: street-manastirska
+photo: rakovac-valley-autumn
 list_title: Szálláshelyek
 ---
 

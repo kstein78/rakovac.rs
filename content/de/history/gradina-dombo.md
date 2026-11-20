@@ -5,7 +5,7 @@ kicker: Archäologische Fundstätte · geschütztes Kulturgut
 weight: 1
 category: heritage
 summary: 'Siebentausend Jahre an einem Ort: ein jungsteinzeitliches Dorf, eine römische Villa, eine mittelalterliche Benediktinerabtei, die zur Festung wurde, und heute eine Ausgrabungsstätte am Rand von Rakovac.'
-photo: gradina-2018
+photo: gradina-gate
 coords:
 - 45.205573
 - 19.766519
@@ -41,5 +41,9 @@ Zwischen **1467 und 1473** wurde die Abtei zu einer Festung mit Mauern, Toren un
 ## Ausgrabungen
 
 Das Museum der Vojvodina grub die Gradina zwischen 1963 und 1978 systematisch aus, und seither wurden die Arbeiten mehrmals wieder aufgenommen. Funde aus Rakovac, darunter ein Hort von zwölf byzantinischen Bronzeikonen und gemeißelte Steine, sind im **Museum der Vojvodina** in Novi Sad (Dunavska 35) ausgestellt.
+
+Am 17. November 2026 stand das Tor der Stätte offen, und Menschen gingen frei zwischen den Mauern umher; an der hohen Ziegelmauer hängt ein großes Banner „Раковац“ über der serbischen Flagge. Fotos von Ilya Vasilyev, mehr im Album [Ein Spaziergang durch Rakovac, 17. November]({{< relref "gallery/rakovac-walk-november" >}}).
+
+{{< photos "gradina-wall-banner gradina-ruins-view" >}}
 
 {{< todo >}}Ist die Stätte für Besucher zugänglich und gibt es vor Ort Hinweistafeln? Die Mauern filmen, einschließlich der sechs gemeißelten Steine, die Kosta in den unteren Steinlagen gefunden hat (ihre genaue Lage festhalten).{{< /todo >}}
