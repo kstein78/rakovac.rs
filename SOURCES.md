@@ -52,7 +52,7 @@
 
 | Что | Где смотреть | Как |
 |---|---|---|
-| Плановые отключения света | elektrodistribucija.rs — страницы `NoviSad_Dan_0…3` и `Sombor_Dan_0…3` | строки общины **Bač**: Vajska, Bođani, Bač, Plavna, Selenča, Bačko Novo Selo; Vajska — всегда отдельное предложение |
+| Плановые отключения света | elektrodistribucija.rs — страницы `Sombor_Dan_0…3` (Бач и Вайска относятся к ED Сомбор — со слов Кости, 20.11.2026: там заключали договор) | строки общины **Bač**: Vajska, Bođani, Bač, Plavna, Selenča, Bačko Novo Selo; Vajska — всегда отдельное предложение |
 | Община Бач (вода, дороги, конкурсы, субсидии, события) | https://www.bac.rs/ (новости, oglasi, javni pozivi) | всё про Вайску и общину |
 | СМИ | 021.rs (раздел Vojvodina), rtv.rs, vojvodjanski.com (TV Bačka Palanka), WebSearch `Vajska` / `Bač` / `Provala jezero` за 2–3 дня | — |
 | Озеро Провала | WebSearch `Provala jezero`, `Bački dvor Provala` | купание, рыбалка (ribolovna dozvola), экотакса, качество воды, закрытия, события на озере; «Бачки двор» — только новости без рекламы |
