@@ -2,7 +2,6 @@
 title: 'Red weather alert for Vojvodina tonight: storm and hurricane-force wind gusts of 80–110 km/h'
 date: '2026-11-19T12:55:00+01:00'
 feed: local
-top: true
 cover: card-storm-wind
 lead: 'The Republic Hydrometeorological Service of Serbia (RHMZ) issued an urgent warning on 19 November: this evening a cold front will bring storm and hurricane-force gusts of westerly and north-westerly wind, 80 to 110 km/h, to Vojvodina, Belgrade and western and central Serbia. Srem and Bačka, and so Rakovac, are under the red alert, the highest level. Below is how to get your house and yard ready before evening.'
 ---

@@ -2,7 +2,6 @@
 title: 'Piros időjárási riasztás a Vajdaságban ma este: 80–110 km/h-s viharos és orkánerejű széllökések'
 date: '2026-11-19T12:55:00+01:00'
 feed: local
-top: true
 cover: card-storm-wind
 lead: 'A Szerbiai Hidrometeorológiai Intézet (RHMZ) november 19-én sürgős figyelmeztetést adott ki: ma este egy hidegfront 80–110 km/h-s, nyugati és északnyugati viharos és orkánerejű széllökéseket hoz a Vajdaságba, Belgrádba, valamint Nyugat- és Közép-Szerbiába. A Szerémség és a Bácska, így Rakovac is, piros, azaz a legmagasabb fokozatú riasztás alatt áll. Lent olvasható, hogyan készítse fel házát és udvarát estig.'
 ---
