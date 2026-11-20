@@ -1,4 +1,4 @@
-# Мониторинг новостей для rakovac.rs — источники
+# Мониторинг новостей для rakovac.rs, vajska.rs и provala.rs — источники
 
 Ветка `news-monitor` служебная: на сайт не попадает и деплой не запускает (деплой — только ветка `main`).
 Здесь лежат список источников (этот файл) и `seen.json` — что уже предложено Косте, чтобы не повторяться.
@@ -45,3 +45,35 @@
 - Фото: своё (Konstantin Stein, data/photos.yaml) > свободная лицензия (Commons и т. п., с атрибуцией) >
   рисованная карточка `scripts/card_art.py` (стиль сайта). Чужие фото из СМИ/соцсетей как обложку не брать.
 - Публикация — только после явного «да» Кости в чате этого прогона.
+
+## 5. Вайска и Провала (vajska.rs, provala.rs) — с 20.11.2026
+
+Те же правила, что для Раковца; новости предлагаются на тот сайт, кого они касаются (часто на оба: Вайска ↔ озеро Провала в 2,8 км).
+
+| Что | Где смотреть | Как |
+|---|---|---|
+| Плановые отключения света | elektrodistribucija.rs — страницы `NoviSad_Dan_0…3` и `Sombor_Dan_0…3` | строки общины **Bač**: Vajska, Bođani, Bač, Plavna, Selenča, Bačko Novo Selo; Vajska — всегда отдельное предложение |
+| Община Бач (вода, дороги, конкурсы, субсидии, события) | https://www.bac.rs/ (новости, oglasi, javni pozivi) | всё про Вайску и общину |
+| СМИ | 021.rs (раздел Vojvodina), rtv.rs, vojvodjanski.com (TV Bačka Palanka), WebSearch `Vajska` / `Bač` / `Provala jezero` за 2–3 дня | — |
+| Озеро Провала | WebSearch `Provala jezero`, `Bački dvor Provala` | купание, рыбалка (ribolovna dozvola), экотакса, качество воды, закрытия, события на озере; «Бачки двор» — только новости без рекламы |
+| Дунай | RHMZ гидрологические прогнозы (hidmet.gov.rs, prognoza voda: Bezdan–Slankamen), WebSearch | уровень воды, паводок, закрытие навигации |
+
+Технически (оба сайта — движок selo, сабмодуль `themes/selo`):
+- Клонировать с `--recurse-submodules` (или `git submodule update --init`). Новости: `content/{sr,hr,en,ru}/news/YYYY-MM-DD-slug.md`
+  по образцу `2026-11-19-storm-wind-warning.md`; поля title, date, feed: local, author: kosta, cover, lead (+ top, related).
+  Языки sr (источник) / hr / en / ru; кириллица — `python3 themes/selo/scripts/sr_cyrl.py`. Файла .translations.json нет.
+- Проверка: `hugo --gc --minify` (Hugo 0.139.4 extended) + `python3 themes/selo/scripts/seo_check.py public` — 0 errors.
+- Картинка: свои фото Кости в data/photos.yaml > свободная лицензия > рисованная карточка
+  `git show origin/news-monitor:tools/card_selo.py > $SCRATCH/card_selo.py`, затем из корня сайта `python3 $SCRATCH/card_selo.py <rakovac.rs на main> NAME глиф1,глиф2,глиф3 '<bg>' '<ink>'` в цветах сайта
+  (vajska `#5e1d22,#3e1015` / `#f7efe0`, provala `#0e4657,#08303d` / `#eef7f6`).
+- Деплой — push в `main` (workflow «Build and deploy»); черновики — ветки `draft/…` в репозитории сайта.
+- Ссылки на «Полезное»: `{{< relref "useful" >}}` (vajska: «Korisne informacije», provala: «Kako stići i korisno»).
+- На Провале нет лодок — про лодки писать только для Дуная.
+
+## 6. Уроки прогонов
+
+- WebFetch открывает только URL, уже появившиеся в разговоре (из поиска или от Кости). Сначала WebSearch, потом WebFetch.
+- Страница предупреждений RHMZ (hidmet.gov.rs/ciril/upozorenja/) через WebFetch может приходить устаревшей
+  («нема упозорења»), когда предупреждение на самом деле висит (19.11.2026). Если СМИ цитируют RHMZ, а страница
+  пуста — написать Косте «не могу прочитать страницу RHMZ», а не «предупреждения нет». Время выпуска брать с RHMZ.
+- Дата новости — в прошлом на момент сборки, иначе Hugo её пропустит (date ≤ текущего времени по Белграду).
