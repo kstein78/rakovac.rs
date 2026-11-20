@@ -131,6 +131,36 @@
    "title": "Planned power cuts 20–23 Nov: official pages not readable; WebSearch shows nothing for Beočin/Rakovac",
    "status": "skipped",
    "reason": "elektrodistribucija.rs, beocin.rs, beocinuzivo.rs, nsuzivo.rs: WebFetch permission prompt unanswered (unattended run); searches found only Belgrade/Novi Sad outage lists"
+  },
+  {
+   "key": "elektro:2026-11-21..24:Beocin+Bac",
+   "date": "2026-11-20",
+   "seen": "2026-11-20",
+   "site": "rakovac.rs, vajska.rs",
+   "title": "Planned power cuts 21–24 Nov: official ED pages (NoviSad/Sombor Dan_0–3) not readable; dnevnik.rs lists only Banoštor (Andrevlje) 21.11 12:00–13:30",
+   "status": "skipped",
+   "reason": "nothing for Rakovac or Vajska in secondary sources; Banoštor/Andrevlje is outside Rakovac (summary only). Official pages: WebFetch permission prompt unanswered",
+   "also": [
+    "https://www.dnevnik.rs/novi-sad/servisne-informacije/iskljucenja-struje-za-20-21-22-novembar-2026-11-19"
+   ]
+  },
+  {
+   "key": "https://vojvodjanskireporter.rs/nevreme-zahvatilo-vojvodinu-jak-vetar-ostetio-objekte-obarao-drvece-i-otezao-saobracaj/",
+   "date": "2026-11-20",
+   "seen": "2026-11-20",
+   "site": "rakovac.rs, vajska.rs, provala.rs",
+   "title": "Storm 19 Nov aftermath across Vojvodina (Novi Sad, Apatin, Sremska Mitrovica…)",
+   "status": "skipped",
+   "reason": "no damage reported for Beočin/Bač municipalities; storm already covered on all three sites"
+  },
+  {
+   "key": "https://www.b92.net/info/drustvo/286617/vremenska-prognoza-za-narednu-nedelju/vest",
+   "date": "2026-11-20",
+   "seen": "2026-11-20",
+   "site": "rakovac.rs, vajska.rs, provala.rs",
+   "title": "Forecast 21–23 Nov: rain, snow in mountains Monday; no RHMZ orange/red warning",
+   "status": "skipped",
+   "reason": "no warning level; ordinary forecast"
   }
  ]
 }
