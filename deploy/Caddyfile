@@ -111,7 +111,10 @@
 		-Server
 	}
 	# Pages are checked on every visit (cheap, thanks to ETag), so a new version shows at once.
-	@html path / *.html */
+	@html {
+		path / *.html */
+		not path /admin*
+	}
 	header @html Cache-Control "no-cache"
 	header /version.txt Cache-Control "no-store"
 	# CSS and JS have a content hash in the file name and never change.
@@ -152,6 +155,11 @@
 }
 
 rakovac.rs {
+	# Selo Admin (engine github.com/kstein78/selo, folder admin/): editors' admin for all sites of the network.
+	# Runs as the deploy user on 127.0.0.1:8737, kept alive by hosting/selo-update; only here, not on the http:// fallback.
+	handle /admin* {
+		reverse_proxy 127.0.0.1:8737
+	}
 	import site
 }
 

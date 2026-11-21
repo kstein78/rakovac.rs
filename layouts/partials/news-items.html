@@ -3,19 +3,26 @@
   local = pages in content/<lang>/news/; site = data/sitenews.yaml (new pages and albums). */}}
 {{ $items := slice }}
 {{ with site.GetPage "news" }}{{ range .Pages }}
-  {{ $items = $items | append (dict "top" (.Params.top | default false) "date" .Date "feed" (.Params.feed | default "local") "title" .Title "lead" .Params.lead "cover" .Params.cover "url" .RelPermalink) }}
+  {{ $items = $items | append (dict "top" (.Params.top | default false) "pin" (.Params.pin | default 0) "date" .Date "feed" (.Params.feed | default "local") "title" .Title "lead" .Params.lead "cover" .Params.cover "url" .RelPermalink) }}
 {{ end }}{{ end }}
 {{ range site.Data.sitenews }}
   {{ $e := . }}
   {{ with site.GetPage .page }}
     {{ $cover := $e.cover | default (partial "card-key.html" .) }}
     {{ $lead := index $e (printf "lead_%s" site.Language.Lang) | default .Params.summary | default .Params.lead }}
-    {{ $items = $items | append (dict "top" ($e.top | default false) "date" (time $e.date) "feed" "site" "title" .Title "lead" $lead "cover" $cover "url" .RelPermalink) }}
+    {{ $items = $items | append (dict "top" ($e.top | default false) "pin" ($e.pin | default 0) "date" (time $e.date) "feed" "site" "title" .Title "lead" $lead "cover" $cover "url" .RelPermalink) }}
   {{ end }}
 {{ end }}
 {{ $items = sort $items "date" "desc" }}
-{{/* Lead story: one marked top: true, otherwise the newest local story; the rest stay in date order. */}}
+{{/* Order set in Selo Admin: news with "pin: 1, 2, …" open the list in that order (pin 1 is the big story),
+     the rest follow by date. Without pins: the lead story is one marked top: true, otherwise the newest local story. */}}
+{{ $pinned := where $items "pin" "gt" 0 }}
+{{ if $pinned }}
+  {{ $rest := slice }}{{ range $items }}{{ if not (gt .pin 0) }}{{ $rest = $rest | append . }}{{ end }}{{ end }}
+  {{ $items = (sort $pinned "pin" "asc") | append $rest }}
+{{ else }}
 {{ $lead := slice }}
 {{ with where $items "top" true }}{{ $lead = first 1 . }}{{ else }}{{ with where $items "feed" "local" }}{{ $lead = first 1 . }}{{ end }}{{ end }}
 {{ with $lead }}{{ $l := index . 0 }}{{ $rest := slice }}{{ range $items }}{{ if ne .url $l.url }}{{ $rest = $rest | append . }}{{ end }}{{ end }}{{ $items = $lead | append $rest }}{{ end }}
+{{ end }}
 {{ return $items }}
