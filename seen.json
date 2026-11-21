@@ -161,6 +161,35 @@
    "title": "Forecast 21–23 Nov: rain, snow in mountains Monday; no RHMZ orange/red warning",
    "status": "skipped",
    "reason": "no warning level; ordinary forecast"
+  },
+  {
+   "key": "https://www.beocin.rs/sr/?id=2572",
+   "date": "2026-11-20",
+   "seen": "2026-11-21",
+   "title": "Završeni radovi na asfaltiranju puta i izgradnji parkinga kod Doma zdravlja u Beočinu",
+   "status": "skipped",
+   "reason": "completed works report (municipal PR), not Rakovac; can be proposed if owner wants"
+  },
+  {
+   "key": "https://www.beocin.rs/sr/?id=2571",
+   "date": "2026-11-19",
+   "seen": "2026-11-21",
+   "title": "Vanredno zasedanje Štaba za vanredne situacije opštine Beočin (storm)",
+   "status": "skipped",
+   "reason": "storm already covered; no new measures for residents"
+  },
+  {
+   "key": "elektro:2026-11-21..24:Beocin+Bac#run2",
+   "date": "2026-11-21",
+   "seen": "2026-11-21",
+   "site": "rakovac.rs, vajska.rs",
+   "title": "Planned power cuts 21–24 Nov: official ED pages not readable; secondary lists for 23 Nov show nothing for Beočin/Bač",
+   "status": "skipped",
+   "reason": "elektrodistribucija.rs NoviSad/Sombor Dan_0–3: WebFetch permission prompt unanswered; sremskenovine.co.rs, nsuzivo.rs, dnevnik (via naslovi.net) for 23.11 list only Laćarak, Berkasovo, Novi Sad, Kisač, Budisava",
+   "also": [
+    "https://www.sremskenovine.co.rs/2026/11/najava-iskljucenja-struje-za-ponedeljak-23-novembar/",
+    "https://nsuzivo.rs/servisne-informacije/iskljucenja-struje-za-ponedeljak-23-novembar/"
+   ]
   }
  ]
 }
