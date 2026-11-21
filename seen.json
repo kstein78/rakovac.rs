@@ -190,6 +190,15 @@
     "https://www.sremskenovine.co.rs/2026/11/najava-iskljucenja-struje-za-ponedeljak-23-novembar/",
     "https://nsuzivo.rs/servisne-informacije/iskljucenja-struje-za-ponedeljak-23-novembar/"
    ]
+  },
+  {
+   "key": "run:2026-11-21-evening",
+   "date": "2026-11-21",
+   "seen": "2026-11-21",
+   "site": "rakovac.rs, vajska.rs, provala.rs",
+   "title": "Evening run 21 Nov: nothing new",
+   "status": "skipped",
+   "reason": "WebSearch only (no WebFetch tool in session); no new items for Rakovac/Beočin, Vajska/Bač, Provala; no RHMZ orange/red warning found; ED power-cut pages NoviSad/Sombor not read; secondary lists for 22–24 Nov show nothing for Beočin/Bač; Facebook not checked (no browser)"
   }
  ]
 }
