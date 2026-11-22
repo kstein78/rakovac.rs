@@ -1,222 +1,222 @@
 {
-  "_format": "items: one entry per proposed or skipped news item. key = source URL (or 'elektro:<date>:<area>'). status: proposed | published | declined | skipped. draft = branch name if a draft exists. site: rakovac.rs (default if absent) | vajska.rs | provala.rs.",
-  "items": [
-    {
-      "key": "https://www.beocin.rs/sr/?id=2567",
-      "date": "2026-11-09",
-      "seen": "2026-11-18",
-      "title": "Opština Beočin raspisala konkurs za dodelu studentskih stipendija (12.000 din × 10, prijave 12–26.11.2026)",
-      "status": "published",
-      "draft": "draft/2026-11-18-beocin-student-scholarships",
-      "also": [
-        "https://nsuzivo.rs/srbija/opstina-beocin-dodeljuje-studentske-stipendije-120-hiljada-dinara-po-studentu-prijave-od-12-novembra/",
-        "https://www.dnevnik.rs/vojvodina/backa/sudenti-javite-opstina-beocin-raspisala-konkurs-za-dodelu-stipendija-2026-11-09",
-        "https://www.kurir.rs/vesti/drustvo/10158360/stipendije-za-studente-u-beocinu-prijavite-se-do-26-novembra"
-      ],
-      "published": "2026-11-19",
-      "commit": "d3a47c1",
-      "url": "https://rakovac.rs/ru/news/2026-11-18-beocin-student-scholarships/"
-    },
-    {
-      "key": "https://beocinuzivo.rs/servisne-informacije/novi-rok-za-normalizaciju-vodosnabdevanja-u-beocinu/",
-      "date": "2026-11-12",
-      "seen": "2026-11-18",
-      "title": "Novi rok za normalizaciju vodosnabdevanja u Beočinu (13.11, 8h)",
-      "status": "skipped",
-      "reason": "older than 3 days, deadline already passed, no newer official info; Rakovac only in the original 5 Nov notice. Propose again if new outages are announced."
-    },
-    {
-      "key": "https://beocinuzivo.rs/servisne-informacije/nestanak-vode-u-beocinu-i-nakon-najavljenog-roka/",
-      "date": "2026-11-11",
-      "seen": "2026-11-18",
-      "title": "Nestanci vode u opštini Beočin i nakon najavljenog roka",
-      "status": "skipped",
-      "reason": "older than 3 days; Gornji Šakotinac, not Rakovac"
-    },
-    {
-      "key": "https://beocinuzivo.rs/servisne-informacije/prekidi-vode-od-rakovca-do-cerevica/",
-      "date": "2026-11-05",
-      "seen": "2026-11-18",
-      "title": "Mogući prekidi vode od Rakovca do Čerevića do 9. novembra",
-      "status": "skipped",
-      "reason": "past (before monitor started)"
-    },
-    {
-      "key": "https://beocinuzivo.rs/vesti/vesti-iz-drustva-beocin/zborovi-gradana-u-rakovcu-i-lugu/",
-      "date": "2026-11-11",
-      "seen": "2026-11-18",
-      "title": "Zbor građana u Rakovcu 14.11.2026 (izbori za savet MZ)",
-      "status": "skipped",
-      "reason": "event already past (14 Nov); no published report of its outcome yet — propose if results appear"
-    },
-    {
-      "key": "https://beocinuzivo.rs/desavanja/manifestacije/odrzan-17-sajam-stvaralastva-seoskih-zena-u-beocinu-2026/",
-      "date": "2026-11-17",
-      "seen": "2026-11-18",
-      "title": "Održan 17. Sajam stvaralaštva seoskih žena u Beočinu (15.11)",
-      "status": "skipped",
-      "reason": "past event, no Rakovac participants named"
-    },
-    {
-      "key": "elektro:2026-11-18..21:Beocin",
-      "date": "2026-11-18",
-      "seen": "2026-11-18",
-      "title": "Planned power cuts 18–21 Nov: no Beočin rows",
-      "status": "skipped",
-      "reason": "nothing planned"
-    },
-    {
-      "key": "elektro:2026-11-19..22:Beocin",
-      "date": "2026-11-19",
-      "seen": "2026-11-19",
-      "title": "Planned power cuts 19–22 Nov: no Beočin rows found in secondary sources",
-      "status": "skipped",
-      "reason": "official elektrodistribucija.rs pages not readable this run (fetch permission prompt unanswered); 021.rs servisne informacije and mojnovisad.com (outages up to 19 Nov) list nothing for Beočin/Rakovac"
-    },
-    {
-      "key": "https://www.hidmet.gov.rs/ciril/upozorenja/index.php#2026-11-19",
-      "date": "2026-11-19",
-      "seen": "2026-11-19",
-      "title": "RHMZ red alert for Vojvodina (Srem, Bačka): storm/hurricane gusts 80–110 km/h on the evening of 19 Nov",
-      "status": "published",
-      "published": "2026-11-19",
-      "commit": "308f09c",
-      "draft": "draft/2026-11-19-storm-wind-warning",
-      "url": "https://rakovac.rs/ru/news/2026-11-19-storm-wind-warning/",
-      "also": [
-        "https://www.hidmet.gov.rs/ciril/upozorenja/najava.php",
-        "https://www.021.rs/novi-sad/vesti/461842/cela-vojvodina-u-crvenom-meteo-alarmu-upozorenje-na-orkanski-vetar-i-obilne-pljuskove",
-        "https://sremska.tv/2026/11/19/rhmz-se-hitno-oglasio-stigle-i-sms-poruke/",
-        "https://insajder.net/prenosimo/rhmz-i-mup-upozoravaju-na-olujni-vetar-preporuka-da-se-ne-krece-na-put-i-da-se-zastiti-imovina"
-      ],
-      "note": "suggested by owner in chat; published at his request"
-    },
-    {
-      "key": "https://www.danas.rs/vesti/drustvo/meteorolog-slobodan-sovilj-rhmz-vetar-oluja/",
-      "date": "2026-11-19",
-      "seen": "2026-11-19",
-      "title": "RHMZ meteorologist: strongest gusts 21:00–midnight, wind weakens overnight (addendum to storm news on rakovac/vajska/provala)",
-      "status": "published",
-      "draft": "draft/2026-11-19-storm-update-timing (rakovac.rs, vajska.rs, provala.rs)",
-      "published": "2026-11-19"
-    },
-    {
-      "key": "https://www.b92.net/lokal/novi-sad/drustvo/286408/novi-sad-na-udaru-orkanskog-vetra-gradjanima-upuceno-ozbiljno-upozorenje-sve-sluzbe-u-pripravnosti/vest",
-      "date": "2026-11-19",
-      "seen": "2026-11-19",
-      "title": "Novi Sad emergency staff convened, services on standby",
-      "status": "skipped",
-      "reason": "city of Novi Sad only; advice already in the storm news"
-    },
-    {
-      "key": "elektro:2026-11-20..23:Beocin",
-      "date": "2026-11-19",
-      "seen": "2026-11-19",
-      "title": "Planned power cuts 20–23 Nov: no Beočin rows found in secondary sources",
-      "status": "skipped",
-      "reason": "official elektrodistribucija.rs pages not readable (fetch permission prompt unanswered); 021.rs (Novi Sad, Sremska Kamenica 20 Nov) and sremskenovine.co.rs (20 Nov) list nothing for Beočin/Rakovac"
-    },
-    {
-      "key": "https://www.novosti.rs/drustvo/vesti/1672846/hitna-sednica-novom-sadu-zbog-orkanskog-vetra-sve-sluzbe-nogama-skole-obustavljaju-nastavu-grad-izdao-vazno-upozorenje-gradjanima",
-      "date": "2026-11-19",
-      "seen": "2026-11-19",
-      "title": "Novi Sad schools cancel afternoon classes because of the storm",
-      "status": "skipped",
-      "reason": "Novi Sad only; no report of Beočin schools cancelling; storm already covered"
-    },
-    {
-      "key": "elektro:2026-11-20..23:Beocin#run2",
-      "date": "2026-11-20",
-      "seen": "2026-11-20",
-      "title": "Planned power cuts 20–23 Nov: official pages not readable; WebSearch shows nothing for Beočin/Rakovac",
-      "status": "skipped",
-      "reason": "elektrodistribucija.rs, beocin.rs, beocinuzivo.rs, nsuzivo.rs: WebFetch permission prompt unanswered (unattended run); searches found only Belgrade/Novi Sad outage lists"
-    },
-    {
-      "key": "elektro:2026-11-21..24:Beocin+Bac",
-      "date": "2026-11-20",
-      "seen": "2026-11-20",
-      "site": "rakovac.rs, vajska.rs",
-      "title": "Planned power cuts 21–24 Nov: official ED pages (NoviSad/Sombor Dan_0–3) not readable; dnevnik.rs lists only Banoštor (Andrevlje) 21.11 12:00–13:30",
-      "status": "skipped",
-      "reason": "nothing for Rakovac or Vajska in secondary sources; Banoštor/Andrevlje is outside Rakovac (summary only). Official pages: WebFetch permission prompt unanswered",
-      "also": [
-        "https://www.dnevnik.rs/novi-sad/servisne-informacije/iskljucenja-struje-za-20-21-22-novembar-2026-11-19"
-      ]
-    },
-    {
-      "key": "https://vojvodjanskireporter.rs/nevreme-zahvatilo-vojvodinu-jak-vetar-ostetio-objekte-obarao-drvece-i-otezao-saobracaj/",
-      "date": "2026-11-20",
-      "seen": "2026-11-20",
-      "site": "rakovac.rs, vajska.rs, provala.rs",
-      "title": "Storm 19 Nov aftermath across Vojvodina (Novi Sad, Apatin, Sremska Mitrovica…)",
-      "status": "skipped",
-      "reason": "no damage reported for Beočin/Bač municipalities; storm already covered on all three sites"
-    },
-    {
-      "key": "https://www.b92.net/info/drustvo/286617/vremenska-prognoza-za-narednu-nedelju/vest",
-      "date": "2026-11-20",
-      "seen": "2026-11-20",
-      "site": "rakovac.rs, vajska.rs, provala.rs",
-      "title": "Forecast 21–23 Nov: rain, snow in mountains Monday; no RHMZ orange/red warning",
-      "status": "skipped",
-      "reason": "no warning level; ordinary forecast"
-    },
-    {
-      "key": "https://www.beocin.rs/sr/?id=2572",
-      "date": "2026-11-20",
-      "seen": "2026-11-21",
-      "title": "Završeni radovi na asfaltiranju puta i izgradnji parkinga kod Doma zdravlja u Beočinu",
-      "status": "skipped",
-      "reason": "completed works report (municipal PR), not Rakovac; can be proposed if owner wants"
-    },
-    {
-      "key": "https://www.beocin.rs/sr/?id=2571",
-      "date": "2026-11-19",
-      "seen": "2026-11-21",
-      "title": "Vanredno zasedanje Štaba za vanredne situacije opštine Beočin (storm)",
-      "status": "skipped",
-      "reason": "storm already covered; no new measures for residents"
-    },
-    {
-      "key": "elektro:2026-11-21..24:Beocin+Bac#run2",
-      "date": "2026-11-21",
-      "seen": "2026-11-21",
-      "site": "rakovac.rs, vajska.rs",
-      "title": "Planned power cuts 21–24 Nov: official ED pages not readable; secondary lists for 23 Nov show nothing for Beočin/Bač",
-      "status": "skipped",
-      "reason": "elektrodistribucija.rs NoviSad/Sombor Dan_0–3: WebFetch permission prompt unanswered; sremskenovine.co.rs, nsuzivo.rs, dnevnik (via naslovi.net) for 23.11 list only Laćarak, Berkasovo, Novi Sad, Kisač, Budisava",
-      "also": [
-        "https://www.sremskenovine.co.rs/2026/11/najava-iskljucenja-struje-za-ponedeljak-23-novembar/",
-        "https://nsuzivo.rs/servisne-informacije/iskljucenja-struje-za-ponedeljak-23-novembar/"
-      ]
-    },
-    {
-      "key": "run:2026-11-21-evening",
-      "date": "2026-11-21",
-      "seen": "2026-11-21",
-      "site": "rakovac.rs, vajska.rs, provala.rs",
-      "title": "Evening run 21 Nov: nothing new",
-      "status": "skipped",
-      "reason": "WebSearch only (no WebFetch tool in session); no new items for Rakovac/Beočin, Vajska/Bač, Provala; no RHMZ orange/red warning found; ED power-cut pages NoviSad/Sombor not read; secondary lists for 22–24 Nov show nothing for Beočin/Bač; Facebook not checked (no browser)"
-    },
-    {
-      "key": "run:2026-11-22-morning",
-      "date": "2026-11-22",
-      "seen": "2026-11-22",
-      "site": "rakovac.rs, vajska.rs, provala.rs",
-      "title": "Morning run 22 Nov: nothing new",
-      "status": "skipped",
-      "reason": "WebSearch: no new items for Rakovac/Beočin, Vajska/Bač, Provala; no RHMZ orange/red warning found for 22–29 Nov; WebFetch (via agent) of elektrodistribucija.rs NoviSad/Sombor Dan_0–3, beocin.rs, bac.rs: permission prompt unanswered; happytv weekly forecast: client error; Facebook not checked (no browser)"
-    },
-    {
-      "key": "run:2026-11-22-evening",
-      "date": "2026-11-22",
-      "seen": "2026-11-22",
-      "site": "rakovac.rs, vajska.rs, provala.rs",
-      "title": "Evening run 22 Nov: nothing new",
-      "status": "skipped",
-      "reason": "WebSearch: no new items for Rakovac/Beočin, Vajska/Bač, Provala; no RHMZ orange/red warning found (only 19 Nov storm, already covered); javljamo.rs summary (source EDS) shows no announced outages for Beočin or Bač 22–25 Nov; javljamo.rs/struja/beocin and /bac, elektrodistribucija.rs ED pages not read (fetch permission prompt unanswered); Facebook not checked (no browser)"
-    }
-  ]
+ "_format": "items: one entry per proposed or skipped news item. key = source URL (or 'elektro:<date>:<area>'). status: proposed | published | declined | skipped. draft = branch name if a draft exists. site: rakovac.rs (default if absent) | vajska.rs | provala.rs.",
+ "items": [
+  {
+   "key": "https://www.beocin.rs/sr/?id=2567",
+   "date": "2026-11-09",
+   "seen": "2026-11-18",
+   "title": "Opština Beočin raspisala konkurs za dodelu studentskih stipendija (12.000 din × 10, prijave 12–26.11.2026)",
+   "status": "published",
+   "draft": "draft/2026-11-18-beocin-student-scholarships",
+   "also": [
+    "https://nsuzivo.rs/srbija/opstina-beocin-dodeljuje-studentske-stipendije-120-hiljada-dinara-po-studentu-prijave-od-12-novembra/",
+    "https://www.dnevnik.rs/vojvodina/backa/sudenti-javite-opstina-beocin-raspisala-konkurs-za-dodelu-stipendija-2026-11-09",
+    "https://www.kurir.rs/vesti/drustvo/10158360/stipendije-za-studente-u-beocinu-prijavite-se-do-26-novembra"
+   ],
+   "published": "2026-11-19",
+   "commit": "d3a47c1",
+   "url": "https://rakovac.rs/ru/news/2026-11-18-beocin-student-scholarships/"
+  },
+  {
+   "key": "https://beocinuzivo.rs/servisne-informacije/novi-rok-za-normalizaciju-vodosnabdevanja-u-beocinu/",
+   "date": "2026-11-12",
+   "seen": "2026-11-18",
+   "title": "Novi rok za normalizaciju vodosnabdevanja u Beočinu (13.11, 8h)",
+   "status": "skipped",
+   "reason": "older than 3 days, deadline already passed, no newer official info; Rakovac only in the original 5 Nov notice. Propose again if new outages are announced."
+  },
+  {
+   "key": "https://beocinuzivo.rs/servisne-informacije/nestanak-vode-u-beocinu-i-nakon-najavljenog-roka/",
+   "date": "2026-11-11",
+   "seen": "2026-11-18",
+   "title": "Nestanci vode u opštini Beočin i nakon najavljenog roka",
+   "status": "skipped",
+   "reason": "older than 3 days; Gornji Šakotinac, not Rakovac"
+  },
+  {
+   "key": "https://beocinuzivo.rs/servisne-informacije/prekidi-vode-od-rakovca-do-cerevica/",
+   "date": "2026-11-05",
+   "seen": "2026-11-18",
+   "title": "Mogući prekidi vode od Rakovca do Čerevića do 9. novembra",
+   "status": "skipped",
+   "reason": "past (before monitor started)"
+  },
+  {
+   "key": "https://beocinuzivo.rs/vesti/vesti-iz-drustva-beocin/zborovi-gradana-u-rakovcu-i-lugu/",
+   "date": "2026-11-11",
+   "seen": "2026-11-18",
+   "title": "Zbor građana u Rakovcu 14.11.2026 (izbori za savet MZ)",
+   "status": "skipped",
+   "reason": "event already past (14 Nov); no published report of its outcome yet — propose if results appear"
+  },
+  {
+   "key": "https://beocinuzivo.rs/desavanja/manifestacije/odrzan-17-sajam-stvaralastva-seoskih-zena-u-beocinu-2026/",
+   "date": "2026-11-17",
+   "seen": "2026-11-18",
+   "title": "Održan 17. Sajam stvaralaštva seoskih žena u Beočinu (15.11)",
+   "status": "skipped",
+   "reason": "past event, no Rakovac participants named"
+  },
+  {
+   "key": "elektro:2026-11-18..21:Beocin",
+   "date": "2026-11-18",
+   "seen": "2026-11-18",
+   "title": "Planned power cuts 18–21 Nov: no Beočin rows",
+   "status": "skipped",
+   "reason": "nothing planned"
+  },
+  {
+   "key": "elektro:2026-11-19..22:Beocin",
+   "date": "2026-11-19",
+   "seen": "2026-11-19",
+   "title": "Planned power cuts 19–22 Nov: no Beočin rows found in secondary sources",
+   "status": "skipped",
+   "reason": "official elektrodistribucija.rs pages not readable this run (fetch permission prompt unanswered); 021.rs servisne informacije and mojnovisad.com (outages up to 19 Nov) list nothing for Beočin/Rakovac"
+  },
+  {
+   "key": "https://www.hidmet.gov.rs/ciril/upozorenja/index.php#2026-11-19",
+   "date": "2026-11-19",
+   "seen": "2026-11-19",
+   "title": "RHMZ red alert for Vojvodina (Srem, Bačka): storm/hurricane gusts 80–110 km/h on the evening of 19 Nov",
+   "status": "published",
+   "published": "2026-11-19",
+   "commit": "308f09c",
+   "draft": "draft/2026-11-19-storm-wind-warning",
+   "url": "https://rakovac.rs/ru/news/2026-11-19-storm-wind-warning/",
+   "also": [
+    "https://www.hidmet.gov.rs/ciril/upozorenja/najava.php",
+    "https://www.021.rs/novi-sad/vesti/461842/cela-vojvodina-u-crvenom-meteo-alarmu-upozorenje-na-orkanski-vetar-i-obilne-pljuskove",
+    "https://sremska.tv/2026/11/19/rhmz-se-hitno-oglasio-stigle-i-sms-poruke/",
+    "https://insajder.net/prenosimo/rhmz-i-mup-upozoravaju-na-olujni-vetar-preporuka-da-se-ne-krece-na-put-i-da-se-zastiti-imovina"
+   ],
+   "note": "suggested by owner in chat; published at his request"
+  },
+  {
+   "key": "https://www.danas.rs/vesti/drustvo/meteorolog-slobodan-sovilj-rhmz-vetar-oluja/",
+   "date": "2026-11-19",
+   "seen": "2026-11-19",
+   "title": "RHMZ meteorologist: strongest gusts 21:00–midnight, wind weakens overnight (addendum to storm news on rakovac/vajska/provala)",
+   "status": "published",
+   "draft": "draft/2026-11-19-storm-update-timing (rakovac.rs, vajska.rs, provala.rs)",
+   "published": "2026-11-19"
+  },
+  {
+   "key": "https://www.b92.net/lokal/novi-sad/drustvo/286408/novi-sad-na-udaru-orkanskog-vetra-gradjanima-upuceno-ozbiljno-upozorenje-sve-sluzbe-u-pripravnosti/vest",
+   "date": "2026-11-19",
+   "seen": "2026-11-19",
+   "title": "Novi Sad emergency staff convened, services on standby",
+   "status": "skipped",
+   "reason": "city of Novi Sad only; advice already in the storm news"
+  },
+  {
+   "key": "elektro:2026-11-20..23:Beocin",
+   "date": "2026-11-19",
+   "seen": "2026-11-19",
+   "title": "Planned power cuts 20–23 Nov: no Beočin rows found in secondary sources",
+   "status": "skipped",
+   "reason": "official elektrodistribucija.rs pages not readable (fetch permission prompt unanswered); 021.rs (Novi Sad, Sremska Kamenica 20 Nov) and sremskenovine.co.rs (20 Nov) list nothing for Beočin/Rakovac"
+  },
+  {
+   "key": "https://www.novosti.rs/drustvo/vesti/1672846/hitna-sednica-novom-sadu-zbog-orkanskog-vetra-sve-sluzbe-nogama-skole-obustavljaju-nastavu-grad-izdao-vazno-upozorenje-gradjanima",
+   "date": "2026-11-19",
+   "seen": "2026-11-19",
+   "title": "Novi Sad schools cancel afternoon classes because of the storm",
+   "status": "skipped",
+   "reason": "Novi Sad only; no report of Beočin schools cancelling; storm already covered"
+  },
+  {
+   "key": "elektro:2026-11-20..23:Beocin#run2",
+   "date": "2026-11-20",
+   "seen": "2026-11-20",
+   "title": "Planned power cuts 20–23 Nov: official pages not readable; WebSearch shows nothing for Beočin/Rakovac",
+   "status": "skipped",
+   "reason": "elektrodistribucija.rs, beocin.rs, beocinuzivo.rs, nsuzivo.rs: WebFetch permission prompt unanswered (unattended run); searches found only Belgrade/Novi Sad outage lists"
+  },
+  {
+   "key": "elektro:2026-11-21..24:Beocin+Bac",
+   "date": "2026-11-20",
+   "seen": "2026-11-20",
+   "site": "rakovac.rs, vajska.rs",
+   "title": "Planned power cuts 21–24 Nov: official ED pages (NoviSad/Sombor Dan_0–3) not readable; dnevnik.rs lists only Banoštor (Andrevlje) 21.11 12:00–13:30",
+   "status": "skipped",
+   "reason": "nothing for Rakovac or Vajska in secondary sources; Banoštor/Andrevlje is outside Rakovac (summary only). Official pages: WebFetch permission prompt unanswered",
+   "also": [
+    "https://www.dnevnik.rs/novi-sad/servisne-informacije/iskljucenja-struje-za-20-21-22-novembar-2026-11-19"
+   ]
+  },
+  {
+   "key": "https://vojvodjanskireporter.rs/nevreme-zahvatilo-vojvodinu-jak-vetar-ostetio-objekte-obarao-drvece-i-otezao-saobracaj/",
+   "date": "2026-11-20",
+   "seen": "2026-11-20",
+   "site": "rakovac.rs, vajska.rs, provala.rs",
+   "title": "Storm 19 Nov aftermath across Vojvodina (Novi Sad, Apatin, Sremska Mitrovica…)",
+   "status": "skipped",
+   "reason": "no damage reported for Beočin/Bač municipalities; storm already covered on all three sites"
+  },
+  {
+   "key": "https://www.b92.net/info/drustvo/286617/vremenska-prognoza-za-narednu-nedelju/vest",
+   "date": "2026-11-20",
+   "seen": "2026-11-20",
+   "site": "rakovac.rs, vajska.rs, provala.rs",
+   "title": "Forecast 21–23 Nov: rain, snow in mountains Monday; no RHMZ orange/red warning",
+   "status": "skipped",
+   "reason": "no warning level; ordinary forecast"
+  },
+  {
+   "key": "https://www.beocin.rs/sr/?id=2572",
+   "date": "2026-11-20",
+   "seen": "2026-11-21",
+   "title": "Završeni radovi na asfaltiranju puta i izgradnji parkinga kod Doma zdravlja u Beočinu",
+   "status": "skipped",
+   "reason": "completed works report (municipal PR), not Rakovac; can be proposed if owner wants"
+  },
+  {
+   "key": "https://www.beocin.rs/sr/?id=2571",
+   "date": "2026-11-19",
+   "seen": "2026-11-21",
+   "title": "Vanredno zasedanje Štaba za vanredne situacije opštine Beočin (storm)",
+   "status": "skipped",
+   "reason": "storm already covered; no new measures for residents"
+  },
+  {
+   "key": "elektro:2026-11-21..24:Beocin+Bac#run2",
+   "date": "2026-11-21",
+   "seen": "2026-11-21",
+   "site": "rakovac.rs, vajska.rs",
+   "title": "Planned power cuts 21–24 Nov: official ED pages not readable; secondary lists for 23 Nov show nothing for Beočin/Bač",
+   "status": "skipped",
+   "reason": "elektrodistribucija.rs NoviSad/Sombor Dan_0–3: WebFetch permission prompt unanswered; sremskenovine.co.rs, nsuzivo.rs, dnevnik (via naslovi.net) for 23.11 list only Laćarak, Berkasovo, Novi Sad, Kisač, Budisava",
+   "also": [
+    "https://www.sremskenovine.co.rs/2026/11/najava-iskljucenja-struje-za-ponedeljak-23-novembar/",
+    "https://nsuzivo.rs/servisne-informacije/iskljucenja-struje-za-ponedeljak-23-novembar/"
+   ]
+  },
+  {
+   "key": "run:2026-11-21-evening",
+   "date": "2026-11-21",
+   "seen": "2026-11-21",
+   "site": "rakovac.rs, vajska.rs, provala.rs",
+   "title": "Evening run 21 Nov: nothing new",
+   "status": "skipped",
+   "reason": "WebSearch only (no WebFetch tool in session); no new items for Rakovac/Beočin, Vajska/Bač, Provala; no RHMZ orange/red warning found; ED power-cut pages NoviSad/Sombor not read; secondary lists for 22–24 Nov show nothing for Beočin/Bač; Facebook not checked (no browser)"
+  },
+  {
+   "key": "run:2026-11-22-morning",
+   "date": "2026-11-22",
+   "seen": "2026-11-22",
+   "site": "rakovac.rs, vajska.rs, provala.rs",
+   "title": "Morning run 22 Nov: nothing new",
+   "status": "skipped",
+   "reason": "WebSearch: no new items for Rakovac/Beočin, Vajska/Bač, Provala; no RHMZ orange/red warning found for 22–29 Nov; WebFetch (via agent) of elektrodistribucija.rs NoviSad/Sombor Dan_0–3, beocin.rs, bac.rs: permission prompt unanswered; happytv weekly forecast: client error; Facebook not checked (no browser)"
+  },
+  {
+   "key": "run:2026-11-22-evening",
+   "date": "2026-11-22",
+   "seen": "2026-11-22",
+   "site": "rakovac.rs, vajska.rs, provala.rs",
+   "title": "Evening run 22 Nov: nothing new",
+   "status": "skipped",
+   "reason": "WebSearch: no new items for Rakovac/Beočin, Vajska/Bač, Provala; no RHMZ orange/red warning found (only 19 Nov storm, already covered); javljamo.rs summary (source EDS) shows no announced outages for Beočin or Bač 22–25 Nov; javljamo.rs/struja/beocin and /bac, elektrodistribucija.rs ED pages not read (fetch permission prompt unanswered); Facebook not checked (no browser)"
+  }
+ ]
 }
