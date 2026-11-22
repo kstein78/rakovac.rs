@@ -199,6 +199,15 @@
    "title": "Evening run 21 Nov: nothing new",
    "status": "skipped",
    "reason": "WebSearch only (no WebFetch tool in session); no new items for Rakovac/Beočin, Vajska/Bač, Provala; no RHMZ orange/red warning found; ED power-cut pages NoviSad/Sombor not read; secondary lists for 22–24 Nov show nothing for Beočin/Bač; Facebook not checked (no browser)"
+  },
+  {
+   "key": "run:2026-11-22-morning",
+   "date": "2026-11-22",
+   "seen": "2026-11-22",
+   "site": "rakovac.rs, vajska.rs, provala.rs",
+   "title": "Morning run 22 Nov: nothing new",
+   "status": "skipped",
+   "reason": "WebSearch: no new items for Rakovac/Beočin, Vajska/Bač, Provala; no RHMZ orange/red warning found for 22–29 Nov; WebFetch (via agent) of elektrodistribucija.rs NoviSad/Sombor Dan_0–3, beocin.rs, bac.rs: permission prompt unanswered; happytv weekly forecast: client error; Facebook not checked (no browser)"
   }
  ]
 }
