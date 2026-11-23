@@ -292,6 +292,13 @@
       "date": "2026-11-23",
       "status": "skipped",
       "title": "Evening run 23 Nov: nothing new"
+    },
+    {
+      "key": "elektro:2026-11-23..26:Beocin+Bac#evening-rerun",
+      "site": "rakovac.rs, vajska.rs",
+      "date": "2026-11-23",
+      "status": "skipped",
+      "title": "Re-run at owner's request: NoviSad Dan_0–3 read (23–26 Nov) — no Beočin and no Bač rows (Dan_2, Dan_3 tables empty); Sombor_Dan_* pages return 4xx — Sombor branch is listed on the NoviSad pages"
     }
   ]
 }
