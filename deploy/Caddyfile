@@ -223,3 +223,26 @@ stein.today {
 www.stein.today {
 	redir https://stein.today{uri} permanent
 }
+
+# stein-1.com (old personal site on Tilda) → stein.today CV, keeping the language. DNS of stein-1.com must point here.
+stein-1.com, www.stein-1.com {
+	@s1en path /en /en/*
+	@s1de path /de /de/*
+	@s1rs path /rs /rs/*
+	@s1ru path /ru /ru/*
+	handle @s1en {
+		redir https://stein.today/en/cv/ 301
+	}
+	handle @s1de {
+		redir https://stein.today/de/cv/ 301
+	}
+	handle @s1rs {
+		redir https://stein.today/sr/cv/ 301
+	}
+	handle @s1ru {
+		redir https://stein.today/ru/cv/ 301
+	}
+	handle {
+		redir https://stein.today/en/cv/ 301
+	}
+}
