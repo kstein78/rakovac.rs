@@ -271,6 +271,27 @@
       "title": "Re-run 23 Nov at owner's request: nothing to propose",
       "status": "skipped",
       "reason": "WebFetch worked with owner present: beocin.rs, beocinuzivo.rs, bac.rs (newest 02.11), hidmet (no met warnings), ED NoviSad. Not readable: ED Sombor (client_error), bac.rs/javni-pozivi and 025.rs (verification interstitial). Facebook: no browser tools in cloud session."
+    },
+    {
+      "key": "elektro:2026-11-24..26:Beocin+Bac#evening",
+      "site": "rakovac.rs, vajska.rs",
+      "date": "2026-11-23",
+      "status": "skipped",
+      "title": "Power cuts: ED pages (NoviSad Dan_1–3, Sombor Dan_0–2) not fetchable (permission timeout); mojnovisad list for 24 Nov has no Beočin/Bač rows"
+    },
+    {
+      "key": "https://beocinuzivo.rs/sport/aleksandar-slivnjak-bronza-balkansko-prvenstvo-zadar/",
+      "site": "rakovac.rs",
+      "date": "2026-11-22",
+      "status": "skipped",
+      "title": "Aleksandar Slivnjak iz Beočina osvojio bronzu u Zadru (sport, no direct impact on residents)"
+    },
+    {
+      "key": "run:2026-11-23-evening",
+      "site": "rakovac.rs, vajska.rs, provala.rs",
+      "date": "2026-11-23",
+      "status": "skipped",
+      "title": "Evening run 23 Nov: nothing new"
     }
   ]
 }
