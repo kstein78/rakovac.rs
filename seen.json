@@ -226,6 +226,51 @@
       "title": "Morning run 23 Nov: nothing new",
       "status": "skipped",
       "reason": "WebSearch: no new items for Rakovac/Beočin, Vajska/Bač, Provala; no RHMZ orange/red warning found (23 Nov forecast: cold, rain, snow only in mountains). WebFetch via agent: elektrodistribucija.rs NoviSad/Sombor Dan_0-3, beocin.rs, beocinuzivo.rs, bac.rs, hidmet.gov.rs — permission prompt unanswered; 24sedam.rs server error. 021.rs servisne informacije (newest 21 Nov) — only Banoštor 21 Nov (past, already in summary). Facebook not checked (no browser)."
+    },
+    {
+      "key": "elektro:2026-11-23..26:Beocin+Bac",
+      "date": "2026-11-23",
+      "seen": "2026-11-23",
+      "site": "rakovac.rs, vajska.rs",
+      "title": "Planned power cuts 23–26 Nov: NoviSad Dan_0–3 read — no Beočin rows (Dan_3 empty); Sombor Dan_0–3 client_error",
+      "status": "skipped",
+      "reason": "nothing for Beočin; Bač not on NoviSad pages; Sombor pages and 025.rs (verification interstitial) unreadable, so Vajska unverified"
+    },
+    {
+      "key": "https://beocinuzivo.rs/vesti/beocinska-hronika/odron-u-ulici-nikole-tesle-u-beocinu/",
+      "date": "2026-11-21",
+      "seen": "2026-11-23",
+      "site": "rakovac.rs",
+      "title": "Odron u Ulici Nikole Tesle u Beočinu (after heavy rain)",
+      "status": "skipped",
+      "reason": "Beočin town, one private property; not Rakovac; no road closure announced"
+    },
+    {
+      "key": "https://beocinuzivo.rs/servisne-informacije/zavrseni-radovi-kod-doma-zdravlja-u-beocinu/",
+      "date": "2026-11-22",
+      "seen": "2026-11-23",
+      "site": "rakovac.rs",
+      "title": "Završeni radovi kod Doma zdravlja u Beočinu: 18 novih parking mesta (same as beocin.rs id=2572)",
+      "status": "skipped",
+      "reason": "completed-works PR, already skipped 21 Nov; can propose if owner wants"
+    },
+    {
+      "key": "https://www.hidmet.gov.rs/ciril/upozorenja/index.php#2026-11-23-hydro",
+      "date": "2026-11-20",
+      "seen": "2026-11-23",
+      "site": "vajska.rs",
+      "title": "RHMZ hydro notice: Danube Bezdan–Novi Sad below low navigation levels (20.11 09:39 – 24.11 09:39)",
+      "status": "skipped",
+      "reason": "no meteorological warning; low water affects shipping, not residents directly; can propose if owner wants"
+    },
+    {
+      "key": "run:2026-11-23-rerun",
+      "date": "2026-11-23",
+      "seen": "2026-11-23",
+      "site": "rakovac.rs, vajska.rs, provala.rs",
+      "title": "Re-run 23 Nov at owner's request: nothing to propose",
+      "status": "skipped",
+      "reason": "WebFetch worked with owner present: beocin.rs, beocinuzivo.rs, bac.rs (newest 02.11), hidmet (no met warnings), ED NoviSad. Not readable: ED Sombor (client_error), bac.rs/javni-pozivi and 025.rs (verification interstitial). Facebook: no browser tools in cloud session."
     }
   ]
 }
