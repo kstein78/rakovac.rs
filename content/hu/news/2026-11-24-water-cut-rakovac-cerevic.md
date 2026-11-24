@@ -16,4 +16,4 @@ A **JKP Beočin** közüzemi vállalat november 24-én a Facebook-oldalán köz�
 
 Az Elektrodistribucija november 26-ra szóló tervezett áramszüneti listájában november 24-én reggel, amikor megnéztük, még nem volt sor Beočin községre. Ha megjelennek az időpontok és az utcák, itt kiegészítjük.
 
-Források: JKP Beočin (Facebook, 2026. november 24.), a [Beočin Uživo](https://beocinuzivo.rs/servisne-informacije/moguc-prekid-vodosnabdevanja-od-rakovca-do-cerevica-26-novembra/) közlése alapján; [Elektrodistribucija Srbije, tervezett kikapcsolások](https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_2_Iskljucenja.htm).
+Források: [JKP Beočin](https://www.facebook.com/profile.php?id=100095155881008) (Facebook, 2026. november 24.), a [Beočin Uživo](https://beocinuzivo.rs/servisne-informacije/moguc-prekid-vodosnabdevanja-od-rakovca-do-cerevica-26-novembra/) közlése alapján; [Elektrodistribucija Srbije, tervezett kikapcsolások](https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_2_Iskljucenja.htm).

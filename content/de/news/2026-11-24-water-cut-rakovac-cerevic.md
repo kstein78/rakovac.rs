@@ -16,4 +16,4 @@ Das kommunale Versorgungsunternehmen **JKP Beočin** hat am 24. November auf sei
 
 In der Liste der geplanten Stromabschaltungen von Elektrodistribucija für den 26. November standen bei unserer Prüfung am Morgen des 24. November noch keine Einträge für die Gemeinde Beočin. Erscheinen Uhrzeiten und Straßen, ergänzen wir sie hier.
 
-Quellen: JKP Beočin (Facebook, 24. November 2026), über [Beočin Uživo](https://beocinuzivo.rs/servisne-informacije/moguc-prekid-vodosnabdevanja-od-rakovca-do-cerevica-26-novembra/); [Elektrodistribucija Srbije, geplante Abschaltungen](https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_2_Iskljucenja.htm).
+Quellen: [JKP Beočin](https://www.facebook.com/profile.php?id=100095155881008) (Facebook, 24. November 2026), über [Beočin Uživo](https://beocinuzivo.rs/servisne-informacije/moguc-prekid-vodosnabdevanja-od-rakovca-do-cerevica-26-novembra/); [Elektrodistribucija Srbije, geplante Abschaltungen](https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_2_Iskljucenja.htm).

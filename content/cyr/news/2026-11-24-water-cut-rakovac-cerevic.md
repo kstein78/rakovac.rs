@@ -17,4 +17,4 @@ lead: ЈКП Беочин упозорава да у четвртак, 26. но�
 
 У списку планираних искључења Електродистрибуције за 26. новембар, када смо га проверили 24. новембра ујутру, још није било редова за општину Беочин. Ако се појаве време и улице, додаћемо их овде.
 
-Извори: ЈКП Беочин (Facebook, 24. новембар 2026), преко [Беочин Уживо](https://beocinuzivo.rs/servisne-informacije/moguc-prekid-vodosnabdevanja-od-rakovca-do-cerevica-26-novembra/); [Електродистрибуција Србије, планирана искључења](https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_2_Iskljucenja.htm).
+Извори: [ЈКП Беочин](https://www.facebook.com/profile.php?id=100095155881008) (Facebook, 24. новембар 2026), преко [Беочин Уживо](https://beocinuzivo.rs/servisne-informacije/moguc-prekid-vodosnabdevanja-od-rakovca-do-cerevica-26-novembra/); [Електродистрибуција Србије, планирана искључења](https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_2_Iskljucenja.htm).
