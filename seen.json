@@ -390,6 +390,15 @@
       "title": "Run 24 Nov (12:10): nothing new",
       "status": "skipped",
       "reason": "WebFetch via agent blocked (permission not answered, unattended): elektrodistribucija.rs NoviSad Dan_0–3, beocinuzivo.rs not read; WebSearch (Beočin/Rakovac, Vajska/Bač/Provala, RHMZ warnings, power cuts 25–27 Nov) shows nothing new since the 10:30 manual run; Facebook not checked (no browser in cloud run)"
+    },
+    {
+      "key": "run:2026-11-24-1310",
+      "site": "rakovac.rs, vajska.rs, provala.rs",
+      "date": "2026-11-24",
+      "seen": "2026-11-24",
+      "title": "Run 24 Nov (13:10): nothing new",
+      "status": "skipped",
+      "reason": "WebFetch via agent blocked (permission not answered, unattended): elektrodistribucija.rs NoviSad Dan_0–3 not read; WebSearch (Beočin/Rakovac, Vajska/Bač/Provala, RHMZ warnings, power cuts 25–27 Nov, Beočin smell follow-up) — only older items (021.rs 445099 cement-plant smell, 446432/450461 new well at 'Dunav' source — IDs well below 461842 of 19 Nov, older than 3 days); Facebook not checked (no browser in cloud run)"
     }
   ]
 }
