@@ -51,6 +51,7 @@ CARDS = {  # name -> glyphs left to right (the middle one is drawn larger)
  'shops': ['bread', 'basket', 'scales'],
  'student-scholarships': ['book', 'gradcap', 'coins'],
  'storm-wind': ['tree', 'wind', 'lantern'],
+ 'water-cut': ['lantern', 'fountain', 'drops'],
 }
 
 def svg(glyphs, bg=('#2b4a3c', '#1d382c'), ink='#f2ead8'):

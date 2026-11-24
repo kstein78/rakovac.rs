@@ -3158,6 +3158,17 @@ card-storm-wind:
   alt_cyr: "Цртежи дрвета, налета ветра и фењера"
   alt_de: "Strichzeichnungen eines Baums, von Windböen und einer Laterne"
   alt_hu: "Vonalrajzok: fa, széllökések és egy lámpás"
+card-water-cut:
+  src: "img/card-water-cut.jpg"
+  author: "rakovac.rs"
+  license: "illustration, © rakovac.rs"
+  alt: "Line drawings of a lantern, a village water pump house and water drops"
+  temp: false
+  alt_ru: "Рисунки фонаря, сельской водокачки и капель воды"
+  alt_sr: "Crteži fenjera, seoske pumpne stanice i kapi vode"
+  alt_cyr: "Цртежи фењера, сеоске пумпне станице и капи воде"
+  alt_de: "Strichzeichnungen einer Laterne, eines dörflichen Pumpenhauses und von Wassertropfen"
+  alt_hu: "Vonalrajzok: lámpás, falusi szivattyúház és vízcseppek"
 card-student-scholarships:
   src: "img/card-student-scholarships.jpg"
   author: "rakovac.rs"
