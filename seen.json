@@ -408,6 +408,24 @@
       "title": "Run 24 Nov (18:10): nothing new",
       "status": "skipped",
       "reason": "WebFetch via agent blocked (permission not answered, unattended): elektrodistribucija.rs NoviSad Dan_0–3, beocinuzivo.rs, beocin.rs not read; WebSearch (Beočin/Rakovac, Vajska/Bač/Provala, RHMZ orange/red, power cuts 25–26 Nov) shows nothing new — no new RHMZ warning after 19 Nov; Facebook not checked (no browser in cloud run)"
+    },
+    {
+      "key": "run:2026-11-24-1830-manual",
+      "site": "rakovac.rs, vajska.rs, provala.rs",
+      "date": "2026-11-24",
+      "seen": "2026-11-24",
+      "title": "Manual re-run 24 Nov 18:30 (owner present): official pages read",
+      "status": "skipped",
+      "reason": "Read OK: ED NoviSad Dan_0–3 (24–27.11): no Beočin rows; Bač only Selenča 25.11 09–12 (already logged); hidmet: no met warnings, Danube Bezdan–Novi Sad below low navigation levels 24.11 08:27–28.11 08:27; beocin.rs newest 20.11; beocinuzivo.rs read. Facebook not checked (computer not connected to session)."
+    },
+    {
+      "key": "https://beocinuzivo.rs/vesti/beocinska-hronika/zagadenje-vazduha-u-beocinu-poziv-gradjanima-u-viber-grupu/",
+      "site": "rakovac.rs",
+      "date": "2026-11-24",
+      "seen": "2026-11-24",
+      "title": "Zagađenje vazduha u Beočinu: poziv građanima da se pridruže Viber grupi (citizens incl. Rakovac; FOI requests to Holcim 23.11)",
+      "status": "asked",
+      "reason": "citizen initiative, initiators unnamed, no official response; asked owner whether to draft (maybe same as Viber «Alarm za vazduh» listed on site)"
     }
   ]
 }
