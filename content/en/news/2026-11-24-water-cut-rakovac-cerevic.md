@@ -2,6 +2,7 @@
 title: 'Water may be off from Rakovac to Čerević on Thursday, 26 November, 8:00–12:00'
 date: '2026-11-24T10:40:00+01:00'
 feed: local
+top: true
 cover: card-water-cut
 lead: 'JKP Beočin warns that on Thursday, 26 November 2026, from 8:00 to 12:00, the water supply may be interrupted in the villages from Rakovac to Čerević because of an announced power cut. Residents are asked to store enough water for basic household needs in advance.'
 ---

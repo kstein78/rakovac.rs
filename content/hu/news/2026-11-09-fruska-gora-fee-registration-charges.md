@@ -2,7 +2,6 @@
 title: 'Fruška Gora-díj: regisztrálniuk kell a mentességet élvezőknek, és honnan jönnek a terhelések?'
 date: '2026-11-09T09:55:00+01:00'
 feed: local
-top: true
 cover: iriski-venac-info-centre
 lead: 'Telegram-csatornák szerint a mentes községek lakóinál is megjelennek terhelések, és a mentességet kérelemmel kell igényelni. Hivatalosan nem kell kérelem, és közzétett esetet nem találtunk; saját rakovaci autónk kétszer haladt át a parkon, terhelés nincs. Postán semmit sem küldenek: a terhelések csak a portálon látszanak, rendszám alapján.'
 related: [useful/fruska-gora-park-fee, news/2026-11-05-fruska-gora-residents-exempt]

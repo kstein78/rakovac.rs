@@ -2,7 +2,6 @@
 title: 'Naknada za Frušku goru: da li oslobođeni moraju da se registruju i odakle stižu zaduženja'
 date: '2026-11-09T09:55:00+01:00'
 feed: local
-top: true
 cover: iriski-venac-info-centre
 lead: 'Na Telegram kanalima piše da stanovnicima oslobođenih opština stižu zaduženja i da oslobođenje mora da se traži zahtevom. Zvanično zahtev nije potreban, a objavljen slučaj zaduženja stanovnika nismo našli; naš automobil iz Rakovca dva puta je prošao kroz park i nema zaduženja. Poštom se ništa ne šalje: zaduženja se vide samo na portalu, po registarskoj oznaci.'
 related: [useful/fruska-gora-park-fee, news/2026-11-05-fruska-gora-residents-exempt]

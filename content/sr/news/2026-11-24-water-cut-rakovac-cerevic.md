@@ -2,6 +2,7 @@
 title: 'Moguć prekid vode od Rakovca do Čerevića u četvrtak, 26. novembra, od 8 do 12 časova'
 date: '2026-11-24T10:40:00+01:00'
 feed: local
+top: true
 cover: card-water-cut
 lead: 'JKP Beočin upozorava da u četvrtak, 26. novembra 2026, od 8 do 12 časova može doći do prekida vodosnabdevanja u naseljima od Rakovca do Čerevića, zbog najavljenog isključenja struje. Građani se mole da na vreme obezbede dovoljno vode za osnovne potrebe domaćinstva.'
 ---

@@ -2,7 +2,6 @@
 title: 'Fruška Gora fee: do exempt residents have to register, and where do charges come from?'
 date: '2026-11-09T09:55:00+01:00'
 feed: local
-top: true
 cover: iriski-venac-info-centre
 lead: 'Telegram channels write that residents of the exempt municipalities are being charged and must apply for the exemption. Officially no application is needed, and we found no published case of a resident being charged; our own car from Rakovac drove through twice and has no charges. Nothing is sent by post: charges can only be seen on the portal by number plate.'
 related: [useful/fruska-gora-park-fee, news/2026-11-05-fruska-gora-residents-exempt]

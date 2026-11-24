@@ -2,7 +2,6 @@
 title: 'Gebühr Fruška Gora: Müssen sich Befreite registrieren, und woher kommen die Forderungen?'
 date: '2026-11-09T09:55:00+01:00'
 feed: local
-top: true
 cover: iriski-venac-info-centre
 lead: 'In Telegram-Kanälen heißt es, Bewohner der befreiten Gemeinden bekämen Forderungen und müssten die Befreiung beantragen. Offiziell ist kein Antrag nötig, und einen veröffentlichten Fall haben wir nicht gefunden; unser Auto aus Rakovac fuhr zweimal durch den Park und hat keine Forderungen. Per Post kommt nichts: Forderungen sieht man nur im Portal über das Kennzeichen.'
 related: [useful/fruska-gora-park-fee, news/2026-11-05-fruska-gora-residents-exempt]

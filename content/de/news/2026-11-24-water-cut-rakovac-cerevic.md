@@ -2,6 +2,7 @@
 title: 'Von Rakovac bis Čerević kann am Donnerstag, 26. November, von 8 bis 12 Uhr das Wasser ausfallen'
 date: '2026-11-24T10:40:00+01:00'
 feed: local
+top: true
 cover: card-water-cut
 lead: 'Der Versorger JKP Beočin warnt: Am Donnerstag, 26. November 2026, kann von 8 bis 12 Uhr in den Orten von Rakovac bis Čerević die Wasserversorgung wegen einer angekündigten Stromabschaltung unterbrochen sein. Die Bewohner werden gebeten, rechtzeitig genug Wasser für den Grundbedarf im Haushalt bereitzustellen.'
 ---

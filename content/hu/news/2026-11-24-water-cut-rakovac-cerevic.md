@@ -2,6 +2,7 @@
 title: 'Rakovactól Čerevićig csütörtökön, november 26-án 8 és 12 óra között vízhiány lehet'
 date: '2026-11-24T10:40:00+01:00'
 feed: local
+top: true
 cover: card-water-cut
 lead: 'A JKP Beočin figyelmeztet: 2026. november 26-án, csütörtökön 8 és 12 óra között Rakovactól Čerevićig a településeken szünetelhet a vízszolgáltatás egy bejelentett áramszünet miatt. A lakókat arra kérik, hogy időben tegyenek félre elegendő vizet a háztartás alapvető szükségleteire.'
 ---
