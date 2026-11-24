@@ -344,6 +344,43 @@
       "title": "Manual run 24 Nov (10:15, owner asked): nothing new",
       "status": "skipped",
       "reason": "WebFetch via agent: permission prompt not answered in time — elektrodistribucija.rs NoviSad Dan_0–3, beocin.rs, bac.rs, hidmet.gov.rs, beocinuzivo.rs not read. WebSearch (Beočin/Rakovac, Bač/Vajska/Provala, RHMZ, power cuts 25–27 Nov): nothing new; water cuts 24 Nov only Novi Sad centre and Begeč (City of Novi Sad, not Beočin). Facebook not checked (no browser)."
+    },
+    {
+      "key": "https://beocinuzivo.rs/servisne-informacije/moguc-prekid-vodosnabdevanja-od-rakovca-do-cerevica-26-novembra/",
+      "site": "rakovac.rs",
+      "date": "2026-11-24",
+      "seen": "2026-11-24",
+      "title": "Moguć prekid vodosnabdevanja od Rakovca do Čerevića u četvrtak 26.11, 8–12h (JKP Beočin, zbog najavljenog isključenja struje)",
+      "status": "proposed",
+      "draft": "draft/2026-11-24-water-rakovac-cerevic",
+      "note": "original: JKP Beočin Facebook 24.11 (no link in article); ED NoviSad Dan_0–3 read 24.11 ~10:30 — no Beočin rows for 26.11 yet (Dan_2 empty, header shows 25.11)"
+    },
+    {
+      "key": "https://beocinuzivo.rs/vesti/beocinska-hronika/jutros-jak-neprijatan-miris-u-beocinu-ko-ce-utvrditi-uzrok/",
+      "site": "rakovac.rs",
+      "date": "2026-11-24",
+      "seen": "2026-11-24",
+      "title": "Jutros jak neprijatan miris u Beočinu – ko će utvrditi uzrok?",
+      "status": "skipped",
+      "reason": "Beočin town (Svetosavska), no official response, Rakovac not mentioned; propose if cause/measures are announced"
+    },
+    {
+      "key": "elektro:2026-11-25:Bac-Selenca",
+      "site": "vajska.rs",
+      "date": "2026-11-25",
+      "seen": "2026-11-24",
+      "title": "Power cut 25.11 09:00–12:00 Selenča (Proleterska, S. Markovića, I. L. Ribara, M. Tita 3–25)",
+      "status": "skipped",
+      "reason": "Bač municipality but not Vajska — summary only"
+    },
+    {
+      "key": "run:2026-11-24-1030-manual",
+      "site": "rakovac.rs, vajska.rs, provala.rs",
+      "date": "2026-11-24",
+      "seen": "2026-11-24",
+      "title": "Manual re-run 24 Nov (owner present): all official pages read",
+      "status": "skipped",
+      "reason": "Read OK: ED NoviSad Dan_0–3 (no Beočin rows 24–27.11; Bač only Selenča 25.11), beocin.rs (newest 20.11), bac.rs (newest 02.11), hidmet (no met warnings; hydro: Danube Bezdan–Novi Sad below low navigation levels 24.11 08:27–28.11 08:27), beocinuzivo.rs. Facebook not checked (no browser)."
     }
   ]
 }
