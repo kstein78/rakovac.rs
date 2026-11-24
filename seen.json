@@ -317,6 +317,15 @@
       "title": "Morning run 24 Nov (07:15): nothing new",
       "status": "skipped",
       "reason": "WebFetch blocked (permission not answered, unattended): elektrodistribucija.rs NoviSad Dan_0–3, beocin.rs, beocinuzivo.rs, bac.rs not read; WebSearch (Beočin/Rakovac, Vajska/Bač, Provala, RHMZ, power cuts 25–27 Nov) shows nothing new; Facebook not checked (no browser)"
+    },
+    {
+      "key": "run:2026-11-24-0810",
+      "site": "rakovac.rs, vajska.rs, provala.rs",
+      "date": "2026-11-24",
+      "seen": "2026-11-24",
+      "title": "Run 24 Nov (08:10): nothing new",
+      "status": "skipped",
+      "reason": "WebFetch via agent blocked (permission not answered, unattended): elektrodistribucija.rs NoviSad Dan_0–3, beocin.rs, beocinuzivo.rs, bac.rs, hidmet.gov.rs not read; WebSearch (Beočin/Rakovac, Vajska/Bač, Provala, RHMZ, power cuts 25 Nov) shows nothing new — secondary lists only for Belgrade/Zrenjanin; Facebook not checked (no browser)"
     }
   ]
 }
