@@ -10,7 +10,7 @@
 |---|---|---|
 | Плановые отключения света | https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_0_Iskljucenja.htm … `Dan_1`, `Dan_2`, `Dan_3` (сегодня и 3 дня вперёд) | строки с općina **Beočin**; особенно Rakovac / Stari Rakovac / Novi Rakovac / Beočin selo / улицы села. Читать через WebFetch (shell до сайта не достаёт) |
 | Вода, дороги, «servisne informacije» общины | https://www.beocin.rs/sr/?m=a1&nav=vesti (+ «Oglasna tabla», «Javni pozivi» из меню того же сайта) | всё про Rakovac и про всю общину (вода, ремонты дорог, режим движения, конкурсы, субсидии) |
-| Вода (JKP «Beočin») | **главный источник — страница JKP Beočin в Facebook** (со слов Кости, 24.11.2026: анонсы там чаще всего и вернее всего; страница открытая). Сайт jkpbeocin.co.rs заброшен с 2019; пересказы — beocinuzivo.rs (servisne-informacije), beocin.rs, 021.rs | в новости ссылаться на пост JKP, а не только на пересказ; Facebook читается только через браузер Кости |
+| Вода (JKP «Beočin») | **главный источник — страница JKP Beočin в Facebook** https://www.facebook.com/profile.php?id=100095155881008 (со слов Кости, 24.11.2026: анонсы там чаще всего и вернее всего; страница открытая). Сайт jkpbeocin.co.rs заброшен с 2019; пересказы — beocinuzivo.rs (servisne-informacije), beocin.rs, 021.rs | в новости ссылаться на пост JKP, а не только на пересказ; Facebook читается только через браузер Кости |
 | Автобусы GSP (изменения линий 77/78, тарифы) | http://www.gspns.co.rs/vesti (часто недоступен), запасной путь — 021.rs | только то, что касается линий 77, 78 и пригородных тарифов |
 | Национальный парк, плата за въезд | https://npfruskagora.co.rs/ , https://enaplatafruskagora.co.rs/ | изменения правил, цен, закрытия дорог/троп |
 
@@ -81,3 +81,4 @@
 - Если доступ к странице не подтвердился вовремя (прогон без Кости), это не ответ сайта — написать «не открылась», при Косте повторить.
 - Объявления о воде JKP Beočin часто привязаны к отключениям света («zbog najavljenog isključenja struje»), которых ещё нет в списке ED на нужный день — писать про расхождение, не ждать ED (24.11.2026).
 - Главная rakovac.rs: `top: true` — ведущая новость; Костя решает, что в топе и до когда; снятие топа — отдельным коммитом по напоминанию (send_later).
+- Facebook через WebFetch не читается вообще (robots_disallowed, 24.11.2026) — только браузер Кости (Claude in Chrome). Без браузера: искать пересказ поста JKP на beocinuzivo.rs и ссылаться на страницу JKP.
