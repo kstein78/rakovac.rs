@@ -3158,6 +3158,18 @@ card-storm-wind:
   alt_cyr: "Цртежи дрвета, налета ветра и фењера"
   alt_de: "Strichzeichnungen eines Baums, von Windböen und einer Laterne"
   alt_hu: "Vonalrajzok: fa, széllökések és egy lámpás"
+shot-jkp-beocin-2026-11-24:
+  src: "img/shot-jkp-beocin-2026-11-24.jpg"
+  author: "JKP Beočin"
+  page: "https://www.facebook.com/profile.php?id=100095155881008"
+  license: "screenshot of a public post"
+  alt: "Facebook post by JKP Beočin: because of the announced power cut on Thursday, 26 November, from 08:00 to 12:00, the water supply may be interrupted in the villages from Rakovac to Čerević"
+  temp: false
+  alt_ru: "Пост JKP Beočin в Facebook: из-за объявленного отключения электричества в четверг, 26 ноября, с 08:00 до 12:00 возможен перерыв в подаче воды в сёлах от Раковца до Черевича"
+  alt_sr: "Objava JKP Beočin na Facebooku: zbog najavljenog isključenja električne energije u četvrtak, 26. novembra, od 08:00 do 12:00, moguć je prekid u vodosnabdevanju u naseljima od Rakovca do Čerevića"
+  alt_cyr: "Објава ЈКП Беочин на Фацебооку: због најављеног искључења електричне енергије у четвртак, 26. новембра, од 08:00 до 12:00, могућ је прекид у водоснабдевању у насељима од Раковца до Черевића"
+  alt_de: "Facebook-Beitrag von JKP Beočin: Wegen der angekündigten Stromabschaltung am Donnerstag, 26. November, von 08:00 bis 12:00 Uhr kann die Wasserversorgung in den Orten von Rakovac bis Čerević unterbrochen sein"
+  alt_hu: "A JKP Beočin Facebook-bejegyzése: a november 26-ra, csütörtökre 08:00 és 12:00 közé bejelentett áramszünet miatt Rakovactól Čerevićig a településeken szünetelhet a vízszolgáltatás"
 card-water-cut:
   src: "img/card-water-cut.jpg"
   author: "rakovac.rs"

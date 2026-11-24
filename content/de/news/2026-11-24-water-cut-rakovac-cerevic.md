@@ -4,7 +4,7 @@ date: '2026-11-24T10:40:00+01:00'
 feed: local
 top: true
 cover: card-water-cut
-lead: 'Der Versorger JKP Beočin warnt: Am Donnerstag, 26. November 2026, kann von 8 bis 12 Uhr in den Orten von Rakovac bis Čerević die Wasserversorgung wegen einer angekündigten Stromabschaltung unterbrochen sein. Die Bewohner werden gebeten, rechtzeitig genug Wasser für den Grundbedarf im Haushalt bereitzustellen.'
+lead: 'Der Versorger JKP Beočin warnt: Am Donnerstag, 26. November 2026, kann von 8 bis 12 Uhr in den Orten von Rakovac bis Čerević die Wasserversorgung wegen einer angekündigten Stromabschaltung unterbrochen sein. Es empfiehlt sich, rechtzeitig Wasser für den Grundbedarf im Haushalt bereitzustellen.'
 ---
 
 Das kommunale Versorgungsunternehmen **JKP Beočin** hat am 24. November auf seiner Facebook-Seite mitgeteilt, dass die Wasserversorgung am **Donnerstag, 26. November 2026, von 8 bis 12 Uhr** in den Orten **von Rakovac bis Čerević** unterbrochen sein kann. Grund ist eine angekündigte Stromabschaltung: Ohne Strom können die Pumpen den Wasserfluss nicht halten. Straßen werden nicht genannt, daher sollte ganz Rakovac damit rechnen.
@@ -15,5 +15,7 @@ Das kommunale Versorgungsunternehmen **JKP Beočin** hat am 24. November auf sei
 - Wenn das Wasser wieder fließt, kann es kurz trüb sein: Lassen Sie es ablaufen, bevor Sie es trinken.
 
 In der Liste der geplanten Stromabschaltungen von Elektrodistribucija für den 26. November standen bei unserer Prüfung am Morgen des 24. November noch keine Einträge für die Gemeinde Beočin. Erscheinen Uhrzeiten und Straßen, ergänzen wir sie hier.
+
+{{< photo key="shot-jkp-beocin-2026-11-24" caption="Screenshot: Facebook-Seite von JKP Beočin, 24. November 2026" >}}
 
 Quellen: [JKP Beočin](https://www.facebook.com/profile.php?id=100095155881008) (Facebook, 24. November 2026), über [Beočin Uživo](https://beocinuzivo.rs/servisne-informacije/moguc-prekid-vodosnabdevanja-od-rakovca-do-cerevica-26-novembra/); [Elektrodistribucija Srbije, geplante Abschaltungen](https://elektrodistribucija.rs/planirana-iskljucenja-srbija/NoviSad_Dan_2_Iskljucenja.htm).
