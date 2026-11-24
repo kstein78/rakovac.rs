@@ -351,9 +351,10 @@
       "date": "2026-11-24",
       "seen": "2026-11-24",
       "title": "Moguć prekid vodosnabdevanja od Rakovca do Čerevića u četvrtak 26.11, 8–12h (JKP Beočin, zbog najavljenog isključenja struje)",
-      "status": "proposed",
+      "status": "published",
       "draft": "draft/2026-11-24-water-rakovac-cerevic",
-      "note": "original: JKP Beočin Facebook 24.11 (no link in article); ED NoviSad Dan_0–3 read 24.11 ~10:30 — no Beočin rows for 26.11 yet (Dan_2 empty, header shows 25.11)"
+      "note": "original: JKP Beočin Facebook 24.11 (no link in article); ED NoviSad Dan_0–3 read 24.11 ~10:30 — no Beočin rows for 26.11 yet (Dan_2 empty, header shows 25.11)",
+      "published": "2026-11-24 10:49 (main 681fbc3, top: true until 26.11 12:00 — reminder trig_01KTM3TCWBozLaGMNT4ZtiEg)"
     },
     {
       "key": "https://beocinuzivo.rs/vesti/beocinska-hronika/jutros-jak-neprijatan-miris-u-beocinu-ko-ce-utvrditi-uzrok/",
